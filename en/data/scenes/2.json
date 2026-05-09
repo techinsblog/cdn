@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "id": 2,
+  "title": "厨房的清晨",
+  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/kitchen.webp",
+  "category": "治愈",
+  "gradient": "linear-gradient(135deg, #FFF8DC 0%, #FAEBD7 50%, #FFE4B5 100%)",
+  "sentence": {
+    "en": "The sunlight streams through the kitchen window.",
+    "zh": "阳光透过厨房的窗户照进来。",
+    "highlights": [
+      "sunlight",
+      "streams",
+      "window"
+    ]
+  },
+  "words": [
+    {
+      "id": "sunlight",
+      "text": "sunlight",
+      "zhText": "阳光",
+      "phonetic": "/ˈsʌnlaɪt/",
+      "pos": "n.",
+      "meaning": "阳光",
+      "example": {
+        "en": "The room was filled with warm sunlight.",
+        "zh": "房间里充满了温暖的阳光。"
+      },
+      "synonyms": [
+        "sunshine",
+        "daylight",
+        "rays"
+      ],
+      "position": {
+        "x": 55,
+        "y": 20
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndəʊ/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "Open the window and let fresh air in.",
+        "zh": "打开窗户让新鲜空气进来。"
+      },
+      "synonyms": [
+        "pane",
+        "glass",
+        "opening"
+      ],
+      "position": {
+        "x": 75,
+        "y": 30
+      }
+    },
+    {
+      "id": "kitchen",
+      "text": "kitchen",
+      "zhText": "厨房",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "pos": "n.",
+      "meaning": "厨房",
+      "example": {
+        "en": "She is cooking in the kitchen.",
+        "zh": "她正在厨房做饭。"
+      },
+      "synonyms": [
+        "cookhouse",
+        "galley"
+      ],
+      "position": {
+        "x": 40,
+        "y": 55
+      }
+    },
+    {
+      "id": "stream",
+      "text": "stream",
+      "zhText": "流淌",
+      "phonetic": "/striːm/",
+      "pos": "v.",
+      "meaning": "流淌；涌入",
+      "example": {
+        "en": "Light streamed into the room.",
+        "zh": "光线涌入房间。"
+      },
+      "synonyms": [
+        "flow",
+        "pour",
+        "flood"
+      ],
+      "position": {
+        "x": 25,
+        "y": 40
+      }
+    },
+    {
+      "id": "warm",
+      "text": "warm",
+      "zhText": "温暖",
+      "phonetic": "/wɔːm/",
+      "pos": "adj.",
+      "meaning": "温暖的",
+      "example": {
+        "en": "It feels so warm and cozy here.",
+        "zh": "这里感觉又温暖又舒适。"
+      },
+      "synonyms": [
+        "cozy",
+        "mild",
+        "heated"
+      ],
+      "position": {
+        "x": 60,
+        "y": 70
+      }
+    },
+    {
+      "id": "fresh",
+      "text": "fresh",
+      "zhText": "新鲜",
+      "phonetic": "/freʃ/",
+      "pos": "adj.",
+      "meaning": "新鲜的；清新的",
+      "example": {
+        "en": "The morning air is so fresh.",
+        "zh": "早晨的空气如此清新。"
+      },
+      "synonyms": [
+        "new",
+        "crisp",
+        "pure"
+      ],
+      "position": {
+        "x": 35,
+        "y": 30
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "stream through",
+      "meaning": "透过；穿过"
+    },
+    {
+      "phrase": "stream in",
+      "meaning": "涌入"
+    },
+    {
+      "phrase": "a stream of",
+      "meaning": "一连串的"
+    }
+  ]
+}
