@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "id": 1,
+  "title": "咖啡馆的午后",
+  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/coffee-shop.webp",
+  "category": "日常",
+  "gradient": "linear-gradient(135deg, #8B6914 0%, #D4A574 50%, #F5DEB3 100%)",
+  "sentence": {
+    "en": "I accidentally knocked over my coffee.",
+    "zh": "我不小心把咖啡打翻了。",
+    "highlights": [
+      "knocked",
+      "coffee"
+    ]
+  },
+  "words": [
+    {
+      "id": "coffee",
+      "text": "coffee",
+      "zhText": "咖啡",
+      "phonetic": "/ˈkɒfi/",
+      "pos": "n.",
+      "meaning": "咖啡",
+      "example": {
+        "en": "I love a cup of coffee in the afternoon.",
+        "zh": "我喜欢下午来一杯咖啡。"
+      },
+      "synonyms": [
+        "espresso",
+        "latte",
+        "mocha"
+      ],
+      "position": {
+        "x": 45,
+        "y": 35
+      }
+    },
+    {
+      "id": "knock",
+      "text": "knock",
+      "zhText": "打翻",
+      "phonetic": "/nɒk/",
+      "pos": "v.",
+      "meaning": "敲；碰；打翻",
+      "example": {
+        "en": "Be careful not to knock the glass over.",
+        "zh": "小心别把杯子碰倒了。"
+      },
+      "synonyms": [
+        "hit",
+        "bump",
+        "tip over"
+      ],
+      "position": {
+        "x": 60,
+        "y": 50
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "Put the cup on the table please.",
+        "zh": "请把杯子放在桌上。"
+      },
+      "synonyms": [
+        "desk",
+        "counter",
+        "surface"
+      ],
+      "position": {
+        "x": 30,
+        "y": 65
+      }
+    },
+    {
+      "id": "spill",
+      "text": "spill",
+      "zhText": "洒出",
+      "phonetic": "/spɪl/",
+      "pos": "v.",
+      "meaning": "洒出；溢出",
+      "example": {
+        "en": "I spilled some water on my shirt.",
+        "zh": "我把水洒到衬衫上了。"
+      },
+      "synonyms": [
+        "pour",
+        "overflow",
+        "splash"
+      ],
+      "position": {
+        "x": 70,
+        "y": 40
+      }
+    },
+    {
+      "id": "afternoon",
+      "text": "afternoon",
+      "zhText": "午后",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "pos": "n.",
+      "meaning": "下午；午后",
+      "example": {
+        "en": "What a lovely afternoon!",
+        "zh": "多么美好的午后！"
+      },
+      "synonyms": [
+        "midday",
+        "daytime"
+      ],
+      "position": {
+        "x": 20,
+        "y": 25
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "knock over",
+      "meaning": "打翻；碰倒"
+    },
+    {
+      "phrase": "knock into",
+      "meaning": "撞到；碰上"
+    },
+    {
+      "phrase": "knock on",
+      "meaning": "敲（门）"
+    }
+  ]
+}
