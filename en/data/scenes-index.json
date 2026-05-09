@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "咖啡馆的午后",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/coffee-shop.webp",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #8B6914 0%, #D4A574 50%, #F5DEB3 100%)",
+      "wordCount": 5,
+      "previewWords": "coffee · knock · table"
+    },
+    {
+      "id": 2,
+      "title": "厨房的清晨",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/kitchen.webp",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #FFF8DC 0%, #FAEBD7 50%, #FFE4B5 100%)",
+      "wordCount": 6,
+      "previewWords": "sunlight · window · kitchen"
+    },
+    {
+      "id": 3,
+      "title": "公园散步的黄昏",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/park.webp",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #228B22 0%, #90EE90 40%, #FFD700 100%)",
+      "wordCount": 5,
+      "previewWords": "breeze · leaves · rustle"
+    },
+    {
+      "id": 4,
+      "title": "岗厦地铁站的日常",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/metro-station.webp",
+      "category": "日常出行",
+      "gradient": "linear-gradient(135deg, #4A90E2 0%, #7B9FBC 50%, #A0C4E8 100%)",
+      "wordCount": 5,
+      "previewWords": "metro station · walk · sunny"
+    }
+  ]
+}
