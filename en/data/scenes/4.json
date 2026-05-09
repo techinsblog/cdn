@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "id": 4,
+  "title": "岗厦地铁站的日常",
+  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/metro-station.webp",
+  "category": "日常出行",
+  "gradient": "linear-gradient(135deg, #4A90E2 0%, #7B9FBC 50%, #A0C4E8 100%)",
+  "sentence": {
+    "en": "People are walking in and out of Gangxia Station on a sunny day.",
+    "zh": "晴朗的日子里，人们在岗厦站进出。",
+    "highlights": [
+      "walking",
+      "metro station",
+      "sunny"
+    ]
+  },
+  "words": [
+    {
+      "id": "metro",
+      "text": "metro station",
+      "zhText": "地铁站",
+      "phonetic": "/ˈmetrəʊ ˈsteɪʃn/",
+      "pos": "n.",
+      "meaning": "地铁站",
+      "example": {
+        "en": "I will meet you at the metro station.",
+        "zh": "我会在地铁站和你见面。"
+      },
+      "synonyms": [
+        "subway station",
+        "underground station"
+      ],
+      "position": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "行走；步行",
+      "example": {
+        "en": "We usually walk to the station.",
+        "zh": "我们通常步行去车站。"
+      },
+      "synonyms": [
+        "stroll",
+        "step",
+        "march"
+      ],
+      "position": {
+        "x": 35,
+        "y": 60
+      }
+    },
+    {
+      "id": "sunny",
+      "text": "sunny",
+      "zhText": "晴朗的",
+      "phonetic": "/ˈsʌni/",
+      "pos": "adj.",
+      "meaning": "阳光充足的；晴朗的",
+      "example": {
+        "en": "It is a bright sunny day today.",
+        "zh": "今天是个阳光明媚的日子。"
+      },
+      "synonyms": [
+        "bright",
+        "clear",
+        "sunlit"
+      ],
+      "position": {
+        "x": 40,
+        "y": 10
+      }
+    },
+    {
+      "id": "stair",
+      "text": "stairs",
+      "zhText": "台阶",
+      "phonetic": "/steəz/",
+      "pos": "n.",
+      "meaning": "楼梯；台阶",
+      "example": {
+        "en": "She walked up the stairs to the station entrance.",
+        "zh": "她走上台阶前往车站入口。"
+      },
+      "synonyms": [
+        "steps",
+        "staircase"
+      ],
+      "position": {
+        "x": 50,
+        "y": 65
+      }
+    },
+    {
+      "id": "bollard",
+      "text": "bollard",
+      "zhText": "隔离桩",
+      "phonetic": "/ˈbɒləd/",
+      "pos": "n.",
+      "meaning": "（街道上的）护柱；隔离桩",
+      "example": {
+        "en": "Metal bollards line the sidewalk for safety.",
+        "zh": "人行道上排列着金属隔离桩以保障安全。"
+      },
+      "synonyms": [
+        "barrier post",
+        "traffic post"
+      ],
+      "position": {
+        "x": 45,
+        "y": 85
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk in and out",
+      "meaning": "进进出出；来来往往"
+    },
+    {
+      "phrase": "on a sunny day",
+      "meaning": "在晴朗的一天"
+    },
+    {
+      "phrase": "metro station entrance",
+      "meaning": "地铁站入口"
+    }
+  ]
+}
