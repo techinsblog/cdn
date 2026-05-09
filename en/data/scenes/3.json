@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "id": 3,
+  "title": "公园散步的黄昏",
+  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/park.webp",
+  "category": "治愈",
+  "gradient": "linear-gradient(135deg, #228B22 0%, #90EE90 40%, #FFD700 100%)",
+  "sentence": {
+    "en": "The breeze gently rustles through the leaves.",
+    "zh": "微风轻轻吹过树叶沙沙作响。",
+    "highlights": [
+      "breeze",
+      "rustles",
+      "leaves"
+    ]
+  },
+  "words": [
+    {
+      "id": "breeze",
+      "text": "breeze",
+      "zhText": "微风",
+      "phonetic": "/briːz/",
+      "pos": "n.",
+      "meaning": "微风；和风",
+      "example": {
+        "en": "A gentle breeze cooled us down.",
+        "zh": "一阵微风让我们凉快下来。"
+      },
+      "synonyms": [
+        "wind",
+        "gust",
+        "draft"
+      ],
+      "position": {
+        "x": 50,
+        "y": 20
+      }
+    },
+    {
+      "id": "leaf",
+      "text": "leaves",
+      "zhText": "树叶",
+      "phonetic": "/liːvz/",
+      "pos": "n.",
+      "meaning": "树叶（复数）",
+      "example": {
+        "en": "The leaves turn golden in autumn.",
+        "zh": "树叶在秋天变成金色。"
+      },
+      "synonyms": [
+        "foliage",
+        "greenery"
+      ],
+      "position": {
+        "x": 70,
+        "y": 35
+      }
+    },
+    {
+      "id": "rustle",
+      "text": "rustle",
+      "zhText": "沙沙声",
+      "phonetic": "/ˈrʌsl/",
+      "pos": "v.",
+      "meaning": "发出沙沙声",
+      "example": {
+        "en": "I heard something rustle in the bushes.",
+        "zh": "我听到灌木丛中有沙沙声。"
+      },
+      "synonyms": [
+        "whisper",
+        "swish",
+        "crackle"
+      ],
+      "position": {
+        "x": 35,
+        "y": 45
+      }
+    },
+    {
+      "id": "path",
+      "text": "path",
+      "zhText": "小径",
+      "phonetic": "/pɑːθ/",
+      "pos": "n.",
+      "meaning": "小路；路径",
+      "example": {
+        "en": "We walked along the winding path.",
+        "zh": "我们沿着蜿蜒的小路走着。"
+      },
+      "synonyms": [
+        "trail",
+        "walkway",
+        "track"
+      ],
+      "position": {
+        "x": 45,
+        "y": 70
+      }
+    },
+    {
+      "id": "gentle",
+      "text": "gentle",
+      "zhText": "轻柔",
+      "phonetic": "/ˈdʒentl/",
+      "pos": "adj.",
+      "meaning": "温柔的；轻柔的",
+      "example": {
+        "en": "She has a gentle smile.",
+        "zh": "她有一个温柔的微笑。"
+      },
+      "synonyms": [
+        "soft",
+        "mild",
+        "tender"
+      ],
+      "position": {
+        "x": 25,
+        "y": 55
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "a gentle breeze",
+      "meaning": "一阵微风"
+    },
+    {
+      "phrase": "rustle through",
+      "meaning": "沙沙穿过"
+    },
+    {
+      "phrase": "fallen leaves",
+      "meaning": "落叶"
+    }
+  ]
+}
