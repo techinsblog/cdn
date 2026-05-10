@@ -36,6 +36,15 @@
       "gradient": "linear-gradient(135deg, #4A90E2 0%, #7B9FBC 50%, #A0C4E8 100%)",
       "wordCount": 5,
       "previewWords": "metro station · walk · sunny"
+    },
+    {
+      "id": 5,
+      "title": "树影晴空",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-5.webp",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #4FAF5A 0%, #7EC8E3 50%, #F2D68A 100%)",
+      "wordCount": 6,
+      "previewWords": "trees · road · walking"
     }
   ]
 }
