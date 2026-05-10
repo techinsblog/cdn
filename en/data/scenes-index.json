@@ -45,6 +45,15 @@
       "gradient": "linear-gradient(135deg, #4FAF5A 0%, #7EC8E3 50%, #F2D68A 100%)",
       "wordCount": 6,
       "previewWords": "trees · road · walking"
+    },
+    {
+      "id": 6,
+      "title": "树影球声",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-6.webp",
+      "category": "运动",
+      "gradient": "linear-gradient(135deg, #6b7f5b 0%, #8fa38a 50%, #d7d9dd 100%)",
+      "wordCount": 6,
+      "previewWords": "table tennis · paddle · player"
     }
   ]
 }
