@@ -112,6 +112,14 @@
       "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #5b6c8f 100%)",
       "wordCount": 7,
       "previewWords": "booth · leaflet · earmuffs"
+    },
+    {
+      "id": 15,
+      "title": "阳台晾着今天的心事",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #F6D7A7 0%, #D9C3A5 50%, #8FB08E 100%)",
+      "wordCount": 8,
+      "previewWords": "balcony · laundry · shade"
     }
   ]
 }
