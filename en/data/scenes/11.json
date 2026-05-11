@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "id": 11,
+  "title": "校园的风都是自由的，真好",
+  "category": "学习",
+  "gradient": "linear-gradient(135deg, #7ccf6b 0%, #4fa3f7 50%, #f3d37a 100%)",
+  "sentence": {
+    "en": "The campus breeze made everyone look like they had nowhere urgent to be.",
+    "zh": "校园里的风一吹，大家都像突然不用赶时间了。",
+    "highlights": [
+      "breeze",
+      "campus",
+      "urgent"
+    ]
+  },
+  "words": [
+    {
+      "id": "campus",
+      "text": "campus",
+      "zhText": "校园",
+      "phonetic": "/ˈkæmpəs/",
+      "pos": "n.",
+      "meaning": "校园，大学或学校的场地",
+      "example": {
+        "en": "On this campus, even a short walk feels like a tiny holiday.",
+        "zh": "在这样的校园里，连走一小段路都像偷来的一次小度假。"
+      },
+      "synonyms": [
+        "school",
+        "grounds"
+      ],
+      "position": {
+        "x": 17,
+        "y": 58
+      }
+    },
+    {
+      "id": "breeze",
+      "text": "breeze",
+      "zhText": "微风",
+      "phonetic": "/briːz/",
+      "pos": "n.",
+      "meaning": "轻柔的风",
+      "example": {
+        "en": "A soft breeze passed by and suddenly the afternoon felt less serious.",
+        "zh": "一阵轻风吹过，整个下午忽然就没那么严肃了。"
+      },
+      "synonyms": [
+        "wind",
+        "air"
+      ],
+      "position": {
+        "x": 67,
+        "y": 11
+      }
+    },
+    {
+      "id": "stroll",
+      "text": "stroll",
+      "zhText": "闲逛，散步",
+      "phonetic": "/stroʊl/",
+      "pos": "v.",
+      "meaning": "悠闲地走",
+      "example": {
+        "en": "They strolled down the road like the only deadline was sunset.",
+        "zh": "他们慢慢走在路上，仿佛唯一的截止时间是日落。"
+      },
+      "synonyms": [
+        "walk",
+        "wander"
+      ],
+      "position": {
+        "x": 39,
+        "y": 46
+      }
+    },
+    {
+      "id": "shade",
+      "text": "shade",
+      "zhText": "树荫",
+      "phonetic": "/ʃeɪd/",
+      "pos": "n.",
+      "meaning": "阴凉处，背阴处",
+      "example": {
+        "en": "The shade under the trees looked like the perfect place to pause and gossip.",
+        "zh": "树下那片阴凉，看起来就是最适合停下来聊八卦的地方。"
+      },
+      "synonyms": [
+        "shadow",
+        "coolness"
+      ],
+      "position": {
+        "x": 78,
+        "y": 56
+      }
+    },
+    {
+      "id": "pavement",
+      "text": "pavement",
+      "zhText": "路面，人行道",
+      "phonetic": "/ˈpeɪvmənt/",
+      "pos": "n.",
+      "meaning": "铺好的地面，道路表层",
+      "example": {
+        "en": "The warm pavement held the sunlight like it didn't want the day to end.",
+        "zh": "暖暖的路面兜住了阳光，好像舍不得这一天结束。"
+      },
+      "synonyms": [
+        "sidewalk",
+        "road"
+      ],
+      "position": {
+        "x": 52,
+        "y": 83
+      }
+    },
+    {
+      "id": "stairway",
+      "text": "stairway",
+      "zhText": "阶梯",
+      "phonetic": "/ˈsterweɪ/",
+      "pos": "n.",
+      "meaning": "一段楼梯，阶梯通道",
+      "example": {
+        "en": "The stairway waited in the sun, dramatic enough for a movie entrance.",
+        "zh": "那段台阶晒在阳光里，戏剧感强得像等着主角出场。"
+      },
+      "synonyms": [
+        "stairs",
+        "steps"
+      ],
+      "position": {
+        "x": 83,
+        "y": 42
+      }
+    },
+    {
+      "id": "leafy",
+      "text": "leafy",
+      "zhText": "枝叶繁茂的",
+      "phonetic": "/ˈliːfi/",
+      "pos": "adj.",
+      "meaning": "长满叶子的，绿叶成荫的",
+      "example": {
+        "en": "The leafy road made the whole place look kinder than Monday deserved.",
+        "zh": "这条绿意满满的路，把连周一都衬得温柔了起来。"
+      },
+      "synonyms": [
+        "green",
+        "lush"
+      ],
+      "position": {
+        "x": 31,
+        "y": 16
+      }
+    },
+    {
+      "id": "urgent",
+      "text": "urgent",
+      "zhText": "紧急的，急迫的",
+      "phonetic": "/ˈɜːrdʒənt/",
+      "pos": "adj.",
+      "meaning": "需要立刻处理的",
+      "example": {
+        "en": "Nothing looked urgent here, and honestly that was the best part.",
+        "zh": "这里看起来没有什么非得立刻处理的事，而这恰好最让人喜欢。"
+      },
+      "synonyms": [
+        "pressing",
+        "immediate"
+      ],
+      "position": {
+        "x": 60,
+        "y": 66
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a stroll",
+      "meaning": "散个步，悠闲走走"
+    },
+    {
+      "phrase": "sit in the shade",
+      "meaning": "坐在树荫下"
+    },
+    {
+      "phrase": "feel the breeze",
+      "meaning": "感受微风"
+    }
+  ]
+}
