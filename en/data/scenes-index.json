@@ -4,7 +4,6 @@
     {
       "id": 1,
       "title": "咖啡馆的午后",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/coffee-shop.webp",
       "category": "日常",
       "gradient": "linear-gradient(135deg, #8B6914 0%, #D4A574 50%, #F5DEB3 100%)",
       "wordCount": 5,
@@ -13,7 +12,6 @@
     {
       "id": 2,
       "title": "厨房的清晨",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/kitchen.webp",
       "category": "治愈",
       "gradient": "linear-gradient(135deg, #FFF8DC 0%, #FAEBD7 50%, #FFE4B5 100%)",
       "wordCount": 6,
@@ -22,7 +20,6 @@
     {
       "id": 3,
       "title": "公园散步的黄昏",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/park.webp",
       "category": "治愈",
       "gradient": "linear-gradient(135deg, #228B22 0%, #90EE90 40%, #FFD700 100%)",
       "wordCount": 5,
@@ -31,7 +28,6 @@
     {
       "id": 4,
       "title": "岗厦地铁站的日常",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/metro-station.webp",
       "category": "日常出行",
       "gradient": "linear-gradient(135deg, #4A90E2 0%, #7B9FBC 50%, #A0C4E8 100%)",
       "wordCount": 5,
@@ -40,7 +36,6 @@
     {
       "id": 5,
       "title": "树影晴空",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-5.webp",
       "category": "日常",
       "gradient": "linear-gradient(135deg, #4FAF5A 0%, #7EC8E3 50%, #F2D68A 100%)",
       "wordCount": 6,
@@ -49,7 +44,6 @@
     {
       "id": 6,
       "title": "树影球声",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-6.webp",
       "category": "运动",
       "gradient": "linear-gradient(135deg, #6b7f5b 0%, #8fa38a 50%, #d7d9dd 100%)",
       "wordCount": 6,
@@ -58,7 +52,6 @@
     {
       "id": 7,
       "title": "路边静望",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-7.webp",
       "category": "治愈",
       "gradient": "linear-gradient(135deg, #2f3e2f 0%, #c9a64b 50%, #6e7785 100%)",
       "wordCount": 5,
@@ -67,7 +60,6 @@
     {
       "id": 8,
       "title": "巷口的温柔",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-8.webp",
       "category": "治愈",
       "gradient": "linear-gradient(135deg, #DCEEF2 0%, #AFC8D6 50%, #6F8FA6 100%)",
       "wordCount": 5,
@@ -76,7 +68,6 @@
     {
       "id": 9,
       "title": "放学路上捡到温柔",
-      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-9.webp",
       "category": "治愈",
       "gradient": "linear-gradient(135deg, #CFE8F3 0%, #F7E7D3 50%, #A9C7B8 100%)",
       "wordCount": 6,
