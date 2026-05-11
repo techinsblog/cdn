@@ -72,6 +72,15 @@
       "gradient": "linear-gradient(135deg, #DCEEF2 0%, #AFC8D6 50%, #6F8FA6 100%)",
       "wordCount": 5,
       "previewWords": "cat · petting · sneakers"
+    },
+    {
+      "id": 9,
+      "title": "放学路上捡到温柔",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-9.webp",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #CFE8F3 0%, #F7E7D3 50%, #A9C7B8 100%)",
+      "wordCount": 6,
+      "previewWords": "cat · pet · backpack"
     }
   ]
 }
