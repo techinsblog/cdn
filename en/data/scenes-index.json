@@ -104,6 +104,14 @@
       "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #fdf1d6 100%)",
       "wordCount": 8,
       "previewWords": "booth · shelf · booklet"
+    },
+    {
+      "id": 14,
+      "title": "冷天里的一点英伦戏",
+      "category": "学习",
+      "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #5b6c8f 100%)",
+      "wordCount": 7,
+      "previewWords": "booth · leaflet · earmuffs"
     }
   ]
 }
