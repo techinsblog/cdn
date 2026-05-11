@@ -144,6 +144,14 @@
       "gradient": "linear-gradient(135deg, #8ec5fc 0%, #e0f1ff 50%, #8fd3a8 100%)",
       "wordCount": 6,
       "previewWords": "KFC · mall · entrance"
+    },
+    {
+      "id": 22,
+      "title": "厨房里刚做完饭",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #6b4f3a 0%, #c8a97e 50%, #f4eadb 100%)",
+      "wordCount": 8,
+      "previewWords": "range hood · stove · pan"
     }
   ]
 }
