@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 17,
+  "title": "路边坐着一只猫",
+  "category": "日常",
+  "gradient": "linear-gradient(135deg, #2f3e2f 0%, #6f7f55 50%, #c9b36b 100%)",
+  "sentence": {
+    "en": "There's a cat just sitting by the road.",
+    "zh": "有只猫就坐在路边。",
+    "highlights": [
+      "cat",
+      "road"
+    ]
+  },
+  "words": [
+    {
+      "id": "cat",
+      "text": "cat",
+      "zhText": "猫",
+      "phonetic": "/kæt/",
+      "pos": "n.",
+      "meaning": "最常见的猫，聊天里就直接说 cat。",
+      "example": {
+        "en": "That cat looks really calm.",
+        "zh": "那只猫看起来挺淡定的。"
+      },
+      "synonyms": [
+        "kitty",
+        "pet"
+      ],
+      "position": {
+        "x": 12,
+        "y": 90
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "路面",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "路、路面，看到这种柏油地面也会顺口这么说。",
+      "example": {
+        "en": "Don't let him run into the road.",
+        "zh": "别让它跑到路中间去。"
+      },
+      "synonyms": [
+        "street",
+        "pavement"
+      ],
+      "position": {
+        "x": 50,
+        "y": 95
+      }
+    },
+    {
+      "id": "barrier",
+      "text": "barrier",
+      "zhText": "护栏",
+      "phonetic": "/ˈbæriər/",
+      "pos": "n.",
+      "meaning": "路边这种拦着车或隔开的护栏。",
+      "example": {
+        "en": "The cat's right by the barrier.",
+        "zh": "那只猫就在护栏旁边。"
+      },
+      "synonyms": [
+        "rail",
+        "guardrail"
+      ],
+      "position": {
+        "x": 78,
+        "y": 11
+      }
+    },
+    {
+      "id": "bush",
+      "text": "bush",
+      "zhText": "灌木",
+      "phonetic": "/bʊʃ/",
+      "pos": "n.",
+      "meaning": "矮一点、密一点的绿植，路边很常见。",
+      "example": {
+        "en": "Something moved in the bush.",
+        "zh": "灌木丛里刚刚动了一下。"
+      },
+      "synonyms": [
+        "shrub",
+        "plant"
+      ],
+      "position": {
+        "x": 26,
+        "y": 9
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐着",
+      "phonetic": "/ˈsɪtɪŋ/",
+      "pos": "v.",
+      "meaning": "坐着的状态，口语里很常用。",
+      "example": {
+        "en": "He's just sitting there, doing nothing.",
+        "zh": "它就坐在那儿，啥也没干。"
+      },
+      "synonyms": [
+        "resting",
+        "staying"
+      ],
+      "position": {
+        "x": 63,
+        "y": 89
+      }
+    },
+    {
+      "id": "watch",
+      "text": "watching",
+      "zhText": "看着",
+      "phonetic": "/ˈwɑːtʃɪŋ/",
+      "pos": "v.",
+      "meaning": "盯着看、留意着什么。",
+      "example": {
+        "en": "She's watching something over there.",
+        "zh": "它在看那边的什么东西。"
+      },
+      "synonyms": [
+        "looking",
+        "staring"
+      ],
+      "position": {
+        "x": 90,
+        "y": 92
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sit by the road",
+      "meaning": "坐在路边"
+    },
+    {
+      "phrase": "watch quietly",
+      "meaning": "安静地看着"
+    },
+    {
+      "phrase": "hide in the bushes",
+      "meaning": "躲在灌木丛里"
+    }
+  ]
+}
