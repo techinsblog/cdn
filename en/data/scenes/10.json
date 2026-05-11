@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "id": 10,
+  "title": "认真烤串的人",
+  "category": "美食",
+  "gradient": "linear-gradient(135deg, #E8D9B5 0%, #C89B5A 50%, #6B4A2F 100%)",
+  "sentence": {
+    "en": "He grills skewers like tonight's dinner decides the whole mood.",
+    "zh": "他烤串的认真劲儿，像今晚的气氛全靠这一口了。",
+    "highlights": [
+      "grill",
+      "skewer",
+      "charcoal"
+    ]
+  },
+  "words": [
+    {
+      "id": "grill",
+      "text": "grill",
+      "zhText": "烤架；烧烤",
+      "phonetic": "/ɡrɪl/",
+      "pos": "n./v.",
+      "meaning": "烤架；烧烤，炙烤",
+      "example": {
+        "en": "He watched the grill like it was a final exam and dinner depended on it.",
+        "zh": "他盯着烤架的样子，像在参加期末考试，而且晚饭全押在上面。"
+      },
+      "synonyms": [
+        "barbecue",
+        "roast"
+      ],
+      "position": {
+        "x": 27,
+        "y": 58
+      }
+    },
+    {
+      "id": "skewer",
+      "text": "skewers",
+      "zhText": "烤串签",
+      "phonetic": "/ˈskjuːər/",
+      "pos": "n.",
+      "meaning": "串肉签，烤串",
+      "example": {
+        "en": "The skewers lined up so neatly, like they were waiting for their big entrance.",
+        "zh": "一排排烤串摆得整整齐齐，像在等自己的高光出场。"
+      },
+      "synonyms": [
+        "stick",
+        "brochette"
+      ],
+      "position": {
+        "x": 46,
+        "y": 52
+      }
+    },
+    {
+      "id": "charcoal",
+      "text": "charcoal",
+      "zhText": "木炭",
+      "phonetic": "/ˈtʃɑːrkoʊl/",
+      "pos": "n.",
+      "meaning": "木炭",
+      "example": {
+        "en": "A few blocks of charcoal sat nearby, looking quiet but full of barbecue drama.",
+        "zh": "旁边几块木炭安安静静，却像藏着整场烧烤的大戏。"
+      },
+      "synonyms": [
+        "coal",
+        "ember"
+      ],
+      "position": {
+        "x": 12,
+        "y": 78
+      }
+    },
+    {
+      "id": "fan",
+      "text": "fan",
+      "zhText": "扇子；扇风",
+      "phonetic": "/fæn/",
+      "pos": "n./v.",
+      "meaning": "扇子；扇动使空气流通",
+      "example": {
+        "en": "He gave the fire a few determined fan strokes, like cheering up a sleepy teammate.",
+        "zh": "他认真扇了几下火，像在给一个犯困的队友加油。"
+      },
+      "synonyms": [
+        "wave",
+        "cool"
+      ],
+      "position": {
+        "x": 38,
+        "y": 33
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "托盘，盘子",
+      "example": {
+        "en": "The tray waited beside the grill, ready to catch the next delicious batch.",
+        "zh": "托盘守在烤架旁，准备接住下一轮香喷喷的出锅时刻。"
+      },
+      "synonyms": [
+        "plate",
+        "pan"
+      ],
+      "position": {
+        "x": 18,
+        "y": 73
+      }
+    },
+    {
+      "id": "marinated",
+      "text": "marinated",
+      "zhText": "腌制过的",
+      "phonetic": "/ˈmærɪneɪtɪd/",
+      "pos": "adj.",
+      "meaning": "腌制过的，入味的",
+      "example": {
+        "en": "Those marinated pieces looked so flavorful that even the plastic bag seemed proud.",
+        "zh": "那些腌好的食材看起来特别入味，连旁边的塑料袋都像在替它们骄傲。"
+      },
+      "synonyms": [
+        "seasoned",
+        "soaked"
+      ],
+      "position": {
+        "x": 85,
+        "y": 68
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "fire up the grill",
+      "meaning": "把烤架生起火来"
+    },
+    {
+      "phrase": "turn the skewers",
+      "meaning": "给烤串翻面"
+    },
+    {
+      "phrase": "smoky flavor",
+      "meaning": "烟熏香味"
+    }
+  ]
+}
