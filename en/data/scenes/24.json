@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": 24,
+  "title": "咖啡店里做咖啡",
+  "category": "美食",
+  "gradient": "linear-gradient(135deg, #C9A27E 0%, #8B5E3C 50%, #F2E6D8 100%)",
+  "sentence": {
+    "en": "He's making coffee behind the counter.",
+    "zh": "他正在柜台后面做咖啡。",
+    "highlights": [
+      "making",
+      "coffee",
+      "counter"
+    ]
+  },
+  "words": [
+    {
+      "id": "barista",
+      "text": "barista",
+      "zhText": "咖啡师",
+      "phonetic": "/bəˈriːstə/",
+      "pos": "n.",
+      "meaning": "就是咖啡店里做咖啡的人。",
+      "example": {
+        "en": "The barista's still making my drink.",
+        "zh": "咖啡师还在做我的那杯。"
+      },
+      "synonyms": [
+        "coffee maker",
+        "staff"
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "coffee",
+      "text": "coffee",
+      "zhText": "咖啡",
+      "phonetic": "/ˈkɔːfi/",
+      "pos": "n.",
+      "meaning": "最常见的咖啡饮品，也可泛指咖啡。",
+      "example": {
+        "en": "I really need a coffee right now.",
+        "zh": "我现在真的需要来杯咖啡。"
+      },
+      "synonyms": [
+        "drink",
+        "latte"
+      ],
+      "position": {
+        "x": 41,
+        "y": 47
+      }
+    },
+    {
+      "id": "grinder",
+      "text": "grinder",
+      "zhText": "磨豆机",
+      "phonetic": "/ˈɡraɪndər/",
+      "pos": "n.",
+      "meaning": "把咖啡豆磨成粉的机器。",
+      "example": {
+        "en": "That grinder is kind of loud.",
+        "zh": "那台磨豆机声音还挺大的。"
+      },
+      "synonyms": [
+        "machine"
+      ],
+      "position": {
+        "x": 49,
+        "y": 51
+      }
+    },
+    {
+      "id": "cup",
+      "text": "cup",
+      "zhText": "杯子",
+      "phonetic": "/kʌp/",
+      "pos": "n.",
+      "meaning": "装饮料的杯子。",
+      "example": {
+        "en": "Can I get another cup?",
+        "zh": "能再给我一个杯子吗？"
+      },
+      "synonyms": [
+        "mug"
+      ],
+      "position": {
+        "x": 56,
+        "y": 61
+      }
+    },
+    {
+      "id": "counter",
+      "text": "counter",
+      "zhText": "柜台",
+      "phonetic": "/ˈkaʊntər/",
+      "pos": "n.",
+      "meaning": "店里点单或做东西的台面。",
+      "example": {
+        "en": "Just leave it on the counter.",
+        "zh": "放柜台上就行。"
+      },
+      "synonyms": [
+        "desk",
+        "bar"
+      ],
+      "position": {
+        "x": 22,
+        "y": 64
+      }
+    },
+    {
+      "id": "machine",
+      "text": "machine",
+      "zhText": "咖啡机",
+      "phonetic": "/məˈʃiːn/",
+      "pos": "n.",
+      "meaning": "这里就是做咖啡的那台机器。",
+      "example": {
+        "en": "The machine's busy, give it a sec.",
+        "zh": "机器正忙着呢，等一下。"
+      },
+      "synonyms": [
+        "espresso machine"
+      ],
+      "position": {
+        "x": 76,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "make coffee",
+      "meaning": "做咖啡"
+    },
+    {
+      "phrase": "behind the counter",
+      "meaning": "在柜台后面"
+    },
+    {
+      "phrase": "grab a coffee",
+      "meaning": "去买杯咖啡"
+    }
+  ]
+}
