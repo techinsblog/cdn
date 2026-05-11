@@ -88,6 +88,14 @@
       "gradient": "linear-gradient(135deg, #7ccf6b 0%, #4fa3f7 50%, #f3d37a 100%)",
       "wordCount": 8,
       "previewWords": "campus · breeze · stroll"
+    },
+    {
+      "id": 12,
+      "title": "把冬天翻成一页书",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #fdf0d5 100%)",
+      "wordCount": 7,
+      "previewWords": "library · open · book"
     }
   ]
 }
