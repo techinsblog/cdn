@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "id": 10,
+  "title": "一个人的炭火盛宴",
+  "category": "美食",
+  "gradient": "linear-gradient(135deg, #F6D365 0%, #D4A373 50%, #6B4F3A 100%)",
+  "sentence": {
+    "en": "He grilled like the afternoon had nowhere else to be.",
+    "zh": "他烤串的样子，好像整个下午都不用赶路。",
+    "highlights": [
+      "grilled"
+    ]
+  },
+  "words": [
+    {
+      "id": "grill",
+      "text": "grilled",
+      "zhText": "烧烤；烤着",
+      "phonetic": "/ɡrɪld/",
+      "pos": "v.",
+      "meaning": "把食物放在火上烤",
+      "example": {
+        "en": "He grilled the skewers so calmly, like this was his weekend superpower.",
+        "zh": "他慢悠悠地烤着串，像在展示自己的周末超能力。"
+      },
+      "synonyms": [
+        "barbecue",
+        "cook"
+      ],
+      "position": {
+        "x": 34,
+        "y": 56
+      }
+    },
+    {
+      "id": "skewer",
+      "text": "skewers",
+      "zhText": "烤串签",
+      "phonetic": "/ˈskjuːərz/",
+      "pos": "n.",
+      "meaning": "穿着肉或菜的细签子；烤串",
+      "example": {
+        "en": "The skewers lined up neatly, waiting for their smoky little glow-up.",
+        "zh": "一排排烤串整整齐齐，等着来一场带烟火气的华丽变身。"
+      },
+      "synonyms": [
+        "stick",
+        "brochette"
+      ],
+      "position": {
+        "x": 49,
+        "y": 52
+      }
+    },
+    {
+      "id": "charcoal",
+      "text": "charcoal",
+      "zhText": "木炭",
+      "phonetic": "/ˈtʃɑːrkoʊl/",
+      "pos": "n.",
+      "meaning": "烧烤用的炭",
+      "example": {
+        "en": "The charcoal looked quiet, but everyone knew it was the real boss of dinner.",
+        "zh": "木炭看起来安安静静，其实大家都知道，晚餐真正的主角是它。"
+      },
+      "synonyms": [
+        "coal",
+        "ember"
+      ],
+      "position": {
+        "x": 15,
+        "y": 78
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "用来放食物或物品的盘子",
+      "example": {
+        "en": "A small tray sat by the grill, holding sauces like backstage VIPs.",
+        "zh": "小托盘守在烤炉旁，装着酱料，像后台的贵宾席。"
+      },
+      "synonyms": [
+        "plate",
+        "platter"
+      ],
+      "position": {
+        "x": 26,
+        "y": 50
+      }
+    },
+    {
+      "id": "folding chair",
+      "text": "folding chair",
+      "zhText": "折叠椅",
+      "phonetic": "/ˈfoʊldɪŋ tʃer/",
+      "pos": "n.",
+      "meaning": "可折叠收纳的椅子",
+      "example": {
+        "en": "He sank into the folding chair like this cookout might last until sunset.",
+        "zh": "他往折叠椅上一坐，像这场小烧烤能一直悠闲到日落。"
+      },
+      "synonyms": [
+        "camp chair",
+        "portable chair"
+      ],
+      "position": {
+        "x": 78,
+        "y": 45
+      }
+    },
+    {
+      "id": "sizzle",
+      "text": "sizzle",
+      "zhText": "滋滋作响",
+      "phonetic": "/ˈsɪzəl/",
+      "pos": "v.",
+      "meaning": "食物在热锅或火上发出滋滋声",
+      "example": {
+        "en": "Once the meat began to sizzle, the whole scene suddenly felt twice as hungry.",
+        "zh": "肉一开始滋滋作响，整个画面瞬间就饿了两倍。"
+      },
+      "synonyms": [
+        "crackle",
+        "sear"
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grill skewers",
+      "meaning": "烤肉串"
+    },
+    {
+      "phrase": "light the charcoal",
+      "meaning": "把木炭点着"
+    },
+    {
+      "phrase": "hear it sizzle",
+      "meaning": "听见滋滋作响"
+    }
+  ]
+}
