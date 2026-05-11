@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": 21,
+  "title": "商场门口的肯德基",
+  "category": "日常",
+  "gradient": "linear-gradient(135deg, #8ec5fc 0%, #e0f1ff 50%, #8fd3a8 100%)",
+  "sentence": {
+    "en": "There's a KFC right by the mall entrance.",
+    "zh": "商场门口边上就有一家肯德基。",
+    "highlights": [
+      "KFC",
+      "mall",
+      "entrance"
+    ]
+  },
+  "words": [
+    {
+      "id": "KFC",
+      "text": "KFC",
+      "zhText": "肯德基",
+      "phonetic": "/ˌkeɪ ef ˈsiː/",
+      "pos": "n.",
+      "meaning": "就是那家很常见的炸鸡店，聊天里直接说 KFC 就行。",
+      "example": {
+        "en": "Wanna just grab KFC before we go?",
+        "zh": "我们要不先去吃个肯德基再走？"
+      },
+      "synonyms": [
+        "fried chicken"
+      ],
+      "position": {
+        "x": 82,
+        "y": 45
+      }
+    },
+    {
+      "id": "mall",
+      "text": "mall",
+      "zhText": "商场",
+      "phonetic": "/mɔːl/",
+      "pos": "n.",
+      "meaning": "平时逛街、吃饭、买东西的商场。",
+      "example": {
+        "en": "I'm at the mall now. Where are you?",
+        "zh": "我现在在商场，你到哪了？"
+      },
+      "synonyms": [
+        "shopping center"
+      ],
+      "position": {
+        "x": 67,
+        "y": 38
+      }
+    },
+    {
+      "id": "entrance",
+      "text": "entrance",
+      "zhText": "入口",
+      "phonetic": "/ˈentrəns/",
+      "pos": "n.",
+      "meaning": "进门的地方，商场、店铺都很常说。",
+      "example": {
+        "en": "Meet me at the main entrance.",
+        "zh": "你来正门入口找我吧。"
+      },
+      "synonyms": [
+        "entry",
+        "door"
+      ],
+      "position": {
+        "x": 71,
+        "y": 66
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "招牌",
+      "phonetic": "/saɪn/",
+      "pos": "n.",
+      "meaning": "店名牌子、标志这些都可以叫 sign。",
+      "example": {
+        "en": "I saw the sign from across the street.",
+        "zh": "我隔着马路就看到那个招牌了。"
+      },
+      "synonyms": [
+        "logo",
+        "board"
+      ],
+      "position": {
+        "x": 49,
+        "y": 73
+      }
+    },
+    {
+      "id": "grass",
+      "text": "grass",
+      "zhText": "草地",
+      "phonetic": "/ɡræs/",
+      "pos": "n.",
+      "meaning": "地上的草坪，公园和商场外面很常见。",
+      "example": {
+        "en": "Don't sit on the grass, it's still wet.",
+        "zh": "别坐草地上，还湿着呢。"
+      },
+      "synonyms": [
+        "lawn"
+      ],
+      "position": {
+        "x": 47,
+        "y": 93
+      }
+    },
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "楼",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "很日常的说法，就是这栋楼、那栋楼。",
+      "example": {
+        "en": "That building looks pretty new.",
+        "zh": "那栋楼看着还挺新的。"
+      },
+      "synonyms": [
+        "block",
+        "structure"
+      ],
+      "position": {
+        "x": 76,
+        "y": 29
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "meet at the entrance",
+      "meaning": "在入口碰面"
+    },
+    {
+      "phrase": "grab some KFC",
+      "meaning": "去买点肯德基吃"
+    },
+    {
+      "phrase": "go to the mall",
+      "meaning": "去商场"
+    }
+  ]
+}
