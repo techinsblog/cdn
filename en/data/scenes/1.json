@@ -2,7 +2,6 @@
   "version": 1,
   "id": 1,
   "title": "咖啡馆的午后",
-  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/coffee-shop.webp",
   "category": "日常",
   "gradient": "linear-gradient(135deg, #8B6914 0%, #D4A574 50%, #F5DEB3 100%)",
   "sentence": {
