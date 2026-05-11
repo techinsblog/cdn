@@ -120,6 +120,14 @@
       "gradient": "linear-gradient(135deg, #8b6b4a 0%, #c9b08a 50%, #f3eadb 100%)",
       "wordCount": 7,
       "previewWords": "kitchen · pan · pot"
+    },
+    {
+      "id": 19,
+      "title": "咖啡店做咖啡",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #c89b6d 0%, #8b5e3c 50%, #f0dfc8 100%)",
+      "wordCount": 6,
+      "previewWords": "barista · coffee · grinder"
     }
   ]
 }
