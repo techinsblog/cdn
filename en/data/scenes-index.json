@@ -80,6 +80,14 @@
       "gradient": "linear-gradient(135deg, #E8D9B5 0%, #C89B5A 50%, #6B4A2F 100%)",
       "wordCount": 6,
       "previewWords": "grill · skewers · charcoal"
+    },
+    {
+      "id": 11,
+      "title": "校园的风都是自由的，真好",
+      "category": "学习",
+      "gradient": "linear-gradient(135deg, #7ccf6b 0%, #4fa3f7 50%, #f3d37a 100%)",
+      "wordCount": 8,
+      "previewWords": "campus · breeze · stroll"
     }
   ]
 }
