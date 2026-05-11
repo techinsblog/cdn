@@ -128,6 +128,14 @@
       "gradient": "linear-gradient(135deg, #f3e2b8 0%, #d7c29a 50%, #8fa66b 100%)",
       "wordCount": 6,
       "previewWords": "clothes · balcony · tree"
+    },
+    {
+      "id": 17,
+      "title": "路边坐着一只猫",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #2f3e2f 0%, #6f7f55 50%, #c9b36b 100%)",
+      "wordCount": 6,
+      "previewWords": "cat · road · barrier"
     }
   ]
 }
