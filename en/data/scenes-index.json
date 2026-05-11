@@ -2,14 +2,6 @@
   "version": 1,
   "scenes": [
     {
-      "id": 1,
-      "title": "咖啡馆的午后",
-      "category": "日常",
-      "gradient": "linear-gradient(135deg, #8B6914 0%, #D4A574 50%, #F5DEB3 100%)",
-      "wordCount": 5,
-      "previewWords": "coffee · knock · table"
-    },
-    {
       "id": 2,
       "title": "厨房的清晨",
       "category": "治愈",
