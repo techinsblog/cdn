@@ -152,6 +152,14 @@
       "gradient": "linear-gradient(135deg, #6b4f3a 0%, #c8a97e 50%, #f4eadb 100%)",
       "wordCount": 8,
       "previewWords": "range hood · stove · pan"
+    },
+    {
+      "id": 23,
+      "title": "厨房里刚做完饭",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #6b4f3a 0%, #c9a57a 50%, #f4eadb 100%)",
+      "wordCount": 8,
+      "previewWords": "pan · stove · pot"
     }
   ]
 }
