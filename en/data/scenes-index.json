@@ -63,6 +63,15 @@
       "gradient": "linear-gradient(135deg, #2f3e2f 0%, #c9a64b 50%, #6e7785 100%)",
       "wordCount": 5,
       "previewWords": "cat · road · barrier"
+    },
+    {
+      "id": 8,
+      "title": "巷口的温柔",
+      "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-8.webp",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #DCEEF2 0%, #AFC8D6 50%, #6F8FA6 100%)",
+      "wordCount": 5,
+      "previewWords": "cat · petting · sneakers"
     }
   ]
 }
