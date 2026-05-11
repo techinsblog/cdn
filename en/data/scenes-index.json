@@ -96,6 +96,14 @@
       "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #fdf0d5 100%)",
       "wordCount": 7,
       "previewWords": "library · open · book"
+    },
+    {
+      "id": 13,
+      "title": "街角电话亭读信记",
+      "category": "治愈",
+      "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #fdf1d6 100%)",
+      "wordCount": 8,
+      "previewWords": "booth · shelf · booklet"
     }
   ]
 }
