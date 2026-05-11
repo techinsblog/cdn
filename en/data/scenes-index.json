@@ -120,6 +120,14 @@
       "gradient": "linear-gradient(135deg, #F6D7A7 0%, #D9C3A5 50%, #8FB08E 100%)",
       "wordCount": 8,
       "previewWords": "balcony · laundry · shade"
+    },
+    {
+      "id": 16,
+      "title": "楼边晾着衣服",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #f3e2b8 0%, #d7c29a 50%, #8fa66b 100%)",
+      "wordCount": 6,
+      "previewWords": "clothes · balcony · tree"
     }
   ]
 }
