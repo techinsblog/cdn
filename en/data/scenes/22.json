@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 22,
+  "title": "厨房里刚做完饭",
+  "category": "日常",
+  "gradient": "linear-gradient(135deg, #6b4f3a 0%, #c8a97e 50%, #f4eadb 100%)",
+  "sentence": {
+    "en": "Looks like they just finished cooking.",
+    "zh": "看起来他们刚做完饭。",
+    "highlights": [
+      "cooking",
+      "pan",
+      "counter"
+    ]
+  },
+  "words": [
+    {
+      "id": "range hood",
+      "text": "range hood",
+      "zhText": "抽油烟机",
+      "phonetic": "/ˈreɪndʒ hʊd/",
+      "pos": "n.",
+      "meaning": "厨房里吸走油烟的那个大罩子。",
+      "example": {
+        "en": "Turn on the range hood. It's getting smoky.",
+        "zh": "把抽油烟机打开吧，开始有点呛了。"
+      },
+      "synonyms": [
+        "hood",
+        "exhaust hood"
+      ],
+      "position": {
+        "x": 28,
+        "y": 18
+      }
+    },
+    {
+      "id": "stove",
+      "text": "stove",
+      "zhText": "炉灶",
+      "phonetic": "/stoʊv/",
+      "pos": "n.",
+      "meaning": "做饭用的灶台。",
+      "example": {
+        "en": "The soup's still on the stove.",
+        "zh": "汤还在灶上呢。"
+      },
+      "synonyms": [
+        "cooktop"
+      ],
+      "position": {
+        "x": 24,
+        "y": 52
+      }
+    },
+    {
+      "id": "pan",
+      "text": "pan",
+      "zhText": "平底锅",
+      "phonetic": "/pæn/",
+      "pos": "n.",
+      "meaning": "平时煎炒很常用的锅。",
+      "example": {
+        "en": "Can you hand me that pan?",
+        "zh": "你把那个平底锅递我一下。"
+      },
+      "synonyms": [
+        "frying pan"
+      ],
+      "position": {
+        "x": 22,
+        "y": 58
+      }
+    },
+    {
+      "id": "pot",
+      "text": "pot",
+      "zhText": "锅",
+      "phonetic": "/pɑːt/",
+      "pos": "n.",
+      "meaning": "深一点、能煮东西的锅。",
+      "example": {
+        "en": "There's pasta in the pot.",
+        "zh": "锅里还有意面。"
+      },
+      "synonyms": [
+        "cooking pot"
+      ],
+      "position": {
+        "x": 42,
+        "y": 58
+      }
+    },
+    {
+      "id": "counter",
+      "text": "counter",
+      "zhText": "台面",
+      "phonetic": "/ˈkaʊntər/",
+      "pos": "n.",
+      "meaning": "厨房放东西、备菜的操作台。",
+      "example": {
+        "en": "Just leave the plates on the counter.",
+        "zh": "盘子放台面上就行。"
+      },
+      "synonyms": [
+        "countertop"
+      ],
+      "position": {
+        "x": 55,
+        "y": 50
+      }
+    },
+    {
+      "id": "sink",
+      "text": "sink",
+      "zhText": "水槽",
+      "phonetic": "/sɪŋk/",
+      "pos": "n.",
+      "meaning": "洗碗洗菜的那个槽。",
+      "example": {
+        "en": "I left a cup by the sink.",
+        "zh": "我把杯子放水槽边上了。"
+      },
+      "synonyms": [
+        "basin"
+      ],
+      "position": {
+        "x": 88,
+        "y": 60
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "厨房里朝外看的窗子。",
+      "example": {
+        "en": "Open the window for a bit.",
+        "zh": "把窗户打开通通风吧。"
+      },
+      "synonyms": [
+        "windowpane"
+      ],
+      "position": {
+        "x": 63,
+        "y": 34
+      }
+    },
+    {
+      "id": "cooking",
+      "text": "cooking",
+      "zhText": "做饭",
+      "phonetic": "/ˈkʊkɪŋ/",
+      "pos": "n./v.",
+      "meaning": "就是在厨房做吃的这件事。",
+      "example": {
+        "en": "I'm not cooking tonight. Let's order in.",
+        "zh": "我今晚不做饭了，点外卖吧。"
+      },
+      "synonyms": [
+        "making dinner"
+      ],
+      "position": {
+        "x": 50,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "cook dinner",
+      "meaning": "做晚饭"
+    },
+    {
+      "phrase": "wash the dishes",
+      "meaning": "洗碗"
+    },
+    {
+      "phrase": "clean the counter",
+      "meaning": "擦台面"
+    }
+  ]
+}
