@@ -128,6 +128,14 @@
       "gradient": "linear-gradient(135deg, #c89b6d 0%, #8b5e3c 50%, #f0dfc8 100%)",
       "wordCount": 6,
       "previewWords": "barista · coffee · grinder"
+    },
+    {
+      "id": 20,
+      "title": "商场门口随手拍",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #cfe8ff 0%, #eef5ff 50%, #b8d77a 100%)",
+      "wordCount": 7,
+      "previewWords": "KFC · park · building"
     }
   ]
 }
