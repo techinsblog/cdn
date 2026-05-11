@@ -136,6 +136,14 @@
       "gradient": "linear-gradient(135deg, #cfe8ff 0%, #eef5ff 50%, #b8d77a 100%)",
       "wordCount": 7,
       "previewWords": "KFC · park · building"
+    },
+    {
+      "id": 21,
+      "title": "商场门口的肯德基",
+      "category": "日常",
+      "gradient": "linear-gradient(135deg, #8ec5fc 0%, #e0f1ff 50%, #8fd3a8 100%)",
+      "wordCount": 6,
+      "previewWords": "KFC · mall · entrance"
     }
   ]
 }
