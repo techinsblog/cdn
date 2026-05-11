@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 20,
+  "title": "商场门口随手拍",
+  "category": "日常",
+  "gradient": "linear-gradient(135deg, #cfe8ff 0%, #eef5ff 50%, #b8d77a 100%)",
+  "sentence": {
+    "en": "There's a KFC right by the park.",
+    "zh": "公园边上就有一家肯德基。",
+    "highlights": [
+      "KFC",
+      "park"
+    ]
+  },
+  "words": [
+    {
+      "id": "KFC",
+      "text": "KFC",
+      "zhText": "肯德基",
+      "phonetic": "/ˌkeɪ ef ˈsiː/",
+      "pos": "noun",
+      "meaning": "就是那家很常见的快餐店肯德基。",
+      "example": {
+        "en": "Wanna just grab KFC before we head back?",
+        "zh": "要不我们回去前顺手买个肯德基？"
+      },
+      "synonyms": [
+        "fast food"
+      ],
+      "position": {
+        "x": 85,
+        "y": 28
+      }
+    },
+    {
+      "id": "park",
+      "text": "park",
+      "zhText": "公园；园区",
+      "phonetic": "/pɑːrk/",
+      "pos": "noun",
+      "meaning": "有绿地、能散步休息的地方。",
+      "example": {
+        "en": "Let's walk around the park for a bit.",
+        "zh": "咱们在公园里随便走走吧。"
+      },
+      "synonyms": [
+        "green space"
+      ],
+      "position": {
+        "x": 12,
+        "y": 90
+      }
+    },
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "楼；建筑",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "noun",
+      "meaning": "就是你看到的那栋楼。",
+      "example": {
+        "en": "I'm waiting outside the building.",
+        "zh": "我就在楼外面等你。"
+      },
+      "synonyms": [
+        "block"
+      ],
+      "position": {
+        "x": 73,
+        "y": 11
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "招牌；标志",
+      "phonetic": "/saɪn/",
+      "pos": "noun",
+      "meaning": "店名牌子或者路边标识都可以叫这个。",
+      "example": {
+        "en": "I saw the sign, so it was easy to find.",
+        "zh": "我一看到招牌就找到了。"
+      },
+      "synonyms": [
+        "logo",
+        "board"
+      ],
+      "position": {
+        "x": 60,
+        "y": 88
+      }
+    },
+    {
+      "id": "grass",
+      "text": "grass",
+      "zhText": "草地",
+      "phonetic": "/ɡræs/",
+      "pos": "noun",
+      "meaning": "地上那片绿绿的草。",
+      "example": {
+        "en": "Don't sit on the grass, it's kind of wet.",
+        "zh": "别坐草地上，有点湿。"
+      },
+      "synonyms": [
+        "lawn"
+      ],
+      "position": {
+        "x": 48,
+        "y": 96
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "noun",
+      "meaning": "建筑外面一格一格的窗。",
+      "example": {
+        "en": "That table by the window looks nice.",
+        "zh": "窗边那张桌子看着不错。"
+      },
+      "synonyms": [
+        "glass"
+      ],
+      "position": {
+        "x": 74,
+        "y": 86
+      }
+    },
+    {
+      "id": "tower",
+      "text": "tower",
+      "zhText": "高塔；立柱装置",
+      "phonetic": "/ˈtaʊər/",
+      "pos": "noun",
+      "meaning": "高高竖起来的结构，看着很显眼。",
+      "example": {
+        "en": "You can't miss that tower from far away.",
+        "zh": "那么高的塔，远远就能看到。"
+      },
+      "synonyms": [
+        "structure"
+      ],
+      "position": {
+        "x": 28,
+        "y": 9
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab some KFC",
+      "meaning": "买点肯德基吃"
+    },
+    {
+      "phrase": "walk around the park",
+      "meaning": "在公园附近走走"
+    },
+    {
+      "phrase": "meet outside the building",
+      "meaning": "在楼外碰头"
+    }
+  ]
+}
