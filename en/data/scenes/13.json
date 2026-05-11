@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "id": 13,
+  "title": "街角电话亭读信记",
+  "category": "治愈",
+  "gradient": "linear-gradient(135deg, #c62828 0%, #f8b195 50%, #fdf1d6 100%)",
+  "sentence": {
+    "en": "She opened the little booth like it was hiding a secret letter.",
+    "zh": "她把那个小小电话亭似的书柜打开，像是在拆一封偷偷等她很久的信。",
+    "highlights": [
+      "booth",
+      "open",
+      "letter"
+    ]
+  },
+  "words": [
+    {
+      "id": "booth",
+      "text": "booth",
+      "zhText": "小亭子；电话亭式小柜",
+      "phonetic": "/buːð/",
+      "pos": "n.",
+      "meaning": "a small enclosed space or stand",
+      "example": {
+        "en": "The red booth looked ordinary until she opened it like a tiny magic door.",
+        "zh": "这个红色小亭子本来看着平平无奇，直到她像打开魔法小门一样把它拉开。"
+      },
+      "synonyms": [
+        "stall",
+        "kiosk"
+      ],
+      "position": {
+        "x": 31,
+        "y": 24
+      }
+    },
+    {
+      "id": "shelf",
+      "text": "shelf",
+      "zhText": "书架隔板",
+      "phonetic": "/ʃelf/",
+      "pos": "n.",
+      "meaning": "a flat board used to hold things",
+      "example": {
+        "en": "Every shelf held a few books and the kind of quiet you only notice outside.",
+        "zh": "每一层隔板上都放着几本书，还有一种只有在户外才会被发现的安静。"
+      },
+      "synonyms": [
+        "ledge",
+        "rack"
+      ],
+      "position": {
+        "x": 22,
+        "y": 49
+      }
+    },
+    {
+      "id": "booklet",
+      "text": "booklet",
+      "zhText": "小册子",
+      "phonetic": "/ˈbʊklət/",
+      "pos": "n.",
+      "meaning": "a small thin book",
+      "example": {
+        "en": "She picked up a booklet as if it had chosen her first.",
+        "zh": "她拿起那本小册子的时候，像是它先认出了她。"
+      },
+      "synonyms": [
+        "pamphlet",
+        "brochure"
+      ],
+      "position": {
+        "x": 37,
+        "y": 56
+      }
+    },
+    {
+      "id": "open",
+      "text": "open",
+      "zhText": "打开",
+      "phonetic": "/ˈoʊpən/",
+      "pos": "v.",
+      "meaning": "to move something so it is no longer closed",
+      "example": {
+        "en": "She opened the door carefully, like loud noises might scare the moment away.",
+        "zh": "她小心把门打开，仿佛声音一大，这个瞬间就会被吓跑。"
+      },
+      "synonyms": [
+        "unfold",
+        "unlock"
+      ],
+      "position": {
+        "x": 52,
+        "y": 41
+      }
+    },
+    {
+      "id": "mittens",
+      "text": "mittens",
+      "zhText": "连指手套",
+      "phonetic": "/ˈmɪtnz/",
+      "pos": "n.",
+      "meaning": "warm gloves with one part for the fingers",
+      "example": {
+        "en": "Her mittens said winter, but the books made the whole scene feel warmer.",
+        "zh": "她的连指手套明明写着冬天，书却把整个画面都捂暖了。"
+      },
+      "synonyms": [
+        "gloves"
+      ],
+      "position": {
+        "x": 63,
+        "y": 68
+      }
+    },
+    {
+      "id": "scarf",
+      "text": "scarf",
+      "zhText": "围巾",
+      "phonetic": "/skɑːrf/",
+      "pos": "n.",
+      "meaning": "a piece of cloth worn around the neck for warmth",
+      "example": {
+        "en": "The scarf hung there softly, like the last line of a very gentle story.",
+        "zh": "那条围巾轻轻垂着，像一个温柔故事的最后一句。"
+      },
+      "synonyms": [
+        "wrap",
+        "shawl"
+      ],
+      "position": {
+        "x": 58,
+        "y": 61
+      }
+    },
+    {
+      "id": "earmuffs",
+      "text": "earmuffs",
+      "zhText": "耳罩",
+      "phonetic": "/ˈɪr.mʌfs/",
+      "pos": "n.",
+      "meaning": "warm covers worn over the ears",
+      "example": {
+        "en": "Her earmuffs made her look ready for snow and unexpected poetry at the same time.",
+        "zh": "她戴着耳罩，看起来像是同时准备好了迎接下雪和一小段诗意。"
+      },
+      "synonyms": [
+        "ear warmers"
+      ],
+      "position": {
+        "x": 56,
+        "y": 28
+      }
+    },
+    {
+      "id": "letter",
+      "text": "letter",
+      "zhText": "信；信件",
+      "phonetic": "/ˈletər/",
+      "pos": "n.",
+      "meaning": "a written message sent to someone",
+      "example": {
+        "en": "The paper in her hands felt less like a page and more like a letter from the afternoon.",
+        "zh": "她手里的那张纸，比起普通纸页，更像是午后寄来的一封信。"
+      },
+      "synonyms": [
+        "note",
+        "message"
+      ],
+      "position": {
+        "x": 46,
+        "y": 35
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "open the door",
+      "meaning": "打开门"
+    },
+    {
+      "phrase": "pick up a booklet",
+      "meaning": "拿起一本小册子"
+    },
+    {
+      "phrase": "wear earmuffs",
+      "meaning": "戴着耳罩"
+    }
+  ]
+}
