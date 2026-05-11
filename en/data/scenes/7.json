@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "id": 7,
+  "title": "路边静望",
+  "image": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/en/img/scene-7.webp",
+  "category": "治愈",
+  "gradient": "linear-gradient(135deg, #2f3e2f 0%, #c9a64b 50%, #6e7785 100%)",
+  "sentence": {
+    "en": "A cat is sitting quietly by the road.",
+    "zh": "一只猫正安静地坐在路边。",
+    "highlights": [
+      "cat",
+      "road",
+      "sitting"
+    ]
+  },
+  "words": [
+    {
+      "id": "cat",
+      "text": "cat",
+      "zhText": "猫",
+      "phonetic": "/kæt/",
+      "pos": "n.",
+      "meaning": "猫",
+      "example": {
+        "en": "The cat looks calm and alert.",
+        "zh": "这只猫看起来平静又警觉。"
+      },
+      "synonyms": [
+        "kitty",
+        "feline"
+      ],
+      "position": {
+        "x": 48,
+        "y": 53
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "道路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "道路，马路",
+      "example": {
+        "en": "The road is empty and quiet.",
+        "zh": "这条路空荡荡的，很安静。"
+      },
+      "synonyms": [
+        "street",
+        "lane"
+      ],
+      "position": {
+        "x": 50,
+        "y": 83
+      }
+    },
+    {
+      "id": "barrier",
+      "text": "barrier",
+      "zhText": "护栏",
+      "phonetic": "/ˈbæriər/",
+      "pos": "n.",
+      "meaning": "障碍物，护栏",
+      "example": {
+        "en": "A yellow barrier stands behind the cat.",
+        "zh": "猫的后面有一道黄色护栏。"
+      },
+      "synonyms": [
+        "guardrail",
+        "rail"
+      ],
+      "position": {
+        "x": 46,
+        "y": 42
+      }
+    },
+    {
+      "id": "bush",
+      "text": "bush",
+      "zhText": "灌木丛",
+      "phonetic": "/bʊʃ/",
+      "pos": "n.",
+      "meaning": "灌木，灌木丛",
+      "example": {
+        "en": "The bush makes the background look green.",
+        "zh": "灌木丛让背景显得很青绿。"
+      },
+      "synonyms": [
+        "shrub",
+        "plant"
+      ],
+      "position": {
+        "x": 52,
+        "y": 18
+      }
+    },
+    {
+      "id": "sitting",
+      "text": "sitting",
+      "zhText": "坐着的",
+      "phonetic": "/ˈsɪtɪŋ/",
+      "pos": "v./adj.",
+      "meaning": "坐着；处于坐姿",
+      "example": {
+        "en": "The cat is sitting near the barrier.",
+        "zh": "这只猫正坐在护栏旁边。"
+      },
+      "synonyms": [
+        "resting",
+        "perched"
+      ],
+      "position": {
+        "x": 48,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sit quietly",
+      "meaning": "安静地坐着"
+    },
+    {
+      "phrase": "by the road",
+      "meaning": "在路边"
+    },
+    {
+      "phrase": "yellow barrier",
+      "meaning": "黄色护栏"
+    }
+  ]
+}
