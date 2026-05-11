@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 10,
+  "title": "硬核午后烤串",
+  "category": "美食",
+  "gradient": "linear-gradient(135deg, #F2D16B 0%, #C98C52 50%, #6B4A2E 100%)",
+  "sentence": {
+    "en": "He grills like it's a mission, but the skewers smell like a holiday.",
+    "zh": "他烤串的表情像在执行任务，但香味已经提前开始放假了。",
+    "highlights": [
+      "grill",
+      "skewer"
+    ]
+  },
+  "words": [
+    {
+      "id": "grill",
+      "text": "grill",
+      "zhText": "烤架；烧烤",
+      "phonetic": "/ɡrɪl/",
+      "pos": "n./v.",
+      "meaning": "用来烤食物的架子；在火上烤",
+      "example": {
+        "en": "He guarded the grill like the whole afternoon depended on it.",
+        "zh": "他守着烤架的样子，仿佛整个下午的成败都系在这上面。"
+      },
+      "synonyms": [
+        "barbecue",
+        "roast"
+      ],
+      "position": {
+        "x": 24,
+        "y": 63
+      }
+    },
+    {
+      "id": "skewer",
+      "text": "skewer",
+      "zhText": "串签；把……串起来",
+      "phonetic": "/ˈskjuːər/",
+      "pos": "n./v.",
+      "meaning": "穿着食物的细签子；用签子串",
+      "example": {
+        "en": "One more skewer on the fire, and suddenly nobody remembers being patient.",
+        "zh": "火上再多放一串，大家突然就不记得“耐心”怎么写了。"
+      },
+      "synonyms": [
+        "stick",
+        "rod"
+      ],
+      "position": {
+        "x": 47,
+        "y": 58
+      }
+    },
+    {
+      "id": "charcoal",
+      "text": "charcoal",
+      "zhText": "木炭",
+      "phonetic": "/ˈtʃɑːrkoʊl/",
+      "pos": "n.",
+      "meaning": "烧烤时使用的黑色炭块",
+      "example": {
+        "en": "The charcoal sat there quietly, plotting all that smoky flavor.",
+        "zh": "木炭安安静静地待着，却像在偷偷策划整场烟火气。"
+      },
+      "synonyms": [
+        "coal",
+        "ember"
+      ],
+      "position": {
+        "x": 11,
+        "y": 80
+      }
+    },
+    {
+      "id": "fan",
+      "text": "fan",
+      "zhText": "扇子；扇风",
+      "phonetic": "/fæn/",
+      "pos": "n./v.",
+      "meaning": "用来扇风的工具；扇动让空气流通",
+      "example": {
+        "en": "He gave the coals a few dramatic fanning moves like a low-budget chef show.",
+        "zh": "他扇了几下炭火，动作戏很足，像一档低成本厨艺秀。"
+      },
+      "synonyms": [
+        "wave",
+        "cool"
+      ],
+      "position": {
+        "x": 33,
+        "y": 37
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "放食物或物品的浅盘",
+      "example": {
+        "en": "The tray waited beside the grill, ready for its delicious little promotion.",
+        "zh": "托盘在烤架旁待命，随时准备把食材升职成美味。"
+      },
+      "synonyms": [
+        "plate",
+        "platter"
+      ],
+      "position": {
+        "x": 12,
+        "y": 74
+      }
+    },
+    {
+      "id": "sausage",
+      "text": "sausage",
+      "zhText": "香肠",
+      "phonetic": "/ˈsɔːsɪdʒ/",
+      "pos": "n.",
+      "meaning": "一种常见的肉制食物，适合烧烤",
+      "example": {
+        "en": "The sausages in the bag looked like they knew they were next.",
+        "zh": "袋子里的香肠看起来心里有数，知道下一个就轮到自己了。"
+      },
+      "synonyms": [
+        "wiener",
+        "hot dog"
+      ],
+      "position": {
+        "x": 87,
+        "y": 67
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "fire up the grill",
+      "meaning": "把烤架生起火来"
+    },
+    {
+      "phrase": "grill skewers",
+      "meaning": "烤肉串/烤串"
+    },
+    {
+      "phrase": "smoky flavor",
+      "meaning": "烟熏风味"
+    }
+  ]
+}
