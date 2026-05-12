@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 16,
+  "title": "猫待在花树上",
+  "categoryId": "pets",
+  "gradient": "linear-gradient(135deg, #f7d6df 0%, #c9d7f2 50%, #7a6a5f 100%)",
+  "sentence": {
+    "en": "The cat's just sitting in the blossoms.",
+    "zh": "这只猫就安安静静待在花丛里。",
+    "highlights": [
+      "cat",
+      "sitting",
+      "blossoms"
+    ]
+  },
+  "words": [
+    {
+      "id": "cat",
+      "text": "cat",
+      "zhText": "猫",
+      "phonetic": "/kæt/",
+      "pos": "n.",
+      "meaning": "猫",
+      "example": {
+        "en": "Your cat looks so chill today.",
+        "zh": "你家猫今天看起来好淡定。"
+      },
+      "synonyms": [
+        "kitty"
+      ],
+      "position": {
+        "x": 73,
+        "y": 50
+      }
+    },
+    {
+      "id": "blossom",
+      "text": "blossoms",
+      "zhText": "花",
+      "phonetic": "/ˈblɑːsəmz/",
+      "pos": "n.",
+      "meaning": "花朵",
+      "example": {
+        "en": "These blossoms came out really fast.",
+        "zh": "这些花开得也太快了。"
+      },
+      "synonyms": [
+        "flowers"
+      ],
+      "position": {
+        "x": 15,
+        "y": 38
+      }
+    },
+    {
+      "id": "branch",
+      "text": "branch",
+      "zhText": "树枝",
+      "phonetic": "/bræntʃ/",
+      "pos": "n.",
+      "meaning": "树枝",
+      "example": {
+        "en": "Careful, that branch looks kind of thin.",
+        "zh": "小心点，那根树枝看着有点细。"
+      },
+      "synonyms": [
+        "limb"
+      ],
+      "position": {
+        "x": 60,
+        "y": 12
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "待着",
+      "phonetic": "/ˈsɪtɪŋ/",
+      "pos": "v.",
+      "meaning": "坐着",
+      "example": {
+        "en": "He's just sitting there doing nothing.",
+        "zh": "它就坐那儿，啥也没干。"
+      },
+      "synonyms": [
+        "resting"
+      ],
+      "position": {
+        "x": 39,
+        "y": 72
+      }
+    },
+    {
+      "id": "look",
+      "text": "looking",
+      "zhText": "看",
+      "phonetic": "/ˈlʊkɪŋ/",
+      "pos": "v.",
+      "meaning": "看着",
+      "example": {
+        "en": "She's looking up at something.",
+        "zh": "它在抬头看什么呢。"
+      },
+      "synonyms": [
+        "watching"
+      ],
+      "position": {
+        "x": 52,
+        "y": 26
+      }
+    },
+    {
+      "id": "leaf",
+      "text": "leaf",
+      "zhText": "叶子",
+      "phonetic": "/liːf/",
+      "pos": "n.",
+      "meaning": "叶子",
+      "example": {
+        "en": "There are fresh leaves everywhere now.",
+        "zh": "现在到处都是新叶子。"
+      },
+      "synonyms": [
+        "green"
+      ],
+      "position": {
+        "x": 28,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sit in a tree",
+      "meaning": "待在树上"
+    },
+    {
+      "phrase": "look up at",
+      "meaning": "抬头看"
+    },
+    {
+      "phrase": "full of blossoms",
+      "meaning": "开满花"
+    }
+  ]
+}
