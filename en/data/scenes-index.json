@@ -96,6 +96,14 @@
       "gradient": "linear-gradient(135deg, #f6e7d8 0%, #d9c2ad 50%, #8b6b5a 100%)",
       "wordCount": 6,
       "previewWords": "holding hands · hand · ring"
+    },
+    {
+      "id": 13,
+      "title": "站在山顶看风景",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #cfc9be 0%, #6f7568 50%, #1f231d 100%)",
+      "wordCount": 7,
+      "previewWords": "mountains · clouds · cliff"
     }
   ]
 }
