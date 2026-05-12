@@ -120,6 +120,14 @@
       "gradient": "linear-gradient(135deg, #6f6f6a 0%, #8b8175 50%, #b7afa3 100%)",
       "wordCount": 6,
       "previewWords": "roof · courtyard · gate"
+    },
+    {
+      "id": 16,
+      "title": "猫待在花树上",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #f7d6df 0%, #c9d7f2 50%, #7a6a5f 100%)",
+      "wordCount": 6,
+      "previewWords": "cat · blossoms · branch"
     }
   ]
 }
