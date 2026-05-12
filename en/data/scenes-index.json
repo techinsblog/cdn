@@ -64,6 +64,14 @@
       "gradient": "linear-gradient(135deg, #f7e7c6 0%, #f39a3c 50%, #d85a1a 100%)",
       "wordCount": 6,
       "previewWords": "dancing · scarf · arm"
+    },
+    {
+      "id": 9,
+      "title": "城墙上逛一逛",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #cfd6df 0%, #8fa1b2 50%, #4e5863 100%)",
+      "wordCount": 6,
+      "previewWords": "wall · tower · lantern"
     }
   ]
 }
