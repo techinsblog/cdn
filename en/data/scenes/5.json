@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 5,
+  "title": "边吃早餐边用电脑",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #f6efe7 0%, #e7d7c9 50%, #c8d8d3 100%)",
+  "sentence": {
+    "en": "I'm having waffles and coffee by my laptop.",
+    "zh": "我正边吃华夫饼边喝咖啡看电脑。",
+    "highlights": [
+      "waffle",
+      "coffee",
+      "laptop"
+    ]
+  },
+  "words": [
+    {
+      "id": "waffle",
+      "text": "waffles",
+      "zhText": "华夫饼",
+      "phonetic": "/ˈwɑːfəl/",
+      "pos": "n.",
+      "meaning": "华夫饼",
+      "example": {
+        "en": "These waffles look so good.",
+        "zh": "这华夫饼看着也太香了。"
+      },
+      "synonyms": [
+        "pastry"
+      ],
+      "position": {
+        "x": 12,
+        "y": 28
+      }
+    },
+    {
+      "id": "blackberry",
+      "text": "blackberries",
+      "zhText": "黑莓",
+      "phonetic": "/ˈblækˌberi/",
+      "pos": "n.",
+      "meaning": "黑莓",
+      "example": {
+        "en": "Just throw some blackberries on top.",
+        "zh": "上面随手放点黑莓就行。"
+      },
+      "synonyms": [
+        "berry"
+      ],
+      "position": {
+        "x": 63,
+        "y": 78
+      }
+    },
+    {
+      "id": "coffee",
+      "text": "coffee",
+      "zhText": "咖啡",
+      "phonetic": "/ˈkɔːfi/",
+      "pos": "n.",
+      "meaning": "咖啡",
+      "example": {
+        "en": "I need coffee before I do anything.",
+        "zh": "我得先喝咖啡，不然啥也不想干。"
+      },
+      "synonyms": [
+        "drink"
+      ],
+      "position": {
+        "x": 20,
+        "y": 80
+      }
+    },
+    {
+      "id": "laptop",
+      "text": "laptop",
+      "zhText": "笔记本电脑",
+      "phonetic": "/ˈlæpˌtɑːp/",
+      "pos": "n.",
+      "meaning": "笔记本电脑",
+      "example": {
+        "en": "My laptop's already open on the bed.",
+        "zh": "我的笔记本已经摊在床上了。"
+      },
+      "synonyms": [
+        "computer"
+      ],
+      "position": {
+        "x": 88,
+        "y": 12
+      }
+    },
+    {
+      "id": "plate",
+      "text": "plate",
+      "zhText": "盘子",
+      "phonetic": "/pleɪt/",
+      "pos": "n.",
+      "meaning": "盘子",
+      "example": {
+        "en": "Put it on the plate, not the bed.",
+        "zh": "放盘子里，别直接放床上。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 8,
+        "y": 52
+      }
+    },
+    {
+      "id": "pour",
+      "text": "pour",
+      "zhText": "倒",
+      "phonetic": "/pɔːr/",
+      "pos": "v.",
+      "meaning": "倒",
+      "example": {
+        "en": "Can you pour me a little more milk?",
+        "zh": "能再给我倒一点奶吗？"
+      },
+      "synonyms": [
+        "fill"
+      ],
+      "position": {
+        "x": 83,
+        "y": 60
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "have breakfast",
+      "meaning": "吃早餐"
+    },
+    {
+      "phrase": "grab a coffee",
+      "meaning": "喝杯咖啡"
+    },
+    {
+      "phrase": "work on my laptop",
+      "meaning": "用笔记本电脑处理事情"
+    }
+  ]
+}
