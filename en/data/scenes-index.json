@@ -80,6 +80,14 @@
       "gradient": "linear-gradient(135deg, #7ecb6b 0%, #8ecae6 50%, #5b7fa3 100%)",
       "wordCount": 6,
       "previewWords": "hiking · trail · backpack"
+    },
+    {
+      "id": 11,
+      "title": "在公路上跳起来",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #d9e2e8 0%, #b8c3cc 50%, #6b5a52 100%)",
+      "wordCount": 6,
+      "previewWords": "jumping · road · jacket"
     }
   ]
 }
