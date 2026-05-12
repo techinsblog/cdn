@@ -208,6 +208,14 @@
       "gradient": "linear-gradient(135deg, #F6C27A 0%, #F4E7D3 50%, #C9DDF2 100%)",
       "wordCount": 8,
       "previewWords": "class · teacher · chatting"
+    },
+    {
+      "id": 27,
+      "title": "天鹅带着宝宝游水",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #d8d0c8 0%, #b7aa9b 50%, #8d796b 100%)",
+      "wordCount": 7,
+      "previewWords": "swan · baby · water"
     }
   ]
 }
