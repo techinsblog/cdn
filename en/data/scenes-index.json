@@ -1,13 +1,4 @@
 {
   "version": 1,
-  "scenes": [
-    {
-      "id": 1,
-      "title": "校园路边等人",
-      "categoryId": "campus",
-      "gradient": "linear-gradient(135deg, #f2d6a2 0%, #c9d8a8 50%, #8fb3c9 100%)",
-      "wordCount": 6,
-      "previewWords": "building · walking · tree"
-    }
-  ]
+  "scenes": []
 }
