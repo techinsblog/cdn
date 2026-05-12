@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "themes": [
+    { "id": "cozy-afternoon", "name": "休闲午后", "emoji": "☕", "categoryId": "daily", "sceneIds": [1, 3] },
+    { "id": "morning-routine", "name": "清晨日常", "emoji": "🌅", "categoryId": "daily", "sceneIds": [] },
+    { "id": "weekend-vibes", "name": "周末时光", "emoji": "🎈", "categoryId": "daily", "sceneIds": [] },
+    { "id": "rainy-day", "name": "雨天漫步", "emoji": "🌧️", "categoryId": "daily", "sceneIds": [] },
+
+    { "id": "cafe-culture", "name": "咖啡文化", "emoji": "☕", "categoryId": "food", "sceneIds": [1] },
+    { "id": "street-food", "name": "街头小吃", "emoji": "🍢", "categoryId": "food", "sceneIds": [] },
+    { "id": "fine-dining", "name": "精致餐厅", "emoji": "🍷", "categoryId": "food", "sceneIds": [] },
+    { "id": "home-cooking", "name": "家常烹饪", "emoji": "🍳", "categoryId": "food", "sceneIds": [] },
+    { "id": "bakery-sweets", "name": "烘焙甜品", "emoji": "🧁", "categoryId": "food", "sceneIds": [] },
+    { "id": "brunch-time", "name": "周末Brunch", "emoji": "🥐", "categoryId": "food", "sceneIds": [] },
+    { "id": "milk-tea", "name": "奶茶时间", "emoji": "🧋", "categoryId": "food", "sceneIds": [] },
+
+    { "id": "urban-life", "name": "城市探索", "emoji": "🏙️", "categoryId": "travel", "sceneIds": [4] },
+    { "id": "airport-flight", "name": "机场出发", "emoji": "🛫", "categoryId": "travel", "sceneIds": [] },
+    { "id": "hotel-stay", "name": "酒店入住", "emoji": "🏨", "categoryId": "travel", "sceneIds": [] },
+    { "id": "road-trip", "name": "自驾旅行", "emoji": "🚗", "categoryId": "travel", "sceneIds": [] },
+    { "id": "public-transit", "name": "公共交通", "emoji": "🚇", "categoryId": "travel", "sceneIds": [] },
+
+    { "id": "office-day", "name": "办公室日常", "emoji": "🖥️", "categoryId": "work", "sceneIds": [] },
+    { "id": "meeting-room", "name": "会议沟通", "emoji": "📋", "categoryId": "work", "sceneIds": [] },
+    { "id": "job-interview", "name": "求职面试", "emoji": "🤝", "categoryId": "work", "sceneIds": [] },
+    { "id": "remote-work", "name": "远程办公", "emoji": "💻", "categoryId": "work", "sceneIds": [] },
+
+    { "id": "warm-moments", "name": "温暖时刻", "emoji": "🌅", "categoryId": "healing", "sceneIds": [2, 3] },
+    { "id": "bookstore-reading", "name": "书店阅读", "emoji": "📚", "categoryId": "healing", "sceneIds": [] },
+    { "id": "garden-flowers", "name": "花园赏花", "emoji": "🌸", "categoryId": "healing", "sceneIds": [] },
+    { "id": "pet-companion", "name": "宠物陪伴", "emoji": "🐱", "categoryId": "healing", "sceneIds": [] },
+    { "id": "sunset-glow", "name": "夕阳余晖", "emoji": "🌇", "categoryId": "healing", "sceneIds": [] },
+    { "id": "candle-night", "name": "烛光夜晚", "emoji": "🕯️", "categoryId": "healing", "sceneIds": [] },
+
+    { "id": "gym-workout", "name": "健身锻炼", "emoji": "💪", "categoryId": "sports", "sceneIds": [] },
+    { "id": "outdoor-running", "name": "户外跑步", "emoji": "🏃", "categoryId": "sports", "sceneIds": [] },
+    { "id": "swimming-pool", "name": "游泳池", "emoji": "🏊", "categoryId": "sports", "sceneIds": [] },
+    { "id": "ball-games", "name": "球类运动", "emoji": "⚽", "categoryId": "sports", "sceneIds": [] },
+    { "id": "dance-class", "name": "舞蹈课", "emoji": "💃", "categoryId": "sports", "sceneIds": [] },
+
+    { "id": "mall-shopping", "name": "商场血拼", "emoji": "🏬", "categoryId": "shopping", "sceneIds": [] },
+    { "id": "supermarket", "name": "超市采购", "emoji": "🛒", "categoryId": "shopping", "sceneIds": [] },
+    { "id": "online-shopping", "name": "网购快递", "emoji": "📦", "categoryId": "shopping", "sceneIds": [] },
+    { "id": "vintage-thrift", "name": "vintage淘货", "emoji": "👗", "categoryId": "shopping", "sceneIds": [] },
+
+    { "id": "party-time", "name": "派对聚会", "emoji": "🎊", "categoryId": "social", "sceneIds": [] },
+    { "id": "dinner-gathering", "name": "朋友聚餐", "emoji": "🍻", "categoryId": "social", "sceneIds": [] },
+    { "id": "dating", "name": "约会时刻", "emoji": "💕", "categoryId": "social", "sceneIds": [] },
+    { "id": "roommate-life", "name": "室友日常", "emoji": "🏠", "categoryId": "social", "sceneIds": [] },
+
+    { "id": "museum-visit", "name": "博物馆参观", "emoji": "🏛️", "categoryId": "culture", "sceneIds": [] },
+    { "id": "movie-theater", "name": "电影院", "emoji": "🎬", "categoryId": "culture", "sceneIds": [] },
+    { "id": "music-concert", "name": "音乐演出", "emoji": "🎵", "categoryId": "culture", "sceneIds": [] },
+    { "id": "art-gallery", "name": "艺术画廊", "emoji": "🎨", "categoryId": "culture", "sceneIds": [] },
+
+    { "id": "beach-seaside", "name": "海滩漫步", "emoji": "🏖️", "categoryId": "nature", "sceneIds": [] },
+    { "id": "mountain-hiking", "name": "登山徒步", "emoji": "⛰️", "categoryId": "nature", "sceneIds": [] },
+    { "id": "park-picnic", "name": "公园野餐", "emoji": "🧺", "categoryId": "nature", "sceneIds": [] },
+    { "id": "starry-night", "name": "星空露营", "emoji": "⭐", "categoryId": "nature", "sceneIds": [] },
+    { "id": "cherry-blossom", "name": "樱花季", "emoji": "🌸", "categoryId": "nature", "sceneIds": [] },
+
+    { "id": "living-room", "name": "客厅休息", "emoji": "🛋️", "categoryId": "home", "sceneIds": [] },
+    { "id": "kitchen-cook", "name": "厨房做饭", "emoji": "🍲", "categoryId": "home", "sceneIds": [] },
+    { "id": "gardening", "name": "阳台花艺", "emoji": "🌱", "categoryId": "home", "sceneIds": [] },
+
+    { "id": "pharmacy", "name": "药店买药", "emoji": "💊", "categoryId": "health", "sceneIds": [] },
+    { "id": "doctor-visit", "name": "看医生", "emoji": "👨‍⚕️", "categoryId": "health", "sceneIds": [] },
+    { "id": "yoga-meditation", "name": "瑜伽冥想", "emoji": "🧘", "categoryId": "health", "sceneIds": [] },
+
+    { "id": "classroom", "name": "课堂学习", "emoji": "📖", "categoryId": "campus", "sceneIds": [] },
+    { "id": "library-study", "name": "图书馆自习", "emoji": "📚", "categoryId": "campus", "sceneIds": [] },
+    { "id": "dorm-life", "name": "宿舍生活", "emoji": "🛏️", "categoryId": "campus", "sceneIds": [] },
+    { "id": "campus-canteen", "name": "食堂就餐", "emoji": "🍱", "categoryId": "campus", "sceneIds": [] },
+    { "id": "exam-prep", "name": "备考冲刺", "emoji": "✏️", "categoryId": "campus", "sceneIds": [] },
+    { "id": "club-activity", "name": "社团活动", "emoji": "🎪", "categoryId": "campus", "sceneIds": [] },
+    { "id": "graduation", "name": "毕业季", "emoji": "🎓", "categoryId": "campus", "sceneIds": [] },
+    { "id": "study-abroad", "name": "留学生活", "emoji": "🌍", "categoryId": "campus", "sceneIds": [] },
+
+    { "id": "skincare-routine", "name": "护肤日常", "emoji": "🧴", "categoryId": "beauty", "sceneIds": [] },
+    { "id": "makeup-look", "name": "化妆打扮", "emoji": "💄", "categoryId": "beauty", "sceneIds": [] },
+    { "id": "hair-salon", "name": "美发沙龙", "emoji": "💇‍♀️", "categoryId": "beauty", "sceneIds": [] },
+    { "id": "ootd-fashion", "name": "今日穿搭", "emoji": "👠", "categoryId": "beauty", "sceneIds": [] },
+    { "id": "nail-art", "name": "美甲艺术", "emoji": "💅", "categoryId": "beauty", "sceneIds": [] },
+    { "id": "perfume-scent", "name": "香水香氛", "emoji": "🌹", "categoryId": "beauty", "sceneIds": [] },
+
+    { "id": "cat-world", "name": "猫咪世界", "emoji": "🐱", "categoryId": "pets", "sceneIds": [] },
+    { "id": "dog-walk", "name": "遛狗时光", "emoji": "🐕", "categoryId": "pets", "sceneIds": [] },
+    { "id": "pet-cafe", "name": "宠物咖啡馆", "emoji": "🐾", "categoryId": "pets", "sceneIds": [] },
+    { "id": "pet-grooming", "name": "宠物美容", "emoji": "✂️", "categoryId": "pets", "sceneIds": [] },
+
+    { "id": "hand-lettering", "name": "手帐拼贴", "emoji": "📓", "categoryId": "creative", "sceneIds": [] },
+    { "id": "flower-arrange", "name": "插花花艺", "emoji": "💐", "categoryId": "creative", "sceneIds": [] },
+    { "id": "pottery-clay", "name": "陶艺手作", "emoji": "🏺", "categoryId": "creative", "sceneIds": [] },
+    { "id": "photo-walk", "name": "城市摄影", "emoji": "📸", "categoryId": "creative", "sceneIds": [] },
+    { "id": "diy-craft", "name": "DIY手工", "emoji": "✂️", "categoryId": "creative", "sceneIds": [] }
+  ]
+}
