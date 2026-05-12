@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "categories": [
+    { "id": "daily", "name": "日常", "emoji": "☀️", "sort": 1 },
+    { "id": "healing", "name": "治愈", "emoji": "🌿", "sort": 2 },
+    { "id": "travel", "name": "出行", "emoji": "🚶", "sort": 3 },
+    { "id": "food", "name": "美食", "emoji": "🍜", "sort": 4 },
+    { "id": "work", "name": "职场", "emoji": "💼", "sort": 5 }
+  ]
+}
