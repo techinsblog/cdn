@@ -216,6 +216,14 @@
       "gradient": "linear-gradient(135deg, #d8d0c8 0%, #b7aa9b 50%, #8d796b 100%)",
       "wordCount": 7,
       "previewWords": "swan · baby · water"
+    },
+    {
+      "id": 28,
+      "title": "桌上有份莓果小点心",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #6b4a3a 0%, #9aa7b1 50%, #2f2f35 100%)",
+      "wordCount": 7,
+      "previewWords": "tart · berries · plate"
     }
   ]
 }
