@@ -192,6 +192,14 @@
       "gradient": "linear-gradient(135deg, #6b8f4e 0%, #8b6ccf 50%, #d8b23f 100%)",
       "wordCount": 6,
       "previewWords": "flowers · holding · looking"
+    },
+    {
+      "id": 25,
+      "title": "狗狗探出车窗",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #0b1020 0%, #2f3e5c 50%, #f2b38a 100%)",
+      "wordCount": 7,
+      "previewWords": "dog · car · window"
     }
   ]
 }
