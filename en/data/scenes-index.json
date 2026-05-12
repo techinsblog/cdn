@@ -16,6 +16,14 @@
       "gradient": "linear-gradient(135deg, #f7e7dc 0%, #f3d3c1 50%, #e8c2b0 100%)",
       "wordCount": 6,
       "previewWords": "window · curtain · dress"
+    },
+    {
+      "id": 3,
+      "title": "坐门口看手机",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2c3e50 0%, #5d6d7e 50%, #c0392b 100%)",
+      "wordCount": 6,
+      "previewWords": "phone · stool · apron"
     }
   ]
 }
