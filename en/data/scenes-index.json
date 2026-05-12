@@ -72,6 +72,14 @@
       "gradient": "linear-gradient(135deg, #cfd6df 0%, #8fa1b2 50%, #4e5863 100%)",
       "wordCount": 6,
       "previewWords": "wall · tower · lantern"
+    },
+    {
+      "id": 10,
+      "title": "在山里徒步",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #7ecb6b 0%, #8ecae6 50%, #5b7fa3 100%)",
+      "wordCount": 6,
+      "previewWords": "hiking · trail · backpack"
     }
   ]
 }
