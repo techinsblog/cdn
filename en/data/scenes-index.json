@@ -104,6 +104,14 @@
       "gradient": "linear-gradient(135deg, #cfc9be 0%, #6f7568 50%, #1f231d 100%)",
       "wordCount": 7,
       "previewWords": "mountains · clouds · cliff"
+    },
+    {
+      "id": 14,
+      "title": "小猫在床上走",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #f6e7e5 0%, #d9dce6 50%, #b8a89d 100%)",
+      "wordCount": 6,
+      "previewWords": "kitten · bed · blanket"
     }
   ]
 }
