@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 14,
+  "title": "小猫在床上走",
+  "categoryId": "pets",
+  "gradient": "linear-gradient(135deg, #f6e7e5 0%, #d9dce6 50%, #b8a89d 100%)",
+  "sentence": {
+    "en": "The kitten's just walking around on the bed.",
+    "zh": "这只小猫就在床上到处走走。",
+    "highlights": [
+      "kitten",
+      "walking",
+      "bed"
+    ]
+  },
+  "words": [
+    {
+      "id": "kitten",
+      "text": "kitten",
+      "zhText": "小猫",
+      "phonetic": "/ˈkɪtn/",
+      "pos": "n.",
+      "meaning": "小猫",
+      "example": {
+        "en": "Aww, the kitten is so tiny.",
+        "zh": "啊，这只小猫也太小只了吧。"
+      },
+      "synonyms": [
+        "baby cat"
+      ],
+      "position": {
+        "x": 27,
+        "y": 42
+      }
+    },
+    {
+      "id": "bed",
+      "text": "bed",
+      "zhText": "床",
+      "phonetic": "/bed/",
+      "pos": "n.",
+      "meaning": "床",
+      "example": {
+        "en": "Yep, he's on my bed again.",
+        "zh": "对，他又跑到我床上了。"
+      },
+      "synonyms": [
+        "bunk"
+      ],
+      "position": {
+        "x": 18,
+        "y": 78
+      }
+    },
+    {
+      "id": "blanket",
+      "text": "blanket",
+      "zhText": "毯子",
+      "phonetic": "/ˈblæŋkɪt/",
+      "pos": "n.",
+      "meaning": "毯子",
+      "example": {
+        "en": "Can you grab that pink blanket?",
+        "zh": "你帮我拿一下那条粉色毯子。"
+      },
+      "synonyms": [
+        "cover"
+      ],
+      "position": {
+        "x": 83,
+        "y": 63
+      }
+    },
+    {
+      "id": "tail",
+      "text": "tail",
+      "zhText": "尾巴",
+      "phonetic": "/teɪl/",
+      "pos": "n.",
+      "meaning": "尾巴",
+      "example": {
+        "en": "Look at his tail—it's straight up.",
+        "zh": "你看它尾巴，都竖起来了。"
+      },
+      "synonyms": [
+        "stub"
+      ],
+      "position": {
+        "x": 90,
+        "y": 35
+      }
+    },
+    {
+      "id": "walking",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/ˈwɔːkɪŋ/",
+      "pos": "v.",
+      "meaning": "走路",
+      "example": {
+        "en": "He's just walking around like he owns the place.",
+        "zh": "它就在那儿晃来晃去，跟自己家一样。"
+      },
+      "synonyms": [
+        "moving"
+      ],
+      "position": {
+        "x": 55,
+        "y": 67
+      }
+    },
+    {
+      "id": "soft",
+      "text": "soft",
+      "zhText": "柔软",
+      "phonetic": "/sɔːft/",
+      "pos": "adj.",
+      "meaning": "柔软",
+      "example": {
+        "en": "This blanket feels really soft.",
+        "zh": "这条毯子摸起来真的很软。"
+      },
+      "synonyms": [
+        "fluffy"
+      ],
+      "position": {
+        "x": 12,
+        "y": 60
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk around",
+      "meaning": "到处走走"
+    },
+    {
+      "phrase": "curl up on the bed",
+      "meaning": "蜷在床上"
+    },
+    {
+      "phrase": "soft blanket",
+      "meaning": "柔软的毯子"
+    }
+  ]
+}
