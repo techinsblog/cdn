@@ -184,6 +184,14 @@
       "gradient": "linear-gradient(135deg, #6f4e37 0%, #9bb7c9 50%, #d8c3a5 100%)",
       "wordCount": 6,
       "previewWords": "hanging out · drinks · table"
+    },
+    {
+      "id": 24,
+      "title": "小孩在看花",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #6b8f4e 0%, #8b6ccf 50%, #d8b23f 100%)",
+      "wordCount": 6,
+      "previewWords": "flowers · holding · looking"
     }
   ]
 }
