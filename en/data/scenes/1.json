@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": 1,
+  "title": "校园路边等人",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #f2d6a2 0%, #c9d8a8 50%, #8fb3c9 100%)",
+  "sentence": {
+    "en": "They're just walking by the campus building.",
+    "zh": "他们就是从校园楼边走过。",
+    "highlights": [
+      "walking",
+      "building"
+    ]
+  },
+  "words": [
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "楼房",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "楼，建筑",
+      "example": {
+        "en": "We're meeting by that building, right?",
+        "zh": "我们就在那栋楼旁边碰头，对吧？"
+      },
+      "synonyms": [
+        "block",
+        "structure"
+      ],
+      "position": {
+        "x": 88,
+        "y": 56
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走",
+      "example": {
+        "en": "Don't wait for me. Just keep walking.",
+        "zh": "别等我了，你继续走吧。"
+      },
+      "synonyms": [
+        "stroll",
+        "go"
+      ],
+      "position": {
+        "x": 62,
+        "y": 78
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand under that tree. It's shady there.",
+        "zh": "我们站那棵树下面吧，那边有阴凉。"
+      },
+      "synonyms": [
+        "plant"
+      ],
+      "position": {
+        "x": 12,
+        "y": 42
+      }
+    },
+    {
+      "id": "balcony",
+      "text": "balcony",
+      "zhText": "阳台",
+      "phonetic": "/ˈbælkəni/",
+      "pos": "n.",
+      "meaning": "阳台",
+      "example": {
+        "en": "Someone left their clothes on the balcony again.",
+        "zh": "又有人把衣服晾在阳台上了。"
+      },
+      "synonyms": [
+        "terrace"
+      ],
+      "position": {
+        "x": 77,
+        "y": 18
+      }
+    },
+    {
+      "id": "clothes",
+      "text": "clothes",
+      "zhText": "衣服",
+      "phonetic": "/kloʊðz/",
+      "pos": "n.",
+      "meaning": "衣服",
+      "example": {
+        "en": "Your clothes are still hanging outside.",
+        "zh": "你的衣服还晾在外面呢。"
+      },
+      "synonyms": [
+        "stuff",
+        "outfit"
+      ],
+      "position": {
+        "x": 93,
+        "y": 8
+      }
+    },
+    {
+      "id": "fence",
+      "text": "fence",
+      "zhText": "围栏",
+      "phonetic": "/fens/",
+      "pos": "n.",
+      "meaning": "围栏",
+      "example": {
+        "en": "Let's wait by the fence. It's easy to spot.",
+        "zh": "我们就在围栏边等吧，好找。"
+      },
+      "synonyms": [
+        "rail",
+        "barrier"
+      ],
+      "position": {
+        "x": 30,
+        "y": 60
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk by",
+      "meaning": "路过"
+    },
+    {
+      "phrase": "wait by the building",
+      "meaning": "在楼边等"
+    },
+    {
+      "phrase": "hang clothes outside",
+      "meaning": "把衣服晾在外面"
+    }
+  ]
+}
