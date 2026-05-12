@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 20,
+  "title": "雪地里往前走",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #f6e1c3 0%, #f3c06b 50%, #2b3745 100%)",
+  "sentence": {
+    "en": "A kid's walking across the snow at sunrise.",
+    "zh": "一个小孩在日出时走过雪地。",
+    "highlights": [
+      "walking",
+      "snow",
+      "sunrise"
+    ]
+  },
+  "words": [
+    {
+      "id": "kid",
+      "text": "kid",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小孩",
+      "example": {
+        "en": "That kid's really bundled up.",
+        "zh": "那个小孩裹得可真严实。"
+      },
+      "synonyms": [
+        "child"
+      ],
+      "position": {
+        "x": 58,
+        "y": 48
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走",
+      "example": {
+        "en": "He's just walking straight ahead.",
+        "zh": "他就是一直往前走。"
+      },
+      "synonyms": [
+        "go"
+      ],
+      "position": {
+        "x": 46,
+        "y": 57
+      }
+    },
+    {
+      "id": "snow",
+      "text": "snow",
+      "zhText": "雪地",
+      "phonetic": "/snoʊ/",
+      "pos": "n.",
+      "meaning": "雪",
+      "example": {
+        "en": "The snow looks kind of crunchy.",
+        "zh": "这雪看着有点踩上去咯吱响。"
+      },
+      "synonyms": [
+        "snowfall"
+      ],
+      "position": {
+        "x": 18,
+        "y": 72
+      }
+    },
+    {
+      "id": "footprint",
+      "text": "footprints",
+      "zhText": "脚印",
+      "phonetic": "/ˈfʊtprɪnts/",
+      "pos": "n.",
+      "meaning": "脚印",
+      "example": {
+        "en": "You can follow the footprints back.",
+        "zh": "顺着脚印就能走回去。"
+      },
+      "synonyms": [
+        "tracks"
+      ],
+      "position": {
+        "x": 39,
+        "y": 86
+      }
+    },
+    {
+      "id": "sunrise",
+      "text": "sunrise",
+      "zhText": "日出",
+      "phonetic": "/ˈsʌnraɪz/",
+      "pos": "n.",
+      "meaning": "日出",
+      "example": {
+        "en": "We got up way too early for sunrise.",
+        "zh": "为了看日出，我们起得也太早了。"
+      },
+      "synonyms": [
+        "dawn"
+      ],
+      "position": {
+        "x": 68,
+        "y": 28
+      }
+    },
+    {
+      "id": "shadow",
+      "text": "shadow",
+      "zhText": "影子",
+      "phonetic": "/ˈʃædoʊ/",
+      "pos": "n.",
+      "meaning": "影子",
+      "example": {
+        "en": "Look how long that shadow is.",
+        "zh": "你看那影子多长。"
+      },
+      "synonyms": [
+        "silhouette"
+      ],
+      "position": {
+        "x": 61,
+        "y": 74
+      }
+    },
+    {
+      "id": "tree",
+      "text": "trees",
+      "zhText": "树",
+      "phonetic": "/triːz/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Those trees are all dark in the back.",
+        "zh": "后面那片树看着都黑黑的。"
+      },
+      "synonyms": [
+        "woods"
+      ],
+      "position": {
+        "x": 27,
+        "y": 38
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk through the snow",
+      "meaning": "在雪地里走"
+    },
+    {
+      "phrase": "leave footprints",
+      "meaning": "留下脚印"
+    },
+    {
+      "phrase": "catch the sunrise",
+      "meaning": "赶上看日出"
+    }
+  ]
+}
