@@ -224,6 +224,14 @@
       "gradient": "linear-gradient(135deg, #6b4a3a 0%, #9aa7b1 50%, #2f2f35 100%)",
       "wordCount": 7,
       "previewWords": "tart · berries · plate"
+    },
+    {
+      "id": 29,
+      "title": "在花园里聊天",
+      "categoryId": "social",
+      "gradient": "linear-gradient(135deg, #6b8f71 0%, #a3b18a 50%, #d6c7a1 100%)",
+      "wordCount": 6,
+      "previewWords": "bench · cup · chatting"
     }
   ]
 }
