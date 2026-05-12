@@ -168,6 +168,14 @@
       "gradient": "linear-gradient(135deg, #5b4f49 0%, #7a8b76 50%, #c48b5a 100%)",
       "wordCount": 6,
       "previewWords": "lake · bench · tree"
+    },
+    {
+      "id": 22,
+      "title": "骑马有点失控",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #6b8f5a 0%, #c9d6c1 50%, #4e5f45 100%)",
+      "wordCount": 6,
+      "previewWords": "horse · riding · saddle"
     }
   ]
 }
