@@ -112,6 +112,14 @@
       "gradient": "linear-gradient(135deg, #f6e7e5 0%, #d9dce6 50%, #b8a89d 100%)",
       "wordCount": 6,
       "previewWords": "kitten · bed · blanket"
+    },
+    {
+      "id": 15,
+      "title": "参观圆形老宅",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #6f6f6a 0%, #8b8175 50%, #b7afa3 100%)",
+      "wordCount": 6,
+      "previewWords": "roof · courtyard · gate"
     }
   ]
 }
