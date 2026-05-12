@@ -136,6 +136,14 @@
       "gradient": "linear-gradient(135deg, #1f4e79 0%, #6b2d3e 50%, #f0b35a 100%)",
       "wordCount": 8,
       "previewWords": "raft · pole · lantern"
+    },
+    {
+      "id": 18,
+      "title": "撑着伞拍照",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #dfe8ea 0%, #7f8f8e 50%, #2f3438 100%)",
+      "wordCount": 6,
+      "previewWords": "posing · paper umbrella · smile"
     }
   ]
 }
