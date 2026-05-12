@@ -40,6 +40,14 @@
       "gradient": "linear-gradient(135deg, #f6efe7 0%, #e7d7c9 50%, #c8d8d3 100%)",
       "wordCount": 6,
       "previewWords": "waffles · blackberries · coffee"
+    },
+    {
+      "id": 6,
+      "title": "骑车过积水路段",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #3b2a1f 0%, #d79b2e 50%, #f0d27a 100%)",
+      "wordCount": 7,
+      "previewWords": "riding · bike · flooded"
     }
   ]
 }
