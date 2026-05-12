@@ -128,6 +128,14 @@
       "gradient": "linear-gradient(135deg, #f7d6df 0%, #c9d7f2 50%, #7a6a5f 100%)",
       "wordCount": 6,
       "previewWords": "cat · blossoms · branch"
+    },
+    {
+      "id": 17,
+      "title": "河上撑竹筏",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #1f4e79 0%, #6b2d3e 50%, #f0b35a 100%)",
+      "wordCount": 8,
+      "previewWords": "raft · pole · lantern"
     }
   ]
 }
