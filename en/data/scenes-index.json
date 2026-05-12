@@ -152,6 +152,14 @@
       "gradient": "linear-gradient(135deg, #b7d6e5 0%, #d9e7ee 50%, #c78f73 100%)",
       "wordCount": 6,
       "previewWords": "pigeons · traffic light · sitting"
+    },
+    {
+      "id": 20,
+      "title": "雪地里往前走",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #f6e1c3 0%, #f3c06b 50%, #2b3745 100%)",
+      "wordCount": 7,
+      "previewWords": "kid · walking · snow"
     }
   ]
 }
