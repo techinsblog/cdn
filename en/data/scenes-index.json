@@ -88,6 +88,14 @@
       "gradient": "linear-gradient(135deg, #d9e2e8 0%, #b8c3cc 50%, #6b5a52 100%)",
       "wordCount": 6,
       "previewWords": "jumping · road · jacket"
+    },
+    {
+      "id": 12,
+      "title": "两个人牵着手",
+      "categoryId": "social",
+      "gradient": "linear-gradient(135deg, #f6e7d8 0%, #d9c2ad 50%, #8b6b5a 100%)",
+      "wordCount": 6,
+      "previewWords": "holding hands · hand · ring"
     }
   ]
 }
