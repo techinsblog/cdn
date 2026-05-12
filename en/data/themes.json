@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "themes": [
-    { "id": "cozy-afternoon", "name": "休闲午后", "emoji": "☕", "categoryId": "daily", "sceneIds": [1, 3] },
-    { "id": "urban-life", "name": "城市生活", "emoji": "🏙️", "categoryId": "travel", "sceneIds": [4] },
-    { "id": "warm-moments", "name": "温暖时刻", "emoji": "🌅", "categoryId": "healing", "sceneIds": [2, 3] },
-    { "id": "daily-explore", "name": "日常探索", "emoji": "🔍", "categoryId": "daily", "sceneIds": [1, 4] }
-  ]
-}
