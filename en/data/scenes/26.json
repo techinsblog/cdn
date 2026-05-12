@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "id": 26,
+  "title": "教室里聊天互动",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #F6C27A 0%, #F4E7D3 50%, #C9DDF2 100%)",
+  "sentence": {
+    "en": "They're just chatting in class.",
+    "zh": "他们就是在课堂上聊天互动。",
+    "highlights": [
+      "chat",
+      "class"
+    ]
+  },
+  "words": [
+    {
+      "id": "class",
+      "text": "class",
+      "zhText": "课堂",
+      "phonetic": "/klæs/",
+      "pos": "n.",
+      "meaning": "上课时间；课堂",
+      "example": {
+        "en": "Our class was actually pretty fun today.",
+        "zh": "我们今天这节课其实还挺有意思的。"
+      },
+      "synonyms": [
+        "lesson"
+      ],
+      "position": {
+        "x": 84,
+        "y": 18
+      }
+    },
+    {
+      "id": "teacher",
+      "text": "teacher",
+      "zhText": "老师",
+      "phonetic": "/ˈtiːtʃər/",
+      "pos": "n.",
+      "meaning": "老师",
+      "example": {
+        "en": "The teacher's in a really good mood today.",
+        "zh": "老师今天心情看起来特别好。"
+      },
+      "synonyms": [
+        "instructor"
+      ],
+      "position": {
+        "x": 66,
+        "y": 32
+      }
+    },
+    {
+      "id": "chat",
+      "text": "chatting",
+      "zhText": "聊天",
+      "phonetic": "/tʃæt/",
+      "pos": "v.",
+      "meaning": "聊天",
+      "example": {
+        "en": "We were just chatting before class started.",
+        "zh": "我们刚刚就是在上课前随便聊聊。"
+      },
+      "synonyms": [
+        "talk"
+      ],
+      "position": {
+        "x": 47,
+        "y": 53
+      }
+    },
+    {
+      "id": "desk",
+      "text": "desk",
+      "zhText": "课桌",
+      "phonetic": "/desk/",
+      "pos": "n.",
+      "meaning": "课桌",
+      "example": {
+        "en": "My pen rolled off the desk again.",
+        "zh": "我的笔又从桌上滚下去了。"
+      },
+      "synonyms": [
+        "table"
+      ],
+      "position": {
+        "x": 62,
+        "y": 68
+      }
+    },
+    {
+      "id": "notebook",
+      "text": "notebook",
+      "zhText": "笔记本",
+      "phonetic": "/ˈnoʊtbʊk/",
+      "pos": "n.",
+      "meaning": "笔记本",
+      "example": {
+        "en": "I left my notebook on the desk.",
+        "zh": "我把笔记本落在桌上了。"
+      },
+      "synonyms": [
+        "book"
+      ],
+      "position": {
+        "x": 74,
+        "y": 60
+      }
+    },
+    {
+      "id": "laugh",
+      "text": "laughing",
+      "zhText": "笑",
+      "phonetic": "/læf/",
+      "pos": "v.",
+      "meaning": "笑",
+      "example": {
+        "en": "Why are you laughing? Tell me too.",
+        "zh": "你笑什么呢？也跟我说说。"
+      },
+      "synonyms": [
+        "giggle"
+      ],
+      "position": {
+        "x": 18,
+        "y": 39
+      }
+    },
+    {
+      "id": "student",
+      "text": "student",
+      "zhText": "学生",
+      "phonetic": "/ˈstuːdnt/",
+      "pos": "n.",
+      "meaning": "学生",
+      "example": {
+        "en": "The students are way more awake this morning.",
+        "zh": "今天早上学生们精神多了。"
+      },
+      "synonyms": [
+        "learner"
+      ],
+      "position": {
+        "x": 86,
+        "y": 52
+      }
+    },
+    {
+      "id": "bookshelf",
+      "text": "bookshelf",
+      "zhText": "书架",
+      "phonetic": "/ˈbʊkʃelf/",
+      "pos": "n.",
+      "meaning": "书架",
+      "example": {
+        "en": "That bookshelf is packed with stuff.",
+        "zh": "那个书架塞得满满的。"
+      },
+      "synonyms": [
+        "shelf"
+      ],
+      "position": {
+        "x": 44,
+        "y": 20
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "in class",
+      "meaning": "在上课时；在课堂上"
+    },
+    {
+      "phrase": "talk to classmates",
+      "meaning": "和同学聊天"
+    },
+    {
+      "phrase": "take notes",
+      "meaning": "记笔记"
+    }
+  ]
+}
