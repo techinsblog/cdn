@@ -176,6 +176,14 @@
       "gradient": "linear-gradient(135deg, #6b8f5a 0%, #c9d6c1 50%, #4e5f45 100%)",
       "wordCount": 6,
       "previewWords": "horse · riding · saddle"
+    },
+    {
+      "id": 23,
+      "title": "坐在咖啡店门口聊天",
+      "categoryId": "social",
+      "gradient": "linear-gradient(135deg, #6f4e37 0%, #9bb7c9 50%, #d8c3a5 100%)",
+      "wordCount": 6,
+      "previewWords": "hanging out · drinks · table"
     }
   ]
 }
