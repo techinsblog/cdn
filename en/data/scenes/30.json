@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 30,
+  "title": "坐在秋千上拍照",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #eef6ff 0%, #cfdff7 50%, #9bb7d4 100%)",
+  "sentence": {
+    "en": "She's sitting on a swing in her school uniform.",
+    "zh": "她穿着校服坐在秋千上。",
+    "highlights": [
+      "swing",
+      "school uniform"
+    ]
+  },
+  "words": [
+    {
+      "id": "swing",
+      "text": "swing",
+      "zhText": "秋千",
+      "phonetic": "/swɪŋ/",
+      "pos": "n.",
+      "meaning": "秋千",
+      "example": {
+        "en": "Let's go sit on the swing for a bit.",
+        "zh": "我们去秋千上坐一会儿吧。"
+      },
+      "synonyms": [
+        "seat"
+      ],
+      "position": {
+        "x": 18,
+        "y": 66
+      }
+    },
+    {
+      "id": "chain",
+      "text": "chain",
+      "zhText": "链条",
+      "phonetic": "/tʃeɪn/",
+      "pos": "n.",
+      "meaning": "链条",
+      "example": {
+        "en": "Hold the chain tight, okay?",
+        "zh": "抓紧链条哦。"
+      },
+      "synonyms": [
+        "metal link"
+      ],
+      "position": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": "school uniform",
+      "text": "school uniform",
+      "zhText": "校服",
+      "phonetic": "/ˌskuːl ˈjuːnɪfɔːrm/",
+      "pos": "n.",
+      "meaning": "校服",
+      "example": {
+        "en": "You're still in your school uniform?",
+        "zh": "你还穿着校服啊？"
+      },
+      "synonyms": [
+        "uniform"
+      ],
+      "position": {
+        "x": 66,
+        "y": 58
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐",
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaning": "坐",
+      "example": {
+        "en": "Just sit here for a sec.",
+        "zh": "先坐这儿一下。"
+      },
+      "synonyms": [
+        "rest"
+      ],
+      "position": {
+        "x": 45,
+        "y": 79
+      }
+    },
+    {
+      "id": "smile",
+      "text": "smiling",
+      "zhText": "微笑",
+      "phonetic": "/smaɪl/",
+      "pos": "v.",
+      "meaning": "微笑",
+      "example": {
+        "en": "You're smiling so hard in this one.",
+        "zh": "你这张笑得也太开心了。"
+      },
+      "synonyms": [
+        "grin"
+      ],
+      "position": {
+        "x": 60,
+        "y": 44
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand under that tree, it's cooler there.",
+        "zh": "我们站那棵树底下吧，那边凉快点。"
+      },
+      "synonyms": [
+        "plant"
+      ],
+      "position": {
+        "x": 86,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sit on a swing",
+      "meaning": "坐在秋千上"
+    },
+    {
+      "phrase": "wear a school uniform",
+      "meaning": "穿校服"
+    },
+    {
+      "phrase": "smile at the camera",
+      "meaning": "对着镜头微笑"
+    }
+  ]
+}
