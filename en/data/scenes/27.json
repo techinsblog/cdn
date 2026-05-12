@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 27,
+  "title": "天鹅带着宝宝游水",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #d8d0c8 0%, #b7aa9b 50%, #8d796b 100%)",
+  "sentence": {
+    "en": "The swan is swimming with its baby.",
+    "zh": "这只天鹅正带着宝宝游水。",
+    "highlights": [
+      "swan",
+      "swimming",
+      "baby"
+    ]
+  },
+  "words": [
+    {
+      "id": "swan",
+      "text": "swan",
+      "zhText": "天鹅",
+      "phonetic": "/swɑːn/",
+      "pos": "n.",
+      "meaning": "天鹅",
+      "example": {
+        "en": "Look, that swan is right next to the baby.",
+        "zh": "你看，那只天鹅就在宝宝旁边。"
+      },
+      "synonyms": [
+        "bird"
+      ],
+      "position": {
+        "x": 78,
+        "y": 60
+      }
+    },
+    {
+      "id": "baby",
+      "text": "baby",
+      "zhText": "宝宝",
+      "phonetic": "/ˈbeɪbi/",
+      "pos": "n.",
+      "meaning": "幼崽",
+      "example": {
+        "en": "Aww, the baby's so tiny.",
+        "zh": "啊，这小家伙也太小了。"
+      },
+      "synonyms": [
+        "little one"
+      ],
+      "position": {
+        "x": 48,
+        "y": 72
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水",
+      "example": {
+        "en": "The water looks pretty calm here.",
+        "zh": "这儿的水面看着还挺平静的。"
+      },
+      "synonyms": [
+        "pond"
+      ],
+      "position": {
+        "x": 18,
+        "y": 84
+      }
+    },
+    {
+      "id": "beak",
+      "text": "beak",
+      "zhText": "喙",
+      "phonetic": "/biːk/",
+      "pos": "n.",
+      "meaning": "鸟嘴",
+      "example": {
+        "en": "Its beak is dripping with water.",
+        "zh": "它的嘴上还在滴水。"
+      },
+      "synonyms": [
+        "bill"
+      ],
+      "position": {
+        "x": 40,
+        "y": 50
+      }
+    },
+    {
+      "id": "neck",
+      "text": "neck",
+      "zhText": "脖子",
+      "phonetic": "/nek/",
+      "pos": "n.",
+      "meaning": "脖子",
+      "example": {
+        "en": "Wow, swans have such long necks.",
+        "zh": "哇，天鹅的脖子真的好长。"
+      },
+      "synonyms": [
+        "throat"
+      ],
+      "position": {
+        "x": 70,
+        "y": 34
+      }
+    },
+    {
+      "id": "swim",
+      "text": "swimming",
+      "zhText": "游水",
+      "phonetic": "/swɪm/",
+      "pos": "v.",
+      "meaning": "游动",
+      "example": {
+        "en": "They're just swimming along.",
+        "zh": "它们就这样慢慢游着。"
+      },
+      "synonyms": [
+        "float"
+      ],
+      "position": {
+        "x": 30,
+        "y": 66
+      }
+    },
+    {
+      "id": "wet",
+      "text": "wet",
+      "zhText": "湿的",
+      "phonetic": "/wet/",
+      "pos": "adj.",
+      "meaning": "湿的",
+      "example": {
+        "en": "Its feathers are still kind of wet.",
+        "zh": "它的羽毛看着还是湿湿的。"
+      },
+      "synonyms": [
+        "damp"
+      ],
+      "position": {
+        "x": 63,
+        "y": 20
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "swim around",
+      "meaning": "游来游去"
+    },
+    {
+      "phrase": "follow behind",
+      "meaning": "跟在后面"
+    },
+    {
+      "phrase": "on the water",
+      "meaning": "在水面上"
+    }
+  ]
+}
