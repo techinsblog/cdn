@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 12,
+  "title": "两个人牵着手",
+  "categoryId": "social",
+  "gradient": "linear-gradient(135deg, #f6e7d8 0%, #d9c2ad 50%, #8b6b5a 100%)",
+  "sentence": {
+    "en": "They're just holding hands in the sun.",
+    "zh": "他们就在阳光下牵着手。",
+    "highlights": [
+      "holding hands",
+      "sun"
+    ]
+  },
+  "words": [
+    {
+      "id": "hold",
+      "text": "holding hands",
+      "zhText": "牵手",
+      "phonetic": "/hoʊld/",
+      "pos": "v.",
+      "meaning": "牵着",
+      "example": {
+        "en": "Aww, they're still holding hands.",
+        "zh": "哎呀，他们还牵着手呢。"
+      },
+      "synonyms": [
+        "grip",
+        "touch"
+      ],
+      "position": {
+        "x": 60,
+        "y": 66
+      }
+    },
+    {
+      "id": "hand",
+      "text": "hand",
+      "zhText": "手",
+      "phonetic": "/hænd/",
+      "pos": "n.",
+      "meaning": "手",
+      "example": {
+        "en": "Your hand's freezing.",
+        "zh": "你的手冰冰的。"
+      },
+      "synonyms": [
+        "palm"
+      ],
+      "position": {
+        "x": 42,
+        "y": 71
+      }
+    },
+    {
+      "id": "ring",
+      "text": "ring",
+      "zhText": "戒指",
+      "phonetic": "/rɪŋ/",
+      "pos": "n.",
+      "meaning": "戒指",
+      "example": {
+        "en": "Wait, is that a new ring?",
+        "zh": "等等，那是新戒指吗？"
+      },
+      "synonyms": [
+        "band"
+      ],
+      "position": {
+        "x": 72,
+        "y": 73
+      }
+    },
+    {
+      "id": "sun",
+      "text": "sun",
+      "zhText": "太阳",
+      "phonetic": "/sʌn/",
+      "pos": "n.",
+      "meaning": "太阳",
+      "example": {
+        "en": "The sun feels so nice right now.",
+        "zh": "这会儿晒太阳可太舒服了。"
+      },
+      "synonyms": [
+        "sunlight"
+      ],
+      "position": {
+        "x": 18,
+        "y": 34
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand by that tree for a second.",
+        "zh": "咱们去那棵树旁边站一下。"
+      },
+      "synonyms": [
+        "trunk"
+      ],
+      "position": {
+        "x": 84,
+        "y": 47
+      }
+    },
+    {
+      "id": "dress",
+      "text": "dress",
+      "zhText": "连衣裙",
+      "phonetic": "/dres/",
+      "pos": "n.",
+      "meaning": "连衣裙",
+      "example": {
+        "en": "I really like your dress.",
+        "zh": "我真挺喜欢你这条裙子。"
+      },
+      "synonyms": [
+        "gown"
+      ],
+      "position": {
+        "x": 92,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hold hands",
+      "meaning": "牵手"
+    },
+    {
+      "phrase": "in the sun",
+      "meaning": "在阳光下"
+    },
+    {
+      "phrase": "wear a ring",
+      "meaning": "戴着戒指"
+    }
+  ]
+}
