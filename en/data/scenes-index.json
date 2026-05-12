@@ -248,6 +248,14 @@
       "gradient": "linear-gradient(135deg, #cfe8e1 0%, #f2d2a2 50%, #5b4638 100%)",
       "wordCount": 6,
       "previewWords": "guitar · chair · glasses"
+    },
+    {
+      "id": 32,
+      "title": "小孩在水果摊前",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #F7E8C7 0%, #F4B36A 50%, #D97A4A 100%)",
+      "wordCount": 6,
+      "previewWords": "oranges · grapes · sunglasses"
     }
   ]
 }
