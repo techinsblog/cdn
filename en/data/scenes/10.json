@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "id": 10,
+  "title": "在山里徒步",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #7ecb6b 0%, #8ecae6 50%, #5b7fa3 100%)",
+  "sentence": {
+    "en": "They're hiking up a mountain trail.",
+    "zh": "他们正在山里的小路上徒步。",
+    "highlights": [
+      "hike",
+      "trail",
+      "mountain"
+    ]
+  },
+  "words": [
+    {
+      "id": "hike",
+      "text": "hiking",
+      "zhText": "徒步",
+      "phonetic": "/haɪk/",
+      "pos": "verb",
+      "meaning": "徒步走",
+      "example": {
+        "en": "We hiked for two hours and I'm already tired.",
+        "zh": "我们才走了两个小时，我已经累了。"
+      },
+      "synonyms": [
+        "trek",
+        "walk"
+      ],
+      "position": {
+        "x": 52,
+        "y": 69
+      }
+    },
+    {
+      "id": "trail",
+      "text": "trail",
+      "zhText": "小路",
+      "phonetic": "/treɪl/",
+      "pos": "noun",
+      "meaning": "山路",
+      "example": {
+        "en": "Stay on the trail, or you'll get lost.",
+        "zh": "沿着小路走，不然容易迷路。"
+      },
+      "synonyms": [
+        "path"
+      ],
+      "position": {
+        "x": 40,
+        "y": 88
+      }
+    },
+    {
+      "id": "backpack",
+      "text": "backpack",
+      "zhText": "背包",
+      "phonetic": "/ˈbækpæk/",
+      "pos": "noun",
+      "meaning": "背包",
+      "example": {
+        "en": "Wait, I need to grab my backpack.",
+        "zh": "等等，我得拿一下我的背包。"
+      },
+      "synonyms": [
+        "bag"
+      ],
+      "position": {
+        "x": 60,
+        "y": 62
+      }
+    },
+    {
+      "id": "pole",
+      "text": "hiking pole",
+      "zhText": "登山杖",
+      "phonetic": "/ˈhaɪkɪŋ poʊl/",
+      "pos": "noun",
+      "meaning": "登山杖",
+      "example": {
+        "en": "These hiking poles really help on steep parts.",
+        "zh": "这种登山杖走陡坡时真的很好用。"
+      },
+      "synonyms": [
+        "pole"
+      ],
+      "position": {
+        "x": 49,
+        "y": 78
+      }
+    },
+    {
+      "id": "mountain",
+      "text": "mountain",
+      "zhText": "山",
+      "phonetic": "/ˈmaʊntən/",
+      "pos": "noun",
+      "meaning": "高山",
+      "example": {
+        "en": "That mountain looks huge from here.",
+        "zh": "从这儿看那座山真的好大。"
+      },
+      "synonyms": [
+        "peak"
+      ],
+      "position": {
+        "x": 72,
+        "y": 28
+      }
+    },
+    {
+      "id": "grass",
+      "text": "grass",
+      "zhText": "草地",
+      "phonetic": "/ɡræs/",
+      "pos": "noun",
+      "meaning": "草地",
+      "example": {
+        "en": "Let's sit on the grass for a minute.",
+        "zh": "我们在草地上坐一会儿吧。"
+      },
+      "synonyms": [
+        "field"
+      ],
+      "position": {
+        "x": 14,
+        "y": 79
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go hiking",
+      "meaning": "去徒步"
+    },
+    {
+      "phrase": "mountain trail",
+      "meaning": "山间小路"
+    },
+    {
+      "phrase": "carry a backpack",
+      "meaning": "背着背包"
+    }
+  ]
+}
