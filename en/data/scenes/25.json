@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "id": 25,
+  "title": "狗狗探出车窗",
+  "categoryId": "pets",
+  "gradient": "linear-gradient(135deg, #0b1020 0%, #2f3e5c 50%, #f2b38a 100%)",
+  "sentence": {
+    "en": "The dog's just sticking its head out the car window.",
+    "zh": "这只狗正把脑袋探出车窗。",
+    "highlights": [
+      "dog",
+      "car",
+      "window"
+    ]
+  },
+  "words": [
+    {
+      "id": "dog",
+      "text": "dog",
+      "zhText": "狗",
+      "phonetic": "/dɔːɡ/",
+      "pos": "n.",
+      "meaning": "狗",
+      "example": {
+        "en": "That dog looks so happy.",
+        "zh": "那只狗看起来好开心。"
+      },
+      "synonyms": [
+        "puppy",
+        "pet"
+      ],
+      "position": {
+        "x": 66,
+        "y": 50
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "Did you come by car?",
+        "zh": "你是开车来的吗？"
+      },
+      "synonyms": [
+        "vehicle",
+        "ride"
+      ],
+      "position": {
+        "x": 18,
+        "y": 78
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "车窗",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "车窗",
+      "example": {
+        "en": "Can you roll the window down a bit?",
+        "zh": "你能把车窗稍微摇下来一点吗？"
+      },
+      "synonyms": [
+        "glass"
+      ],
+      "position": {
+        "x": 44,
+        "y": 62
+      }
+    },
+    {
+      "id": "stick out",
+      "text": "sticking out",
+      "zhText": "探出",
+      "phonetic": "/stɪk aʊt/",
+      "pos": "v.",
+      "meaning": "探出",
+      "example": {
+        "en": "He's always sticking his head out the window.",
+        "zh": "它老是把脑袋探出窗外。"
+      },
+      "synonyms": [
+        "lean out",
+        "poke out"
+      ],
+      "position": {
+        "x": 55,
+        "y": 61
+      }
+    },
+    {
+      "id": "smile",
+      "text": "smiling",
+      "zhText": "微笑",
+      "phonetic": "/ˈsmaɪlɪŋ/",
+      "pos": "adj.",
+      "meaning": "笑着的",
+      "example": {
+        "en": "Look at that smiling face.",
+        "zh": "看这张笑眯眯的脸。"
+      },
+      "synonyms": [
+        "happy",
+        "grinning"
+      ],
+      "position": {
+        "x": 83,
+        "y": 37
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "The street's still pretty busy tonight.",
+        "zh": "今晚这条街还是挺热闹的。"
+      },
+      "synonyms": [
+        "road",
+        "block"
+      ],
+      "position": {
+        "x": 90,
+        "y": 66
+      }
+    },
+    {
+      "id": "light",
+      "text": "lights",
+      "zhText": "灯光",
+      "phonetic": "/laɪts/",
+      "pos": "n.",
+      "meaning": "灯光",
+      "example": {
+        "en": "The city lights look really nice here.",
+        "zh": "这里的城市灯光真挺好看。"
+      },
+      "synonyms": [
+        "lamps",
+        "neon"
+      ],
+      "position": {
+        "x": 21,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "stick your head out",
+      "meaning": "把脑袋探出去"
+    },
+    {
+      "phrase": "roll the window down",
+      "meaning": "把车窗摇下来"
+    },
+    {
+      "phrase": "go for a ride",
+      "meaning": "出去兜风"
+    }
+  ]
+}
