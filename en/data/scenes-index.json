@@ -232,6 +232,14 @@
       "gradient": "linear-gradient(135deg, #6b8f71 0%, #a3b18a 50%, #d6c7a1 100%)",
       "wordCount": 6,
       "previewWords": "bench · cup · chatting"
+    },
+    {
+      "id": 30,
+      "title": "坐在秋千上拍照",
+      "categoryId": "campus",
+      "gradient": "linear-gradient(135deg, #eef6ff 0%, #cfdff7 50%, #9bb7d4 100%)",
+      "wordCount": 6,
+      "previewWords": "swing · chain · school uniform"
     }
   ]
 }
