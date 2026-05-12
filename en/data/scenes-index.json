@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "scenes": []
+  "scenes": [
+    {
+      "id": 1,
+      "title": "抱着小猫合个影",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #f3e6d4 0%, #c9a27e 50%, #6f5846 100%)",
+      "wordCount": 6,
+      "previewWords": "kitten · cuddling · glasses"
+    }
+  ]
 }
