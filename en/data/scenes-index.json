@@ -56,6 +56,14 @@
       "gradient": "linear-gradient(135deg, #1f1a17 0%, #4a3a2c 50%, #8b7355 100%)",
       "wordCount": 6,
       "previewWords": "warrior · statue · spear"
+    },
+    {
+      "id": 8,
+      "title": "挥着纱巾跳舞",
+      "categoryId": "creative",
+      "gradient": "linear-gradient(135deg, #f7e7c6 0%, #f39a3c 50%, #d85a1a 100%)",
+      "wordCount": 6,
+      "previewWords": "dancing · scarf · arm"
     }
   ]
 }
