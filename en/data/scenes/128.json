@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 28,
+  "title": "桌上有份莓果小点心",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #6b4a3a 0%, #9aa7b1 50%, #2f2f35 100%)",
+  "sentence": {
+    "en": "That berry tart looks really good.",
+    "zh": "那个莓果小塔看起来真不错。",
+    "highlights": [
+      "berry",
+      "tart"
+    ]
+  },
+  "words": [
+    {
+      "id": "tart",
+      "text": "tart",
+      "zhText": "挞",
+      "phonetic": "/tɑːrt/",
+      "pos": "n.",
+      "meaning": "一种小甜点",
+      "example": {
+        "en": "I could totally eat that tart right now.",
+        "zh": "我现在真的很想吃那个挞。"
+      },
+      "synonyms": [
+        "pastry",
+        "dessert"
+      ],
+      "position": {
+        "x": 58,
+        "y": 74
+      }
+    },
+    {
+      "id": "berry",
+      "text": "berries",
+      "zhText": "莓果",
+      "phonetic": "/ˈberi/",
+      "pos": "n.",
+      "meaning": "浆果",
+      "example": {
+        "en": "The berries on top make it look so fresh.",
+        "zh": "上面的莓果让它看起来特别新鲜。"
+      },
+      "synonyms": [
+        "fruit"
+      ],
+      "position": {
+        "x": 73,
+        "y": 67
+      }
+    },
+    {
+      "id": "plate",
+      "text": "plate",
+      "zhText": "盘子",
+      "phonetic": "/pleɪt/",
+      "pos": "n.",
+      "meaning": "盘子",
+      "example": {
+        "en": "Just put it on the plate for me.",
+        "zh": "直接放盘子里给我吧。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 33,
+        "y": 80
+      }
+    },
+    {
+      "id": "spoon",
+      "text": "spoon",
+      "zhText": "勺子",
+      "phonetic": "/spuːn/",
+      "pos": "n.",
+      "meaning": "勺子",
+      "example": {
+        "en": "Do you need a spoon or a fork?",
+        "zh": "你要勺子还是叉子？"
+      },
+      "synonyms": [
+        "teaspoon"
+      ],
+      "position": {
+        "x": 86,
+        "y": 74
+      }
+    },
+    {
+      "id": "cup",
+      "text": "cup",
+      "zhText": "杯子",
+      "phonetic": "/kʌp/",
+      "pos": "n.",
+      "meaning": "杯子",
+      "example": {
+        "en": "My cup's over there by the plate.",
+        "zh": "我的杯子就在盘子旁边那儿。"
+      },
+      "synonyms": [
+        "mug"
+      ],
+      "position": {
+        "x": 89,
+        "y": 58
+      }
+    },
+    {
+      "id": "vase",
+      "text": "vase",
+      "zhText": "花瓶",
+      "phonetic": "/veɪs/",
+      "pos": "n.",
+      "meaning": "花瓶",
+      "example": {
+        "en": "That little vase is kind of cute.",
+        "zh": "那个小花瓶还挺可爱的。"
+      },
+      "synonyms": [
+        "container"
+      ],
+      "position": {
+        "x": 16,
+        "y": 55
+      }
+    },
+    {
+      "id": "powdered sugar",
+      "text": "powdered sugar",
+      "zhText": "糖粉",
+      "phonetic": "/ˌpaʊdərd ˈʃʊɡər/",
+      "pos": "n.",
+      "meaning": "糖粉",
+      "example": {
+        "en": "There's powdered sugar all over the dessert.",
+        "zh": "这个甜点上撒满了糖粉。"
+      },
+      "synonyms": [
+        "icing sugar"
+      ],
+      "position": {
+        "x": 42,
+        "y": 69
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "have dessert",
+      "meaning": "吃甜点"
+    },
+    {
+      "phrase": "top with berries",
+      "meaning": "上面放莓果"
+    },
+    {
+      "phrase": "grab a bite",
+      "meaning": "吃点东西"
+    }
+  ]
+}
