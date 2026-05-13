@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 7,
+  "title": "看兵马俑雕像",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #1f1a17 0%, #4a3a2c 50%, #8b7355 100%)",
+  "sentence": {
+    "en": "It's a warrior statue with a long spear.",
+    "zh": "这是一个拿着长矛的武士雕像。",
+    "highlights": [
+      "warrior",
+      "statue",
+      "spear"
+    ]
+  },
+  "words": [
+    {
+      "id": "warrior",
+      "text": "warrior",
+      "zhText": "武士",
+      "phonetic": "/ˈwɔːriər/",
+      "pos": "noun",
+      "meaning": "古代战士",
+      "example": {
+        "en": "He kind of looks like an ancient warrior.",
+        "zh": "他看起来就像个古代武士。"
+      },
+      "synonyms": [
+        "soldier"
+      ],
+      "position": {
+        "x": 68,
+        "y": 34
+      }
+    },
+    {
+      "id": "statue",
+      "text": "statue",
+      "zhText": "雕像",
+      "phonetic": "/ˈstætʃuː/",
+      "pos": "noun",
+      "meaning": "雕像",
+      "example": {
+        "en": "This statue looks way taller in person.",
+        "zh": "这个雕像本人看着高多了。"
+      },
+      "synonyms": [
+        "figure"
+      ],
+      "position": {
+        "x": 73,
+        "y": 79
+      }
+    },
+    {
+      "id": "spear",
+      "text": "spear",
+      "zhText": "长矛",
+      "phonetic": "/spɪr/",
+      "pos": "noun",
+      "meaning": "长矛",
+      "example": {
+        "en": "He's holding a spear in one hand.",
+        "zh": "他一只手里拿着长矛。"
+      },
+      "synonyms": [
+        "polearm"
+      ],
+      "position": {
+        "x": 18,
+        "y": 20
+      }
+    },
+    {
+      "id": "armor",
+      "text": "armor",
+      "zhText": "铠甲",
+      "phonetic": "/ˈɑːrmər/",
+      "pos": "noun",
+      "meaning": "铠甲",
+      "example": {
+        "en": "Look at the armor details. They're really clear.",
+        "zh": "看看这铠甲细节，真的很清楚。"
+      },
+      "synonyms": [
+        "gear"
+      ],
+      "position": {
+        "x": 66,
+        "y": 57
+      }
+    },
+    {
+      "id": "hold",
+      "text": "holding",
+      "zhText": "拿着",
+      "phonetic": "/ˈhoʊldɪŋ/",
+      "pos": "verb",
+      "meaning": "拿着",
+      "example": {
+        "en": "He's just standing there holding it.",
+        "zh": "他就那样站着拿着它。"
+      },
+      "synonyms": [
+        "grip"
+      ],
+      "position": {
+        "x": 22,
+        "y": 70
+      }
+    },
+    {
+      "id": "hand",
+      "text": "hand",
+      "zhText": "手",
+      "phonetic": "/hænd/",
+      "pos": "noun",
+      "meaning": "手",
+      "example": {
+        "en": "The hand looks a little worn out.",
+        "zh": "这只手看起来有点磨损了。"
+      },
+      "synonyms": [
+        "palm"
+      ],
+      "position": {
+        "x": 61,
+        "y": 88
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hold a spear",
+      "meaning": "拿着长矛"
+    },
+    {
+      "phrase": "wear armor",
+      "meaning": "穿着铠甲"
+    },
+    {
+      "phrase": "ancient warrior",
+      "meaning": "古代武士"
+    }
+  ]
+}
