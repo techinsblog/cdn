@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "id": 23,
+  "title": "坐在咖啡店门口聊天",
+  "categoryId": "social",
+  "gradient": "linear-gradient(135deg, #6f4e37 0%, #9bb7c9 50%, #d8c3a5 100%)",
+  "sentence": {
+    "en": "They're just hanging out with drinks outside.",
+    "zh": "他们就在外面坐着喝点东西聊聊天。",
+    "highlights": [
+      "hang out",
+      "drink"
+    ]
+  },
+  "words": [
+    {
+      "id": "hang out",
+      "text": "hanging out",
+      "zhText": "聊天",
+      "phonetic": "/hæŋ aʊt/",
+      "pos": "phrase",
+      "meaning": "一起待着，随便聊聊",
+      "example": {
+        "en": "We're just hanging out after work.",
+        "zh": "我们下班后就随便坐着聊聊。"
+      },
+      "synonyms": [
+        "chill",
+        "spend time"
+      ],
+      "position": {
+        "x": 24,
+        "y": 18
+      }
+    },
+    {
+      "id": "drink",
+      "text": "drinks",
+      "zhText": "饮料",
+      "phonetic": "/drɪŋk/",
+      "pos": "noun",
+      "meaning": "喝的东西",
+      "example": {
+        "en": "Do you want to grab a drink later?",
+        "zh": "你待会儿想不想去喝点东西？"
+      },
+      "synonyms": [
+        "beverage"
+      ],
+      "position": {
+        "x": 39,
+        "y": 16
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "noun",
+      "meaning": "桌子",
+      "example": {
+        "en": "Let's sit by the table near the window.",
+        "zh": "咱们坐窗边那张桌子吧。"
+      },
+      "synonyms": [
+        "desk"
+      ],
+      "position": {
+        "x": 58,
+        "y": 33
+      }
+    },
+    {
+      "id": "jacket",
+      "text": "jacket",
+      "zhText": "外套",
+      "phonetic": "/ˈdʒækɪt/",
+      "pos": "noun",
+      "meaning": "夹克外套",
+      "example": {
+        "en": "Nice jacket. Where'd you get it?",
+        "zh": "这外套不错，哪儿买的？"
+      },
+      "synonyms": [
+        "coat"
+      ],
+      "position": {
+        "x": 66,
+        "y": 10
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐着",
+      "phonetic": "/sɪt/",
+      "pos": "verb",
+      "meaning": "坐",
+      "example": {
+        "en": "We've been sitting here for a while.",
+        "zh": "我们已经在这儿坐了一会儿了。"
+      },
+      "synonyms": [
+        "rest"
+      ],
+      "position": {
+        "x": 73,
+        "y": 45
+      }
+    },
+    {
+      "id": "phone",
+      "text": "phone",
+      "zhText": "手机",
+      "phonetic": "/foʊn/",
+      "pos": "noun",
+      "meaning": "手机",
+      "example": {
+        "en": "My phone's on the table.",
+        "zh": "我手机放桌上了。"
+      },
+      "synonyms": [
+        "cellphone",
+        "mobile"
+      ],
+      "position": {
+        "x": 66,
+        "y": 24
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab a drink",
+      "meaning": "去喝点东西"
+    },
+    {
+      "phrase": "hang out outside",
+      "meaning": "在外面待着聊天"
+    },
+    {
+      "phrase": "sit by the window",
+      "meaning": "坐在窗边"
+    }
+  ]
+}
