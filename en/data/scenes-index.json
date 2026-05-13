@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 20260513,
   "scenes": [
     {
-      "id": 1,
+      "id": 101,
       "title": "抱着小猫合个影",
       "categoryId": "pets",
       "gradient": "linear-gradient(135deg, #f3e6d4 0%, #c9a27e 50%, #6f5846 100%)",
@@ -10,7 +10,7 @@
       "previewWords": "kitten · cuddling · glasses"
     },
     {
-      "id": 2,
+      "id": 102,
       "title": "给朋友拍照",
       "categoryId": "social",
       "gradient": "linear-gradient(135deg, #f7e7dc 0%, #f3d3c1 50%, #e8c2b0 100%)",
@@ -18,7 +18,7 @@
       "previewWords": "window · curtain · dress"
     },
     {
-      "id": 3,
+      "id": 103,
       "title": "坐门口看手机",
       "categoryId": "daily",
       "gradient": "linear-gradient(135deg, #2c3e50 0%, #5d6d7e 50%, #c0392b 100%)",
@@ -26,7 +26,7 @@
       "previewWords": "phone · stool · apron"
     },
     {
-      "id": 4,
+      "id": 104,
       "title": "老街里安静的小巷",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #5f6f68 0%, #8a9387 50%, #c8d0c8 100%)",
@@ -34,7 +34,7 @@
       "previewWords": "street · lane · roof"
     },
     {
-      "id": 5,
+      "id": 105,
       "title": "边吃早餐边用电脑",
       "categoryId": "food",
       "gradient": "linear-gradient(135deg, #f6efe7 0%, #e7d7c9 50%, #c8d8d3 100%)",
@@ -42,7 +42,7 @@
       "previewWords": "waffles · blackberries · coffee"
     },
     {
-      "id": 6,
+      "id": 106,
       "title": "骑车过积水路段",
       "categoryId": "daily",
       "gradient": "linear-gradient(135deg, #3b2a1f 0%, #d79b2e 50%, #f0d27a 100%)",
@@ -50,7 +50,7 @@
       "previewWords": "riding · bike · flooded"
     },
     {
-      "id": 7,
+      "id": 107,
       "title": "看兵马俑雕像",
       "categoryId": "culture",
       "gradient": "linear-gradient(135deg, #1f1a17 0%, #4a3a2c 50%, #8b7355 100%)",
@@ -58,7 +58,7 @@
       "previewWords": "warrior · statue · spear"
     },
     {
-      "id": 8,
+      "id": 108,
       "title": "挥着纱巾跳舞",
       "categoryId": "creative",
       "gradient": "linear-gradient(135deg, #f7e7c6 0%, #f39a3c 50%, #d85a1a 100%)",
@@ -66,7 +66,7 @@
       "previewWords": "dancing · scarf · arm"
     },
     {
-      "id": 9,
+      "id": 109,
       "title": "城墙上逛一逛",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #cfd6df 0%, #8fa1b2 50%, #4e5863 100%)",
@@ -74,7 +74,7 @@
       "previewWords": "wall · tower · lantern"
     },
     {
-      "id": 10,
+      "id": 110,
       "title": "在山里徒步",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #7ecb6b 0%, #8ecae6 50%, #5b7fa3 100%)",
@@ -82,7 +82,7 @@
       "previewWords": "hiking · trail · backpack"
     },
     {
-      "id": 11,
+      "id": 111,
       "title": "在公路上跳起来",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #d9e2e8 0%, #b8c3cc 50%, #6b5a52 100%)",
@@ -90,7 +90,7 @@
       "previewWords": "jumping · road · jacket"
     },
     {
-      "id": 12,
+      "id": 112,
       "title": "两个人牵着手",
       "categoryId": "social",
       "gradient": "linear-gradient(135deg, #f6e7d8 0%, #d9c2ad 50%, #8b6b5a 100%)",
@@ -98,7 +98,7 @@
       "previewWords": "holding hands · hand · ring"
     },
     {
-      "id": 13,
+      "id": 113,
       "title": "站在山顶看风景",
       "categoryId": "nature",
       "gradient": "linear-gradient(135deg, #cfc9be 0%, #6f7568 50%, #1f231d 100%)",
@@ -106,7 +106,7 @@
       "previewWords": "mountains · clouds · cliff"
     },
     {
-      "id": 14,
+      "id": 114,
       "title": "小猫在床上走",
       "categoryId": "pets",
       "gradient": "linear-gradient(135deg, #f6e7e5 0%, #d9dce6 50%, #b8a89d 100%)",
@@ -114,7 +114,7 @@
       "previewWords": "kitten · bed · blanket"
     },
     {
-      "id": 15,
+      "id": 115,
       "title": "参观圆形老宅",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #6f6f6a 0%, #8b8175 50%, #b7afa3 100%)",
@@ -122,7 +122,7 @@
       "previewWords": "roof · courtyard · gate"
     },
     {
-      "id": 16,
+      "id": 116,
       "title": "猫待在花树上",
       "categoryId": "pets",
       "gradient": "linear-gradient(135deg, #f7d6df 0%, #c9d7f2 50%, #7a6a5f 100%)",
@@ -130,7 +130,7 @@
       "previewWords": "cat · blossoms · branch"
     },
     {
-      "id": 17,
+      "id": 117,
       "title": "河上撑竹筏",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #1f4e79 0%, #6b2d3e 50%, #f0b35a 100%)",
@@ -138,7 +138,7 @@
       "previewWords": "raft · pole · lantern"
     },
     {
-      "id": 18,
+      "id": 118,
       "title": "撑着伞拍照",
       "categoryId": "culture",
       "gradient": "linear-gradient(135deg, #dfe8ea 0%, #7f8f8e 50%, #2f3438 100%)",
@@ -146,7 +146,7 @@
       "previewWords": "posing · paper umbrella · smile"
     },
     {
-      "id": 19,
+      "id": 119,
       "title": "鸽子停在红绿灯上",
       "categoryId": "daily",
       "gradient": "linear-gradient(135deg, #b7d6e5 0%, #d9e7ee 50%, #c78f73 100%)",
@@ -154,7 +154,7 @@
       "previewWords": "pigeons · traffic light · sitting"
     },
     {
-      "id": 20,
+      "id": 120,
       "title": "雪地里往前走",
       "categoryId": "nature",
       "gradient": "linear-gradient(135deg, #f6e1c3 0%, #f3c06b 50%, #2b3745 100%)",
@@ -162,7 +162,7 @@
       "previewWords": "kid · walking · snow"
     },
     {
-      "id": 21,
+      "id": 121,
       "title": "坐在湖边看风景",
       "categoryId": "nature",
       "gradient": "linear-gradient(135deg, #5b4f49 0%, #7a8b76 50%, #c48b5a 100%)",
@@ -170,7 +170,7 @@
       "previewWords": "lake · bench · tree"
     },
     {
-      "id": 22,
+      "id": 122,
       "title": "骑马有点失控",
       "categoryId": "sports",
       "gradient": "linear-gradient(135deg, #6b8f5a 0%, #c9d6c1 50%, #4e5f45 100%)",
@@ -178,7 +178,7 @@
       "previewWords": "horse · riding · saddle"
     },
     {
-      "id": 23,
+      "id": 123,
       "title": "坐在咖啡店门口聊天",
       "categoryId": "social",
       "gradient": "linear-gradient(135deg, #6f4e37 0%, #9bb7c9 50%, #d8c3a5 100%)",
@@ -186,7 +186,7 @@
       "previewWords": "hanging out · drinks · table"
     },
     {
-      "id": 24,
+      "id": 124,
       "title": "小孩在看花",
       "categoryId": "nature",
       "gradient": "linear-gradient(135deg, #6b8f4e 0%, #8b6ccf 50%, #d8b23f 100%)",
@@ -194,7 +194,7 @@
       "previewWords": "flowers · holding · looking"
     },
     {
-      "id": 25,
+      "id": 125,
       "title": "狗狗探出车窗",
       "categoryId": "pets",
       "gradient": "linear-gradient(135deg, #0b1020 0%, #2f3e5c 50%, #f2b38a 100%)",
@@ -202,7 +202,7 @@
       "previewWords": "dog · car · window"
     },
     {
-      "id": 26,
+      "id": 126,
       "title": "教室里聊天互动",
       "categoryId": "campus",
       "gradient": "linear-gradient(135deg, #F6C27A 0%, #F4E7D3 50%, #C9DDF2 100%)",
@@ -210,7 +210,7 @@
       "previewWords": "class · teacher · chatting"
     },
     {
-      "id": 27,
+      "id": 127,
       "title": "天鹅带着宝宝游水",
       "categoryId": "nature",
       "gradient": "linear-gradient(135deg, #d8d0c8 0%, #b7aa9b 50%, #8d796b 100%)",
@@ -218,7 +218,7 @@
       "previewWords": "swan · baby · water"
     },
     {
-      "id": 28,
+      "id": 128,
       "title": "桌上有份莓果小点心",
       "categoryId": "food",
       "gradient": "linear-gradient(135deg, #6b4a3a 0%, #9aa7b1 50%, #2f2f35 100%)",
@@ -226,7 +226,7 @@
       "previewWords": "tart · berries · plate"
     },
     {
-      "id": 29,
+      "id": 129,
       "title": "在花园里聊天",
       "categoryId": "social",
       "gradient": "linear-gradient(135deg, #6b8f71 0%, #a3b18a 50%, #d6c7a1 100%)",
@@ -234,7 +234,7 @@
       "previewWords": "bench · cup · chatting"
     },
     {
-      "id": 30,
+      "id": 130,
       "title": "坐在秋千上拍照",
       "categoryId": "campus",
       "gradient": "linear-gradient(135deg, #eef6ff 0%, #cfdff7 50%, #9bb7d4 100%)",
@@ -242,7 +242,7 @@
       "previewWords": "swing · chain · school uniform"
     },
     {
-      "id": 31,
+      "id": 131,
       "title": "坐着弹吉他",
       "categoryId": "creative",
       "gradient": "linear-gradient(135deg, #cfe8e1 0%, #f2d2a2 50%, #5b4638 100%)",
@@ -250,7 +250,7 @@
       "previewWords": "guitar · chair · glasses"
     },
     {
-      "id": 32,
+      "id": 132,
       "title": "小孩在水果摊前",
       "categoryId": "shopping",
       "gradient": "linear-gradient(135deg, #F7E8C7 0%, #F4B36A 50%, #D97A4A 100%)",
