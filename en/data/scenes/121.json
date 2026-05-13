@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 21,
+  "title": "坐在湖边看风景",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #5b4f49 0%, #7a8b76 50%, #c48b5a 100%)",
+  "sentence": {
+    "en": "They're just sitting by the lake.",
+    "zh": "他们就坐在湖边。",
+    "highlights": [
+      "sitting",
+      "lake"
+    ]
+  },
+  "words": [
+    {
+      "id": "lake",
+      "text": "lake",
+      "zhText": "湖",
+      "phonetic": "/leɪk/",
+      "pos": "n.",
+      "meaning": "湖",
+      "example": {
+        "en": "The lake looks so still today.",
+        "zh": "今天这湖看着好平静。"
+      },
+      "synonyms": [
+        "water"
+      ],
+      "position": {
+        "x": 18,
+        "y": 63
+      }
+    },
+    {
+      "id": "bench",
+      "text": "bench",
+      "zhText": "长椅",
+      "phonetic": "/bentʃ/",
+      "pos": "n.",
+      "meaning": "长椅",
+      "example": {
+        "en": "Let's sit on that bench for a minute.",
+        "zh": "我们去那张长椅上坐一会儿吧。"
+      },
+      "synonyms": [
+        "seat"
+      ],
+      "position": {
+        "x": 78,
+        "y": 82
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "That tree is blocking part of the view.",
+        "zh": "那棵树把视线挡住了一点。"
+      },
+      "synonyms": [
+        "pine"
+      ],
+      "position": {
+        "x": 71,
+        "y": 30
+      }
+    },
+    {
+      "id": "leaves",
+      "text": "leaves",
+      "zhText": "树叶",
+      "phonetic": "/liːvz/",
+      "pos": "n.",
+      "meaning": "树叶",
+      "example": {
+        "en": "The leaves are starting to turn orange.",
+        "zh": "树叶开始变橙了。"
+      },
+      "synonyms": [
+        "foliage"
+      ],
+      "position": {
+        "x": 88,
+        "y": 66
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐",
+      "phonetic": "/ˈsɪtɪŋ/",
+      "pos": "v.",
+      "meaning": "坐着",
+      "example": {
+        "en": "We're just sitting here for a bit.",
+        "zh": "我们就在这儿坐一会儿。"
+      },
+      "synonyms": [
+        "rest"
+      ],
+      "position": {
+        "x": 60,
+        "y": 79
+      }
+    },
+    {
+      "id": "look",
+      "text": "looking",
+      "zhText": "看",
+      "phonetic": "/ˈlʊkɪŋ/",
+      "pos": "v.",
+      "meaning": "看",
+      "example": {
+        "en": "They're just looking out at the water.",
+        "zh": "他们就是在看着水面。"
+      },
+      "synonyms": [
+        "watching"
+      ],
+      "position": {
+        "x": 52,
+        "y": 71
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sit by the lake",
+      "meaning": "坐在湖边"
+    },
+    {
+      "phrase": "enjoy the view",
+      "meaning": "看看风景"
+    },
+    {
+      "phrase": "go for a walk",
+      "meaning": "去散步"
+    }
+  ]
+}
