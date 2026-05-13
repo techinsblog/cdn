@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 9,
+  "title": "城墙上逛一逛",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #cfd6df 0%, #8fa1b2 50%, #4e5863 100%)",
+  "sentence": {
+    "en": "They're walking along the old city wall.",
+    "zh": "他们正沿着古城墙慢慢走着。",
+    "highlights": [
+      "wall",
+      "walking"
+    ]
+  },
+  "words": [
+    {
+      "id": "wall",
+      "text": "wall",
+      "zhText": "城墙",
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "meaning": "墙，城墙",
+      "example": {
+        "en": "Let's walk up on the wall for a bit.",
+        "zh": "咱们上城墙走一会儿吧。"
+      },
+      "synonyms": [
+        "barrier",
+        "fortification"
+      ],
+      "position": {
+        "x": 82,
+        "y": 41
+      }
+    },
+    {
+      "id": "tower",
+      "text": "tower",
+      "zhText": "塔楼",
+      "phonetic": "/ˈtaʊər/",
+      "pos": "n.",
+      "meaning": "塔楼",
+      "example": {
+        "en": "That tower looks really old.",
+        "zh": "那座塔楼看着真挺老的。"
+      },
+      "synonyms": [
+        "building",
+        "gatehouse"
+      ],
+      "position": {
+        "x": 31,
+        "y": 28
+      }
+    },
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those red lanterns stand out a lot.",
+        "zh": "那些红灯笼真的特别显眼。"
+      },
+      "synonyms": [
+        "light",
+        "lamp"
+      ],
+      "position": {
+        "x": 66,
+        "y": 39
+      }
+    },
+    {
+      "id": "flag",
+      "text": "flag",
+      "zhText": "旗子",
+      "phonetic": "/flæɡ/",
+      "pos": "n.",
+      "meaning": "旗子",
+      "example": {
+        "en": "The flags are moving in the wind.",
+        "zh": "旗子在风里一晃一晃的。"
+      },
+      "synonyms": [
+        "banner",
+        "sign"
+      ],
+      "position": {
+        "x": 59,
+        "y": 33
+      }
+    },
+    {
+      "id": "walking",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/ˈwɔːkɪŋ/",
+      "pos": "v.",
+      "meaning": "步行",
+      "example": {
+        "en": "We're just walking around, not in a rush.",
+        "zh": "我们就随便走走，不赶时间。"
+      },
+      "synonyms": [
+        "strolling",
+        "moving"
+      ],
+      "position": {
+        "x": 21,
+        "y": 47
+      }
+    },
+    {
+      "id": "stone",
+      "text": "stone",
+      "zhText": "石头",
+      "phonetic": "/stoʊn/",
+      "pos": "n.",
+      "meaning": "石头",
+      "example": {
+        "en": "The whole place is made of dark stone.",
+        "zh": "这地方基本都是深色石头砌的。"
+      },
+      "synonyms": [
+        "rock",
+        "brick"
+      ],
+      "position": {
+        "x": 72,
+        "y": 61
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk along the wall",
+      "meaning": "沿着城墙走"
+    },
+    {
+      "phrase": "take a look around",
+      "meaning": "四处看看"
+    },
+    {
+      "phrase": "old city wall",
+      "meaning": "古城墙"
+    }
+  ]
+}
