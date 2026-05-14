@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "id": 134,
+  "title": "逛街边走边聊",
+  "categoryId": "shopping",
+  "gradient": "linear-gradient(135deg, #3b2a2a 0%, #8b6a6a 50%, #d9d9d9 100%)",
+  "sentence": {
+    "en": "They're walking around with drinks and shopping bags.",
+    "zh": "她们拿着饮料和购物袋边走边逛。",
+    "highlights": [
+      "walking",
+      "drinks",
+      "shopping bag"
+    ]
+  },
+  "words": [
+    {
+      "id": "walk",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走着",
+      "example": {
+        "en": "We're just walking around after lunch.",
+        "zh": "我们就是吃完午饭随便走走。"
+      },
+      "synonyms": [
+        "stroll",
+        "go"
+      ],
+      "position": {
+        "x": 44,
+        "y": 66
+      }
+    },
+    {
+      "id": "drink",
+      "text": "drinks",
+      "zhText": "饮料",
+      "phonetic": "/drɪŋk/",
+      "pos": "n.",
+      "meaning": "饮料",
+      "example": {
+        "en": "I need a cold drink right now.",
+        "zh": "我现在就想来杯冰饮。"
+      },
+      "synonyms": [
+        "beverage"
+      ],
+      "position": {
+        "x": 84,
+        "y": 40
+      }
+    },
+    {
+      "id": "shopping bag",
+      "text": "shopping bag",
+      "zhText": "购物袋",
+      "phonetic": "/ˈʃɑːpɪŋ bæɡ/",
+      "pos": "n.",
+      "meaning": "购物袋",
+      "example": {
+        "en": "Can you hold my shopping bag for a sec?",
+        "zh": "你帮我拿一下购物袋呗。"
+      },
+      "synonyms": [
+        "bag"
+      ],
+      "position": {
+        "x": 16,
+        "y": 52
+      }
+    },
+    {
+      "id": "phone",
+      "text": "phone",
+      "zhText": "手机",
+      "phonetic": "/foʊn/",
+      "pos": "n.",
+      "meaning": "手机",
+      "example": {
+        "en": "Wait, let me check my phone.",
+        "zh": "等下，我看下手机。"
+      },
+      "synonyms": [
+        "cellphone",
+        "mobile"
+      ],
+      "position": {
+        "x": 56,
+        "y": 47
+      }
+    },
+    {
+      "id": "backpack",
+      "text": "backpack",
+      "zhText": "背包",
+      "phonetic": "/ˈbækpæk/",
+      "pos": "n.",
+      "meaning": "背包",
+      "example": {
+        "en": "Just throw it in my backpack.",
+        "zh": "直接塞我背包里吧。"
+      },
+      "synonyms": [
+        "bag"
+      ],
+      "position": {
+        "x": 79,
+        "y": 58
+      }
+    },
+    {
+      "id": "striped",
+      "text": "striped",
+      "zhText": "条纹的",
+      "phonetic": "/straɪpt/",
+      "pos": "adj.",
+      "meaning": "条纹的",
+      "example": {
+        "en": "I kind of like that striped top.",
+        "zh": "我还挺喜欢那件条纹上衣的。"
+      },
+      "synonyms": [
+        "patterned"
+      ],
+      "position": {
+        "x": 67,
+        "y": 38
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go shopping",
+      "meaning": "去逛街"
+    },
+    {
+      "phrase": "walk around",
+      "meaning": "四处走走"
+    },
+    {
+      "phrase": "grab a drink",
+      "meaning": "买杯喝的"
+    }
+  ]
+}
