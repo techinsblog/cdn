@@ -328,6 +328,14 @@
       "gradient": "linear-gradient(135deg, #0b2a4a 0%, #5fa8e8 50%, #f7fbff 100%)",
       "wordCount": 6,
       "previewWords": "snowboard · slope · helmet"
+    },
+    {
+      "id": 142,
+      "title": "清洁工在扫人行道",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2b2f36 0%, #5f666e 50%, #f07a1f 100%)",
+      "wordCount": 6,
+      "previewWords": "sweeping · sidewalk · broom"
     }
   ]
 }
