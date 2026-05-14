@@ -288,6 +288,14 @@
       "gradient": "linear-gradient(135deg, #2f241d 0%, #5a3f2b 50%, #8aa05a 100%)",
       "wordCount": 6,
       "previewWords": "zongzi · pot · leaf"
+    },
+    {
+      "id": 137,
+      "title": "来碗热牛肉汤",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #5b341f 0%, #a86b3d 50%, #f3efe8 100%)",
+      "wordCount": 6,
+      "previewWords": "beef · soup · bowl"
     }
   ]
 }
