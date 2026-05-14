@@ -256,14 +256,6 @@
       "gradient": "linear-gradient(135deg, #F7E8C7 0%, #F4B36A 50%, #D97A4A 100%)",
       "wordCount": 6,
       "previewWords": "oranges · grapes · sunglasses"
-    },
-    {
-      "id": 133,
-      "title": "蜜蜂飞到向日葵边",
-      "categoryId": "nature",
-      "gradient": "linear-gradient(135deg, #6fb7ff 0%, #f5d14a 50%, #6b9a3a 100%)",
-      "wordCount": 6,
-      "previewWords": "bee · sunflower · petal"
     }
   ]
 }
