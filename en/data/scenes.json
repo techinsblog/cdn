@@ -264,6 +264,14 @@
       "gradient": "linear-gradient(135deg, #6fa8dc 0%, #f6d365 50%, #5b8c3a 100%)",
       "wordCount": 6,
       "previewWords": "bee · sunflower · petal"
+    },
+    {
+      "id": 134,
+      "title": "逛街边走边聊",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #3b2a2a 0%, #8b6a6a 50%, #d9d9d9 100%)",
+      "wordCount": 6,
+      "previewWords": "walking · drinks · shopping bag"
     }
   ]
 }
