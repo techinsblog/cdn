@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 138,
+  "title": "在天安门前拍照",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #c9d9e8 0%, #d9c3a3 50%, #b34b3d 100%)",
+  "sentence": {
+    "en": "They're taking photos in front of Tiananmen.",
+    "zh": "他们正在天安门前拍照。",
+    "highlights": [
+      "taking",
+      "photos",
+      "Tiananmen"
+    ]
+  },
+  "words": [
+    {
+      "id": "take",
+      "text": "taking",
+      "zhText": "拍照",
+      "phonetic": "/teɪk/",
+      "pos": "verb",
+      "meaning": "拍",
+      "example": {
+        "en": "Hold on, I'm taking one more photo.",
+        "zh": "等一下，我再拍一张。"
+      },
+      "synonyms": [
+        "shoot"
+      ],
+      "position": {
+        "x": 78,
+        "y": 68
+      }
+    },
+    {
+      "id": "photo",
+      "text": "photos",
+      "zhText": "照片",
+      "phonetic": "/ˈfoʊtoʊz/",
+      "pos": "noun",
+      "meaning": "照片",
+      "example": {
+        "en": "Can you send me the photos later?",
+        "zh": "你等会儿把照片发我呗。"
+      },
+      "synonyms": [
+        "pics"
+      ],
+      "position": {
+        "x": 22,
+        "y": 72
+      }
+    },
+    {
+      "id": "Tiananmen",
+      "text": "Tiananmen",
+      "zhText": "天安门",
+      "phonetic": "/tjɛnˈɑːnmən/",
+      "pos": "noun",
+      "meaning": "天安门",
+      "example": {
+        "en": "We finally made it to Tiananmen.",
+        "zh": "我们总算到天安门了。"
+      },
+      "synonyms": [
+        "gate"
+      ],
+      "position": {
+        "x": 50,
+        "y": 48
+      }
+    },
+    {
+      "id": "flag",
+      "text": "flag",
+      "zhText": "旗帜",
+      "phonetic": "/flæɡ/",
+      "pos": "noun",
+      "meaning": "旗帜",
+      "example": {
+        "en": "The red flag really stands out.",
+        "zh": "那面红旗真的很显眼。"
+      },
+      "synonyms": [
+        "banner"
+      ],
+      "position": {
+        "x": 90,
+        "y": 54
+      }
+    },
+    {
+      "id": "guard",
+      "text": "guard",
+      "zhText": "卫兵",
+      "phonetic": "/ɡɑːrd/",
+      "pos": "noun",
+      "meaning": "卫兵",
+      "example": {
+        "en": "That guard hasn't moved at all.",
+        "zh": "那个卫兵一动都没动。"
+      },
+      "synonyms": [
+        "soldier"
+      ],
+      "position": {
+        "x": 68,
+        "y": 66
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "noun",
+      "meaning": "汽车",
+      "example": {
+        "en": "There are so many cars out there.",
+        "zh": "那边车还挺多的。"
+      },
+      "synonyms": [
+        "vehicle"
+      ],
+      "position": {
+        "x": 36,
+        "y": 62
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a photo",
+      "meaning": "拍张照"
+    },
+    {
+      "phrase": "in front of",
+      "meaning": "在……前面"
+    },
+    {
+      "phrase": "visit Tiananmen",
+      "meaning": "参观天安门"
+    }
+  ]
+}
