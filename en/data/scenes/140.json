@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "id": 140,
+  "title": "在店里看毛衣",
+  "categoryId": "shopping",
+  "gradient": "linear-gradient(135deg, #2f3e46 0%, #6b705c 50%, #d9d9d9 100%)",
+  "sentence": {
+    "en": "They're looking at sweaters in the store.",
+    "zh": "他们在店里看毛衣。",
+    "highlights": [
+      "sweater",
+      "store"
+    ]
+  },
+  "words": [
+    {
+      "id": "sweater",
+      "text": "sweater",
+      "zhText": "毛衣",
+      "phonetic": "/ˈswetər/",
+      "pos": "n.",
+      "meaning": "毛衣",
+      "example": {
+        "en": "This sweater looks pretty soft.",
+        "zh": "这件毛衣看起来挺软的。"
+      },
+      "synonyms": [
+        "jumper",
+        "knit"
+      ],
+      "position": {
+        "x": 18,
+        "y": 44
+      }
+    },
+    {
+      "id": "hanger",
+      "text": "hanger",
+      "zhText": "衣架",
+      "phonetic": "/ˈhæŋər/",
+      "pos": "n.",
+      "meaning": "衣架",
+      "example": {
+        "en": "Can you put this back on the hanger?",
+        "zh": "你能把这个挂回衣架上吗？"
+      },
+      "synonyms": [
+        "hook"
+      ],
+      "position": {
+        "x": 63,
+        "y": 41
+      }
+    },
+    {
+      "id": "rack",
+      "text": "rack",
+      "zhText": "衣架杆",
+      "phonetic": "/ræk/",
+      "pos": "n.",
+      "meaning": "衣架杆",
+      "example": {
+        "en": "These new ones are on the front rack.",
+        "zh": "新到的都挂在前面那排。"
+      },
+      "synonyms": [
+        "rail"
+      ],
+      "position": {
+        "x": 78,
+        "y": 28
+      }
+    },
+    {
+      "id": "shirt",
+      "text": "shirt",
+      "zhText": "上衣",
+      "phonetic": "/ʃɜːrt/",
+      "pos": "n.",
+      "meaning": "上衣",
+      "example": {
+        "en": "I like that red shirt over there.",
+        "zh": "我喜欢那边那件红色上衣。"
+      },
+      "synonyms": [
+        "top"
+      ],
+      "position": {
+        "x": 90,
+        "y": 62
+      }
+    },
+    {
+      "id": "pick",
+      "text": "pick",
+      "zhText": "挑",
+      "phonetic": "/pɪk/",
+      "pos": "v.",
+      "meaning": "挑",
+      "example": {
+        "en": "Just pick one you actually like.",
+        "zh": "就挑一件你真喜欢的吧。"
+      },
+      "synonyms": [
+        "choose"
+      ],
+      "position": {
+        "x": 42,
+        "y": 58
+      }
+    },
+    {
+      "id": "soft",
+      "text": "soft",
+      "zhText": "柔软",
+      "phonetic": "/sɔːft/",
+      "pos": "adj.",
+      "meaning": "柔软",
+      "example": {
+        "en": "This one feels really soft.",
+        "zh": "这件摸起来真的很软。"
+      },
+      "synonyms": [
+        "smooth",
+        "comfy"
+      ],
+      "position": {
+        "x": 33,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "try on clothes",
+      "meaning": "试穿衣服"
+    },
+    {
+      "phrase": "pick out a sweater",
+      "meaning": "挑一件毛衣"
+    },
+    {
+      "phrase": "browse the rack",
+      "meaning": "随便看看衣架上的衣服"
+    }
+  ]
+}
