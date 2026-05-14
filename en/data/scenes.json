@@ -320,6 +320,14 @@
       "gradient": "linear-gradient(135deg, #2f3e46 0%, #6b705c 50%, #d9d9d9 100%)",
       "wordCount": 6,
       "previewWords": "sweater · hanger · rack"
+    },
+    {
+      "id": 141,
+      "title": "雪地里玩单板",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #0b2a4a 0%, #5fa8e8 50%, #f7fbff 100%)",
+      "wordCount": 6,
+      "previewWords": "snowboard · slope · helmet"
     }
   ]
 }
