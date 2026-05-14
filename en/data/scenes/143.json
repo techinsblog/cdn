@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 143,
+  "title": "超市购物车里的小朋友",
+  "categoryId": "shopping",
+  "gradient": "linear-gradient(135deg, #f6d365 0%, #fda085 50%, #fbc2eb 100%)",
+  "sentence": {
+    "en": "He's opening a snack in the cart.",
+    "zh": "他正在购物车里拆零食。",
+    "highlights": [
+      "opening",
+      "snack",
+      "cart"
+    ]
+  },
+  "words": [
+    {
+      "id": "cart",
+      "text": "cart",
+      "zhText": "购物车",
+      "phonetic": "/kɑːrt/",
+      "pos": "n.",
+      "meaning": "购物车",
+      "example": {
+        "en": "Just put it in the cart.",
+        "zh": "直接放购物车里吧。"
+      },
+      "synonyms": [
+        "shopping cart"
+      ],
+      "position": {
+        "x": 15,
+        "y": 18
+      }
+    },
+    {
+      "id": "snack",
+      "text": "snack",
+      "zhText": "零食",
+      "phonetic": "/snæk/",
+      "pos": "n.",
+      "meaning": "零食",
+      "example": {
+        "en": "He already grabbed a snack.",
+        "zh": "他已经拿了一包零食了。"
+      },
+      "synonyms": [
+        "treat"
+      ],
+      "position": {
+        "x": 73,
+        "y": 60
+      }
+    },
+    {
+      "id": "open",
+      "text": "opening",
+      "zhText": "拆开",
+      "phonetic": "/ˈoʊpənɪŋ/",
+      "pos": "v.",
+      "meaning": "拆开",
+      "example": {
+        "en": "Wait, don't open it yet.",
+        "zh": "等一下，先别拆。"
+      },
+      "synonyms": [
+        "unwrap"
+      ],
+      "position": {
+        "x": 41,
+        "y": 58
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "袋子",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "袋子",
+      "example": {
+        "en": "That blue bag looks huge.",
+        "zh": "那个蓝色袋子看着好大。"
+      },
+      "synonyms": [
+        "pack"
+      ],
+      "position": {
+        "x": 12,
+        "y": 63
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐着",
+      "phonetic": "/ˈsɪtɪŋ/",
+      "pos": "v.",
+      "meaning": "坐着",
+      "example": {
+        "en": "He's just sitting there quietly.",
+        "zh": "他就安安静静坐在那儿。"
+      },
+      "synonyms": [
+        "be seated"
+      ],
+      "position": {
+        "x": 60,
+        "y": 42
+      }
+    },
+    {
+      "id": "candy",
+      "text": "candy",
+      "zhText": "糖果",
+      "phonetic": "/ˈkændi/",
+      "pos": "n.",
+      "meaning": "糖果",
+      "example": {
+        "en": "Kids always go for candy first.",
+        "zh": "小朋友总是先挑糖。"
+      },
+      "synonyms": [
+        "sweets"
+      ],
+      "position": {
+        "x": 86,
+        "y": 77
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go grocery shopping",
+      "meaning": "去超市买东西"
+    },
+    {
+      "phrase": "put it in the cart",
+      "meaning": "把它放进购物车"
+    },
+    {
+      "phrase": "open a snack",
+      "meaning": "拆开一包零食"
+    }
+  ]
+}
