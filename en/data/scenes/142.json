@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": 142,
+  "title": "清洁工在扫人行道",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2b2f36 0%, #5f666e 50%, #f07a1f 100%)",
+  "sentence": {
+    "en": "He's just sweeping the sidewalk.",
+    "zh": "他就是在扫人行道。",
+    "highlights": [
+      "sweep",
+      "sidewalk"
+    ]
+  },
+  "words": [
+    {
+      "id": "sweep",
+      "text": "sweeping",
+      "zhText": "扫",
+      "phonetic": "/swiːp/",
+      "pos": "verb",
+      "meaning": "扫",
+      "example": {
+        "en": "He's still sweeping, so watch your step.",
+        "zh": "他还在扫呢，走路注意点。"
+      },
+      "synonyms": [
+        "brush",
+        "clean"
+      ],
+      "position": {
+        "x": 39,
+        "y": 48
+      }
+    },
+    {
+      "id": "sidewalk",
+      "text": "sidewalk",
+      "zhText": "人行道",
+      "phonetic": "/ˈsaɪdˌwɔːk/",
+      "pos": "noun",
+      "meaning": "人行道",
+      "example": {
+        "en": "Let's stay on the sidewalk.",
+        "zh": "咱们走人行道吧。"
+      },
+      "synonyms": [
+        "pavement",
+        "walkway"
+      ],
+      "position": {
+        "x": 18,
+        "y": 63
+      }
+    },
+    {
+      "id": "broom",
+      "text": "broom",
+      "zhText": "扫帚",
+      "phonetic": "/bruːm/",
+      "pos": "noun",
+      "meaning": "扫帚",
+      "example": {
+        "en": "Can you pass me that broom?",
+        "zh": "你把那把扫帚递给我一下。"
+      },
+      "synonyms": [
+        "brush"
+      ],
+      "position": {
+        "x": 74,
+        "y": 74
+      }
+    },
+    {
+      "id": "worker",
+      "text": "worker",
+      "zhText": "工人",
+      "phonetic": "/ˈwɝːkər/",
+      "pos": "noun",
+      "meaning": "工人",
+      "example": {
+        "en": "That worker's been here since early morning.",
+        "zh": "那个工人一大早就在这儿了。"
+      },
+      "synonyms": [
+        "staff",
+        "employee"
+      ],
+      "position": {
+        "x": 25,
+        "y": 45
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "安全帽",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "noun",
+      "meaning": "安全帽",
+      "example": {
+        "en": "He's got his helmet on.",
+        "zh": "他把安全帽戴上了。"
+      },
+      "synonyms": [
+        "hard hat"
+      ],
+      "position": {
+        "x": 41,
+        "y": 31
+      }
+    },
+    {
+      "id": "uniform",
+      "text": "uniform",
+      "zhText": "制服",
+      "phonetic": "/ˈjuːnɪfɔːrm/",
+      "pos": "noun",
+      "meaning": "制服",
+      "example": {
+        "en": "That orange uniform really stands out.",
+        "zh": "那身橙色制服还挺显眼的。"
+      },
+      "synonyms": [
+        "workwear",
+        "outfit"
+      ],
+      "position": {
+        "x": 28,
+        "y": 57
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sweep the street",
+      "meaning": "扫街"
+    },
+    {
+      "phrase": "wear a helmet",
+      "meaning": "戴安全帽"
+    },
+    {
+      "phrase": "orange uniform",
+      "meaning": "橙色制服"
+    }
+  ]
+}
