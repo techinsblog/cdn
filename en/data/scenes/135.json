@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 135,
+  "title": "雨天走在村里小路上",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #c9ced8 0%, #7f8b8f 50%, #4e4a47 100%)",
+  "sentence": {
+    "en": "They're walking down the wet village street.",
+    "zh": "他们正走在湿漉漉的村里小路上。",
+    "highlights": [
+      "walk",
+      "wet",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "umbrella",
+      "text": "umbrella",
+      "zhText": "雨伞",
+      "phonetic": "/ʌmˈbrelə/",
+      "pos": "n.",
+      "meaning": "雨伞",
+      "example": {
+        "en": "Don't forget your umbrella. It might rain again.",
+        "zh": "别忘了带雨伞，等会儿可能还要下雨。"
+      },
+      "synonyms": [
+        "parasol"
+      ],
+      "position": {
+        "x": 39,
+        "y": 68
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "The street's really quiet today.",
+        "zh": "今天这条街真的很安静。"
+      },
+      "synonyms": [
+        "road"
+      ],
+      "position": {
+        "x": 53,
+        "y": 84
+      }
+    },
+    {
+      "id": "roof",
+      "text": "roof",
+      "zhText": "屋顶",
+      "phonetic": "/ruːf/",
+      "pos": "n.",
+      "meaning": "屋顶",
+      "example": {
+        "en": "The roof looks wet from the rain.",
+        "zh": "这屋顶看着都被雨淋湿了。"
+      },
+      "synonyms": [
+        "top"
+      ],
+      "position": {
+        "x": 83,
+        "y": 39
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walking",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走路",
+      "example": {
+        "en": "We're just walking home, no rush.",
+        "zh": "我们就是慢慢走回家，不着急。"
+      },
+      "synonyms": [
+        "go"
+      ],
+      "position": {
+        "x": 34,
+        "y": 73
+      }
+    },
+    {
+      "id": "wet",
+      "text": "wet",
+      "zhText": "潮湿的",
+      "phonetic": "/wet/",
+      "pos": "adj.",
+      "meaning": "潮湿的",
+      "example": {
+        "en": "My shoes are all wet now.",
+        "zh": "我鞋子现在全湿了。"
+      },
+      "synonyms": [
+        "damp"
+      ],
+      "position": {
+        "x": 17,
+        "y": 90
+      }
+    },
+    {
+      "id": "house",
+      "text": "houses",
+      "zhText": "房子",
+      "phonetic": "/haʊs/",
+      "pos": "n.",
+      "meaning": "房子",
+      "example": {
+        "en": "These old houses look really nice.",
+        "zh": "这些老房子看着真不错。"
+      },
+      "synonyms": [
+        "home"
+      ],
+      "position": {
+        "x": 22,
+        "y": 50
+      }
+    },
+    {
+      "id": "hill",
+      "text": "hill",
+      "zhText": "山坡",
+      "phonetic": "/hɪl/",
+      "pos": "n.",
+      "meaning": "山坡",
+      "example": {
+        "en": "There's a hill right behind the village.",
+        "zh": "村子后面就是个山坡。"
+      },
+      "synonyms": [
+        "slope"
+      ],
+      "position": {
+        "x": 60,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk home",
+      "meaning": "走路回家"
+    },
+    {
+      "phrase": "carry an umbrella",
+      "meaning": "打伞／带着伞"
+    },
+    {
+      "phrase": "wet street",
+      "meaning": "湿漉漉的街道"
+    }
+  ]
+}
