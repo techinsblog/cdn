@@ -296,6 +296,14 @@
       "gradient": "linear-gradient(135deg, #5b341f 0%, #a86b3d 50%, #f3efe8 100%)",
       "wordCount": 6,
       "previewWords": "beef · soup · bowl"
+    },
+    {
+      "id": 138,
+      "title": "在天安门前拍照",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #c9d9e8 0%, #d9c3a3 50%, #b34b3d 100%)",
+      "wordCount": 6,
+      "previewWords": "taking · photos · Tiananmen"
     }
   ]
 }
