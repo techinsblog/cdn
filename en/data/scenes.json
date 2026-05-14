@@ -312,6 +312,14 @@
       "gradient": "linear-gradient(135deg, #2f3e46 0%, #5c6b73 50%, #c2c7c9 100%)",
       "wordCount": 6,
       "previewWords": "scooters · alley · sign"
+    },
+    {
+      "id": 140,
+      "title": "在店里看毛衣",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #2f3e46 0%, #6b705c 50%, #d9d9d9 100%)",
+      "wordCount": 6,
+      "previewWords": "sweater · hanger · rack"
     }
   ]
 }
