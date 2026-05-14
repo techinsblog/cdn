@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 141,
+  "title": "雪地里玩单板",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #0b2a4a 0%, #5fa8e8 50%, #f7fbff 100%)",
+  "sentence": {
+    "en": "They're snowboarding down a powdery slope.",
+    "zh": "他们正踩着单板冲下松软的雪坡。",
+    "highlights": [
+      "snowboarding",
+      "slope",
+      "powdery"
+    ]
+  },
+  "words": [
+    {
+      "id": "snowboard",
+      "text": "snowboard",
+      "zhText": "单板",
+      "phonetic": "/ˈsnoʊbɔːrd/",
+      "pos": "n.",
+      "meaning": "单板滑雪板",
+      "example": {
+        "en": "My snowboard's kind of beat up, but it still rides fine.",
+        "zh": "我的单板有点旧了，但滑起来还行。"
+      },
+      "synonyms": [
+        "board"
+      ],
+      "position": {
+        "x": 78,
+        "y": 71
+      }
+    },
+    {
+      "id": "slope",
+      "text": "slope",
+      "zhText": "雪坡",
+      "phonetic": "/sloʊp/",
+      "pos": "n.",
+      "meaning": "斜坡",
+      "example": {
+        "en": "This slope looks fun, not too steep either.",
+        "zh": "这个雪坡看着挺好玩，也不算太陡。"
+      },
+      "synonyms": [
+        "hill"
+      ],
+      "position": {
+        "x": 55,
+        "y": 33
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "头盔",
+      "example": {
+        "en": "Hold on, let me fix my helmet first.",
+        "zh": "等等，我先把头盔弄好。"
+      },
+      "synonyms": [
+        "headgear"
+      ],
+      "position": {
+        "x": 76,
+        "y": 48
+      }
+    },
+    {
+      "id": "goggles",
+      "text": "goggles",
+      "zhText": "护目镜",
+      "phonetic": "/ˈɡɑːɡəlz/",
+      "pos": "n.",
+      "meaning": "护目镜",
+      "example": {
+        "en": "I can't see anything—my goggles are all fogged up.",
+        "zh": "我都看不清了——我的护目镜全起雾了。"
+      },
+      "synonyms": [
+        "ski glasses"
+      ],
+      "position": {
+        "x": 90,
+        "y": 56
+      }
+    },
+    {
+      "id": "carve",
+      "text": "carve",
+      "zhText": "压弯",
+      "phonetic": "/kɑːrv/",
+      "pos": "v.",
+      "meaning": "压弯滑行",
+      "example": {
+        "en": "He can really carve once he picks up speed.",
+        "zh": "他一快起来，压弯真的很稳。"
+      },
+      "synonyms": [
+        "turn"
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "powdery",
+      "text": "powdery",
+      "zhText": "松雪",
+      "phonetic": "/ˈpaʊdəri/",
+      "pos": "adj.",
+      "meaning": "松软积雪的",
+      "example": {
+        "en": "The snow's super powdery today—best kind of day.",
+        "zh": "今天的雪特别松，最适合玩了。"
+      },
+      "synonyms": [
+        "soft"
+      ],
+      "position": {
+        "x": 38,
+        "y": 54
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hit the slopes",
+      "meaning": "去滑雪坡玩"
+    },
+    {
+      "phrase": "fresh powder",
+      "meaning": "新下的松雪"
+    },
+    {
+      "phrase": "wear a helmet",
+      "meaning": "戴好头盔"
+    }
+  ]
+}
