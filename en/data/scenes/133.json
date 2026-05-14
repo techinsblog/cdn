@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 133,
+  "title": "蜜蜂飞到向日葵边",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #6fa8dc 0%, #f6d365 50%, #5b8c3a 100%)",
+  "sentence": {
+    "en": "A bee's flying by the sunflower.",
+    "zh": "一只蜜蜂正从向日葵旁边飞过。",
+    "highlights": [
+      "bee",
+      "sunflower"
+    ]
+  },
+  "words": [
+    {
+      "id": "bee",
+      "text": "bee",
+      "zhText": "蜜蜂",
+      "phonetic": "/biː/",
+      "pos": "n.",
+      "meaning": "蜜蜂",
+      "example": {
+        "en": "Look, a bee's right there.",
+        "zh": "看，那儿就有只蜜蜂。"
+      },
+      "synonyms": [
+        "honeybee"
+      ],
+      "position": {
+        "x": 20,
+        "y": 57
+      }
+    },
+    {
+      "id": "sunflower",
+      "text": "sunflower",
+      "zhText": "向日葵",
+      "phonetic": "/ˈsʌnˌflaʊ.ɚ/",
+      "pos": "n.",
+      "meaning": "向日葵",
+      "example": {
+        "en": "These sunflowers are huge.",
+        "zh": "这些向日葵真的好大。"
+      },
+      "synonyms": [
+        "flower"
+      ],
+      "position": {
+        "x": 84,
+        "y": 43
+      }
+    },
+    {
+      "id": "petal",
+      "text": "petal",
+      "zhText": "花瓣",
+      "phonetic": "/ˈpet̬.əl/",
+      "pos": "n.",
+      "meaning": "花瓣",
+      "example": {
+        "en": "One of the petals is kind of curled up.",
+        "zh": "有一片花瓣有点卷起来了。"
+      },
+      "synonyms": [
+        "flower petal"
+      ],
+      "position": {
+        "x": 52,
+        "y": 12
+      }
+    },
+    {
+      "id": "field",
+      "text": "field",
+      "zhText": "田野",
+      "phonetic": "/fiːld/",
+      "pos": "n.",
+      "meaning": "田地",
+      "example": {
+        "en": "They've got a whole field of flowers here.",
+        "zh": "这儿有一整片花田。"
+      },
+      "synonyms": [
+        "farm"
+      ],
+      "position": {
+        "x": 34,
+        "y": 82
+      }
+    },
+    {
+      "id": "fly",
+      "text": "flying",
+      "zhText": "飞",
+      "phonetic": "/flaɪ/",
+      "pos": "v.",
+      "meaning": "飞",
+      "example": {
+        "en": "It just keeps flying around.",
+        "zh": "它就一直飞来飞去。"
+      },
+      "synonyms": [
+        "move"
+      ],
+      "position": {
+        "x": 27,
+        "y": 61
+      }
+    },
+    {
+      "id": "sky",
+      "text": "sky",
+      "zhText": "天空",
+      "phonetic": "/skaɪ/",
+      "pos": "n.",
+      "meaning": "天空",
+      "example": {
+        "en": "The sky looks so clear today.",
+        "zh": "今天天空看着特别干净。"
+      },
+      "synonyms": [
+        "blue sky"
+      ],
+      "position": {
+        "x": 16,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "buzz around",
+      "meaning": "嗡嗡地飞来飞去"
+    },
+    {
+      "phrase": "in the field",
+      "meaning": "在田野里"
+    },
+    {
+      "phrase": "full bloom",
+      "meaning": "盛开着"
+    }
+  ]
+}
