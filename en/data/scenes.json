@@ -272,6 +272,14 @@
       "gradient": "linear-gradient(135deg, #3b2a2a 0%, #8b6a6a 50%, #d9d9d9 100%)",
       "wordCount": 6,
       "previewWords": "walking · drinks · shopping bag"
+    },
+    {
+      "id": 135,
+      "title": "雨天走在村里小路上",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #c9ced8 0%, #7f8b8f 50%, #4e4a47 100%)",
+      "wordCount": 7,
+      "previewWords": "umbrella · street · roof"
     }
   ]
 }
