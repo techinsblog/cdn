@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 137,
+  "title": "来碗热牛肉汤",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #5b341f 0%, #a86b3d 50%, #f3efe8 100%)",
+  "sentence": {
+    "en": "That beef soup looks so good.",
+    "zh": "那碗牛肉汤看起来太香了。",
+    "highlights": [
+      "beef",
+      "soup"
+    ]
+  },
+  "words": [
+    {
+      "id": "beef",
+      "text": "beef",
+      "zhText": "牛肉",
+      "phonetic": "/biːf/",
+      "pos": "n.",
+      "meaning": "牛肉",
+      "example": {
+        "en": "The beef is really tender.",
+        "zh": "这牛肉真的很嫩。"
+      },
+      "synonyms": [
+        "meat"
+      ],
+      "position": {
+        "x": 28,
+        "y": 42
+      }
+    },
+    {
+      "id": "soup",
+      "text": "soup",
+      "zhText": "汤",
+      "phonetic": "/suːp/",
+      "pos": "n.",
+      "meaning": "汤",
+      "example": {
+        "en": "Careful, the soup's still hot.",
+        "zh": "小心，汤还烫着呢。"
+      },
+      "synonyms": [
+        "broth"
+      ],
+      "position": {
+        "x": 78,
+        "y": 40
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "碗",
+      "example": {
+        "en": "Can you pass me that bowl?",
+        "zh": "你把那个碗递给我一下。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 18,
+        "y": 60
+      }
+    },
+    {
+      "id": "sauce",
+      "text": "sauce",
+      "zhText": "酱料",
+      "phonetic": "/sɔːs/",
+      "pos": "n.",
+      "meaning": "酱料",
+      "example": {
+        "en": "Dip it in the sauce. It's better.",
+        "zh": "蘸点酱，更好吃。"
+      },
+      "synonyms": [
+        "dip"
+      ],
+      "position": {
+        "x": 72,
+        "y": 73
+      }
+    },
+    {
+      "id": "green onion",
+      "text": "green onion",
+      "zhText": "葱",
+      "phonetic": "/ɡriːn ˈʌnjən/",
+      "pos": "n.",
+      "meaning": "葱",
+      "example": {
+        "en": "I like a lot of green onion on top.",
+        "zh": "我喜欢上面多放点葱。"
+      },
+      "synonyms": [
+        "scallion"
+      ],
+      "position": {
+        "x": 53,
+        "y": 24
+      }
+    },
+    {
+      "id": "hot",
+      "text": "hot",
+      "zhText": "热的",
+      "phonetic": "/hɑːt/",
+      "pos": "adj.",
+      "meaning": "热的",
+      "example": {
+        "en": "It's hot, so take a small sip first.",
+        "zh": "挺烫的，先小口喝一点。"
+      },
+      "synonyms": [
+        "warm"
+      ],
+      "position": {
+        "x": 90,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "a bowl of soup",
+      "meaning": "一碗汤"
+    },
+    {
+      "phrase": "beef broth",
+      "meaning": "牛肉高汤"
+    },
+    {
+      "phrase": "dip it in sauce",
+      "meaning": "蘸酱吃"
+    }
+  ]
+}
