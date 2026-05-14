@@ -336,6 +336,14 @@
       "gradient": "linear-gradient(135deg, #2b2f36 0%, #5f666e 50%, #f07a1f 100%)",
       "wordCount": 6,
       "previewWords": "sweeping · sidewalk · broom"
+    },
+    {
+      "id": 143,
+      "title": "超市购物车里的小朋友",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #f6d365 0%, #fda085 50%, #fbc2eb 100%)",
+      "wordCount": 6,
+      "previewWords": "cart · snack · opening"
     }
   ]
 }
