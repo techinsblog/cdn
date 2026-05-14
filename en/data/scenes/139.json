@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 139,
+  "title": "巷子里停满机车",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2f3e46 0%, #5c6b73 50%, #c2c7c9 100%)",
+  "sentence": {
+    "en": "There are scooters all down this alley.",
+    "zh": "这条小巷里一路都停着机车。",
+    "highlights": [
+      "scooter",
+      "alley"
+    ]
+  },
+  "words": [
+    {
+      "id": "scooter",
+      "text": "scooters",
+      "zhText": "机车",
+      "phonetic": "/ˈskuːtər/",
+      "pos": "noun",
+      "meaning": "这种路边很常见的踏板车",
+      "example": {
+        "en": "I just parked my scooter outside.",
+        "zh": "我刚把机车停在外面。"
+      },
+      "synonyms": [
+        "moped",
+        "bike"
+      ],
+      "position": {
+        "x": 18,
+        "y": 83
+      }
+    },
+    {
+      "id": "alley",
+      "text": "alley",
+      "zhText": "小巷",
+      "phonetic": "/ˈæli/",
+      "pos": "noun",
+      "meaning": "楼和楼之间这种窄窄的小路",
+      "example": {
+        "en": "Let's cut through the alley.",
+        "zh": "我们从小巷穿过去吧。"
+      },
+      "synonyms": [
+        "lane",
+        "backstreet"
+      ],
+      "position": {
+        "x": 52,
+        "y": 58
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "招牌",
+      "phonetic": "/saɪn/",
+      "pos": "noun",
+      "meaning": "店门口挂着的牌子",
+      "example": {
+        "en": "I saw the sign from far away.",
+        "zh": "我老远就看到那个招牌了。"
+      },
+      "synonyms": [
+        "board",
+        "shop sign"
+      ],
+      "position": {
+        "x": 77,
+        "y": 47
+      }
+    },
+    {
+      "id": "balcony",
+      "text": "balcony",
+      "zhText": "阳台",
+      "phonetic": "/ˈbælkəni/",
+      "pos": "noun",
+      "meaning": "住家外面伸出来的小阳台",
+      "example": {
+        "en": "They've got plants on the balcony.",
+        "zh": "他们阳台上种了些植物。"
+      },
+      "synonyms": [
+        "terrace",
+        "platform"
+      ],
+      "position": {
+        "x": 20,
+        "y": 22
+      }
+    },
+    {
+      "id": "wet",
+      "text": "wet",
+      "zhText": "潮湿",
+      "phonetic": "/wet/",
+      "pos": "adjective",
+      "meaning": "地上湿湿的这种感觉",
+      "example": {
+        "en": "Watch out, the ground's still wet.",
+        "zh": "小心，地上还是湿的。"
+      },
+      "synonyms": [
+        "damp",
+        "rainy"
+      ],
+      "position": {
+        "x": 43,
+        "y": 92
+      }
+    },
+    {
+      "id": "park",
+      "text": "parked",
+      "zhText": "停放",
+      "phonetic": "/pɑːrkt/",
+      "pos": "verb",
+      "meaning": "把车停在路边",
+      "example": {
+        "en": "You can't park here for too long.",
+        "zh": "你不能在这停太久。"
+      },
+      "synonyms": [
+        "stop",
+        "leave"
+      ],
+      "position": {
+        "x": 66,
+        "y": 76
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "park the scooter",
+      "meaning": "停机车"
+    },
+    {
+      "phrase": "walk down the alley",
+      "meaning": "沿着小巷往里走"
+    },
+    {
+      "phrase": "look for the sign",
+      "meaning": "找招牌"
+    }
+  ]
+}
