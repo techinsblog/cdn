@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 136,
+  "title": "一盆粽子摆上桌",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #2f241d 0%, #5a3f2b 50%, #8aa05a 100%)",
+  "sentence": {
+    "en": "They've got a whole pot of zongzi here.",
+    "zh": "这儿摆了一整盆粽子。",
+    "highlights": [
+      "pot",
+      "zongzi"
+    ]
+  },
+  "words": [
+    {
+      "id": "zongzi",
+      "text": "zongzi",
+      "zhText": "粽子",
+      "phonetic": "/ˈzʌŋtsi/",
+      "pos": "noun",
+      "meaning": "用粽叶包着的糯米粽子",
+      "example": {
+        "en": "I could seriously eat three zongzi right now.",
+        "zh": "我现在真的能一口气吃三个粽子。"
+      },
+      "synonyms": [
+        "rice dumpling"
+      ],
+      "position": {
+        "x": 84,
+        "y": 30
+      }
+    },
+    {
+      "id": "pot",
+      "text": "pot",
+      "zhText": "盆",
+      "phonetic": "/pɑːt/",
+      "pos": "noun",
+      "meaning": "锅盆这类盛东西的容器",
+      "example": {
+        "en": "Just put them all in the pot.",
+        "zh": "直接把它们都放盆里吧。"
+      },
+      "synonyms": [
+        "container"
+      ],
+      "position": {
+        "x": 74,
+        "y": 12
+      }
+    },
+    {
+      "id": "leaf",
+      "text": "leaf",
+      "zhText": "叶子",
+      "phonetic": "/liːf/",
+      "pos": "noun",
+      "meaning": "这里指包粽子的叶子",
+      "example": {
+        "en": "The leaf smells really nice when it's hot.",
+        "zh": "一热起来这个叶子味道特别香。"
+      },
+      "synonyms": [
+        "wrapper"
+      ],
+      "position": {
+        "x": 58,
+        "y": 62
+      }
+    },
+    {
+      "id": "string",
+      "text": "string",
+      "zhText": "绳子",
+      "phonetic": "/strɪŋ/",
+      "pos": "noun",
+      "meaning": "细绳",
+      "example": {
+        "en": "The string's tied pretty tight.",
+        "zh": "这绳子绑得还挺紧的。"
+      },
+      "synonyms": [
+        "cord"
+      ],
+      "position": {
+        "x": 17,
+        "y": 22
+      }
+    },
+    {
+      "id": "wrapped",
+      "text": "wrapped",
+      "zhText": "包好",
+      "phonetic": "/ræpt/",
+      "pos": "adjective",
+      "meaning": "包起来的",
+      "example": {
+        "en": "These are already wrapped, so we're good.",
+        "zh": "这些都已经包好了，没问题。"
+      },
+      "synonyms": [
+        "covered"
+      ],
+      "position": {
+        "x": 43,
+        "y": 44
+      }
+    },
+    {
+      "id": "rice",
+      "text": "rice",
+      "zhText": "米",
+      "phonetic": "/raɪs/",
+      "pos": "noun",
+      "meaning": "米",
+      "example": {
+        "en": "Is this sweet rice or regular rice?",
+        "zh": "这是糯米还是普通米啊？"
+      },
+      "synonyms": [
+        "grain"
+      ],
+      "position": {
+        "x": 52,
+        "y": 8
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "wrap zongzi",
+      "meaning": "包粽子"
+    },
+    {
+      "phrase": "tie it up",
+      "meaning": "把它绑好"
+    },
+    {
+      "phrase": "a pot of food",
+      "meaning": "一盆吃的"
+    }
+  ]
+}
