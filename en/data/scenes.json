@@ -304,6 +304,14 @@
       "gradient": "linear-gradient(135deg, #c9d9e8 0%, #d9c3a3 50%, #b34b3d 100%)",
       "wordCount": 6,
       "previewWords": "taking · photos · Tiananmen"
+    },
+    {
+      "id": 139,
+      "title": "巷子里停满机车",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2f3e46 0%, #5c6b73 50%, #c2c7c9 100%)",
+      "wordCount": 6,
+      "previewWords": "scooters · alley · sign"
     }
   ]
 }
