@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "id": 152,
+  "title": "傍晚街上车来车往",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #2b2f36 0%, #5b4a3f 50%, #f0a24a 100%)",
+  "sentence": {
+    "en": "Cars are rolling down the street at dusk.",
+    "zh": "黄昏时分，街上的车正慢慢开过去。",
+    "highlights": [
+      "car",
+      "street",
+      "dusk"
+    ]
+  },
+  "words": [
+    {
+      "id": "car",
+      "text": "cars",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "车",
+      "example": {
+        "en": "There are so many cars out tonight.",
+        "zh": "今晚外面的车真不少。"
+      },
+      "synonyms": [
+        "vehicle",
+        "auto"
+      ],
+      "position": {
+        "x": 61,
+        "y": 84
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street gets really busy after dark.",
+        "zh": "这条街一到天黑就很忙。"
+      },
+      "synonyms": [
+        "road",
+        "lane"
+      ],
+      "position": {
+        "x": 43,
+        "y": 92
+      }
+    },
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "大楼",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "大楼",
+      "example": {
+        "en": "That building in the back looks huge.",
+        "zh": "后面那栋楼看着真高。"
+      },
+      "synonyms": [
+        "tower",
+        "block"
+      ],
+      "position": {
+        "x": 53,
+        "y": 18
+      }
+    },
+    {
+      "id": "light",
+      "text": "streetlight",
+      "zhText": "路灯",
+      "phonetic": "/ˈstriːtlaɪt/",
+      "pos": "n.",
+      "meaning": "路灯",
+      "example": {
+        "en": "The streetlights are already on.",
+        "zh": "路灯已经亮了。"
+      },
+      "synonyms": [
+        "lamp",
+        "lamp post"
+      ],
+      "position": {
+        "x": 79,
+        "y": 62
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walking",
+      "zhText": "步行",
+      "phonetic": "/ˈwɔːkɪŋ/",
+      "pos": "v.",
+      "meaning": "走路",
+      "example": {
+        "en": "They're just walking home, I think.",
+        "zh": "我看他们就是在走路回家。"
+      },
+      "synonyms": [
+        "strolling",
+        "going"
+      ],
+      "position": {
+        "x": 90,
+        "y": 85
+      }
+    },
+    {
+      "id": "wire",
+      "text": "wires",
+      "zhText": "电线",
+      "phonetic": "/ˈwaɪərz/",
+      "pos": "n.",
+      "meaning": "电线",
+      "example": {
+        "en": "There are wires all over the street.",
+        "zh": "这条街上到处都是电线。"
+      },
+      "synonyms": [
+        "cables",
+        "lines"
+      ],
+      "position": {
+        "x": 22,
+        "y": 37
+      }
+    },
+    {
+      "id": "dusk",
+      "text": "dusk",
+      "zhText": "黄昏",
+      "phonetic": "/dʌsk/",
+      "pos": "n.",
+      "meaning": "傍晚",
+      "example": {
+        "en": "I kind of like the city at dusk.",
+        "zh": "我还挺喜欢城市黄昏这会儿的。"
+      },
+      "synonyms": [
+        "evening",
+        "twilight"
+      ],
+      "position": {
+        "x": 34,
+        "y": 11
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "drive down the street",
+      "meaning": "沿着街道开车"
+    },
+    {
+      "phrase": "head home",
+      "meaning": "回家去"
+    },
+    {
+      "phrase": "city at dusk",
+      "meaning": "黄昏时的城市"
+    }
+  ]
+}
