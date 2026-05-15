@@ -536,6 +536,14 @@
       "gradient": "linear-gradient(135deg, #f08a7e 0%, #f6c28b 50%, #8ec5a4 100%)",
       "wordCount": 6,
       "previewWords": "riding · bike · bag"
+    },
+    {
+      "id": 168,
+      "title": "在攀岩墙上练习",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f7f9fb 50%, #cfd9df 100%)",
+      "wordCount": 6,
+      "previewWords": "climbing · wall · rope"
     }
   ]
 }
