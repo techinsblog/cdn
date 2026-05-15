@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "id": 161,
+  "title": "挂满彩旗的老街",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #f6d365 0%, #fda085 50%, #84fab0 100%)",
+  "sentence": {
+    "en": "This street's covered with colorful flags.",
+    "zh": "这条街上方挂满了彩色旗子。",
+    "highlights": [
+      "street",
+      "flags",
+      "colorful"
+    ]
+  },
+  "words": [
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "Let's walk down this street first.",
+        "zh": "我们先沿着这条街走走吧。"
+      },
+      "synonyms": [
+        "road",
+        "lane"
+      ],
+      "position": {
+        "x": 73,
+        "y": 58
+      }
+    },
+    {
+      "id": "flag",
+      "text": "flags",
+      "zhText": "旗子",
+      "phonetic": "/flæɡ/",
+      "pos": "n.",
+      "meaning": "旗子",
+      "example": {
+        "en": "Look up—the flags are everywhere.",
+        "zh": "你抬头看，到处都是旗子。"
+      },
+      "synonyms": [
+        "banner"
+      ],
+      "position": {
+        "x": 62,
+        "y": 10
+      }
+    },
+    {
+      "id": "shop",
+      "text": "shop",
+      "zhText": "店铺",
+      "phonetic": "/ʃɑːp/",
+      "pos": "n.",
+      "meaning": "店铺",
+      "example": {
+        "en": "That little shop looks kind of cool.",
+        "zh": "那家小店看着还挺有意思的。"
+      },
+      "synonyms": [
+        "store"
+      ],
+      "position": {
+        "x": 18,
+        "y": 44
+      }
+    },
+    {
+      "id": "stone",
+      "text": "stone",
+      "zhText": "石头",
+      "phonetic": "/stoʊn/",
+      "pos": "n.",
+      "meaning": "石头",
+      "example": {
+        "en": "The road's all stone, so watch your step.",
+        "zh": "这路全是石头，走路小心点。"
+      },
+      "synonyms": [
+        "rock"
+      ],
+      "position": {
+        "x": 50,
+        "y": 82
+      }
+    },
+    {
+      "id": "bicycle",
+      "text": "bicycle",
+      "zhText": "自行车",
+      "phonetic": "/ˈbaɪsɪkəl/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "Someone just left their bicycle there.",
+        "zh": "有人把自行车停那儿了。"
+      },
+      "synonyms": [
+        "bike"
+      ],
+      "position": {
+        "x": 11,
+        "y": 68
+      }
+    },
+    {
+      "id": "colorful",
+      "text": "colorful",
+      "zhText": "彩色的",
+      "phonetic": "/ˈkʌlərfəl/",
+      "pos": "adj.",
+      "meaning": "彩色的",
+      "example": {
+        "en": "It's so colorful up there.",
+        "zh": "上面看起来特别花哨。"
+      },
+      "synonyms": [
+        "bright",
+        "vivid"
+      ],
+      "position": {
+        "x": 39,
+        "y": 24
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk down the street",
+      "meaning": "沿着街道往前走"
+    },
+    {
+      "phrase": "look up at the flags",
+      "meaning": "抬头看那些旗子"
+    },
+    {
+      "phrase": "stop by a shop",
+      "meaning": "顺路进一家店看看"
+    }
+  ]
+}
