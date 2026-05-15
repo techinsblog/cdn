@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 148,
+  "title": "路边在铺管道",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #6b5e52 0%, #8f8377 50%, #c2b7aa 100%)",
+  "sentence": {
+    "en": "They're putting in new pipes.",
+    "zh": "他们在铺新的管道。",
+    "highlights": [
+      "put in",
+      "pipe"
+    ]
+  },
+  "words": [
+    {
+      "id": "pipe",
+      "text": "pipes",
+      "zhText": "管道",
+      "phonetic": "/paɪp/",
+      "pos": "noun",
+      "meaning": "埋在地下的管子",
+      "example": {
+        "en": "They had to replace the old pipes.",
+        "zh": "他们得把旧管道换掉。"
+      },
+      "synonyms": [
+        "tube"
+      ],
+      "position": {
+        "x": 67,
+        "y": 43
+      }
+    },
+    {
+      "id": "ditch",
+      "text": "ditch",
+      "zhText": "沟槽",
+      "phonetic": "/dɪtʃ/",
+      "pos": "noun",
+      "meaning": "挖开的长沟",
+      "example": {
+        "en": "Watch your step—there's a ditch here.",
+        "zh": "小心脚下，这儿有条沟。"
+      },
+      "synonyms": [
+        "trench"
+      ],
+      "position": {
+        "x": 22,
+        "y": 52
+      }
+    },
+    {
+      "id": "sand",
+      "text": "sand",
+      "zhText": "沙子",
+      "phonetic": "/sænd/",
+      "pos": "noun",
+      "meaning": "细沙",
+      "example": {
+        "en": "There's sand all over my shoes now.",
+        "zh": "我鞋上现在全是沙子。"
+      },
+      "synonyms": [
+        "grit"
+      ],
+      "position": {
+        "x": 78,
+        "y": 72
+      }
+    },
+    {
+      "id": "cable",
+      "text": "cables",
+      "zhText": "电缆",
+      "phonetic": "/ˈkeɪbəl/",
+      "pos": "noun",
+      "meaning": "粗电线",
+      "example": {
+        "en": "Don't touch those cables.",
+        "zh": "别碰那些电缆。"
+      },
+      "synonyms": [
+        "wire"
+      ],
+      "position": {
+        "x": 10,
+        "y": 39
+      }
+    },
+    {
+      "id": "dig",
+      "text": "digging",
+      "zhText": "挖",
+      "phonetic": "/dɪɡ/",
+      "pos": "verb",
+      "meaning": "把土挖开",
+      "example": {
+        "en": "They're still digging, so the road's blocked.",
+        "zh": "他们还在挖，所以这条路堵住了。"
+      },
+      "synonyms": [
+        "excavate"
+      ],
+      "position": {
+        "x": 85,
+        "y": 19
+      }
+    },
+    {
+      "id": "barrier",
+      "text": "barrier",
+      "zhText": "围挡",
+      "phonetic": "/ˈbæriər/",
+      "pos": "noun",
+      "meaning": "拦起来的挡板",
+      "example": {
+        "en": "They put up a barrier around the work area.",
+        "zh": "他们在施工区周围立了围挡。"
+      },
+      "synonyms": [
+        "fence"
+      ],
+      "position": {
+        "x": 78,
+        "y": 10
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "put in pipes",
+      "meaning": "铺设管道"
+    },
+    {
+      "phrase": "dig up the road",
+      "meaning": "把路面挖开"
+    },
+    {
+      "phrase": "set up a barrier",
+      "meaning": "立起围挡"
+    }
+  ]
+}
