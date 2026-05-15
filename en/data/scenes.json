@@ -568,6 +568,14 @@
       "gradient": "linear-gradient(135deg, #8B5E3C 0%, #C98A4A 50%, #3E4A5A 100%)",
       "wordCount": 6,
       "previewWords": "chopsticks · fish · grab"
+    },
+    {
+      "id": 172,
+      "title": "院子里亮着灯笼",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #2b130f 0%, #6b2d1a 50%, #d39a4a 100%)",
+      "wordCount": 6,
+      "previewWords": "lanterns · lit up · pond"
     }
   ]
 }
