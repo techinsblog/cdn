@@ -448,6 +448,14 @@
       "gradient": "linear-gradient(135deg, #7fa8d8 0%, #9fc3e6 50%, #6f8f6b 100%)",
       "wordCount": 7,
       "previewWords": "boat · lake · ride"
+    },
+    {
+      "id": 157,
+      "title": "在室内打羽毛球",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #1f6f78 0%, #4aa96c 50%, #9ad1a3 100%)",
+      "wordCount": 7,
+      "previewWords": "badminton · racket · serving"
     }
   ]
 }
