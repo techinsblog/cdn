@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 144,
+  "title": "在跑道上拉伸",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #d9e6f2 0%, #f1e4dc 50%, #9a4f43 100%)",
+  "sentence": {
+    "en": "She's just stretching on the track.",
+    "zh": "她就是在跑道上拉伸。",
+    "highlights": [
+      "stretch",
+      "track"
+    ]
+  },
+  "words": [
+    {
+      "id": "stretch",
+      "text": "stretching",
+      "zhText": "拉伸",
+      "phonetic": "/stretʃ/",
+      "pos": "verb",
+      "meaning": "把身体伸展开",
+      "example": {
+        "en": "Hold on, I'm stretching before we start.",
+        "zh": "等一下，我开练前先拉伸一下。"
+      },
+      "synonyms": [
+        "warm up"
+      ],
+      "position": {
+        "x": 61,
+        "y": 44
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "跑道",
+      "phonetic": "/træk/",
+      "pos": "noun",
+      "meaning": "跑步的跑道",
+      "example": {
+        "en": "Let's do two easy laps on the track.",
+        "zh": "咱们先在跑道上轻松跑两圈吧。"
+      },
+      "synonyms": [
+        "lane"
+      ],
+      "position": {
+        "x": 84,
+        "y": 73
+      }
+    },
+    {
+      "id": "arm",
+      "text": "arm",
+      "zhText": "手臂",
+      "phonetic": "/ɑːrm/",
+      "pos": "noun",
+      "meaning": "胳膊",
+      "example": {
+        "en": "My arms are still kind of sore.",
+        "zh": "我的手臂还是有点酸。"
+      },
+      "synonyms": [
+        "limb"
+      ],
+      "position": {
+        "x": 30,
+        "y": 39
+      }
+    },
+    {
+      "id": "shoe",
+      "text": "shoe",
+      "zhText": "鞋",
+      "phonetic": "/ʃuː/",
+      "pos": "noun",
+      "meaning": "运动鞋",
+      "example": {
+        "en": "Wait, I need to tie my shoe.",
+        "zh": "等下，我得系一下鞋带。"
+      },
+      "synonyms": [
+        "sneaker"
+      ],
+      "position": {
+        "x": 7,
+        "y": 68
+      }
+    },
+    {
+      "id": "earbud",
+      "text": "earbud",
+      "zhText": "耳机",
+      "phonetic": "/ˈɪrbʌd/",
+      "pos": "noun",
+      "meaning": "入耳式耳机",
+      "example": {
+        "en": "She's got one earbud in.",
+        "zh": "她戴着一只耳机。"
+      },
+      "synonyms": [
+        "headphone"
+      ],
+      "position": {
+        "x": 44,
+        "y": 51
+      }
+    },
+    {
+      "id": "leg",
+      "text": "leg",
+      "zhText": "腿",
+      "phonetic": "/leɡ/",
+      "pos": "noun",
+      "meaning": "腿部",
+      "example": {
+        "en": "My legs feel way better after that.",
+        "zh": "拉完以后我腿舒服多了。"
+      },
+      "synonyms": [
+        "lower limb"
+      ],
+      "position": {
+        "x": 22,
+        "y": 82
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do a stretch",
+      "meaning": "做个拉伸"
+    },
+    {
+      "phrase": "on the track",
+      "meaning": "在跑道上"
+    },
+    {
+      "phrase": "warm up first",
+      "meaning": "先热身"
+    }
+  ]
+}
