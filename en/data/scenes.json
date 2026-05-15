@@ -440,6 +440,14 @@
       "gradient": "linear-gradient(135deg, #1f1f1f 0%, #8c6b4f 50%, #f2e3d5 100%)",
       "wordCount": 6,
       "previewWords": "mannequin · cap · shirt"
+    },
+    {
+      "id": 156,
+      "title": "湖上坐船游园",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #7fa8d8 0%, #9fc3e6 50%, #6f8f6b 100%)",
+      "wordCount": 7,
+      "previewWords": "boat · lake · ride"
     }
   ]
 }
