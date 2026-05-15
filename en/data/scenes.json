@@ -496,6 +496,14 @@
       "gradient": "linear-gradient(135deg, #2f3a2f 0%, #cfa36f 50%, #f3eadf 100%)",
       "wordCount": 6,
       "previewWords": "stretching · square · tree"
+    },
+    {
+      "id": 163,
+      "title": "烤鸡配薄饼",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #3b2a22 0%, #8c4f2f 50%, #d7b38a 100%)",
+      "wordCount": 6,
+      "previewWords": "chicken · grilled · flatbread"
     }
   ]
 }
