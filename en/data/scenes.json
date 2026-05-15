@@ -512,6 +512,14 @@
       "gradient": "linear-gradient(135deg, #d8c29d 0%, #b08a5b 50%, #5f6f7a 100%)",
       "wordCount": 6,
       "previewWords": "skateboard · trick · jump"
+    },
+    {
+      "id": 165,
+      "title": "游客在天坛参观",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #1e90ff 0%, #87ceeb 50%, #f2e8d5 100%)",
+      "wordCount": 7,
+      "previewWords": "temple · stairs · tourist"
     }
   ]
 }
