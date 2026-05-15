@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 159,
+  "title": "熊猫在吃竹子",
+  "categoryId": "pets",
+  "gradient": "linear-gradient(135deg, #5f6f52 0%, #a9b388 50%, #e8dfca 100%)",
+  "sentence": {
+    "en": "The panda's just chilling and eating bamboo.",
+    "zh": "这只熊猫就在那儿悠闲地啃竹子。",
+    "highlights": [
+      "panda",
+      "eating",
+      "bamboo"
+    ]
+  },
+  "words": [
+    {
+      "id": "panda",
+      "text": "panda",
+      "zhText": "熊猫",
+      "phonetic": "/ˈpændə/",
+      "pos": "noun",
+      "meaning": "熊猫",
+      "example": {
+        "en": "Look at that panda. It's so relaxed.",
+        "zh": "看那只熊猫，状态也太放松了。"
+      },
+      "synonyms": [
+        "bear"
+      ],
+      "position": {
+        "x": 18,
+        "y": 33
+      }
+    },
+    {
+      "id": "bamboo",
+      "text": "bamboo",
+      "zhText": "竹子",
+      "phonetic": "/bæmˈbuː/",
+      "pos": "noun",
+      "meaning": "竹子",
+      "example": {
+        "en": "Pandas really love bamboo.",
+        "zh": "熊猫真的很爱吃竹子。"
+      },
+      "synonyms": [
+        "plant"
+      ],
+      "position": {
+        "x": 73,
+        "y": 63
+      }
+    },
+    {
+      "id": "eat",
+      "text": "eating",
+      "zhText": "吃",
+      "phonetic": "/iːt/",
+      "pos": "verb",
+      "meaning": "吃",
+      "example": {
+        "en": "He's still eating. Give him a minute.",
+        "zh": "它还在吃呢，等它一会儿。"
+      },
+      "synonyms": [
+        "have"
+      ],
+      "position": {
+        "x": 58,
+        "y": 46
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树干",
+      "phonetic": "/triː/",
+      "pos": "noun",
+      "meaning": "树干",
+      "example": {
+        "en": "There's a tree right in front of him.",
+        "zh": "它前面正好有一棵树。"
+      },
+      "synonyms": [
+        "trunk"
+      ],
+      "position": {
+        "x": 88,
+        "y": 32
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐",
+      "phonetic": "/sɪt/",
+      "pos": "verb",
+      "meaning": "坐着",
+      "example": {
+        "en": "He's just sitting there like he owns the place.",
+        "zh": "它就坐在那儿，跟自己家一样。"
+      },
+      "synonyms": [
+        "rest"
+      ],
+      "position": {
+        "x": 31,
+        "y": 72
+      }
+    },
+    {
+      "id": "grass",
+      "text": "grass",
+      "zhText": "草地",
+      "phonetic": "/ɡræs/",
+      "pos": "noun",
+      "meaning": "草",
+      "example": {
+        "en": "The grass is kind of all over the place.",
+        "zh": "地上的草到处都是。"
+      },
+      "synonyms": [
+        "lawn"
+      ],
+      "position": {
+        "x": 14,
+        "y": 89
+      }
+    },
+    {
+      "id": "cave",
+      "text": "cave",
+      "zhText": "洞口",
+      "phonetic": "/keɪv/",
+      "pos": "noun",
+      "meaning": "洞",
+      "example": {
+        "en": "Looks like there's a little cave behind him.",
+        "zh": "它后面看着像有个小洞。"
+      },
+      "synonyms": [
+        "hole"
+      ],
+      "position": {
+        "x": 61,
+        "y": 28
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "eat bamboo",
+      "meaning": "吃竹子"
+    },
+    {
+      "phrase": "sit there",
+      "meaning": "坐在那儿"
+    },
+    {
+      "phrase": "chill out",
+      "meaning": "放松一下"
+    }
+  ]
+}
