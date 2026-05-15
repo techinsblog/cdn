@@ -376,6 +376,14 @@
       "gradient": "linear-gradient(135deg, #c94f3d 0%, #e39a5b 50%, #8fa36b 100%)",
       "wordCount": 6,
       "previewWords": "leaves · branch · roof"
+    },
+    {
+      "id": 148,
+      "title": "路边在铺管道",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #6b5e52 0%, #8f8377 50%, #c2b7aa 100%)",
+      "wordCount": 6,
+      "previewWords": "pipes · ditch · sand"
     }
   ]
 }
