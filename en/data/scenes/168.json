@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "id": 168,
+  "title": "在攀岩墙上练习",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f7f9fb 50%, #cfd9df 100%)",
+  "sentence": {
+    "en": "She's climbing up the wall.",
+    "zh": "她正在往攀岩墙上爬。",
+    "highlights": [
+      "climb",
+      "wall"
+    ]
+  },
+  "words": [
+    {
+      "id": "climb",
+      "text": "climbing",
+      "zhText": "攀爬",
+      "phonetic": "/klaɪm/",
+      "pos": "verb",
+      "meaning": "往上爬",
+      "example": {
+        "en": "I'm too tired to climb any higher.",
+        "zh": "我太累了，爬不动更高了。"
+      },
+      "synonyms": [
+        "go up",
+        "scale"
+      ],
+      "position": {
+        "x": 69,
+        "y": 34
+      }
+    },
+    {
+      "id": "wall",
+      "text": "wall",
+      "zhText": "墙面",
+      "phonetic": "/wɔːl/",
+      "pos": "noun",
+      "meaning": "攀岩墙",
+      "example": {
+        "en": "This wall looks kind of hard.",
+        "zh": "这面墙看着还挺难的。"
+      },
+      "synonyms": [
+        "surface"
+      ],
+      "position": {
+        "x": 15,
+        "y": 10
+      }
+    },
+    {
+      "id": "rope",
+      "text": "rope",
+      "zhText": "绳子",
+      "phonetic": "/roʊp/",
+      "pos": "noun",
+      "meaning": "安全绳",
+      "example": {
+        "en": "Make sure the rope's tight.",
+        "zh": "把绳子弄紧一点。"
+      },
+      "synonyms": [
+        "line",
+        "cord"
+      ],
+      "position": {
+        "x": 60,
+        "y": 18
+      }
+    },
+    {
+      "id": "hold",
+      "text": "hold",
+      "zhText": "岩点",
+      "phonetic": "/hoʊld/",
+      "pos": "noun",
+      "meaning": "手脚抓踩的点",
+      "example": {
+        "en": "Try the orange hold on your right.",
+        "zh": "试试你右边那个橙色岩点。"
+      },
+      "synonyms": [
+        "grip"
+      ],
+      "position": {
+        "x": 34,
+        "y": 29
+      }
+    },
+    {
+      "id": "harness",
+      "text": "harness",
+      "zhText": "安全带",
+      "phonetic": "/ˈhɑːrnəs/",
+      "pos": "noun",
+      "meaning": "攀岩安全带",
+      "example": {
+        "en": "Wait, let me fix my harness.",
+        "zh": "等下，我调一下安全带。"
+      },
+      "synonyms": [
+        "gear"
+      ],
+      "position": {
+        "x": 58,
+        "y": 61
+      }
+    },
+    {
+      "id": "shoe",
+      "text": "shoe",
+      "zhText": "鞋子",
+      "phonetic": "/ʃuː/",
+      "pos": "noun",
+      "meaning": "攀岩鞋",
+      "example": {
+        "en": "These shoes are really tight.",
+        "zh": "这双鞋真的很紧。"
+      },
+      "synonyms": [
+        "footwear"
+      ],
+      "position": {
+        "x": 31,
+        "y": 83
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "climb up",
+      "meaning": "往上爬"
+    },
+    {
+      "phrase": "grab a hold",
+      "meaning": "抓住一个岩点"
+    },
+    {
+      "phrase": "put on a harness",
+      "meaning": "系上安全带"
+    }
+  ]
+}
