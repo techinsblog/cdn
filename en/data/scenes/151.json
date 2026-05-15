@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 151,
+  "title": "在炸油饼",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #3b2a1f 0%, #c98a52 50%, #f2e3c6 100%)",
+  "sentence": {
+    "en": "She's frying bread in a big pan.",
+    "zh": "她正在大锅里炸面饼。",
+    "highlights": [
+      "fry",
+      "pan",
+      "bread"
+    ]
+  },
+  "words": [
+    {
+      "id": "fry",
+      "text": "frying",
+      "zhText": "炸",
+      "phonetic": "/fraɪ/",
+      "pos": "verb",
+      "meaning": "把东西放进热油里炸",
+      "example": {
+        "en": "Don't touch it yet—it's still frying.",
+        "zh": "先别碰，还在炸呢。"
+      },
+      "synonyms": [
+        "cook"
+      ],
+      "position": {
+        "x": 27,
+        "y": 67
+      }
+    },
+    {
+      "id": "pan",
+      "text": "pan",
+      "zhText": "锅",
+      "phonetic": "/pæn/",
+      "pos": "noun",
+      "meaning": "平底锅",
+      "example": {
+        "en": "That pan is huge.",
+        "zh": "那口锅真大。"
+      },
+      "synonyms": [
+        "pot"
+      ],
+      "position": {
+        "x": 12,
+        "y": 84
+      }
+    },
+    {
+      "id": "chopsticks",
+      "text": "chopsticks",
+      "zhText": "筷子",
+      "phonetic": "/ˈtʃɑːpstɪks/",
+      "pos": "noun",
+      "meaning": "筷子",
+      "example": {
+        "en": "She's using chopsticks to turn the bread.",
+        "zh": "她在用筷子翻面饼。"
+      },
+      "synonyms": [
+        "sticks"
+      ],
+      "position": {
+        "x": 10,
+        "y": 63
+      }
+    },
+    {
+      "id": "bread",
+      "text": "bread",
+      "zhText": "面饼",
+      "phonetic": "/bred/",
+      "pos": "noun",
+      "meaning": "面做的饼或面包",
+      "example": {
+        "en": "These pieces of bread look really fresh.",
+        "zh": "这些面饼看着就很新鲜。"
+      },
+      "synonyms": [
+        "bun"
+      ],
+      "position": {
+        "x": 85,
+        "y": 90
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "noun",
+      "meaning": "放食物的盘子",
+      "example": {
+        "en": "Put the cooked ones on the tray.",
+        "zh": "炸好的放托盘上吧。"
+      },
+      "synonyms": [
+        "plate"
+      ],
+      "position": {
+        "x": 71,
+        "y": 56
+      }
+    },
+    {
+      "id": "cook",
+      "text": "cook",
+      "zhText": "做饭",
+      "phonetic": "/kʊk/",
+      "pos": "verb",
+      "meaning": "做吃的",
+      "example": {
+        "en": "She cooks here every morning.",
+        "zh": "她每天早上都在这儿做吃的。"
+      },
+      "synonyms": [
+        "make"
+      ],
+      "position": {
+        "x": 44,
+        "y": 78
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "deep-fry bread",
+      "meaning": "炸面饼"
+    },
+    {
+      "phrase": "heat the oil",
+      "meaning": "把油烧热"
+    },
+    {
+      "phrase": "put it in the pan",
+      "meaning": "把它放进锅里"
+    }
+  ]
+}
