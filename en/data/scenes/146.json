@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "id": 146,
+  "title": "烤架上烤蔬菜",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #2b2b2b 0%, #d94f2b 50%, #f2b84b 100%)",
+  "sentence": {
+    "en": "They're grilling some veggies right now.",
+    "zh": "他们这会儿正在烤一些蔬菜。",
+    "highlights": [
+      "grill",
+      "veggies"
+    ]
+  },
+  "words": [
+    {
+      "id": "grill",
+      "text": "grilling",
+      "zhText": "烧烤",
+      "phonetic": "/ɡrɪl/",
+      "pos": "v.",
+      "meaning": "烤",
+      "example": {
+        "en": "We're just grilling outside tonight.",
+        "zh": "我们今晚就在外面随便烤点东西。"
+      },
+      "synonyms": [
+        "barbecue",
+        "cook"
+      ],
+      "position": {
+        "x": 14,
+        "y": 24
+      }
+    },
+    {
+      "id": "veggie",
+      "text": "veggies",
+      "zhText": "蔬菜",
+      "phonetic": "/ˈvedʒiz/",
+      "pos": "n.",
+      "meaning": "蔬菜",
+      "example": {
+        "en": "Can you throw some veggies on the grill?",
+        "zh": "你能往烤架上放点蔬菜吗？"
+      },
+      "synonyms": [
+        "vegetables"
+      ],
+      "position": {
+        "x": 82,
+        "y": 16
+      }
+    },
+    {
+      "id": "pepper",
+      "text": "pepper",
+      "zhText": "甜椒",
+      "phonetic": "/ˈpepər/",
+      "pos": "n.",
+      "meaning": "甜椒",
+      "example": {
+        "en": "I want that red pepper one.",
+        "zh": "我想吃那个红甜椒。"
+      },
+      "synonyms": [
+        "bell pepper"
+      ],
+      "position": {
+        "x": 83,
+        "y": 52
+      }
+    },
+    {
+      "id": "zucchini",
+      "text": "zucchini",
+      "zhText": "西葫芦",
+      "phonetic": "/zuˈkiːni/",
+      "pos": "n.",
+      "meaning": "西葫芦",
+      "example": {
+        "en": "The zucchini's actually really good grilled.",
+        "zh": "西葫芦烤着吃其实特别不错。"
+      },
+      "synonyms": [
+        "courgette"
+      ],
+      "position": {
+        "x": 11,
+        "y": 67
+      }
+    },
+    {
+      "id": "eggplant",
+      "text": "eggplant",
+      "zhText": "茄子",
+      "phonetic": "/ˈeɡplænt/",
+      "pos": "n.",
+      "meaning": "茄子",
+      "example": {
+        "en": "Don't flip the eggplant yet.",
+        "zh": "茄子先别翻。"
+      },
+      "synonyms": [
+        "aubergine"
+      ],
+      "position": {
+        "x": 64,
+        "y": 78
+      }
+    },
+    {
+      "id": "smoke",
+      "text": "smoke",
+      "zhText": "烟",
+      "phonetic": "/smoʊk/",
+      "pos": "n.",
+      "meaning": "烟",
+      "example": {
+        "en": "Wow, that's a lot of smoke.",
+        "zh": "哇，这烟可真大。"
+      },
+      "synonyms": [
+        "fume"
+      ],
+      "position": {
+        "x": 59,
+        "y": 8
+      }
+    },
+    {
+      "id": "char",
+      "text": "charred",
+      "zhText": "烤焦",
+      "phonetic": "/tʃɑːrd/",
+      "pos": "adj.",
+      "meaning": "烤焦的",
+      "example": {
+        "en": "I kind of like it a little charred.",
+        "zh": "我还挺喜欢稍微有点焦的。"
+      },
+      "synonyms": [
+        "burnt"
+      ],
+      "position": {
+        "x": 39,
+        "y": 46
+      }
+    },
+    {
+      "id": "flame",
+      "text": "flames",
+      "zhText": "火焰",
+      "phonetic": "/fleɪmz/",
+      "pos": "n.",
+      "meaning": "火焰",
+      "example": {
+        "en": "The flames are getting pretty high.",
+        "zh": "这火苗蹿得有点高了。"
+      },
+      "synonyms": [
+        "fire"
+      ],
+      "position": {
+        "x": 28,
+        "y": 92
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "throw it on the grill",
+      "meaning": "把它放上烤架"
+    },
+    {
+      "phrase": "grilled vegetables",
+      "meaning": "烤蔬菜"
+    },
+    {
+      "phrase": "a little charred",
+      "meaning": "稍微有点焦"
+    }
+  ]
+}
