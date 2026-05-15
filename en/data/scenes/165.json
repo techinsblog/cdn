@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "id": 165,
+  "title": "游客在天坛参观",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #1e90ff 0%, #87ceeb 50%, #f2e8d5 100%)",
+  "sentence": {
+    "en": "People are visiting the temple on a clear day.",
+    "zh": "人们正在晴天里参观这座庙。",
+    "highlights": [
+      "visit",
+      "temple",
+      "clear"
+    ]
+  },
+  "words": [
+    {
+      "id": "temple",
+      "text": "temple",
+      "zhText": "寺庙",
+      "phonetic": "/ˈtempəl/",
+      "pos": "n.",
+      "meaning": "庙，寺",
+      "example": {
+        "en": "That temple looks even better in person.",
+        "zh": "那座庙现场看更震撼。"
+      },
+      "synonyms": [
+        "shrine",
+        "building"
+      ],
+      "position": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    {
+      "id": "stairs",
+      "text": "stairs",
+      "zhText": "楼梯",
+      "phonetic": "/sterz/",
+      "pos": "n.",
+      "meaning": "台阶",
+      "example": {
+        "en": "Let's take the stairs, it's not that far.",
+        "zh": "走台阶吧，也没多远。"
+      },
+      "synonyms": [
+        "steps"
+      ],
+      "position": {
+        "x": 24,
+        "y": 63
+      }
+    },
+    {
+      "id": "tourist",
+      "text": "tourist",
+      "zhText": "游客",
+      "phonetic": "/ˈtʊrɪst/",
+      "pos": "n.",
+      "meaning": "游客",
+      "example": {
+        "en": "There are a lot of tourists here today.",
+        "zh": "今天这儿游客还挺多的。"
+      },
+      "synonyms": [
+        "visitor",
+        "traveler"
+      ],
+      "position": {
+        "x": 72,
+        "y": 80
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "步行",
+      "example": {
+        "en": "We can just walk around for a bit.",
+        "zh": "咱们随便走走就行。"
+      },
+      "synonyms": [
+        "stroll"
+      ],
+      "position": {
+        "x": 52,
+        "y": 77
+      }
+    },
+    {
+      "id": "roof",
+      "text": "roof",
+      "zhText": "屋顶",
+      "phonetic": "/ruːf/",
+      "pos": "n.",
+      "meaning": "屋顶",
+      "example": {
+        "en": "I love the shape of that roof.",
+        "zh": "我挺喜欢那个屋顶的造型。"
+      },
+      "synonyms": [
+        "top"
+      ],
+      "position": {
+        "x": 41,
+        "y": 37
+      }
+    },
+    {
+      "id": "clear",
+      "text": "clear",
+      "zhText": "晴朗",
+      "phonetic": "/klɪr/",
+      "pos": "adj.",
+      "meaning": "晴朗的",
+      "example": {
+        "en": "The sky's really clear today.",
+        "zh": "今天天空特别晴。"
+      },
+      "synonyms": [
+        "bright",
+        "sunny"
+      ],
+      "position": {
+        "x": 18,
+        "y": 18
+      }
+    },
+    {
+      "id": "visit",
+      "text": "visiting",
+      "zhText": "参观",
+      "phonetic": "/ˈvɪzɪt/",
+      "pos": "v.",
+      "meaning": "参观",
+      "example": {
+        "en": "We're just visiting for the afternoon.",
+        "zh": "我们就是下午过来逛逛。"
+      },
+      "synonyms": [
+        "see",
+        "tour"
+      ],
+      "position": {
+        "x": 36,
+        "y": 71
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "visit a temple",
+      "meaning": "参观寺庙"
+    },
+    {
+      "phrase": "climb the stairs",
+      "meaning": "爬台阶"
+    },
+    {
+      "phrase": "walk around",
+      "meaning": "四处走走"
+    }
+  ]
+}
