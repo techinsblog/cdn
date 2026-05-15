@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 155,
+  "title": "服装店里的模特",
+  "categoryId": "shopping",
+  "gradient": "linear-gradient(135deg, #1f1f1f 0%, #8c6b4f 50%, #f2e3d5 100%)",
+  "sentence": {
+    "en": "That mannequin's dressed pretty casually.",
+    "zh": "那个模特穿得挺休闲的。",
+    "highlights": [
+      "mannequin",
+      "dressed"
+    ]
+  },
+  "words": [
+    {
+      "id": "mannequin",
+      "text": "mannequin",
+      "zhText": "模特",
+      "phonetic": "/ˈmænɪkɪn/",
+      "pos": "n.",
+      "meaning": "商店里展示衣服的人台模特",
+      "example": {
+        "en": "Is that a real person or a mannequin?",
+        "zh": "那是真人还是模特啊？"
+      },
+      "synonyms": [
+        "dummy",
+        "model"
+      ],
+      "position": {
+        "x": 72,
+        "y": 18
+      }
+    },
+    {
+      "id": "cap",
+      "text": "cap",
+      "zhText": "帽子",
+      "phonetic": "/kæp/",
+      "pos": "n.",
+      "meaning": "棒球帽",
+      "example": {
+        "en": "That black cap actually looks pretty nice.",
+        "zh": "那顶黑色帽子其实挺好看的。"
+      },
+      "synonyms": [
+        "hat"
+      ],
+      "position": {
+        "x": 33,
+        "y": 10
+      }
+    },
+    {
+      "id": "shirt",
+      "text": "shirt",
+      "zhText": "衬衫",
+      "phonetic": "/ʃɜːrt/",
+      "pos": "n.",
+      "meaning": "衬衫",
+      "example": {
+        "en": "I'd totally wear that floral shirt.",
+        "zh": "那件花衬衫我真的会穿。"
+      },
+      "synonyms": [
+        "top"
+      ],
+      "position": {
+        "x": 18,
+        "y": 43
+      }
+    },
+    {
+      "id": "shorts",
+      "text": "shorts",
+      "zhText": "短裤",
+      "phonetic": "/ʃɔːrts/",
+      "pos": "n.",
+      "meaning": "短裤",
+      "example": {
+        "en": "These shorts look good for summer.",
+        "zh": "这条短裤看着就很适合夏天。"
+      },
+      "synonyms": [
+        "pants"
+      ],
+      "position": {
+        "x": 64,
+        "y": 72
+      }
+    },
+    {
+      "id": "shoe",
+      "text": "shoe",
+      "zhText": "鞋子",
+      "phonetic": "/ʃuː/",
+      "pos": "n.",
+      "meaning": "鞋子",
+      "example": {
+        "en": "Those blue shoes kind of stand out.",
+        "zh": "那双蓝鞋还挺显眼的。"
+      },
+      "synonyms": [
+        "sneaker"
+      ],
+      "position": {
+        "x": 86,
+        "y": 88
+      }
+    },
+    {
+      "id": "dressed",
+      "text": "dressed",
+      "zhText": "穿着",
+      "phonetic": "/drest/",
+      "pos": "adj.",
+      "meaning": "穿着衣服的",
+      "example": {
+        "en": "He's dressed like he's ready for vacation.",
+        "zh": "他这穿着像马上要去度假。"
+      },
+      "synonyms": [
+        "wearing"
+      ],
+      "position": {
+        "x": 49,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "try on clothes",
+      "meaning": "试穿衣服"
+    },
+    {
+      "phrase": "summer outfit",
+      "meaning": "夏日穿搭"
+    },
+    {
+      "phrase": "on display",
+      "meaning": "陈列展示"
+    }
+  ]
+}
