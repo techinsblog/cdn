@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 164,
+  "title": "广场上玩滑板",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #d8c29d 0%, #b08a5b 50%, #5f6f7a 100%)",
+  "sentence": {
+    "en": "He's just doing a skateboard trick.",
+    "zh": "他就是在玩一个滑板动作。",
+    "highlights": [
+      "skateboard",
+      "trick"
+    ]
+  },
+  "words": [
+    {
+      "id": "skateboard",
+      "text": "skateboard",
+      "zhText": "滑板",
+      "phonetic": "/ˈskeɪtbɔːrd/",
+      "pos": "n.",
+      "meaning": "滑板",
+      "example": {
+        "en": "I left my skateboard by the door.",
+        "zh": "我把滑板放门口了。"
+      },
+      "synonyms": [
+        "board"
+      ],
+      "position": {
+        "x": 33,
+        "y": 89
+      }
+    },
+    {
+      "id": "trick",
+      "text": "trick",
+      "zhText": "动作",
+      "phonetic": "/trɪk/",
+      "pos": "n.",
+      "meaning": "花式动作",
+      "example": {
+        "en": "That trick was actually pretty clean.",
+        "zh": "刚那个动作其实挺干净的。"
+      },
+      "synonyms": [
+        "move"
+      ],
+      "position": {
+        "x": 24,
+        "y": 55
+      }
+    },
+    {
+      "id": "jump",
+      "text": "jump",
+      "zhText": "跳起",
+      "phonetic": "/dʒʌmp/",
+      "pos": "v.",
+      "meaning": "跳起",
+      "example": {
+        "en": "You gotta jump a little higher.",
+        "zh": "你得再跳高一点。"
+      },
+      "synonyms": [
+        "hop"
+      ],
+      "position": {
+        "x": 42,
+        "y": 74
+      }
+    },
+    {
+      "id": "hoodie",
+      "text": "hoodie",
+      "zhText": "连帽衫",
+      "phonetic": "/ˈhʊdi/",
+      "pos": "n.",
+      "meaning": "连帽衫",
+      "example": {
+        "en": "It's chilly, so I threw on a hoodie.",
+        "zh": "有点冷，我就套了件连帽衫。"
+      },
+      "synonyms": [
+        "sweatshirt"
+      ],
+      "position": {
+        "x": 44,
+        "y": 38
+      }
+    },
+    {
+      "id": "beanie",
+      "text": "beanie",
+      "zhText": "针织帽",
+      "phonetic": "/ˈbiːni/",
+      "pos": "n.",
+      "meaning": "针织帽",
+      "example": {
+        "en": "Nice beanie—where'd you get it?",
+        "zh": "这针织帽不错，哪买的？"
+      },
+      "synonyms": [
+        "hat"
+      ],
+      "position": {
+        "x": 18,
+        "y": 34
+      }
+    },
+    {
+      "id": "shoe",
+      "text": "shoe",
+      "zhText": "鞋子",
+      "phonetic": "/ʃuː/",
+      "pos": "n.",
+      "meaning": "鞋子",
+      "example": {
+        "en": "Wait, my shoe's kinda loose.",
+        "zh": "等等，我鞋有点松。"
+      },
+      "synonyms": [
+        "sneaker"
+      ],
+      "position": {
+        "x": 49,
+        "y": 80
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do a trick",
+      "meaning": "做一个滑板动作"
+    },
+    {
+      "phrase": "land it",
+      "meaning": "成功落地"
+    },
+    {
+      "phrase": "practice skateboarding",
+      "meaning": "练滑板"
+    }
+  ]
+}
