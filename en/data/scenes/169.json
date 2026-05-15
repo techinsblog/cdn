@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 169,
+  "title": "在台球桌边瞄准",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #1f3b2d 0%, #4f6d5a 50%, #c49a6c 100%)",
+  "sentence": {
+    "en": "He's lining up a shot at the pool table.",
+    "zh": "他正在台球桌边瞄准出杆。",
+    "highlights": [
+      "shot",
+      "pool table"
+    ]
+  },
+  "words": [
+    {
+      "id": "pool table",
+      "text": "pool table",
+      "zhText": "台球桌",
+      "phonetic": "/ˈpuːl ˌteɪbəl/",
+      "pos": "n.",
+      "meaning": "台球桌",
+      "example": {
+        "en": "Let's play one more game on the pool table.",
+        "zh": "我们再来一局台球吧。"
+      },
+      "synonyms": [
+        "billiards table"
+      ],
+      "position": {
+        "x": 18,
+        "y": 57
+      }
+    },
+    {
+      "id": "cue",
+      "text": "cue",
+      "zhText": "球杆",
+      "phonetic": "/kjuː/",
+      "pos": "n.",
+      "meaning": "球杆",
+      "example": {
+        "en": "Wait, that's my cue.",
+        "zh": "等会儿，那是我的球杆。"
+      },
+      "synonyms": [
+        "pool cue"
+      ],
+      "position": {
+        "x": 73,
+        "y": 49
+      }
+    },
+    {
+      "id": "ball",
+      "text": "ball",
+      "zhText": "球",
+      "phonetic": "/bɔːl/",
+      "pos": "n.",
+      "meaning": "球",
+      "example": {
+        "en": "The white ball keeps rolling back.",
+        "zh": "那个白球老是滚回来。"
+      },
+      "synonyms": [
+        "pool ball"
+      ],
+      "position": {
+        "x": 66,
+        "y": 64
+      }
+    },
+    {
+      "id": "pocket",
+      "text": "pocket",
+      "zhText": "球袋",
+      "phonetic": "/ˈpɑːkɪt/",
+      "pos": "n.",
+      "meaning": "球袋",
+      "example": {
+        "en": "That one almost went in the pocket.",
+        "zh": "那颗差点就进袋了。"
+      },
+      "synonyms": [
+        "corner pocket"
+      ],
+      "position": {
+        "x": 45,
+        "y": 49
+      }
+    },
+    {
+      "id": "shot",
+      "text": "shot",
+      "zhText": "击球",
+      "phonetic": "/ʃɑːt/",
+      "pos": "n.",
+      "meaning": "击球",
+      "example": {
+        "en": "Nice shot, man.",
+        "zh": "这杆打得真不错。"
+      },
+      "synonyms": [
+        "hit"
+      ],
+      "position": {
+        "x": 58,
+        "y": 41
+      }
+    },
+    {
+      "id": "lean",
+      "text": "lean",
+      "zhText": "俯身",
+      "phonetic": "/liːn/",
+      "pos": "v.",
+      "meaning": "俯身",
+      "example": {
+        "en": "You have to lean a little more for that one.",
+        "zh": "那一杆你得再多俯一点身。"
+      },
+      "synonyms": [
+        "bend"
+      ],
+      "position": {
+        "x": 83,
+        "y": 35
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a shot",
+      "meaning": "来一杆；击球"
+    },
+    {
+      "phrase": "line up a shot",
+      "meaning": "瞄准准备击球"
+    },
+    {
+      "phrase": "sink the ball",
+      "meaning": "把球打进袋"
+    }
+  ]
+}
