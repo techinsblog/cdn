@@ -432,6 +432,14 @@
       "gradient": "linear-gradient(135deg, #F6D58A 0%, #E9B96E 50%, #6D8B5A 100%)",
       "wordCount": 7,
       "previewWords": "bridge · driving · car"
+    },
+    {
+      "id": 155,
+      "title": "服装店里的模特",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #1f1f1f 0%, #8c6b4f 50%, #f2e3d5 100%)",
+      "wordCount": 6,
+      "previewWords": "mannequin · cap · shirt"
     }
   ]
 }
