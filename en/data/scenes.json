@@ -416,6 +416,14 @@
       "gradient": "linear-gradient(135deg, #2b2f36 0%, #5b4a3f 50%, #f0a24a 100%)",
       "wordCount": 7,
       "previewWords": "cars · street · building"
+    },
+    {
+      "id": 153,
+      "title": "他在攀岩墙上发力",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #8C6A4A 0%, #B88A5A 50%, #5C4A3D 100%)",
+      "wordCount": 6,
+      "previewWords": "climbing · rock wall · rope"
     }
   ]
 }
