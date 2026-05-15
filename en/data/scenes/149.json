@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 149,
+  "title": "她在擤鼻涕",
+  "categoryId": "health",
+  "gradient": "linear-gradient(135deg, #eef4ff 0%, #c9daf8 50%, #8fb3e6 100%)",
+  "sentence": {
+    "en": "She's blowing her nose with a tissue.",
+    "zh": "她正用纸巾擤鼻涕。",
+    "highlights": [
+      "blow",
+      "nose",
+      "tissue"
+    ]
+  },
+  "words": [
+    {
+      "id": "blow",
+      "text": "blowing",
+      "zhText": "擤",
+      "phonetic": "/bloʊ/",
+      "pos": "verb",
+      "meaning": "擤鼻涕",
+      "example": {
+        "en": "Hang on, I need to blow my nose.",
+        "zh": "等下，我得先擤个鼻涕。"
+      },
+      "synonyms": [
+        "clear"
+      ],
+      "position": {
+        "x": 41,
+        "y": 56
+      }
+    },
+    {
+      "id": "nose",
+      "text": "nose",
+      "zhText": "鼻子",
+      "phonetic": "/noʊz/",
+      "pos": "noun",
+      "meaning": "鼻子",
+      "example": {
+        "en": "My nose is totally blocked.",
+        "zh": "我鼻子完全堵住了。"
+      },
+      "synonyms": [
+        "snout"
+      ],
+      "position": {
+        "x": 61,
+        "y": 49
+      }
+    },
+    {
+      "id": "tissue",
+      "text": "tissue",
+      "zhText": "纸巾",
+      "phonetic": "/ˈtɪʃuː/",
+      "pos": "noun",
+      "meaning": "纸巾",
+      "example": {
+        "en": "Do you have a tissue?",
+        "zh": "你有纸巾吗？"
+      },
+      "synonyms": [
+        "napkin"
+      ],
+      "position": {
+        "x": 52,
+        "y": 61
+      }
+    },
+    {
+      "id": "robe",
+      "text": "robe",
+      "zhText": "睡袍",
+      "phonetic": "/roʊb/",
+      "pos": "noun",
+      "meaning": "睡袍",
+      "example": {
+        "en": "She's still in her robe.",
+        "zh": "她还穿着睡袍呢。"
+      },
+      "synonyms": [
+        "gown"
+      ],
+      "position": {
+        "x": 22,
+        "y": 77
+      }
+    },
+    {
+      "id": "hair",
+      "text": "hair",
+      "zhText": "头发",
+      "phonetic": "/her/",
+      "pos": "noun",
+      "meaning": "头发",
+      "example": {
+        "en": "Your hair's a mess this morning.",
+        "zh": "你今天早上头发乱糟糟的。"
+      },
+      "synonyms": [
+        "hairstyle"
+      ],
+      "position": {
+        "x": 67,
+        "y": 28
+      }
+    },
+    {
+      "id": "sick",
+      "text": "sick",
+      "zhText": "难受的",
+      "phonetic": "/sɪk/",
+      "pos": "adjective",
+      "meaning": "不舒服的",
+      "example": {
+        "en": "You look kind of sick today.",
+        "zh": "你今天看起来有点不舒服。"
+      },
+      "synonyms": [
+        "ill"
+      ],
+      "position": {
+        "x": 82,
+        "y": 67
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "blow your nose",
+      "meaning": "擤鼻涕"
+    },
+    {
+      "phrase": "catch a cold",
+      "meaning": "感冒"
+    },
+    {
+      "phrase": "feel sick",
+      "meaning": "觉得不舒服"
+    }
+  ]
+}
