@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 162,
+  "title": "广场上做拉伸",
+  "categoryId": "health",
+  "gradient": "linear-gradient(135deg, #2f3a2f 0%, #cfa36f 50%, #f3eadf 100%)",
+  "sentence": {
+    "en": "She's just stretching in the square.",
+    "zh": "她就是在广场上做拉伸。",
+    "highlights": [
+      "stretching",
+      "square"
+    ]
+  },
+  "words": [
+    {
+      "id": "stretch",
+      "text": "stretching",
+      "zhText": "拉伸",
+      "phonetic": "/stretʃ/",
+      "pos": "v.",
+      "meaning": "拉伸身体",
+      "example": {
+        "en": "I need to stretch a bit before I walk more.",
+        "zh": "我得先拉伸一下，再继续走。"
+      },
+      "synonyms": [
+        "loosen up"
+      ],
+      "position": {
+        "x": 61,
+        "y": 77
+      }
+    },
+    {
+      "id": "square",
+      "text": "square",
+      "zhText": "广场",
+      "phonetic": "/skwer/",
+      "pos": "n.",
+      "meaning": "广场",
+      "example": {
+        "en": "Let's meet at the square around six.",
+        "zh": "咱们六点左右在广场见吧。"
+      },
+      "synonyms": [
+        "plaza"
+      ],
+      "position": {
+        "x": 38,
+        "y": 88
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand under that tree. It's cooler there.",
+        "zh": "咱们站那棵树下面吧，凉快点。"
+      },
+      "synonyms": [
+        "plant"
+      ],
+      "position": {
+        "x": 71,
+        "y": 18
+      }
+    },
+    {
+      "id": "clock tower",
+      "text": "clock tower",
+      "zhText": "钟楼",
+      "phonetic": "/ˈklɑːk ˌtaʊər/",
+      "pos": "n.",
+      "meaning": "钟楼",
+      "example": {
+        "en": "You'll see the clock tower right away.",
+        "zh": "你一眼就能看到那个钟楼。"
+      },
+      "synonyms": [
+        "tower"
+      ],
+      "position": {
+        "x": 79,
+        "y": 33
+      }
+    },
+    {
+      "id": "pavement",
+      "text": "pavement",
+      "zhText": "地面",
+      "phonetic": "/ˈpeɪvmənt/",
+      "pos": "n.",
+      "meaning": "人行地面",
+      "example": {
+        "en": "Careful, the pavement's a little wet.",
+        "zh": "小心点，地面有点湿。"
+      },
+      "synonyms": [
+        "ground"
+      ],
+      "position": {
+        "x": 20,
+        "y": 95
+      }
+    },
+    {
+      "id": "morning",
+      "text": "morning",
+      "zhText": "早晨",
+      "phonetic": "/ˈmɔːrnɪŋ/",
+      "pos": "n.",
+      "meaning": "早晨",
+      "example": {
+        "en": "I like walking here in the morning.",
+        "zh": "我喜欢早上在这儿走走。"
+      },
+      "synonyms": [
+        "daybreak"
+      ],
+      "position": {
+        "x": 90,
+        "y": 8
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do some stretching",
+      "meaning": "做些拉伸"
+    },
+    {
+      "phrase": "take a morning walk",
+      "meaning": "早晨散步"
+    },
+    {
+      "phrase": "stand in the sun",
+      "meaning": "站在阳光下"
+    }
+  ]
+}
