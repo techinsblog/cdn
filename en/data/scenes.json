@@ -408,6 +408,14 @@
       "gradient": "linear-gradient(135deg, #3b2a1f 0%, #c98a52 50%, #f2e3c6 100%)",
       "wordCount": 6,
       "previewWords": "frying · pan · chopsticks"
+    },
+    {
+      "id": 152,
+      "title": "傍晚街上车来车往",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #2b2f36 0%, #5b4a3f 50%, #f0a24a 100%)",
+      "wordCount": 7,
+      "previewWords": "cars · street · building"
     }
   ]
 }
