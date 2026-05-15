@@ -504,6 +504,14 @@
       "gradient": "linear-gradient(135deg, #3b2a22 0%, #8c4f2f 50%, #d7b38a 100%)",
       "wordCount": 6,
       "previewWords": "chicken · grilled · flatbread"
+    },
+    {
+      "id": 164,
+      "title": "广场上玩滑板",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #d8c29d 0%, #b08a5b 50%, #5f6f7a 100%)",
+      "wordCount": 6,
+      "previewWords": "skateboard · trick · jump"
     }
   ]
 }
