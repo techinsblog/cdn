@@ -424,6 +424,14 @@
       "gradient": "linear-gradient(135deg, #8C6A4A 0%, #B88A5A 50%, #5C4A3D 100%)",
       "wordCount": 6,
       "previewWords": "climbing · rock wall · rope"
+    },
+    {
+      "id": 154,
+      "title": "开车过大桥",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #F6D58A 0%, #E9B96E 50%, #6D8B5A 100%)",
+      "wordCount": 7,
+      "previewWords": "bridge · driving · car"
     }
   ]
 }
