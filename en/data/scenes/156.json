@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "id": 156,
+  "title": "湖上坐船游园",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #7fa8d8 0%, #9fc3e6 50%, #6f8f6b 100%)",
+  "sentence": {
+    "en": "They're taking a boat ride on the lake.",
+    "zh": "他们正在湖上坐船游玩。",
+    "highlights": [
+      "boat",
+      "lake",
+      "ride"
+    ]
+  },
+  "words": [
+    {
+      "id": "boat",
+      "text": "boat",
+      "zhText": "船",
+      "phonetic": "/boʊt/",
+      "pos": "n.",
+      "meaning": "船",
+      "example": {
+        "en": "Let's get on that boat next.",
+        "zh": "咱们下一趟坐那条船吧。"
+      },
+      "synonyms": [
+        "ship",
+        "ride"
+      ],
+      "position": {
+        "x": 79,
+        "y": 77
+      }
+    },
+    {
+      "id": "lake",
+      "text": "lake",
+      "zhText": "湖",
+      "phonetic": "/leɪk/",
+      "pos": "n.",
+      "meaning": "湖",
+      "example": {
+        "en": "The lake looks really calm today.",
+        "zh": "今天这湖看着挺平静的。"
+      },
+      "synonyms": [
+        "water",
+        "pond"
+      ],
+      "position": {
+        "x": 30,
+        "y": 84
+      }
+    },
+    {
+      "id": "ride",
+      "text": "ride",
+      "zhText": "乘坐",
+      "phonetic": "/raɪd/",
+      "pos": "v.",
+      "meaning": "乘坐",
+      "example": {
+        "en": "We can just ride around for a bit.",
+        "zh": "咱们就随便坐着转一会儿吧。"
+      },
+      "synonyms": [
+        "take",
+        "go"
+      ],
+      "position": {
+        "x": 72,
+        "y": 73
+      }
+    },
+    {
+      "id": "pagoda",
+      "text": "pagoda",
+      "zhText": "塔楼",
+      "phonetic": "/pəˈɡoʊdə/",
+      "pos": "n.",
+      "meaning": "塔楼",
+      "example": {
+        "en": "That pagoda looks amazing from here.",
+        "zh": "从这儿看那座塔楼真不错。"
+      },
+      "synonyms": [
+        "tower",
+        "building"
+      ],
+      "position": {
+        "x": 35,
+        "y": 39
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "There are so many trees around the hill.",
+        "zh": "这山边树还真不少。"
+      },
+      "synonyms": [
+        "plant",
+        "woods"
+      ],
+      "position": {
+        "x": 18,
+        "y": 58
+      }
+    },
+    {
+      "id": "hill",
+      "text": "hill",
+      "zhText": "山坡",
+      "phonetic": "/hɪl/",
+      "pos": "n.",
+      "meaning": "山坡",
+      "example": {
+        "en": "The buildings are up on the hill.",
+        "zh": "那些建筑都在山坡上。"
+      },
+      "synonyms": [
+        "slope",
+        "mount"
+      ],
+      "position": {
+        "x": 52,
+        "y": 55
+      }
+    },
+    {
+      "id": "branch",
+      "text": "branch",
+      "zhText": "树枝",
+      "phonetic": "/bræntʃ/",
+      "pos": "n.",
+      "meaning": "树枝",
+      "example": {
+        "en": "Those branches are hanging really low.",
+        "zh": "那些树枝垂得还挺低。"
+      },
+      "synonyms": [
+        "limb",
+        "twig"
+      ],
+      "position": {
+        "x": 86,
+        "y": 22
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a boat ride",
+      "meaning": "坐船游玩"
+    },
+    {
+      "phrase": "by the lake",
+      "meaning": "在湖边"
+    },
+    {
+      "phrase": "go for a ride",
+      "meaning": "去兜一圈"
+    }
+  ]
+}
