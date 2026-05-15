@@ -368,6 +368,14 @@
       "gradient": "linear-gradient(135deg, #2b2b2b 0%, #d94f2b 50%, #f2b84b 100%)",
       "wordCount": 8,
       "previewWords": "grilling · veggies · pepper"
+    },
+    {
+      "id": 147,
+      "title": "红叶映着老屋",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #c94f3d 0%, #e39a5b 50%, #8fa36b 100%)",
+      "wordCount": 6,
+      "previewWords": "leaves · branch · roof"
     }
   ]
 }
