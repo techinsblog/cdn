@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "id": 157,
+  "title": "在室内打羽毛球",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #1f6f78 0%, #4aa96c 50%, #9ad1a3 100%)",
+  "sentence": {
+    "en": "He's serving in an indoor badminton game.",
+    "zh": "他正在室内打羽毛球发球。",
+    "highlights": [
+      "serve",
+      "indoor",
+      "badminton"
+    ]
+  },
+  "words": [
+    {
+      "id": "badminton",
+      "text": "badminton",
+      "zhText": "羽毛球",
+      "phonetic": "/ˈbædmɪntən/",
+      "pos": "n.",
+      "meaning": "羽毛球",
+      "example": {
+        "en": "Do you still play badminton on weekends?",
+        "zh": "你现在周末还打羽毛球吗？"
+      },
+      "synonyms": [
+        "shuttlecock game"
+      ],
+      "position": {
+        "x": 77,
+        "y": 83
+      }
+    },
+    {
+      "id": "racket",
+      "text": "racket",
+      "zhText": "球拍",
+      "phonetic": "/ˈrækɪt/",
+      "pos": "n.",
+      "meaning": "球拍",
+      "example": {
+        "en": "Wait, let me grab my racket first.",
+        "zh": "等下，我先去拿球拍。"
+      },
+      "synonyms": [
+        "bat"
+      ],
+      "position": {
+        "x": 7,
+        "y": 41
+      }
+    },
+    {
+      "id": "serve",
+      "text": "serving",
+      "zhText": "发球",
+      "phonetic": "/sɜːrv/",
+      "pos": "v.",
+      "meaning": "发球",
+      "example": {
+        "en": "He's serving now, get ready.",
+        "zh": "他要发球了，准备一下。"
+      },
+      "synonyms": [
+        "start"
+      ],
+      "position": {
+        "x": 64,
+        "y": 28
+      }
+    },
+    {
+      "id": "jump",
+      "text": "jump",
+      "zhText": "跳起",
+      "phonetic": "/dʒʌmp/",
+      "pos": "v.",
+      "meaning": "跳起",
+      "example": {
+        "en": "He had to jump for that one.",
+        "zh": "那个球他得跳起来接。"
+      },
+      "synonyms": [
+        "leap"
+      ],
+      "position": {
+        "x": 33,
+        "y": 78
+      }
+    },
+    {
+      "id": "court",
+      "text": "court",
+      "zhText": "球场",
+      "phonetic": "/kɔːrt/",
+      "pos": "n.",
+      "meaning": "球场",
+      "example": {
+        "en": "The court's a bit slippery today.",
+        "zh": "今天这球场有点滑。"
+      },
+      "synonyms": [
+        "playing area"
+      ],
+      "position": {
+        "x": 58,
+        "y": 94
+      }
+    },
+    {
+      "id": "indoor",
+      "text": "indoor",
+      "zhText": "室内",
+      "phonetic": "/ˈɪndɔːr/",
+      "pos": "adj.",
+      "meaning": "室内的",
+      "example": {
+        "en": "It's way easier to play indoor when it's windy outside.",
+        "zh": "外面风大的时候，在室内打轻松多了。"
+      },
+      "synonyms": [
+        "inside"
+      ],
+      "position": {
+        "x": 84,
+        "y": 14
+      }
+    },
+    {
+      "id": "shirt",
+      "text": "shirt",
+      "zhText": "上衣",
+      "phonetic": "/ʃɜːrt/",
+      "pos": "n.",
+      "meaning": "上衣",
+      "example": {
+        "en": "That shirt looks great for training.",
+        "zh": "那件上衣运动穿挺不错的。"
+      },
+      "synonyms": [
+        "top"
+      ],
+      "position": {
+        "x": 49,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play badminton",
+      "meaning": "打羽毛球"
+    },
+    {
+      "phrase": "serve the shuttle",
+      "meaning": "发球"
+    },
+    {
+      "phrase": "indoor court",
+      "meaning": "室内球场"
+    }
+  ]
+}
