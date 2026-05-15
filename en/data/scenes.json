@@ -520,6 +520,14 @@
       "gradient": "linear-gradient(135deg, #1e90ff 0%, #87ceeb 50%, #f2e8d5 100%)",
       "wordCount": 7,
       "previewWords": "temple · stairs · tourist"
+    },
+    {
+      "id": 166,
+      "title": "茶园里在采茶",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #2f6b2f 0%, #6fa83a 50%, #d9b36c 100%)",
+      "wordCount": 6,
+      "previewWords": "tea leaves · hat · pick"
     }
   ]
 }
