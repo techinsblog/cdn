@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "id": 170,
+  "title": "高楼外墙清洁",
+  "categoryId": "work",
+  "gradient": "linear-gradient(135deg, #dfe8ef 0%, #7fb3d5 50%, #2f4f6f 100%)",
+  "sentence": {
+    "en": "They're cleaning the windows outside.",
+    "zh": "他们正在外面擦窗户。",
+    "highlights": [
+      "clean",
+      "window"
+    ]
+  },
+  "words": [
+    {
+      "id": "clean",
+      "text": "cleaning",
+      "zhText": "清洁",
+      "phonetic": "/kliːn/",
+      "pos": "v.",
+      "meaning": "清洁",
+      "example": {
+        "en": "They're still cleaning? That's a big job.",
+        "zh": "他们还在清洁啊？这活儿可真不小。"
+      },
+      "synonyms": [
+        "wash",
+        "wipe"
+      ],
+      "position": {
+        "x": 25,
+        "y": 52
+      }
+    },
+    {
+      "id": "window",
+      "text": "windows",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "These windows get dirty really fast.",
+        "zh": "这些窗户脏得还挺快。"
+      },
+      "synonyms": [
+        "glass"
+      ],
+      "position": {
+        "x": 74,
+        "y": 42
+      }
+    },
+    {
+      "id": "rope",
+      "text": "rope",
+      "zhText": "绳子",
+      "phonetic": "/roʊp/",
+      "pos": "n.",
+      "meaning": "绳子",
+      "example": {
+        "en": "He's hanging on that rope the whole time.",
+        "zh": "他全程就靠那根绳子吊着。"
+      },
+      "synonyms": [
+        "line",
+        "cord"
+      ],
+      "position": {
+        "x": 19,
+        "y": 26
+      }
+    },
+    {
+      "id": "bucket",
+      "text": "bucket",
+      "zhText": "水桶",
+      "phonetic": "/ˈbʌkɪt/",
+      "pos": "n.",
+      "meaning": "水桶",
+      "example": {
+        "en": "Can you pass me the bucket?",
+        "zh": "你能把水桶递给我吗？"
+      },
+      "synonyms": [
+        "pail"
+      ],
+      "position": {
+        "x": 34,
+        "y": 56
+      }
+    },
+    {
+      "id": "wipe",
+      "text": "wipe",
+      "zhText": "擦",
+      "phonetic": "/waɪp/",
+      "pos": "v.",
+      "meaning": "擦",
+      "example": {
+        "en": "Just wipe the glass one more time.",
+        "zh": "再把玻璃擦一遍就行。"
+      },
+      "synonyms": [
+        "rub",
+        "clean"
+      ],
+      "position": {
+        "x": 46,
+        "y": 45
+      }
+    },
+    {
+      "id": "worker",
+      "text": "worker",
+      "zhText": "工人",
+      "phonetic": "/ˈwɜːrkər/",
+      "pos": "n.",
+      "meaning": "工人",
+      "example": {
+        "en": "The workers are already up there.",
+        "zh": "工人已经在上面干活了。"
+      },
+      "synonyms": [
+        "staff",
+        "cleaner"
+      ],
+      "position": {
+        "x": 11,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "clean the windows",
+      "meaning": "擦窗户"
+    },
+    {
+      "phrase": "hang from a rope",
+      "meaning": "吊在绳子上"
+    },
+    {
+      "phrase": "work on the outside",
+      "meaning": "在外墙作业"
+    }
+  ]
+}
