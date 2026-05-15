@@ -392,6 +392,14 @@
       "gradient": "linear-gradient(135deg, #eef4ff 0%, #c9daf8 50%, #8fb3e6 100%)",
       "wordCount": 6,
       "previewWords": "blowing · nose · tissue"
+    },
+    {
+      "id": 150,
+      "title": "机器人在店里展示",
+      "categoryId": "shopping",
+      "gradient": "linear-gradient(135deg, #d9eef7 0%, #f5d7c8 50%, #8c7a6b 100%)",
+      "wordCount": 6,
+      "previewWords": "robot · screen · hand"
     }
   ]
 }
