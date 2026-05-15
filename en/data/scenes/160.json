@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "id": 160,
+  "title": "准备做一桌菜",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #2f5d50 0%, #8b5a3c 50%, #d9b44a 100%)",
+  "sentence": {
+    "en": "They've got all the ingredients ready.",
+    "zh": "他们把做饭的食材都准备好了。",
+    "highlights": [
+      "ingredients",
+      "ready"
+    ]
+  },
+  "words": [
+    {
+      "id": "ingredient",
+      "text": "ingredients",
+      "zhText": "食材",
+      "phonetic": "/ɪnˈɡriːdiənts/",
+      "pos": "n.",
+      "meaning": "做饭要用到的各种材料",
+      "example": {
+        "en": "Do we have all the ingredients for dinner?",
+        "zh": "我们晚饭的食材都齐了吗？"
+      },
+      "synonyms": [
+        "food"
+      ],
+      "position": {
+        "x": 50,
+        "y": 43
+      }
+    },
+    {
+      "id": "corn",
+      "text": "corn",
+      "zhText": "玉米",
+      "phonetic": "/kɔːrn/",
+      "pos": "n.",
+      "meaning": "玉米",
+      "example": {
+        "en": "Just throw the corn in the pot.",
+        "zh": "把玉米直接丢进锅里就行。"
+      },
+      "synonyms": [
+        "maize"
+      ],
+      "position": {
+        "x": 13,
+        "y": 34
+      }
+    },
+    {
+      "id": "garlic",
+      "text": "garlic",
+      "zhText": "大蒜",
+      "phonetic": "/ˈɡɑːrlɪk/",
+      "pos": "n.",
+      "meaning": "大蒜",
+      "example": {
+        "en": "Don't forget the garlic. It makes everything better.",
+        "zh": "别忘了放蒜，真的提味。"
+      },
+      "synonyms": [
+        "clove"
+      ],
+      "position": {
+        "x": 39,
+        "y": 21
+      }
+    },
+    {
+      "id": "shrimp",
+      "text": "shrimp",
+      "zhText": "虾",
+      "phonetic": "/ʃrɪmp/",
+      "pos": "n.",
+      "meaning": "虾",
+      "example": {
+        "en": "These shrimp look pretty fresh.",
+        "zh": "这些虾看着还挺新鲜的。"
+      },
+      "synonyms": [
+        "prawn"
+      ],
+      "position": {
+        "x": 62,
+        "y": 86
+      }
+    },
+    {
+      "id": "tomato",
+      "text": "tomatoes",
+      "zhText": "番茄",
+      "phonetic": "/təˈmeɪtoʊz/",
+      "pos": "n.",
+      "meaning": "番茄",
+      "example": {
+        "en": "Can you slice the tomatoes for me?",
+        "zh": "你帮我把番茄切一下呗。"
+      },
+      "synonyms": [
+        "tomato"
+      ],
+      "position": {
+        "x": 88,
+        "y": 74
+      }
+    },
+    {
+      "id": "spoon",
+      "text": "spoon",
+      "zhText": "勺子",
+      "phonetic": "/spuːn/",
+      "pos": "n.",
+      "meaning": "勺子",
+      "example": {
+        "en": "Grab a spoon and give it a stir.",
+        "zh": "拿个勺子搅一搅。"
+      },
+      "synonyms": [
+        "ladle"
+      ],
+      "position": {
+        "x": 79,
+        "y": 27
+      }
+    },
+    {
+      "id": "fresh",
+      "text": "fresh",
+      "zhText": "新鲜",
+      "phonetic": "/freʃ/",
+      "pos": "adj.",
+      "meaning": "新鲜的",
+      "example": {
+        "en": "Everything looks super fresh here.",
+        "zh": "这里的东西看着都很新鲜。"
+      },
+      "synonyms": [
+        "new"
+      ],
+      "position": {
+        "x": 87,
+        "y": 92
+      }
+    },
+    {
+      "id": "ready",
+      "text": "ready",
+      "zhText": "准备好",
+      "phonetic": "/ˈredi/",
+      "pos": "adj.",
+      "meaning": "准备好的",
+      "example": {
+        "en": "Okay, the veggies are ready now.",
+        "zh": "好了，菜现在都备好了。"
+      },
+      "synonyms": [
+        "set"
+      ],
+      "position": {
+        "x": 50,
+        "y": 59
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "get dinner ready",
+      "meaning": "把晚饭准备好"
+    },
+    {
+      "phrase": "cut up the vegetables",
+      "meaning": "把蔬菜切一切"
+    },
+    {
+      "phrase": "fresh ingredients",
+      "meaning": "新鲜食材"
+    }
+  ]
+}
