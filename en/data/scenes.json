@@ -472,6 +472,14 @@
       "gradient": "linear-gradient(135deg, #5f6f52 0%, #a9b388 50%, #e8dfca 100%)",
       "wordCount": 7,
       "previewWords": "panda · bamboo · eating"
+    },
+    {
+      "id": 160,
+      "title": "准备做一桌菜",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #2f5d50 0%, #8b5a3c 50%, #d9b44a 100%)",
+      "wordCount": 8,
+      "previewWords": "ingredients · corn · garlic"
     }
   ]
 }
