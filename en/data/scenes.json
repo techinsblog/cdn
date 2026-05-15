@@ -400,6 +400,14 @@
       "gradient": "linear-gradient(135deg, #d9eef7 0%, #f5d7c8 50%, #8c7a6b 100%)",
       "wordCount": 6,
       "previewWords": "robot · screen · hand"
+    },
+    {
+      "id": 151,
+      "title": "在炸油饼",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #3b2a1f 0%, #c98a52 50%, #f2e3c6 100%)",
+      "wordCount": 6,
+      "previewWords": "frying · pan · chopsticks"
     }
   ]
 }
