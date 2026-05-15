@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 173,
+  "title": "胡同骑车",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #d94b45 0%, #f3d8b8 50%, #9fc7c2 100%)",
+  "sentence": {
+    "en": "There's a bike cart rolling down the alley.",
+    "zh": "有辆三轮车正从胡同里慢慢过去呢。",
+    "highlights": [
+      "bike",
+      "alley"
+    ]
+  },
+  "words": [
+    {
+      "id": "flag",
+      "text": "flag",
+      "zhText": "红旗",
+      "phonetic": "/flæɡ/",
+      "pos": "n.",
+      "meaning": "旗子",
+      "example": {
+        "en": "The flags are everywhere today.",
+        "zh": "今天到处都挂着旗子。"
+      },
+      "synonyms": [
+        "banner"
+      ],
+      "position": {
+        "x": 10,
+        "y": 18
+      }
+    },
+    {
+      "id": "alley",
+      "text": "alley",
+      "zhText": "胡同",
+      "phonetic": "/ˈæli/",
+      "pos": "n.",
+      "meaning": "小巷；胡同",
+      "example": {
+        "en": "This alley is really quiet in the morning.",
+        "zh": "这条胡同早上还挺安静的。"
+      },
+      "synonyms": [
+        "lane"
+      ],
+      "position": {
+        "x": 54,
+        "y": 83
+      }
+    },
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "三轮车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "车子",
+      "example": {
+        "en": "That bike cart looks packed.",
+        "zh": "那辆三轮车装得还挺满的。"
+      },
+      "synonyms": [
+        "cycle"
+      ],
+      "position": {
+        "x": 56,
+        "y": 66
+      }
+    },
+    {
+      "id": "ride",
+      "text": "ride",
+      "zhText": "骑车",
+      "phonetic": "/raɪd/",
+      "pos": "v.",
+      "meaning": "骑；开车",
+      "example": {
+        "en": "She rides this way all the time.",
+        "zh": "她平时老这么骑过去。"
+      },
+      "synonyms": [
+        "cycle"
+      ],
+      "position": {
+        "x": 72,
+        "y": 55
+      }
+    },
+    {
+      "id": "box",
+      "text": "box",
+      "zhText": "箱子",
+      "phonetic": "/bɑːks/",
+      "pos": "n.",
+      "meaning": "箱子；盒子",
+      "example": {
+        "en": "Just leave the box in the back.",
+        "zh": "箱子放后面就行。"
+      },
+      "synonyms": [
+        "carton"
+      ],
+      "position": {
+        "x": 43,
+        "y": 60
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "The street feels kind of old-school.",
+        "zh": "这条街还挺有老城区那味儿的。"
+      },
+      "synonyms": [
+        "road"
+      ],
+      "position": {
+        "x": 86,
+        "y": 38
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "ride a bike",
+      "meaning": "骑自行车"
+    },
+    {
+      "phrase": "down the alley",
+      "meaning": "沿着胡同往里走"
+    },
+    {
+      "phrase": "hang a flag",
+      "meaning": "挂旗子"
+    }
+  ]
+}
