@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 153,
+  "title": "他在攀岩墙上发力",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #8C6A4A 0%, #B88A5A 50%, #5C4A3D 100%)",
+  "sentence": {
+    "en": "He's climbing up the rock wall.",
+    "zh": "他正在往岩壁上爬。",
+    "highlights": [
+      "climb",
+      "rock wall"
+    ]
+  },
+  "words": [
+    {
+      "id": "climb",
+      "text": "climbing",
+      "zhText": "攀爬",
+      "phonetic": "/klaɪm/",
+      "pos": "v.",
+      "meaning": "往上爬",
+      "example": {
+        "en": "He's still climbing, give him a sec.",
+        "zh": "他还在爬呢，等他一下。"
+      },
+      "synonyms": [
+        "go up",
+        "scale"
+      ],
+      "position": {
+        "x": 72,
+        "y": 42
+      }
+    },
+    {
+      "id": "rock wall",
+      "text": "rock wall",
+      "zhText": "岩壁",
+      "phonetic": "/rɑːk wɔːl/",
+      "pos": "n.",
+      "meaning": "攀岩的石壁",
+      "example": {
+        "en": "That rock wall looks pretty tough.",
+        "zh": "那面岩壁看着挺难的。"
+      },
+      "synonyms": [
+        "cliff",
+        "wall"
+      ],
+      "position": {
+        "x": 16,
+        "y": 24
+      }
+    },
+    {
+      "id": "rope",
+      "text": "rope",
+      "zhText": "绳子",
+      "phonetic": "/roʊp/",
+      "pos": "n.",
+      "meaning": "安全绳",
+      "example": {
+        "en": "Make sure the rope isn't twisted.",
+        "zh": "确认一下绳子别缠住了。"
+      },
+      "synonyms": [
+        "line",
+        "cord"
+      ],
+      "position": {
+        "x": 61,
+        "y": 82
+      }
+    },
+    {
+      "id": "harness",
+      "text": "harness",
+      "zhText": "安全带",
+      "phonetic": "/ˈhɑːrnəs/",
+      "pos": "n.",
+      "meaning": "攀岩安全带",
+      "example": {
+        "en": "Your harness looks a little loose.",
+        "zh": "你的安全带看着有点松。"
+      },
+      "synonyms": [
+        "gear",
+        "belt"
+      ],
+      "position": {
+        "x": 42,
+        "y": 60
+      }
+    },
+    {
+      "id": "clip",
+      "text": "clip",
+      "zhText": "扣上",
+      "phonetic": "/klɪp/",
+      "pos": "v.",
+      "meaning": "把绳扣上",
+      "example": {
+        "en": "Wait, let me clip in first.",
+        "zh": "等下，我先扣上。"
+      },
+      "synonyms": [
+        "attach",
+        "hook"
+      ],
+      "position": {
+        "x": 46,
+        "y": 18
+      }
+    },
+    {
+      "id": "shoe",
+      "text": "shoe",
+      "zhText": "鞋",
+      "phonetic": "/ʃuː/",
+      "pos": "n.",
+      "meaning": "攀岩鞋",
+      "example": {
+        "en": "These shoes are really tight.",
+        "zh": "这双鞋真的好紧。"
+      },
+      "synonyms": [
+        "sneaker",
+        "footwear"
+      ],
+      "position": {
+        "x": 76,
+        "y": 73
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go rock climbing",
+      "meaning": "去攀岩"
+    },
+    {
+      "phrase": "clip in",
+      "meaning": "扣上保护点"
+    },
+    {
+      "phrase": "find a foothold",
+      "meaning": "找个踩点"
+    }
+  ]
+}
