@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 154,
+  "title": "开车过大桥",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #F6D58A 0%, #E9B96E 50%, #6D8B5A 100%)",
+  "sentence": {
+    "en": "They're driving across the bridge.",
+    "zh": "他们正在开车过桥。",
+    "highlights": [
+      "driving",
+      "bridge"
+    ]
+  },
+  "words": [
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "大桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "桥",
+      "example": {
+        "en": "That bridge is seriously huge.",
+        "zh": "那座桥真的超级大。"
+      },
+      "synonyms": [
+        "overpass"
+      ],
+      "position": {
+        "x": 22,
+        "y": 63
+      }
+    },
+    {
+      "id": "drive",
+      "text": "driving",
+      "zhText": "开车",
+      "phonetic": "/draɪv/",
+      "pos": "v.",
+      "meaning": "驾驶",
+      "example": {
+        "en": "We're just driving through the mountains.",
+        "zh": "我们就是开车穿过山区。"
+      },
+      "synonyms": [
+        "go"
+      ],
+      "position": {
+        "x": 58,
+        "y": 83
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "There are only a few cars on the road.",
+        "zh": "这条路上就几辆车。"
+      },
+      "synonyms": [
+        "vehicle"
+      ],
+      "position": {
+        "x": 40,
+        "y": 94
+      }
+    },
+    {
+      "id": "truck",
+      "text": "truck",
+      "zhText": "卡车",
+      "phonetic": "/trʌk/",
+      "pos": "n.",
+      "meaning": "卡车",
+      "example": {
+        "en": "That truck is moving pretty slow.",
+        "zh": "那辆卡车开得有点慢。"
+      },
+      "synonyms": [
+        "lorry"
+      ],
+      "position": {
+        "x": 66,
+        "y": 90
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "公路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "道路",
+      "example": {
+        "en": "This road looks super wide.",
+        "zh": "这条路看着特别宽。"
+      },
+      "synonyms": [
+        "street"
+      ],
+      "position": {
+        "x": 12,
+        "y": 86
+      }
+    },
+    {
+      "id": "mountain",
+      "text": "mountain",
+      "zhText": "山",
+      "phonetic": "/ˈmaʊntən/",
+      "pos": "n.",
+      "meaning": "山",
+      "example": {
+        "en": "The mountains look so green from here.",
+        "zh": "从这儿看那山特别绿。"
+      },
+      "synonyms": [
+        "hill"
+      ],
+      "position": {
+        "x": 8,
+        "y": 73
+      }
+    },
+    {
+      "id": "cable",
+      "text": "cable",
+      "zhText": "缆索",
+      "phonetic": "/ˈkeɪbəl/",
+      "pos": "n.",
+      "meaning": "缆绳",
+      "example": {
+        "en": "Look at all those cables on the bridge.",
+        "zh": "你看桥上那些缆索。"
+      },
+      "synonyms": [
+        "wire"
+      ],
+      "position": {
+        "x": 74,
+        "y": 52
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "cross the bridge",
+      "meaning": "过桥"
+    },
+    {
+      "phrase": "drive across",
+      "meaning": "开车穿过"
+    },
+    {
+      "phrase": "on the road",
+      "meaning": "在路上"
+    }
+  ]
+}
