@@ -544,6 +544,14 @@
       "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f7f9fb 50%, #cfd9df 100%)",
       "wordCount": 6,
       "previewWords": "climbing · wall · rope"
+    },
+    {
+      "id": 169,
+      "title": "在台球桌边瞄准",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #1f3b2d 0%, #4f6d5a 50%, #c49a6c 100%)",
+      "wordCount": 6,
+      "previewWords": "pool table · cue · ball"
     }
   ]
 }
