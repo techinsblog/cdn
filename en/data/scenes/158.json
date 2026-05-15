@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 158,
+  "title": "一碗热乎乎小龙虾",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #b22222 0%, #d35400 50%, #f4c430 100%)",
+  "sentence": {
+    "en": "These crayfish look so good right now.",
+    "zh": "这些小龙虾现在看着也太香了。",
+    "highlights": [
+      "crayfish"
+    ]
+  },
+  "words": [
+    {
+      "id": "crayfish",
+      "text": "crayfish",
+      "zhText": "小龙虾",
+      "phonetic": "/ˈkreɪfɪʃ/",
+      "pos": "noun",
+      "meaning": "小龙虾",
+      "example": {
+        "en": "Let's get another bowl of crayfish.",
+        "zh": "我们再来一碗小龙虾吧。"
+      },
+      "synonyms": [
+        "crawfish",
+        "lobster"
+      ],
+      "position": {
+        "x": 79,
+        "y": 70
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "noun",
+      "meaning": "碗",
+      "example": {
+        "en": "Can you pass me that bowl?",
+        "zh": "你把那个碗递给我一下。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 52,
+        "y": 88
+      }
+    },
+    {
+      "id": "steam",
+      "text": "steam",
+      "zhText": "热气",
+      "phonetic": "/stiːm/",
+      "pos": "noun",
+      "meaning": "热气",
+      "example": {
+        "en": "Look, the steam's still coming up.",
+        "zh": "你看，还在冒热气呢。"
+      },
+      "synonyms": [
+        "vapor"
+      ],
+      "position": {
+        "x": 59,
+        "y": 30
+      }
+    },
+    {
+      "id": "chopped",
+      "text": "chopped",
+      "zhText": "切碎的",
+      "phonetic": "/tʃɑːpt/",
+      "pos": "adjective",
+      "meaning": "切碎的",
+      "example": {
+        "en": "I like some chopped onion on top.",
+        "zh": "我喜欢上面撒点切碎的葱。"
+      },
+      "synonyms": [
+        "cut"
+      ],
+      "position": {
+        "x": 42,
+        "y": 58
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "noun",
+      "meaning": "托盘",
+      "example": {
+        "en": "Just put it on the tray.",
+        "zh": "直接放托盘上就行。"
+      },
+      "synonyms": [
+        "plate"
+      ],
+      "position": {
+        "x": 85,
+        "y": 83
+      }
+    },
+    {
+      "id": "spicy",
+      "text": "spicy",
+      "zhText": "辣的",
+      "phonetic": "/ˈspaɪsi/",
+      "pos": "adjective",
+      "meaning": "辣的",
+      "example": {
+        "en": "Is it really spicy or just a little?",
+        "zh": "这个是很辣还是一点点辣？"
+      },
+      "synonyms": [
+        "hot"
+      ],
+      "position": {
+        "x": 15,
+        "y": 43
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab some crayfish",
+      "meaning": "去吃点小龙虾"
+    },
+    {
+      "phrase": "still steaming",
+      "meaning": "还在冒热气"
+    },
+    {
+      "phrase": "a bowl of crayfish",
+      "meaning": "一碗小龙虾"
+    }
+  ]
+}
