@@ -18,22 +18,6 @@
       "previewWords": "window · curtain · dress"
     },
     {
-      "id": 103,
-      "title": "坐门口看手机",
-      "categoryId": "daily",
-      "gradient": "linear-gradient(135deg, #2c3e50 0%, #5d6d7e 50%, #c0392b 100%)",
-      "wordCount": 6,
-      "previewWords": "phone · stool · apron"
-    },
-    {
-      "id": 104,
-      "title": "老街里安静的小巷",
-      "categoryId": "travel",
-      "gradient": "linear-gradient(135deg, #5f6f68 0%, #8a9387 50%, #c8d0c8 100%)",
-      "wordCount": 7,
-      "previewWords": "street · lane · roof"
-    },
-    {
       "id": 105,
       "title": "边吃早餐边用电脑",
       "categoryId": "food",
