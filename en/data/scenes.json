@@ -552,6 +552,14 @@
       "gradient": "linear-gradient(135deg, #1f3b2d 0%, #4f6d5a 50%, #c49a6c 100%)",
       "wordCount": 6,
       "previewWords": "pool table · cue · ball"
+    },
+    {
+      "id": 170,
+      "title": "高楼外墙清洁",
+      "categoryId": "work",
+      "gradient": "linear-gradient(135deg, #dfe8ef 0%, #7fb3d5 50%, #2f4f6f 100%)",
+      "wordCount": 6,
+      "previewWords": "cleaning · windows · rope"
     }
   ]
 }
