@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 150,
+  "title": "机器人在店里展示",
+  "categoryId": "shopping",
+  "gradient": "linear-gradient(135deg, #d9eef7 0%, #f5d7c8 50%, #8c7a6b 100%)",
+  "sentence": {
+    "en": "That robot is just standing in the store.",
+    "zh": "那个机器人就站在店里展示。",
+    "highlights": [
+      "robot",
+      "store"
+    ]
+  },
+  "words": [
+    {
+      "id": "robot",
+      "text": "robot",
+      "zhText": "机器人",
+      "phonetic": "/ˈroʊˌbɑːt/",
+      "pos": "n.",
+      "meaning": "机器人",
+      "example": {
+        "en": "That robot looks kind of cute, not gonna lie.",
+        "zh": "说真的，那个机器人还挺可爱的。"
+      },
+      "synonyms": [
+        "bot"
+      ],
+      "position": {
+        "x": 24,
+        "y": 30
+      }
+    },
+    {
+      "id": "screen",
+      "text": "screen",
+      "zhText": "屏幕",
+      "phonetic": "/skriːn/",
+      "pos": "n.",
+      "meaning": "屏幕",
+      "example": {
+        "en": "The screen is showing a game or something.",
+        "zh": "这屏幕上好像在放个小游戏。"
+      },
+      "synonyms": [
+        "display"
+      ],
+      "position": {
+        "x": 67,
+        "y": 47
+      }
+    },
+    {
+      "id": "hand",
+      "text": "hand",
+      "zhText": "手",
+      "phonetic": "/hænd/",
+      "pos": "n.",
+      "meaning": "手",
+      "example": {
+        "en": "Look at its hand—it's actually pretty detailed.",
+        "zh": "看它的手，做得还挺细。"
+      },
+      "synonyms": [
+        "palm"
+      ],
+      "position": {
+        "x": 86,
+        "y": 69
+      }
+    },
+    {
+      "id": "display",
+      "text": "display",
+      "zhText": "展示",
+      "phonetic": "/dɪˈspleɪ/",
+      "pos": "v.",
+      "meaning": "展示",
+      "example": {
+        "en": "They usually display new tech near the front.",
+        "zh": "他们一般会把新科技展示在前面。"
+      },
+      "synonyms": [
+        "show"
+      ],
+      "position": {
+        "x": 18,
+        "y": 58
+      }
+    },
+    {
+      "id": "tablet",
+      "text": "tablet",
+      "zhText": "平板",
+      "phonetic": "/ˈtæblət/",
+      "pos": "n.",
+      "meaning": "平板",
+      "example": {
+        "en": "That tablet in the back is pretty big.",
+        "zh": "后面那个平板还挺大的。"
+      },
+      "synonyms": [
+        "pad"
+      ],
+      "position": {
+        "x": 58,
+        "y": 20
+      }
+    },
+    {
+      "id": "store",
+      "text": "store",
+      "zhText": "商店",
+      "phonetic": "/stɔːr/",
+      "pos": "n.",
+      "meaning": "商店",
+      "example": {
+        "en": "This store always has cool gadgets.",
+        "zh": "这家店总有些很酷的小玩意儿。"
+      },
+      "synonyms": [
+        "shop"
+      ],
+      "position": {
+        "x": 9,
+        "y": 12
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "check out",
+      "meaning": "看一看"
+    },
+    {
+      "phrase": "on display",
+      "meaning": "在展示中"
+    },
+    {
+      "phrase": "tech store",
+      "meaning": "科技产品店"
+    }
+  ]
+}
