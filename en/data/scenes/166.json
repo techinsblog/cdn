@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 166,
+  "title": "茶园里在采茶",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #2f6b2f 0%, #6fa83a 50%, #d9b36c 100%)",
+  "sentence": {
+    "en": "They're picking tea leaves in the field.",
+    "zh": "他们正在地里采茶。",
+    "highlights": [
+      "pick",
+      "tea leaves",
+      "field"
+    ]
+  },
+  "words": [
+    {
+      "id": "tea leaves",
+      "text": "tea leaves",
+      "zhText": "茶叶",
+      "phonetic": "/ˈtiː liːvz/",
+      "pos": "n.",
+      "meaning": "茶叶",
+      "example": {
+        "en": "These tea leaves look really fresh.",
+        "zh": "这些茶叶看起来很新鲜。"
+      },
+      "synonyms": [
+        "tea"
+      ],
+      "position": {
+        "x": 18,
+        "y": 90
+      }
+    },
+    {
+      "id": "hat",
+      "text": "hat",
+      "zhText": "草帽",
+      "phonetic": "/hæt/",
+      "pos": "n.",
+      "meaning": "帽子",
+      "example": {
+        "en": "Don't forget your hat. It's super sunny.",
+        "zh": "别忘了戴帽子，太阳很大。"
+      },
+      "synonyms": [
+        "cap"
+      ],
+      "position": {
+        "x": 10,
+        "y": 72
+      }
+    },
+    {
+      "id": "pick",
+      "text": "pick",
+      "zhText": "采摘",
+      "phonetic": "/pɪk/",
+      "pos": "v.",
+      "meaning": "采摘",
+      "example": {
+        "en": "They're out here picking all morning.",
+        "zh": "他们一早上都在这儿采摘。"
+      },
+      "synonyms": [
+        "gather"
+      ],
+      "position": {
+        "x": 73,
+        "y": 79
+      }
+    },
+    {
+      "id": "field",
+      "text": "field",
+      "zhText": "田地",
+      "phonetic": "/fiːld/",
+      "pos": "n.",
+      "meaning": "田地",
+      "example": {
+        "en": "The field goes pretty far back.",
+        "zh": "这片地一直延伸到很远。"
+      },
+      "synonyms": [
+        "farm"
+      ],
+      "position": {
+        "x": 86,
+        "y": 58
+      }
+    },
+    {
+      "id": "row",
+      "text": "row",
+      "zhText": "一排",
+      "phonetic": "/roʊ/",
+      "pos": "n.",
+      "meaning": "一排",
+      "example": {
+        "en": "The rows are so neat here.",
+        "zh": "这里一排一排的特别整齐。"
+      },
+      "synonyms": [
+        "line"
+      ],
+      "position": {
+        "x": 53,
+        "y": 33
+      }
+    },
+    {
+      "id": "worker",
+      "text": "worker",
+      "zhText": "工人",
+      "phonetic": "/ˈwɝːkər/",
+      "pos": "n.",
+      "meaning": "工人",
+      "example": {
+        "en": "A few workers are still out there.",
+        "zh": "还有几个工人在那边忙。"
+      },
+      "synonyms": [
+        "farmer"
+      ],
+      "position": {
+        "x": 35,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "pick tea leaves",
+      "meaning": "采茶叶"
+    },
+    {
+      "phrase": "work in the field",
+      "meaning": "在田里干活"
+    },
+    {
+      "phrase": "wear a hat",
+      "meaning": "戴帽子"
+    }
+  ]
+}
