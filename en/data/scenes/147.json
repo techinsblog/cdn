@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "id": 147,
+  "title": "红叶映着老屋",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #c94f3d 0%, #e39a5b 50%, #8fa36b 100%)",
+  "sentence": {
+    "en": "The leaves look so red by the old roof.",
+    "zh": "这老屋边上的叶子也太红了。",
+    "highlights": [
+      "leaves",
+      "roof"
+    ]
+  },
+  "words": [
+    {
+      "id": "leaf",
+      "text": "leaves",
+      "zhText": "叶子",
+      "phonetic": "/liːvz/",
+      "pos": "n.",
+      "meaning": "叶子",
+      "example": {
+        "en": "Look at the leaves—they're so bright.",
+        "zh": "你看这叶子，颜色好亮啊。"
+      },
+      "synonyms": [
+        "foliage",
+        "leaf"
+      ],
+      "position": {
+        "x": 72,
+        "y": 18
+      }
+    },
+    {
+      "id": "branch",
+      "text": "branch",
+      "zhText": "树枝",
+      "phonetic": "/bræntʃ/",
+      "pos": "n.",
+      "meaning": "树枝",
+      "example": {
+        "en": "That branch is stretching right over the roof.",
+        "zh": "那根树枝都伸到屋顶上面去了。"
+      },
+      "synonyms": [
+        "limb",
+        "bough"
+      ],
+      "position": {
+        "x": 58,
+        "y": 6
+      }
+    },
+    {
+      "id": "roof",
+      "text": "roof",
+      "zhText": "屋顶",
+      "phonetic": "/ruːf/",
+      "pos": "n.",
+      "meaning": "屋顶",
+      "example": {
+        "en": "I really like that dark roof.",
+        "zh": "我还挺喜欢那个深色屋顶的。"
+      },
+      "synonyms": [
+        "top",
+        "rooftop"
+      ],
+      "position": {
+        "x": 18,
+        "y": 88
+      }
+    },
+    {
+      "id": "tile",
+      "text": "tiles",
+      "zhText": "瓦片",
+      "phonetic": "/taɪlz/",
+      "pos": "n.",
+      "meaning": "瓦片",
+      "example": {
+        "en": "The tiles look kind of old, but nice.",
+        "zh": "这些瓦片看着有点旧，不过挺好看。"
+      },
+      "synonyms": [
+        "roofing",
+        "slates"
+      ],
+      "position": {
+        "x": 40,
+        "y": 96
+      }
+    },
+    {
+      "id": "red",
+      "text": "red",
+      "zhText": "红色",
+      "phonetic": "/red/",
+      "pos": "adj.",
+      "meaning": "红的",
+      "example": {
+        "en": "Everything turns red around this time.",
+        "zh": "每年这个时候到处都红了。"
+      },
+      "synonyms": [
+        "crimson",
+        "bright"
+      ],
+      "position": {
+        "x": 10,
+        "y": 24
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "That tree must look amazing in fall.",
+        "zh": "这棵树到秋天肯定特别好看。"
+      },
+      "synonyms": [
+        "plant",
+        "wood"
+      ],
+      "position": {
+        "x": 89,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "fall leaves",
+      "meaning": "秋天的叶子"
+    },
+    {
+      "phrase": "under the tree",
+      "meaning": "在树下"
+    },
+    {
+      "phrase": "old roof",
+      "meaning": "老屋顶"
+    }
+  ]
+}
