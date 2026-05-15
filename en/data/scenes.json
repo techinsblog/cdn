@@ -576,6 +576,14 @@
       "gradient": "linear-gradient(135deg, #2b130f 0%, #6b2d1a 50%, #d39a4a 100%)",
       "wordCount": 6,
       "previewWords": "lanterns · lit up · pond"
+    },
+    {
+      "id": 173,
+      "title": "胡同骑车",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #d94b45 0%, #f3d8b8 50%, #9fc7c2 100%)",
+      "wordCount": 6,
+      "previewWords": "flag · alley · bike"
     }
   ]
 }
