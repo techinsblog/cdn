@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "id": 167,
+  "title": "一起骑车出门",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #f08a7e 0%, #f6c28b 50%, #8ec5a4 100%)",
+  "sentence": {
+    "en": "They're just riding bikes down the street.",
+    "zh": "她们就是骑着自行车沿街往前走。",
+    "highlights": [
+      "ride",
+      "bike",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "ride",
+      "text": "riding",
+      "zhText": "骑车",
+      "phonetic": "/raɪd/",
+      "pos": "verb",
+      "meaning": "骑",
+      "example": {
+        "en": "She learned to ride without help pretty fast.",
+        "zh": "她没多久就学会自己骑了。"
+      },
+      "synonyms": [
+        "cycle"
+      ],
+      "position": {
+        "x": 72,
+        "y": 60
+      }
+    },
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "自行车",
+      "phonetic": "/baɪk/",
+      "pos": "noun",
+      "meaning": "自行车",
+      "example": {
+        "en": "I think her bike is really cute.",
+        "zh": "我觉得她这辆自行车挺好看的。"
+      },
+      "synonyms": [
+        "bicycle"
+      ],
+      "position": {
+        "x": 87,
+        "y": 74
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "包",
+      "phonetic": "/bæɡ/",
+      "pos": "noun",
+      "meaning": "包",
+      "example": {
+        "en": "Just toss your stuff in the bag.",
+        "zh": "把东西直接扔包里就行。"
+      },
+      "synonyms": [
+        "backpack"
+      ],
+      "position": {
+        "x": 29,
+        "y": 42
+      }
+    },
+    {
+      "id": "pedal",
+      "text": "pedal",
+      "zhText": "踏板",
+      "phonetic": "/ˈpedəl/",
+      "pos": "noun",
+      "meaning": "踏板",
+      "example": {
+        "en": "My foot slipped off the pedal for a second.",
+        "zh": "我脚刚刚从踏板上滑了一下。"
+      },
+      "synonyms": [
+        "footrest"
+      ],
+      "position": {
+        "x": 54,
+        "y": 86
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "noun",
+      "meaning": "街道",
+      "example": {
+        "en": "This street is pretty quiet in the morning.",
+        "zh": "这条街早上还挺安静的。"
+      },
+      "synonyms": [
+        "road"
+      ],
+      "position": {
+        "x": 10,
+        "y": 28
+      }
+    },
+    {
+      "id": "lane",
+      "text": "bike lane",
+      "zhText": "车道",
+      "phonetic": "/leɪn/",
+      "pos": "noun",
+      "meaning": "车道",
+      "example": {
+        "en": "Stay in the bike lane, okay?",
+        "zh": "就走自行车道，知道吧？"
+      },
+      "synonyms": [
+        "path"
+      ],
+      "position": {
+        "x": 68,
+        "y": 26
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "ride a bike",
+      "meaning": "骑自行车"
+    },
+    {
+      "phrase": "go for a ride",
+      "meaning": "出去骑一会儿"
+    },
+    {
+      "phrase": "stay in the bike lane",
+      "meaning": "待在自行车道里"
+    }
+  ]
+}
