@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 172,
+  "title": "院子里亮着灯笼",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #2b130f 0%, #6b2d1a 50%, #d39a4a 100%)",
+  "sentence": {
+    "en": "The lanterns are all lit up tonight.",
+    "zh": "今晚灯笼都亮起来了。",
+    "highlights": [
+      "lantern",
+      "lit up"
+    ]
+  },
+  "words": [
+    {
+      "id": "lantern",
+      "text": "lanterns",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those red lanterns look really nice at night.",
+        "zh": "那几盏红灯笼晚上看着真挺好看。"
+      },
+      "synonyms": [
+        "lamp"
+      ],
+      "position": {
+        "x": 18,
+        "y": 24
+      }
+    },
+    {
+      "id": "light",
+      "text": "lit up",
+      "zhText": "点亮",
+      "phonetic": "/lɪt ʌp/",
+      "pos": "v.",
+      "meaning": "点亮",
+      "example": {
+        "en": "They've got the whole place lit up already.",
+        "zh": "他们已经把整个地方都点亮了。"
+      },
+      "synonyms": [
+        "brighten"
+      ],
+      "position": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    {
+      "id": "pond",
+      "text": "pond",
+      "zhText": "池塘",
+      "phonetic": "/pɑːnd/",
+      "pos": "n.",
+      "meaning": "池塘",
+      "example": {
+        "en": "There's a small pond right in front.",
+        "zh": "前面就有一个小池塘。"
+      },
+      "synonyms": [
+        "pool"
+      ],
+      "position": {
+        "x": 77,
+        "y": 86
+      }
+    },
+    {
+      "id": "lily",
+      "text": "lily pad",
+      "zhText": "睡莲",
+      "phonetic": "/ˈlɪli pæd/",
+      "pos": "n.",
+      "meaning": "睡莲",
+      "example": {
+        "en": "Look, the lily pads are floating on the water.",
+        "zh": "你看，睡莲叶就漂在水面上。"
+      },
+      "synonyms": [
+        "water lily"
+      ],
+      "position": {
+        "x": 16,
+        "y": 92
+      }
+    },
+    {
+      "id": "bench",
+      "text": "bench",
+      "zhText": "长椅",
+      "phonetic": "/bentʃ/",
+      "pos": "n.",
+      "meaning": "长椅",
+      "example": {
+        "en": "You can just sit on that bench for a bit.",
+        "zh": "你就坐那条长椅上歇会儿吧。"
+      },
+      "synonyms": [
+        "seat"
+      ],
+      "position": {
+        "x": 23,
+        "y": 64
+      }
+    },
+    {
+      "id": "door",
+      "text": "door",
+      "zhText": "门",
+      "phonetic": "/dɔːr/",
+      "pos": "n.",
+      "meaning": "门",
+      "example": {
+        "en": "The door at the back is still open.",
+        "zh": "里面那扇门还开着呢。"
+      },
+      "synonyms": [
+        "entrance"
+      ],
+      "position": {
+        "x": 52,
+        "y": 55
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "light up the place",
+      "meaning": "把整个地方点亮"
+    },
+    {
+      "phrase": "sit by the pond",
+      "meaning": "坐在池边"
+    },
+    {
+      "phrase": "hang lanterns",
+      "meaning": "挂灯笼"
+    }
+  ]
+}
