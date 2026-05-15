@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 145,
+  "title": "她们在公路上骑行",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #5fa8d3 0%, #f6d365 50%, #fda085 100%)",
+  "sentence": {
+    "en": "They're racing hard on the road.",
+    "zh": "她们正在路上拼命骑行。",
+    "highlights": [
+      "racing",
+      "road"
+    ]
+  },
+  "words": [
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "自行车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "I need to fix my bike this weekend.",
+        "zh": "我这周末得修一下我的自行车。"
+      },
+      "synonyms": [
+        "bicycle"
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "头盔",
+      "example": {
+        "en": "Hold on, go put your helmet on first.",
+        "zh": "等等，先把头盔戴上。"
+      },
+      "synonyms": [
+        "headgear"
+      ],
+      "position": {
+        "x": 28,
+        "y": 31
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "公路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "公路",
+      "example": {
+        "en": "The road's pretty clear today.",
+        "zh": "今天这条路还挺空的。"
+      },
+      "synonyms": [
+        "street"
+      ],
+      "position": {
+        "x": 52,
+        "y": 80
+      }
+    },
+    {
+      "id": "race",
+      "text": "racing",
+      "zhText": "比赛",
+      "phonetic": "/ˈreɪsɪŋ/",
+      "pos": "v.",
+      "meaning": "比赛",
+      "example": {
+        "en": "They're not just riding, they're racing.",
+        "zh": "她们不只是骑车，是在比赛。"
+      },
+      "synonyms": [
+        "competing"
+      ],
+      "position": {
+        "x": 44,
+        "y": 43
+      }
+    },
+    {
+      "id": "pedal",
+      "text": "pedal",
+      "zhText": "踩踏",
+      "phonetic": "/ˈpedl/",
+      "pos": "v.",
+      "meaning": "踩踏",
+      "example": {
+        "en": "Come on, pedal a little faster.",
+        "zh": "快点，再踩快一点。"
+      },
+      "synonyms": [
+        "cycle"
+      ],
+      "position": {
+        "x": 73,
+        "y": 64
+      }
+    },
+    {
+      "id": "jersey",
+      "text": "jersey",
+      "zhText": "骑行服",
+      "phonetic": "/ˈdʒɜːrzi/",
+      "pos": "n.",
+      "meaning": "骑行服",
+      "example": {
+        "en": "I like that yellow jersey a lot.",
+        "zh": "我还挺喜欢那件黄色骑行服的。"
+      },
+      "synonyms": [
+        "shirt"
+      ],
+      "position": {
+        "x": 56,
+        "y": 36
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "ride a bike",
+      "meaning": "骑自行车"
+    },
+    {
+      "phrase": "wear a helmet",
+      "meaning": "戴头盔"
+    },
+    {
+      "phrase": "win the race",
+      "meaning": "赢得比赛"
+    }
+  ]
+}
