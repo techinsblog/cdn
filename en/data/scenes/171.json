@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 171,
+  "title": "夹起一片鱼肉",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #8B5E3C 0%, #C98A4A 50%, #3E4A5A 100%)",
+  "sentence": {
+    "en": "I'm grabbing a piece of fish.",
+    "zh": "我正夹起一片鱼肉。",
+    "highlights": [
+      "grab",
+      "fish"
+    ]
+  },
+  "words": [
+    {
+      "id": "chopsticks",
+      "text": "chopsticks",
+      "zhText": "筷子",
+      "phonetic": "/ˈtʃɑːpstɪks/",
+      "pos": "n.",
+      "meaning": "吃饭用的筷子",
+      "example": {
+        "en": "Can you pass me the chopsticks?",
+        "zh": "你把筷子递我一下呗。"
+      },
+      "synonyms": [
+        "sticks"
+      ],
+      "position": {
+        "x": 72,
+        "y": 24
+      }
+    },
+    {
+      "id": "fish",
+      "text": "fish",
+      "zhText": "鱼肉",
+      "phonetic": "/fɪʃ/",
+      "pos": "n.",
+      "meaning": "鱼肉",
+      "example": {
+        "en": "This fish is really tender.",
+        "zh": "这鱼肉真的很嫩。"
+      },
+      "synonyms": [
+        "fillet"
+      ],
+      "position": {
+        "x": 43,
+        "y": 38
+      }
+    },
+    {
+      "id": "grab",
+      "text": "grab",
+      "zhText": "夹起",
+      "phonetic": "/ɡræb/",
+      "pos": "v.",
+      "meaning": "一下子拿起",
+      "example": {
+        "en": "Wait, let me grab one more piece.",
+        "zh": "等等，我再夹一块。"
+      },
+      "synonyms": [
+        "pick up"
+      ],
+      "position": {
+        "x": 56,
+        "y": 31
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "装食物的碗",
+      "example": {
+        "en": "That bowl looks huge.",
+        "zh": "那碗看着也太大了。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 82,
+        "y": 70
+      }
+    },
+    {
+      "id": "broth",
+      "text": "broth",
+      "zhText": "汤",
+      "phonetic": "/brɔːθ/",
+      "pos": "n.",
+      "meaning": "汤汁",
+      "example": {
+        "en": "The broth is kind of spicy.",
+        "zh": "这汤喝起来有点辣。"
+      },
+      "synonyms": [
+        "soup"
+      ],
+      "position": {
+        "x": 18,
+        "y": 73
+      }
+    },
+    {
+      "id": "pepper",
+      "text": "pepper",
+      "zhText": "辣椒",
+      "phonetic": "/ˈpepər/",
+      "pos": "n.",
+      "meaning": "辣椒",
+      "example": {
+        "en": "There are so many peppers in it.",
+        "zh": "这里面辣椒也太多了。"
+      },
+      "synonyms": [
+        "chili"
+      ],
+      "position": {
+        "x": 58,
+        "y": 88
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab a bite",
+      "meaning": "随便吃点"
+    },
+    {
+      "phrase": "pick up some food",
+      "meaning": "夹点吃的"
+    },
+    {
+      "phrase": "take a sip of broth",
+      "meaning": "喝一口汤"
+    }
+  ]
+}
