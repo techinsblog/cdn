@@ -464,6 +464,14 @@
       "gradient": "linear-gradient(135deg, #b22222 0%, #d35400 50%, #f4c430 100%)",
       "wordCount": 6,
       "previewWords": "crayfish · bowl · steam"
+    },
+    {
+      "id": 159,
+      "title": "熊猫在吃竹子",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #5f6f52 0%, #a9b388 50%, #e8dfca 100%)",
+      "wordCount": 7,
+      "previewWords": "panda · bamboo · eating"
     }
   ]
 }
