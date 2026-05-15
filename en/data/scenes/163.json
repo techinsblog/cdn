@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "id": 163,
+  "title": "烤鸡配薄饼",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #3b2a22 0%, #8c4f2f 50%, #d7b38a 100%)",
+  "sentence": {
+    "en": "This grilled chicken looks really good.",
+    "zh": "这份烤鸡看起来真的很香。",
+    "highlights": [
+      "grilled",
+      "chicken"
+    ]
+  },
+  "words": [
+    {
+      "id": "chicken",
+      "text": "chicken",
+      "zhText": "鸡肉",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "pos": "n.",
+      "meaning": "鸡肉",
+      "example": {
+        "en": "Let's just get the chicken.",
+        "zh": "我们就点鸡肉吧。"
+      },
+      "synonyms": [
+        "poultry"
+      ],
+      "position": {
+        "x": 67,
+        "y": 57
+      }
+    },
+    {
+      "id": "grilled",
+      "text": "grilled",
+      "zhText": "烤的",
+      "phonetic": "/ɡrɪld/",
+      "pos": "adj.",
+      "meaning": "烤过的",
+      "example": {
+        "en": "I want the grilled one, not fried.",
+        "zh": "我要烤的那个，不要炸的。"
+      },
+      "synonyms": [
+        "roasted"
+      ],
+      "position": {
+        "x": 45,
+        "y": 46
+      }
+    },
+    {
+      "id": "flatbread",
+      "text": "flatbread",
+      "zhText": "薄饼",
+      "phonetic": "/ˈflætbred/",
+      "pos": "n.",
+      "meaning": "薄饼",
+      "example": {
+        "en": "Can I have one more flatbread?",
+        "zh": "能再来一张薄饼吗？"
+      },
+      "synonyms": [
+        "bread"
+      ],
+      "position": {
+        "x": 18,
+        "y": 78
+      }
+    },
+    {
+      "id": "tomato",
+      "text": "tomato",
+      "zhText": "番茄",
+      "phonetic": "/təˈmeɪtoʊ/",
+      "pos": "n.",
+      "meaning": "番茄",
+      "example": {
+        "en": "The tomato's a little smoky. I like it.",
+        "zh": "这个番茄有点烟熏味，我喜欢。"
+      },
+      "synonyms": [
+        "tomato"
+      ],
+      "position": {
+        "x": 58,
+        "y": 14
+      }
+    },
+    {
+      "id": "onion",
+      "text": "onion",
+      "zhText": "洋葱",
+      "phonetic": "/ˈʌnjən/",
+      "pos": "n.",
+      "meaning": "洋葱",
+      "example": {
+        "en": "I usually skip the onion, to be honest.",
+        "zh": "说真的，我一般不吃洋葱。"
+      },
+      "synonyms": [
+        "bulb"
+      ],
+      "position": {
+        "x": 82,
+        "y": 18
+      }
+    },
+    {
+      "id": "plate",
+      "text": "plate",
+      "zhText": "盘子",
+      "phonetic": "/pleɪt/",
+      "pos": "n.",
+      "meaning": "盘子",
+      "example": {
+        "en": "Just put it on the plate.",
+        "zh": "直接放盘子上就行。"
+      },
+      "synonyms": [
+        "dish"
+      ],
+      "position": {
+        "x": 30,
+        "y": 33
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grilled chicken",
+      "meaning": "烤鸡"
+    },
+    {
+      "phrase": "on the plate",
+      "meaning": "在盘子上"
+    },
+    {
+      "phrase": "have some flatbread",
+      "meaning": "吃点薄饼"
+    }
+  ]
+}
