@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 175,
+  "title": "机场登机",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #89AFC7 0%, #6F8796 50%, #3E4F5C 100%)",
+  "sentence": {
+    "en": "The plane's getting ready to board.",
+    "zh": "这飞机马上就要开始登机了。",
+    "highlights": [
+      "plane",
+      "board"
+    ]
+  },
+  "words": [
+    {
+      "id": "plane",
+      "text": "plane",
+      "zhText": "飞机",
+      "phonetic": "/pleɪn/",
+      "pos": "n.",
+      "meaning": "飞机",
+      "example": {
+        "en": "Our plane leaves in an hour.",
+        "zh": "咱们的飞机一小时后起飞。"
+      },
+      "synonyms": [
+        {
+          "en": "aircraft",
+          "zh": "飞机"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 43
+      }
+    },
+    {
+      "id": "gate",
+      "text": "gate",
+      "zhText": "登机口",
+      "phonetic": "/ɡeɪt/",
+      "pos": "n.",
+      "meaning": "登机口",
+      "example": {
+        "en": "Which gate are we at?",
+        "zh": "咱们现在在哪个登机口？"
+      },
+      "synonyms": [
+        {
+          "en": "boarding gate",
+          "zh": "登机口"
+        }
+      ],
+      "position": {
+        "x": 89,
+        "y": 54
+      }
+    },
+    {
+      "id": "engine",
+      "text": "engine",
+      "zhText": "引擎",
+      "phonetic": "/ˈendʒɪn/",
+      "pos": "n.",
+      "meaning": "引擎",
+      "example": {
+        "en": "That engine is huge up close.",
+        "zh": "这引擎近看真的挺大。"
+      },
+      "synonyms": [
+        {
+          "en": "motor",
+          "zh": "发动机"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 65
+      }
+    },
+    {
+      "id": "crew",
+      "text": "crew",
+      "zhText": "机务",
+      "phonetic": "/kruː/",
+      "pos": "n.",
+      "meaning": "机务人员",
+      "example": {
+        "en": "The ground crew is still working.",
+        "zh": "地勤还在忙着呢。"
+      },
+      "synonyms": [
+        {
+          "en": "staff",
+          "zh": "工作人员"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 76
+      }
+    },
+    {
+      "id": "board",
+      "text": "board",
+      "zhText": "登机",
+      "phonetic": "/bɔːrd/",
+      "pos": "v.",
+      "meaning": "登机",
+      "example": {
+        "en": "They're about to board now.",
+        "zh": "他们这会儿差不多要登机了。"
+      },
+      "synonyms": [
+        {
+          "en": "get on",
+          "zh": "上去"
+        }
+      ],
+      "position": {
+        "x": 54,
+        "y": 88
+      }
+    },
+    {
+      "id": "runway",
+      "text": "runway",
+      "zhText": "跑道",
+      "phonetic": "/ˈrʌnweɪ/",
+      "pos": "n.",
+      "meaning": "跑道",
+      "example": {
+        "en": "The runway looks a bit wet today.",
+        "zh": "今天跑道看着有点湿。"
+      },
+      "synonyms": [
+        {
+          "en": "airstrip",
+          "zh": "跑道"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 38
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "board the plane",
+      "meaning": "登上飞机"
+    },
+    {
+      "phrase": "head to the gate",
+      "meaning": "往登机口走"
+    },
+    {
+      "phrase": "wait for takeoff",
+      "meaning": "等着起飞"
+    }
+  ]
+}
