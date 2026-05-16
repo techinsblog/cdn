@@ -26,14 +26,6 @@
       "previewWords": "waffles · blackberries · coffee"
     },
     {
-      "id": 106,
-      "title": "骑车过积水路段",
-      "categoryId": "daily",
-      "gradient": "linear-gradient(135deg, #3b2a1f 0%, #d79b2e 50%, #f0d27a 100%)",
-      "wordCount": 7,
-      "previewWords": "riding · bike · flooded"
-    },
-    {
       "id": 107,
       "title": "看兵马俑雕像",
       "categoryId": "culture",
