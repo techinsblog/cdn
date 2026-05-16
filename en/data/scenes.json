@@ -154,14 +154,6 @@
       "previewWords": "horse · riding · saddle"
     },
     {
-      "id": 123,
-      "title": "坐在咖啡店门口聊天",
-      "categoryId": "social",
-      "gradient": "linear-gradient(135deg, #6f4e37 0%, #9bb7c9 50%, #d8c3a5 100%)",
-      "wordCount": 6,
-      "previewWords": "hanging out · drinks · table"
-    },
-    {
       "id": 124,
       "title": "小孩在看花",
       "categoryId": "nature",
