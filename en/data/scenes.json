@@ -584,6 +584,14 @@
       "gradient": "linear-gradient(135deg, #62c7f2 0%, #4d8fd6 50%, #f3b36b 100%)",
       "wordCount": 6,
       "previewWords": "crane · harbor · water"
+    },
+    {
+      "id": 180,
+      "title": "小朋友玩沙",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #f6d365 0%, #fda085 50%, #f8b6c1 100%)",
+      "wordCount": 6,
+      "previewWords": "kids · table · sand"
     }
   ]
 }
