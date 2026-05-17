@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 214,
+  "title": "过马路",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2f3e2f 0%, #5b4a3f 50%, #d96b2b 100%)",
+  "sentence": {
+    "en": "Looks like he's crossing the street.",
+    "zh": "看着像是在过马路。",
+    "highlights": [
+      "cross",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "cross",
+      "text": "crossing",
+      "zhText": "过马路",
+      "phonetic": "/ˈkrɔːsɪŋ/",
+      "pos": "n.",
+      "meaning": "过马路",
+      "example": {
+        "en": "Wait, I'm still at the crossing.",
+        "zh": "等下，我还在过马路呢。"
+      },
+      "synonyms": [
+        {
+          "en": "crosswalk",
+          "zh": "斑马线"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 72
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street gets busy at night.",
+        "zh": "这条街一到晚上就热闹了。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 52
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "袋子",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "袋子",
+      "example": {
+        "en": "Can you hold my bag for a sec?",
+        "zh": "你帮我拿一下袋子呗。"
+      },
+      "synonyms": [
+        {
+          "en": "shopping bag",
+          "zh": "购物袋"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 61
+      }
+    },
+    {
+      "id": "bus",
+      "text": "bus",
+      "zhText": "公交",
+      "phonetic": "/bʌs/",
+      "pos": "n.",
+      "meaning": "公交车",
+      "example": {
+        "en": "I think I just missed the bus.",
+        "zh": "我感觉我刚错过公交了。"
+      },
+      "synonyms": [
+        {
+          "en": "coach",
+          "zh": "大巴"
+        }
+      ],
+      "position": {
+        "x": 51,
+        "y": 44
+      }
+    },
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "自行车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "There are bikes parked everywhere here.",
+        "zh": "这儿到处都停着自行车。"
+      },
+      "synonyms": [
+        {
+          "en": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 54
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "These trees make the street feel cooler.",
+        "zh": "这几棵树一挡，整条街都凉快不少。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 34,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "cross the street",
+      "meaning": "过马路"
+    },
+    {
+      "phrase": "carry a bag",
+      "meaning": "拎着袋子"
+    },
+    {
+      "phrase": "wait for the bus",
+      "meaning": "等公交"
+    }
+  ]
+}
