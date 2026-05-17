@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 244,
+  "title": "路边卖饼",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #6b8e5a 0%, #c96b3b 50%, #e8d9b5 100%)",
+  "sentence": {
+    "en": "There's a street cart selling fresh pancakes.",
+    "zh": "路边有个小摊在卖刚出炉的饼。",
+    "highlights": [
+      "cart",
+      "pancake"
+    ]
+  },
+  "words": [
+    {
+      "id": "cart",
+      "text": "cart",
+      "zhText": "小摊",
+      "phonetic": "/kɑːrt/",
+      "pos": "n.",
+      "meaning": "小推车摊位",
+      "example": {
+        "en": "That cart always has a line in the morning.",
+        "zh": "那个小摊早上老是排队。"
+      },
+      "synonyms": [
+        {
+          "en": "stall",
+          "zh": "摊位"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 66
+      }
+    },
+    {
+      "id": "pancake",
+      "text": "pancakes",
+      "zhText": "饼",
+      "phonetic": "/ˈpænkeɪk/",
+      "pos": "n.",
+      "meaning": "饼",
+      "example": {
+        "en": "These pancakes smell really good.",
+        "zh": "这饼闻着真香。"
+      },
+      "synonyms": [
+        {
+          "en": "flatbread",
+          "zh": "面饼"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 60
+      }
+    },
+    {
+      "id": "vendor",
+      "text": "vendor",
+      "zhText": "摊主",
+      "phonetic": "/ˈvendər/",
+      "pos": "n.",
+      "meaning": "摊主",
+      "example": {
+        "en": "The vendor looks busy this morning.",
+        "zh": "这摊主今天早上看着挺忙。"
+      },
+      "synonyms": [
+        {
+          "en": "seller",
+          "zh": "卖家"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 48
+      }
+    },
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "自行车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "He parks his bike right next to the cart.",
+        "zh": "他把自行车就停在摊子旁边。"
+      },
+      "synonyms": [
+        {
+          "en": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 68
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "托盘",
+      "example": {
+        "en": "Put the hot ones on the tray first.",
+        "zh": "刚出锅的先放托盘上吧。"
+      },
+      "synonyms": [
+        {
+          "en": "plate",
+          "zh": "盘子"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 54
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "路边",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街边",
+      "example": {
+        "en": "Street food just hits different sometimes.",
+        "zh": "有时候还是路边摊最香。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 86
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "street food",
+      "meaning": "路边小吃"
+    },
+    {
+      "phrase": "set up a cart",
+      "meaning": "支个摊"
+    },
+    {
+      "phrase": "grab a pancake",
+      "meaning": "买个饼吃"
+    }
+  ]
+}
