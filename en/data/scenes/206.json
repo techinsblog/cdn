@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 206,
+  "title": "站台等车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #A9C7DF 0%, #D9D4C8 50%, #6E7C86 100%)",
+  "sentence": {
+    "en": "Looks like everyone's waiting for the train.",
+    "zh": "看起来大家都在等车。",
+    "highlights": [
+      "waiting",
+      "train"
+    ]
+  },
+  "words": [
+    {
+      "id": "platform",
+      "text": "platform",
+      "zhText": "站台",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "n.",
+      "meaning": "站台",
+      "example": {
+        "en": "Let's wait on the platform for a bit.",
+        "zh": "咱们先在站台这儿等会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "station platform",
+          "zh": "站台"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 72
+      }
+    },
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "火车",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "火车",
+      "example": {
+        "en": "The train should be here any minute.",
+        "zh": "车应该马上就到了。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "列车"
+        }
+      ],
+      "position": {
+        "x": 32,
+        "y": 64
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "轨道",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "铁轨",
+      "example": {
+        "en": "Don't stand too close to the track.",
+        "zh": "别站太靠近轨道。"
+      },
+      "synonyms": [
+        {
+          "en": "railway",
+          "zh": "铁道"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 78
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "标牌",
+      "phonetic": "/saɪn/",
+      "pos": "n.",
+      "meaning": "指示牌",
+      "example": {
+        "en": "Check the sign for the exit.",
+        "zh": "看下牌子找出口。"
+      },
+      "synonyms": [
+        {
+          "en": "board",
+          "zh": "牌子"
+        }
+      ],
+      "position": {
+        "x": 68,
+        "y": 18
+      }
+    },
+    {
+      "id": "waiting",
+      "text": "waiting",
+      "zhText": "等候",
+      "phonetic": "/ˈweɪtɪŋ/",
+      "pos": "v.",
+      "meaning": "等着",
+      "example": {
+        "en": "We've been waiting here for a while.",
+        "zh": "我们都在这儿等了一会儿了。"
+      },
+      "synonyms": [
+        {
+          "en": "standing by",
+          "zh": "等着"
+        }
+      ],
+      "position": {
+        "x": 90,
+        "y": 58
+      }
+    },
+    {
+      "id": "luggage",
+      "text": "luggage",
+      "zhText": "行李",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "pos": "n.",
+      "meaning": "行李",
+      "example": {
+        "en": "Just leave the luggage by your side.",
+        "zh": "行李放手边就行。"
+      },
+      "synonyms": [
+        {
+          "en": "bags",
+          "zh": "行李"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "wait for the train",
+      "meaning": "等火车"
+    },
+    {
+      "phrase": "head to the exit",
+      "meaning": "往出口走"
+    },
+    {
+      "phrase": "stand on the platform",
+      "meaning": "站在站台上"
+    }
+  ]
+}
