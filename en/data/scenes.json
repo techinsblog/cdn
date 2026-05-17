@@ -1048,6 +1048,14 @@
       "gradient": "linear-gradient(135deg, #d58a2a 0%, #8c5a2b 50%, #5bb7d9 100%)",
       "wordCount": 6,
       "previewWords": "library · bookshelf · table"
+    },
+    {
+      "id": 238,
+      "title": "骑车过马路",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #4f5d4a 0%, #7a7f73 50%, #c96a3d 100%)",
+      "wordCount": 6,
+      "previewWords": "bike · cross · crosswalk"
     }
   ]
 }
