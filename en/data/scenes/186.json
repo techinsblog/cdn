@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 186,
+  "title": "扛着孩子散步",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #F6E3A1 0%, #DFA65B 50%, #4F5D3A 100%)",
+  "sentence": {
+    "en": "Looks like a nice walk with his kid.",
+    "zh": "看着就是带娃出来散散步。",
+    "highlights": [
+      "walk",
+      "kid"
+    ]
+  },
+  "words": [
+    {
+      "id": "shoulders",
+      "text": "shoulders",
+      "zhText": "肩膀",
+      "phonetic": "/ˈʃoʊldərz/",
+      "pos": "n.",
+      "meaning": "肩膀",
+      "example": {
+        "en": "She fell asleep on her dad's shoulders.",
+        "zh": "她在爸爸肩膀上都快睡着了。"
+      },
+      "synonyms": [
+        {
+          "en": "upper back",
+          "zh": "上背部"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 41
+      }
+    },
+    {
+      "id": "kid",
+      "text": "kid",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小孩",
+      "example": {
+        "en": "The kid looks a little sleepy.",
+        "zh": "这小孩看着有点困了。"
+      },
+      "synonyms": [
+        {
+          "en": "child",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 30
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "散步",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "散步",
+      "example": {
+        "en": "We usually walk here after dinner.",
+        "zh": "我们一般吃完饭会来这儿走走。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 26,
+        "y": 72
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand under that tree for a bit.",
+        "zh": "咱们去那棵树底下站会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 18
+      }
+    },
+    {
+      "id": "sunlight",
+      "text": "sunlight",
+      "zhText": "阳光",
+      "phonetic": "/ˈsʌnlaɪt/",
+      "pos": "n.",
+      "meaning": "阳光",
+      "example": {
+        "en": "The sunlight is really nice right now.",
+        "zh": "这会儿的阳光真挺舒服。"
+      },
+      "synonyms": [
+        {
+          "en": "sun",
+          "zh": "太阳光"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 20
+      }
+    },
+    {
+      "id": "phone",
+      "text": "phone",
+      "zhText": "手机",
+      "phonetic": "/foʊn/",
+      "pos": "n.",
+      "meaning": "手机",
+      "example": {
+        "en": "Wait, let me grab my phone.",
+        "zh": "等下，我拿下手机。"
+      },
+      "synonyms": [
+        {
+          "en": "cellphone",
+          "zh": "手机"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 48
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go for a walk",
+      "meaning": "出去散个步"
+    },
+    {
+      "phrase": "carry on one's shoulders",
+      "meaning": "扛在肩上"
+    },
+    {
+      "phrase": "take the kid out",
+      "meaning": "带孩子出来"
+    }
+  ]
+}
