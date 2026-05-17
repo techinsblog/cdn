@@ -568,6 +568,14 @@
       "gradient": "linear-gradient(135deg, #2f3e36 0%, #6b4f3a 50%, #c96a5a 100%)",
       "wordCount": 7,
       "previewWords": "boat · birds · fish"
+    },
+    {
+      "id": 178,
+      "title": "江边野餐",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #5fb0d9 0%, #8cc7d8 50%, #4f7f5f 100%)",
+      "wordCount": 6,
+      "previewWords": "picnic · river · blanket"
     }
   ]
 }
