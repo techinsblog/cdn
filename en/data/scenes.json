@@ -576,6 +576,14 @@
       "gradient": "linear-gradient(135deg, #5fb0d9 0%, #8cc7d8 50%, #4f7f5f 100%)",
       "wordCount": 6,
       "previewWords": "picnic · river · blanket"
+    },
+    {
+      "id": 179,
+      "title": "码头吊机",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #62c7f2 0%, #4d8fd6 50%, #f3b36b 100%)",
+      "wordCount": 6,
+      "previewWords": "crane · harbor · water"
     }
   ]
 }
