@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 189,
+  "title": "海边玩水",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #87c9f5 0%, #b7d8ea 50%, #6f8fa6 100%)",
+  "sentence": {
+    "en": "Looks like a fun walk by the sea.",
+    "zh": "看着就是在海边踩水散步，挺开心的。",
+    "highlights": [
+      "sea",
+      "walk"
+    ]
+  },
+  "words": [
+    {
+      "id": "sea",
+      "text": "sea",
+      "zhText": "大海",
+      "phonetic": "/siː/",
+      "pos": "n.",
+      "meaning": "大海",
+      "example": {
+        "en": "The sea looks so calm today.",
+        "zh": "今天的海看着好平静。"
+      },
+      "synonyms": [
+        {
+          "en": "ocean",
+          "zh": "海洋"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 63
+      }
+    },
+    {
+      "id": "wave",
+      "text": "waves",
+      "zhText": "海浪",
+      "phonetic": "/weɪv/",
+      "pos": "n.",
+      "meaning": "海浪",
+      "example": {
+        "en": "The waves are pretty small right now.",
+        "zh": "这会儿浪还挺小的。"
+      },
+      "synonyms": [
+        {
+          "en": "surf",
+          "zh": "浪花"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 58
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "走走",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "散步",
+      "example": {
+        "en": "Let's just walk along the beach.",
+        "zh": "咱们就在海边随便走走吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 70
+      }
+    },
+    {
+      "id": "splash",
+      "text": "splash",
+      "zhText": "踩水",
+      "phonetic": "/splæʃ/",
+      "pos": "v.",
+      "meaning": "踩得水花四溅",
+      "example": {
+        "en": "Don't splash too much, my jeans are dry.",
+        "zh": "别踩太猛啊，我裤子还是干的呢。"
+      },
+      "synonyms": [
+        {
+          "en": "spray",
+          "zh": "溅水"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 56
+      }
+    },
+    {
+      "id": "beach",
+      "text": "beach",
+      "zhText": "沙滩",
+      "phonetic": "/biːtʃ/",
+      "pos": "n.",
+      "meaning": "沙滩",
+      "example": {
+        "en": "This beach is really quiet today.",
+        "zh": "今天这片沙滩人还真不多。"
+      },
+      "synonyms": [
+        {
+          "en": "shore",
+          "zh": "岸边"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 78
+      }
+    },
+    {
+      "id": "cloud",
+      "text": "cloud",
+      "zhText": "云朵",
+      "phonetic": "/klaʊd/",
+      "pos": "n.",
+      "meaning": "云朵",
+      "example": {
+        "en": "That cloud looks kind of funny.",
+        "zh": "那朵云看着还有点好玩。"
+      },
+      "synonyms": [
+        {
+          "en": "cloudbank",
+          "zh": "云层"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk by the sea",
+      "meaning": "在海边散步"
+    },
+    {
+      "phrase": "splash in the water",
+      "meaning": "在水里踩水玩"
+    },
+    {
+      "phrase": "hang out at the beach",
+      "meaning": "在沙滩上待会儿"
+    }
+  ]
+}
