@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 217,
+  "title": "港口看船",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #dbeaf3 0%, #9fc3d9 50%, #5f86a3 100%)",
+  "sentence": {
+    "en": "There's a boat docked by the water.",
+    "zh": "水边停着一艘船。",
+    "highlights": [
+      "boat",
+      "dock",
+      "water"
+    ]
+  },
+  "words": [
+    {
+      "id": "boat",
+      "text": "boat",
+      "zhText": "船",
+      "phonetic": "/boʊt/",
+      "pos": "n.",
+      "meaning": "船",
+      "example": {
+        "en": "That boat looks ready to head out.",
+        "zh": "那艘船看着像马上要出发了。"
+      },
+      "synonyms": [
+        {
+          "en": "ship",
+          "zh": "船"
+        }
+      ],
+      "position": {
+        "x": 81,
+        "y": 43
+      }
+    },
+    {
+      "id": "dock",
+      "text": "docked",
+      "zhText": "停靠",
+      "phonetic": "/dɑːkt/",
+      "pos": "adj./v.",
+      "meaning": "停靠着的",
+      "example": {
+        "en": "It's docked here for the night.",
+        "zh": "它今晚就停在这儿了。"
+      },
+      "synonyms": [
+        {
+          "en": "moored",
+          "zh": "停泊"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 69
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水面",
+      "example": {
+        "en": "The water's really calm today.",
+        "zh": "今天水面还挺平静的。"
+      },
+      "synonyms": [
+        {
+          "en": "sea",
+          "zh": "海面"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 34
+      }
+    },
+    {
+      "id": "ferris wheel",
+      "text": "ferris wheel",
+      "zhText": "摩天轮",
+      "phonetic": "/ˈferɪs wiːl/",
+      "pos": "n.",
+      "meaning": "摩天轮",
+      "example": {
+        "en": "You can spot the ferris wheel from here.",
+        "zh": "从这儿就能看到那个摩天轮。"
+      },
+      "synonyms": [
+        {
+          "en": "wheel",
+          "zh": "转轮"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 16
+      }
+    },
+    {
+      "id": "harbor",
+      "text": "harbor",
+      "zhText": "港口",
+      "phonetic": "/ˈhɑːrbər/",
+      "pos": "n.",
+      "meaning": "港口",
+      "example": {
+        "en": "This harbor gets pretty busy later on.",
+        "zh": "这个港口晚点会挺热闹的。"
+      },
+      "synonyms": [
+        {
+          "en": "port",
+          "zh": "港口"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 58
+      }
+    },
+    {
+      "id": "rope",
+      "text": "rope",
+      "zhText": "绳子",
+      "phonetic": "/roʊp/",
+      "pos": "n.",
+      "meaning": "缆绳",
+      "example": {
+        "en": "Watch your step near that rope.",
+        "zh": "走那边的时候小心那根绳子。"
+      },
+      "synonyms": [
+        {
+          "en": "line",
+          "zh": "绳索"
+        }
+      ],
+      "position": {
+        "x": 6,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "dock a boat",
+      "meaning": "把船停靠好"
+    },
+    {
+      "phrase": "by the water",
+      "meaning": "在水边"
+    },
+    {
+      "phrase": "at the harbor",
+      "meaning": "在港口"
+    }
+  ]
+}
