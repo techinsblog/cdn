@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 252,
+  "title": "古装巡游",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #5b1f1f 0%, #c97a2b 50%, #6fa3c8 100%)",
+  "sentence": {
+    "en": "Looks like a costume parade downtown.",
+    "zh": "看着像是在市区搞古装巡游。",
+    "highlights": [
+      "costume",
+      "parade"
+    ]
+  },
+  "words": [
+    {
+      "id": "parade",
+      "text": "parade",
+      "zhText": "巡游",
+      "phonetic": "/pəˈreɪd/",
+      "pos": "n.",
+      "meaning": "巡游，游行队伍",
+      "example": {
+        "en": "We caught a parade on the way home.",
+        "zh": "我们回家路上刚好碰上一队巡游。"
+      },
+      "synonyms": [
+        {
+          "en": "march",
+          "zh": "游行"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 78
+      }
+    },
+    {
+      "id": "armor",
+      "text": "armor",
+      "zhText": "盔甲",
+      "phonetic": "/ˈɑːrmər/",
+      "pos": "n.",
+      "meaning": "盔甲",
+      "example": {
+        "en": "That armor looks pretty heavy.",
+        "zh": "那身盔甲看着就挺重的。"
+      },
+      "synonyms": [
+        {
+          "en": "gear",
+          "zh": "装备"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "spear",
+      "text": "spear",
+      "zhText": "长枪",
+      "phonetic": "/spɪr/",
+      "pos": "n.",
+      "meaning": "长枪",
+      "example": {
+        "en": "He's carrying a long spear.",
+        "zh": "他手里拿着一根长枪。"
+      },
+      "synonyms": [
+        {
+          "en": "polearm",
+          "zh": "长柄武器"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 73
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "头盔",
+      "example": {
+        "en": "The helmet really completes the look.",
+        "zh": "这个头盔一戴，感觉一下就出来了。"
+      },
+      "synonyms": [
+        {
+          "en": "headgear",
+          "zh": "护头装备"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 42
+      }
+    },
+    {
+      "id": "march",
+      "text": "march",
+      "zhText": "行进",
+      "phonetic": "/mɑːrtʃ/",
+      "pos": "v.",
+      "meaning": "列队前进",
+      "example": {
+        "en": "They marched right past us.",
+        "zh": "他们就这么从我们面前列队走过去了。"
+      },
+      "synonyms": [
+        {
+          "en": "walk",
+          "zh": "走"
+        }
+      ],
+      "position": {
+        "x": 53,
+        "y": 86
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "The whole street is full of people.",
+        "zh": "这条街上人还真不少。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 96
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "join the parade",
+      "meaning": "加入巡游队伍"
+    },
+    {
+      "phrase": "wear armor",
+      "meaning": "穿着盔甲"
+    },
+    {
+      "phrase": "march down the street",
+      "meaning": "沿着街道列队前进"
+    }
+  ]
+}
