@@ -832,6 +832,14 @@
       "gradient": "linear-gradient(135deg, #cfd9df 0%, #e2ebf0 50%, #b7c7d6 100%)",
       "wordCount": 6,
       "previewWords": "train · building · station"
+    },
+    {
+      "id": 211,
+      "title": "坐地铁",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #8fd3f4 0%, #c7e9f1 50%, #f2f7f9 100%)",
+      "wordCount": 6,
+      "previewWords": "subway · seat · handle"
     }
   ]
 }
