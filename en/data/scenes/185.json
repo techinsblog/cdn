@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 185,
+  "title": "爬山台阶",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #dfeaf0 0%, #7f8f63 50%, #3f3a33 100%)",
+  "sentence": {
+    "en": "Looks like a tough climb up those stairs.",
+    "zh": "这段台阶看着就挺费劲的。",
+    "highlights": [
+      "climb",
+      "stairs"
+    ]
+  },
+  "words": [
+    {
+      "id": "stairs",
+      "text": "stairs",
+      "zhText": "台阶",
+      "phonetic": "/sterz/",
+      "pos": "n.",
+      "meaning": "台阶",
+      "example": {
+        "en": "These stairs are way steeper than I thought.",
+        "zh": "这台阶比我想的陡多了。"
+      },
+      "synonyms": [
+        {
+          "en": "steps",
+          "zh": "台阶"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 70
+      }
+    },
+    {
+      "id": "backpack",
+      "text": "backpack",
+      "zhText": "背包",
+      "phonetic": "/ˈbækpæk/",
+      "pos": "n.",
+      "meaning": "背包",
+      "example": {
+        "en": "Just throw a water bottle in your backpack.",
+        "zh": "往背包里塞瓶水就行。"
+      },
+      "synonyms": [
+        {
+          "en": "bag",
+          "zh": "包"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 49
+      }
+    },
+    {
+      "id": "climb",
+      "text": "climb",
+      "zhText": "爬",
+      "phonetic": "/klaɪm/",
+      "pos": "v.",
+      "meaning": "往上爬",
+      "example": {
+        "en": "We still have a lot to climb.",
+        "zh": "咱们还有一大段要爬呢。"
+      },
+      "synonyms": [
+        {
+          "en": "go up",
+          "zh": "往上走"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 58
+      }
+    },
+    {
+      "id": "rock",
+      "text": "rock",
+      "zhText": "岩石",
+      "phonetic": "/rɑːk/",
+      "pos": "n.",
+      "meaning": "岩石",
+      "example": {
+        "en": "Watch your step, the rock's kind of slippery.",
+        "zh": "小心点，这石头有点滑。"
+      },
+      "synonyms": [
+        {
+          "en": "stone",
+          "zh": "石头"
+        }
+      ],
+      "position": {
+        "x": 89,
+        "y": 64
+      }
+    },
+    {
+      "id": "trail",
+      "text": "trail",
+      "zhText": "山路",
+      "phonetic": "/treɪl/",
+      "pos": "n.",
+      "meaning": "山路",
+      "example": {
+        "en": "This trail gets harder near the top.",
+        "zh": "这段山路快到顶的时候更难走。"
+      },
+      "synonyms": [
+        {
+          "en": "path",
+          "zh": "小路"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 54
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's rest for a sec under that tree.",
+        "zh": "咱们去那棵树下歇一下吧。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 48,
+        "y": 30
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "climb the stairs",
+      "meaning": "爬台阶"
+    },
+    {
+      "phrase": "go hiking",
+      "meaning": "去爬山"
+    },
+    {
+      "phrase": "take a break",
+      "meaning": "歇一会儿"
+    }
+  ]
+}
