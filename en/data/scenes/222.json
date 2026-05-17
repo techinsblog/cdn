@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 222,
+  "title": "树下吃面",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #5E3B2E 0%, #C94B4B 50%, #E9D8A6 100%)",
+  "sentence": {
+    "en": "They're having noodles under the tree.",
+    "zh": "他们在树下吃面呢。",
+    "highlights": [
+      "noodle",
+      "tree"
+    ]
+  },
+  "words": [
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "That tree gives really nice shade.",
+        "zh": "那棵树底下乘凉挺舒服的。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 30
+      }
+    },
+    {
+      "id": "noodle",
+      "text": "noodles",
+      "zhText": "面",
+      "phonetic": "/ˈnuːdəl/",
+      "pos": "n.",
+      "meaning": "面条",
+      "example": {
+        "en": "These noodles look so good.",
+        "zh": "这碗面看着真香。"
+      },
+      "synonyms": [
+        {
+          "en": "ramen",
+          "zh": "拉面"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 58
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "碗",
+      "example": {
+        "en": "Can you pass me that bowl?",
+        "zh": "你把那个碗递我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "dish",
+          "zh": "碗盘"
+        }
+      ],
+      "position": {
+        "x": 68,
+        "y": 52
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "Let's grab the table by the tree.",
+        "zh": "咱们坐树边那张桌子吧。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 47,
+        "y": 66
+      }
+    },
+    {
+      "id": "stool",
+      "text": "stool",
+      "zhText": "凳子",
+      "phonetic": "/stuːl/",
+      "pos": "n.",
+      "meaning": "小凳子",
+      "example": {
+        "en": "These plastic stools are everywhere.",
+        "zh": "这种塑料小凳子到处都是。"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 86
+      }
+    },
+    {
+      "id": "ribbon",
+      "text": "ribbon",
+      "zhText": "红绸",
+      "phonetic": "/ˈrɪbən/",
+      "pos": "n.",
+      "meaning": "飘带",
+      "example": {
+        "en": "Look at all the red ribbons up there.",
+        "zh": "你看上面挂了好多红飘带。"
+      },
+      "synonyms": [
+        {
+          "en": "strip",
+          "zh": "带子"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "eat noodles",
+      "meaning": "吃面"
+    },
+    {
+      "phrase": "sit under a tree",
+      "meaning": "坐在树下"
+    },
+    {
+      "phrase": "grab a seat",
+      "meaning": "找个位置坐下"
+    }
+  ]
+}
