@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 209,
+  "title": "高铁经过",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #cfd8dc 0%, #90a4ae 50%, #546e7a 100%)",
+  "sentence": {
+    "en": "There's a high-speed train passing by.",
+    "zh": "有辆高铁正开过去呢。",
+    "highlights": [
+      "train",
+      "track"
+    ]
+  },
+  "words": [
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "火车",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "火车",
+      "example": {
+        "en": "The train looks really fast.",
+        "zh": "这火车看着真挺快的。"
+      },
+      "synonyms": [
+        {
+          "en": "railcar",
+          "zh": "列车"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 56
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "铁轨",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "铁轨",
+      "example": {
+        "en": "There are so many tracks here.",
+        "zh": "这儿铁轨还真不少。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "轨道"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 44
+      }
+    },
+    {
+      "id": "railway",
+      "text": "railway",
+      "zhText": "铁路",
+      "phonetic": "/ˈreɪlweɪ/",
+      "pos": "n.",
+      "meaning": "铁路",
+      "example": {
+        "en": "This railway runs past the buildings.",
+        "zh": "这条铁路就从楼旁边穿过去。"
+      },
+      "synonyms": [
+        {
+          "en": "railroad",
+          "zh": "铁路"
+        }
+      ],
+      "position": {
+        "x": 23,
+        "y": 69
+      }
+    },
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "楼房",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "楼房",
+      "example": {
+        "en": "Those buildings all look kind of similar.",
+        "zh": "那几栋楼看着都差不多。"
+      },
+      "synonyms": [
+        {
+          "en": "block",
+          "zh": "楼"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 18
+      }
+    },
+    {
+      "id": "pass",
+      "text": "passing",
+      "zhText": "经过",
+      "phonetic": "/ˈpæsɪŋ/",
+      "pos": "v.",
+      "meaning": "经过",
+      "example": {
+        "en": "The train's just passing through.",
+        "zh": "这列车就是刚好经过这儿。"
+      },
+      "synonyms": [
+        {
+          "en": "go by",
+          "zh": "经过"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 56
+      }
+    },
+    {
+      "id": "fast",
+      "text": "fast",
+      "zhText": "快的",
+      "phonetic": "/fæst/",
+      "pos": "adj.",
+      "meaning": "快的",
+      "example": {
+        "en": "That thing is seriously fast.",
+        "zh": "那家伙跑得真快。"
+      },
+      "synonyms": [
+        {
+          "en": "quick",
+          "zh": "快的"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 40
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch a train",
+      "meaning": "赶火车"
+    },
+    {
+      "phrase": "high-speed train",
+      "meaning": "高铁"
+    },
+    {
+      "phrase": "railway station",
+      "meaning": "火车站"
+    }
+  ]
+}
