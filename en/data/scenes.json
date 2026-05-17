@@ -1080,6 +1080,14 @@
       "gradient": "linear-gradient(135deg, #f7d08a 0%, #f28c6f 50%, #c85c5c 100%)",
       "wordCount": 6,
       "previewWords": "squid · skewer · stall"
+    },
+    {
+      "id": 242,
+      "title": "遛狗路过店门口",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #c97a33 0%, #e6b85c 50%, #8b4a2b 100%)",
+      "wordCount": 6,
+      "previewWords": "dog · leash · street"
     }
   ]
 }
