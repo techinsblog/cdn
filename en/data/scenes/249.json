@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "id": 249,
+  "title": "舞狮表演",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #2f2f2f 0%, #d9a11e 50%, #b61f1f 100%)",
+  "sentence": {
+    "en": "There's a lion dance going on.",
+    "zh": "这儿正在表演舞狮呢。",
+    "highlights": [
+      "lion dance"
+    ]
+  },
+  "words": [
+    {
+      "id": "lion dance",
+      "text": "lion dance",
+      "zhText": "舞狮",
+      "phonetic": "/ˈlaɪən dæns/",
+      "pos": "n.",
+      "meaning": "舞狮表演",
+      "example": {
+        "en": "We caught a lion dance right at the entrance.",
+        "zh": "我们一到门口就碰上舞狮表演了。"
+      },
+      "synonyms": [
+        {
+          "en": "traditional performance",
+          "zh": "传统表演"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 12
+      }
+    },
+    {
+      "id": "costume",
+      "text": "costume",
+      "zhText": "戏服",
+      "phonetic": "/ˈkɑːstuːm/",
+      "pos": "n.",
+      "meaning": "表演穿的服装",
+      "example": {
+        "en": "That costume looks super bright on camera.",
+        "zh": "这套戏服上镜还真挺亮眼的。"
+      },
+      "synonyms": [
+        {
+          "en": "outfit",
+          "zh": "穿搭"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 44
+      }
+    },
+    {
+      "id": "performer",
+      "text": "performer",
+      "zhText": "演员",
+      "phonetic": "/pərˈfɔːrmər/",
+      "pos": "n.",
+      "meaning": "表演的人",
+      "example": {
+        "en": "The performer under the lion must be really strong.",
+        "zh": "在狮子下面那个演员肯定很有劲。"
+      },
+      "synonyms": [
+        {
+          "en": "artist",
+          "zh": "表演者"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 70
+      }
+    },
+    {
+      "id": "crowd",
+      "text": "crowd",
+      "zhText": "人群",
+      "phonetic": "/kraʊd/",
+      "pos": "n.",
+      "meaning": "围观的人群",
+      "example": {
+        "en": "A big crowd stopped to watch.",
+        "zh": "好多人都停下来围观。"
+      },
+      "synonyms": [
+        {
+          "en": "audience",
+          "zh": "观众"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 52
+      }
+    },
+    {
+      "id": "pole",
+      "text": "pole",
+      "zhText": "柱子",
+      "phonetic": "/poʊl/",
+      "pos": "n.",
+      "meaning": "表演用的柱子",
+      "example": {
+        "en": "Those poles look kind of hard to balance on.",
+        "zh": "那些柱子看着就不太好站稳。"
+      },
+      "synonyms": [
+        {
+          "en": "post",
+          "zh": "立柱"
+        }
+      ],
+      "position": {
+        "x": 30,
+        "y": 38
+      }
+    },
+    {
+      "id": "lift",
+      "text": "lift",
+      "zhText": "托举",
+      "phonetic": "/lɪft/",
+      "pos": "v.",
+      "meaning": "托起来",
+      "example": {
+        "en": "How do they lift that so smoothly?",
+        "zh": "他们怎么能托得这么稳啊？"
+      },
+      "synonyms": [
+        {
+          "en": "raise",
+          "zh": "举起"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "watch a lion dance",
+      "meaning": "看舞狮表演"
+    },
+    {
+      "phrase": "put on a show",
+      "meaning": "上演一场表演"
+    },
+    {
+      "phrase": "draw a crowd",
+      "meaning": "吸引围观"
+    }
+  ]
+}
