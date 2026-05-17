@@ -1056,6 +1056,14 @@
       "gradient": "linear-gradient(135deg, #4f5d4a 0%, #7a7f73 50%, #c96a3d 100%)",
       "wordCount": 6,
       "previewWords": "bike · cross · crosswalk"
+    },
+    {
+      "id": 239,
+      "title": "水边亭子",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #cfdde3 0%, #8fa7a7 50%, #5f6f73 100%)",
+      "wordCount": 6,
+      "previewWords": "pavilion · bridge · water"
     }
   ]
 }
