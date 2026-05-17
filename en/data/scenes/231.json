@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 231,
+  "title": "带娃玩小鸡",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #F6D365 0%, #FDA085 50%, #84FAB0 100%)",
+  "sentence": {
+    "en": "Looks like they're feeding chicks together.",
+    "zh": "看着像是在一起喂小鸡呢。",
+    "highlights": [
+      "feeding",
+      "chick"
+    ]
+  },
+  "words": [
+    {
+      "id": "chick",
+      "text": "chicks",
+      "zhText": "小鸡",
+      "phonetic": "/tʃɪk/",
+      "pos": "n.",
+      "meaning": "小鸡",
+      "example": {
+        "en": "The chicks are so tiny.",
+        "zh": "这些小鸡也太小只了吧。"
+      },
+      "synonyms": [
+        {
+          "en": "baby chicken",
+          "zh": "小鸡"
+        }
+      ],
+      "position": {
+        "x": 81,
+        "y": 86
+      }
+    },
+    {
+      "id": "feed",
+      "text": "feeding",
+      "zhText": "喂",
+      "phonetic": "/fiːd/",
+      "pos": "v.",
+      "meaning": "喂食",
+      "example": {
+        "en": "She's feeding them so carefully.",
+        "zh": "她喂得还挺小心的。"
+      },
+      "synonyms": [
+        {
+          "en": "give food to",
+          "zh": "给吃的"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 60
+      }
+    },
+    {
+      "id": "pool",
+      "text": "pool",
+      "zhText": "水池",
+      "phonetic": "/puːl/",
+      "pos": "n.",
+      "meaning": "小水池",
+      "example": {
+        "en": "They put the chicks in a little pool.",
+        "zh": "他们把小鸡放在一个小水池里了。"
+      },
+      "synonyms": [
+        {
+          "en": "tub",
+          "zh": "盆"
+        }
+      ],
+      "position": {
+        "x": 69,
+        "y": 73
+      }
+    },
+    {
+      "id": "stick",
+      "text": "stick",
+      "zhText": "杆子",
+      "phonetic": "/stɪk/",
+      "pos": "n.",
+      "meaning": "细杆",
+      "example": {
+        "en": "She's holding a stick in her hand.",
+        "zh": "她手里拿着一根杆子。"
+      },
+      "synonyms": [
+        {
+          "en": "rod",
+          "zh": "杆"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 49
+      }
+    },
+    {
+      "id": "kid",
+      "text": "kid",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小朋友",
+      "example": {
+        "en": "The kid looks really focused.",
+        "zh": "这小朋友看着还挺专心的。"
+      },
+      "synonyms": [
+        {
+          "en": "child",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 58
+      }
+    },
+    {
+      "id": "watch",
+      "text": "watching",
+      "zhText": "看着",
+      "phonetic": "/ˈwɑːtʃɪŋ/",
+      "pos": "v.",
+      "meaning": "看着",
+      "example": {
+        "en": "They're just watching from the side.",
+        "zh": "他们就在旁边看着。"
+      },
+      "synonyms": [
+        {
+          "en": "looking at",
+          "zh": "看着"
+        }
+      ],
+      "position": {
+        "x": 68,
+        "y": 28
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "feed the chicks",
+      "meaning": "喂小鸡"
+    },
+    {
+      "phrase": "watch from the side",
+      "meaning": "在旁边看着"
+    },
+    {
+      "phrase": "have fun together",
+      "meaning": "一起玩得开心"
+    }
+  ]
+}
