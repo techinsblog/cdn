@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 198,
+  "title": "吃牛肉面",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #7a1f1f 0%, #c94b2c 50%, #f2c14e 100%)",
+  "sentence": {
+    "en": "That noodle soup looks so good.",
+    "zh": "这碗面看着也太香了。",
+    "highlights": [
+      "noodle",
+      "soup"
+    ]
+  },
+  "words": [
+    {
+      "id": "noodle",
+      "text": "noodles",
+      "zhText": "面条",
+      "phonetic": "/ˈnuːdəlz/",
+      "pos": "n.",
+      "meaning": "面条",
+      "example": {
+        "en": "These noodles look really springy.",
+        "zh": "这面条看着就很劲道。"
+      },
+      "synonyms": [
+        {
+          "en": "pasta",
+          "zh": "面食"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 62
+      }
+    },
+    {
+      "id": "soup",
+      "text": "soup",
+      "zhText": "汤",
+      "phonetic": "/suːp/",
+      "pos": "n.",
+      "meaning": "汤",
+      "example": {
+        "en": "The soup is spicy, but I like it.",
+        "zh": "这汤挺辣的，不过我喜欢。"
+      },
+      "synonyms": [
+        {
+          "en": "broth",
+          "zh": "汤底"
+        }
+      ],
+      "position": {
+        "x": 70,
+        "y": 58
+      }
+    },
+    {
+      "id": "beef",
+      "text": "beef",
+      "zhText": "牛肉",
+      "phonetic": "/biːf/",
+      "pos": "n.",
+      "meaning": "牛肉",
+      "example": {
+        "en": "The beef is super tender.",
+        "zh": "这牛肉炖得很烂，很好嚼。"
+      },
+      "synonyms": [
+        {
+          "en": "meat",
+          "zh": "肉"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 40
+      }
+    },
+    {
+      "id": "chopsticks",
+      "text": "chopsticks",
+      "zhText": "筷子",
+      "phonetic": "/ˈtʃɑːpstɪks/",
+      "pos": "n.",
+      "meaning": "筷子",
+      "example": {
+        "en": "Can you eat noodles with chopsticks?",
+        "zh": "你会用筷子吃面吗？"
+      },
+      "synonyms": [
+        {
+          "en": "sticks",
+          "zh": "筷子"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 26
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "碗",
+      "example": {
+        "en": "That bowl is huge.",
+        "zh": "这碗也太大了。"
+      },
+      "synonyms": [
+        {
+          "en": "dish",
+          "zh": "碗盘"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 74
+      }
+    },
+    {
+      "id": "spicy",
+      "text": "spicy",
+      "zhText": "辣",
+      "phonetic": "/ˈspaɪsi/",
+      "pos": "adj.",
+      "meaning": "辣的",
+      "example": {
+        "en": "It's a little spicy for me.",
+        "zh": "对我来说有点辣了。"
+      },
+      "synonyms": [
+        {
+          "en": "hot",
+          "zh": "辣的"
+        }
+      ],
+      "position": {
+        "x": 9,
+        "y": 78
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "a bowl of noodles",
+      "meaning": "一碗面"
+    },
+    {
+      "phrase": "pick up some beef",
+      "meaning": "夹起一块牛肉"
+    },
+    {
+      "phrase": "spicy soup",
+      "meaning": "辣汤"
+    }
+  ]
+}
