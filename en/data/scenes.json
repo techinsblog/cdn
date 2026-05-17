@@ -760,6 +760,14 @@
       "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8f7a5a 50%, #4f5b46 100%)",
       "wordCount": 6,
       "previewWords": "stall · duck · vendor"
+    },
+    {
+      "id": 202,
+      "title": "吃小笼包",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #8B5A2B 0%, #C58A4A 50%, #F2D2A2 100%)",
+      "wordCount": 6,
+      "previewWords": "dumplings · soy sauce · chopsticks"
     }
   ]
 }
