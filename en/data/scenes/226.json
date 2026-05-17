@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 226,
+  "title": "池边泡脚",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2f4f3a 0%, #6f8f6b 50%, #b7c9d6 100%)",
+  "sentence": {
+    "en": "Looks like a chill moment by the water.",
+    "zh": "看着就是在水边放松一下。",
+    "highlights": [
+      "water",
+      "chill"
+    ]
+  },
+  "words": [
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水，水面",
+      "example": {
+        "en": "The water looks really calm today.",
+        "zh": "今天这水面看着还挺平静的。"
+      },
+      "synonyms": [
+        {
+          "en": "pond",
+          "zh": "池塘"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 43
+      }
+    },
+    {
+      "id": "dip",
+      "text": "dip",
+      "zhText": "泡脚",
+      "phonetic": "/dɪp/",
+      "pos": "v.",
+      "meaning": "把脚伸进水里泡一下",
+      "example": {
+        "en": "I just wanna dip my feet in for a bit.",
+        "zh": "我就想把脚伸进去泡一会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "soak",
+          "zh": "泡"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 33
+      }
+    },
+    {
+      "id": "edge",
+      "text": "edge",
+      "zhText": "边上",
+      "phonetic": "/edʒ/",
+      "pos": "n.",
+      "meaning": "边缘，边上",
+      "example": {
+        "en": "She's sitting right on the edge.",
+        "zh": "她就坐在边边上。"
+      },
+      "synonyms": [
+        {
+          "en": "side",
+          "zh": "旁边"
+        }
+      ],
+      "position": {
+        "x": 30,
+        "y": 39
+      }
+    },
+    {
+      "id": "dress",
+      "text": "dress",
+      "zhText": "裙子",
+      "phonetic": "/dres/",
+      "pos": "n.",
+      "meaning": "连衣裙",
+      "example": {
+        "en": "That dress looks super light and comfy.",
+        "zh": "那条裙子看着就很轻很舒服。"
+      },
+      "synonyms": [
+        {
+          "en": "outfit",
+          "zh": "穿搭"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 28
+      }
+    },
+    {
+      "id": "barefoot",
+      "text": "barefoot",
+      "zhText": "光脚",
+      "phonetic": "/ˈberfʊt/",
+      "pos": "adj./adv.",
+      "meaning": "光着脚的",
+      "example": {
+        "en": "I love walking barefoot near the water.",
+        "zh": "我就喜欢在水边光脚走走。"
+      },
+      "synonyms": [
+        {
+          "en": "without shoes",
+          "zh": "没穿鞋"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 58
+      }
+    },
+    {
+      "id": "chill",
+      "text": "chill",
+      "zhText": "放松",
+      "phonetic": "/tʃɪl/",
+      "pos": "adj./v.",
+      "meaning": "放松的，歇一会儿",
+      "example": {
+        "en": "Let's just chill here for a minute.",
+        "zh": "咱就在这儿歇会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "relax",
+          "zh": "放松"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 22
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "dip your feet in the water",
+      "meaning": "把脚伸进水里泡一泡"
+    },
+    {
+      "phrase": "sit by the water",
+      "meaning": "坐在水边"
+    },
+    {
+      "phrase": "chill for a while",
+      "meaning": "放松待一会儿"
+    }
+  ]
+}
