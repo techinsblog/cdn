@@ -1136,6 +1136,14 @@
       "gradient": "linear-gradient(135deg, #5f7f5a 0%, #c96a3d 50%, #2f4a3b 100%)",
       "wordCount": 6,
       "previewWords": "bikes · wall · tree"
+    },
+    {
+      "id": 249,
+      "title": "舞狮表演",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #2f2f2f 0%, #d9a11e 50%, #b61f1f 100%)",
+      "wordCount": 6,
+      "previewWords": "lion dance · costume · performer"
     }
   ]
 }
