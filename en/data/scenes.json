@@ -608,6 +608,14 @@
       "gradient": "linear-gradient(135deg, #f08a4b 0%, #f6d365 50%, #5b8fb9 100%)",
       "wordCount": 7,
       "previewWords": "bakery · counter · cashier"
+    },
+    {
+      "id": 183,
+      "title": "晾衣服",
+      "categoryId": "home",
+      "gradient": "linear-gradient(135deg, #d9c6a3 0%, #aab58a 50%, #6f7d5c 100%)",
+      "wordCount": 6,
+      "previewWords": "laundry · clothesline · jacket"
     }
   ]
 }
