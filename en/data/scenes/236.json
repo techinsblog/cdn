@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 236,
+  "title": "校园散步",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #2f5d3a 0%, #7fa36b 50%, #d9e6b3 100%)",
+  "sentence": {
+    "en": "Looks like everyone's heading to class.",
+    "zh": "看样子大家都在往教室走。",
+    "highlights": [
+      "class",
+      "heading"
+    ]
+  },
+  "words": [
+    {
+      "id": "campus",
+      "text": "campus",
+      "zhText": "校园",
+      "phonetic": "/ˈkæmpəs/",
+      "pos": "n.",
+      "meaning": "校园",
+      "example": {
+        "en": "The campus is really quiet this morning.",
+        "zh": "今天早上的校园还挺安静的。"
+      },
+      "synonyms": [
+        {
+          "en": "school",
+          "zh": "学校"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 78
+      }
+    },
+    {
+      "id": "path",
+      "text": "path",
+      "zhText": "小路",
+      "phonetic": "/pæθ/",
+      "pos": "n.",
+      "meaning": "小路",
+      "example": {
+        "en": "Let's take the shady path.",
+        "zh": "咱们走这条有树荫的小路吧。"
+      },
+      "synonyms": [
+        {
+          "en": "walkway",
+          "zh": "步道"
+        }
+      ],
+      "position": {
+        "x": 42,
+        "y": 60
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "These trees make the whole place feel cooler.",
+        "zh": "这些树一遮，整个地方都凉快多了。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 22
+      }
+    },
+    {
+      "id": "backpack",
+      "text": "backpack",
+      "zhText": "书包",
+      "phonetic": "/ˈbækpæk/",
+      "pos": "n.",
+      "meaning": "书包",
+      "example": {
+        "en": "I think I left my backpack in class.",
+        "zh": "我好像把书包落教室了。"
+      },
+      "synonyms": [
+        {
+          "en": "bag",
+          "zh": "包"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 82
+      }
+    },
+    {
+      "id": "heading",
+      "text": "heading",
+      "zhText": "走去",
+      "phonetic": "/ˈhedɪŋ/",
+      "pos": "v.",
+      "meaning": "正走向",
+      "example": {
+        "en": "We're heading back now.",
+        "zh": "我们现在正往回走呢。"
+      },
+      "synonyms": [
+        {
+          "en": "going",
+          "zh": "前往"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 53
+      }
+    },
+    {
+      "id": "class",
+      "text": "class",
+      "zhText": "上课",
+      "phonetic": "/klæs/",
+      "pos": "n.",
+      "meaning": "课",
+      "example": {
+        "en": "I've got class in ten minutes.",
+        "zh": "我还有十分钟就要上课了。"
+      },
+      "synonyms": [
+        {
+          "en": "lesson",
+          "zh": "课程"
+        }
+      ],
+      "position": {
+        "x": 90,
+        "y": 36
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "head to class",
+      "meaning": "去上课"
+    },
+    {
+      "phrase": "walk across campus",
+      "meaning": "走过校园"
+    },
+    {
+      "phrase": "carry a backpack",
+      "meaning": "背着书包"
+    }
+  ]
+}
