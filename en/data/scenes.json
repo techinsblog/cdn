@@ -672,6 +672,14 @@
       "gradient": "linear-gradient(135deg, #7db7e8 0%, #f2d19c 50%, #4f86b8 100%)",
       "wordCount": 6,
       "previewWords": "beach · waves · walk"
+    },
+    {
+      "id": 191,
+      "title": "沙滩玩沙",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8fb3c9 50%, #5f6f7f 100%)",
+      "wordCount": 7,
+      "previewWords": "beach · umbrella · sand"
     }
   ]
 }
