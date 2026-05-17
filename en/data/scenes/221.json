@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 221,
+  "title": "高速开车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #5d6f8f 0%, #f3b06a 50%, #1f2430 100%)",
+  "sentence": {
+    "en": "Looks like a smooth drive at sunset.",
+    "zh": "看起来就是在傍晚一路顺畅地开着。",
+    "highlights": [
+      "drive",
+      "sunset"
+    ]
+  },
+  "words": [
+    {
+      "id": "highway",
+      "text": "highway",
+      "zhText": "高速",
+      "phonetic": "/ˈhaɪweɪ/",
+      "pos": "n.",
+      "meaning": "高速公路",
+      "example": {
+        "en": "We just got on the highway.",
+        "zh": "我们刚上高速。"
+      },
+      "synonyms": [
+        {
+          "en": "freeway",
+          "zh": "高速路"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 66
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "That white car is moving pretty fast.",
+        "zh": "那辆白车开得还挺快。"
+      },
+      "synonyms": [
+        {
+          "en": "vehicle",
+          "zh": "车辆"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 60
+      }
+    },
+    {
+      "id": "lane",
+      "text": "lane",
+      "zhText": "车道",
+      "phonetic": "/leɪn/",
+      "pos": "n.",
+      "meaning": "车道",
+      "example": {
+        "en": "Stay in your lane for now.",
+        "zh": "先别变道，就走这条车道。"
+      },
+      "synonyms": [
+        {
+          "en": "line",
+          "zh": "道"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 76
+      }
+    },
+    {
+      "id": "drive",
+      "text": "drive",
+      "zhText": "开车",
+      "phonetic": "/draɪv/",
+      "pos": "v.",
+      "meaning": "开车",
+      "example": {
+        "en": "I love to drive when the road is clear.",
+        "zh": "路上车少的时候我就很爱开。"
+      },
+      "synonyms": [
+        {
+          "en": "go",
+          "zh": "行驶"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 84
+      }
+    },
+    {
+      "id": "sunset",
+      "text": "sunset",
+      "zhText": "日落",
+      "phonetic": "/ˈsʌnset/",
+      "pos": "n.",
+      "meaning": "日落",
+      "example": {
+        "en": "The sunset looks so good from here.",
+        "zh": "从这儿看晚霞真的很舒服。"
+      },
+      "synonyms": [
+        {
+          "en": "dusk",
+          "zh": "黄昏"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 24
+      }
+    },
+    {
+      "id": "cloud",
+      "text": "cloud",
+      "zhText": "云",
+      "phonetic": "/klaʊd/",
+      "pos": "n.",
+      "meaning": "云",
+      "example": {
+        "en": "Those clouds look really pretty tonight.",
+        "zh": "今晚这些云是真挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "sky",
+          "zh": "天空"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 12
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hit the road",
+      "meaning": "上路出发"
+    },
+    {
+      "phrase": "change lanes",
+      "meaning": "变道"
+    },
+    {
+      "phrase": "go for a drive",
+      "meaning": "开车兜兜风"
+    }
+  ]
+}
