@@ -1008,6 +1008,14 @@
       "gradient": "linear-gradient(135deg, #e94f37 0%, #2d6cdf 50%, #f4c542 100%)",
       "wordCount": 6,
       "previewWords": "layup · hoop · basketball"
+    },
+    {
+      "id": 233,
+      "title": "路边施工",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2f3e2e 0%, #5f7d4d 50%, #c98a3d 100%)",
+      "wordCount": 7,
+      "previewWords": "workers · ladders · wall"
     }
   ]
 }
