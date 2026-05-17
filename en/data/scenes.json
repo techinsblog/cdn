@@ -808,6 +808,14 @@
       "gradient": "linear-gradient(135deg, #5FA0D6 0%, #7FA7B8 50%, #4E5D43 100%)",
       "wordCount": 6,
       "previewWords": "plane · train · track"
+    },
+    {
+      "id": 208,
+      "title": "等火车",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #d9e6ef 0%, #6f8fa6 50%, #1f3d4d 100%)",
+      "wordCount": 6,
+      "previewWords": "train · platform · passengers"
     }
   ]
 }
