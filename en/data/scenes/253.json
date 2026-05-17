@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 253,
+  "title": "飞机登机",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #8ea9b8 0%, #bfc9cf 50%, #5f6f78 100%)",
+  "sentence": {
+    "en": "Looks like boarding time at the gate.",
+    "zh": "看着像是在登机口准备登机了。",
+    "highlights": [
+      "boarding",
+      "gate"
+    ]
+  },
+  "words": [
+    {
+      "id": "plane",
+      "text": "plane",
+      "zhText": "飞机",
+      "phonetic": "/pleɪn/",
+      "pos": "n.",
+      "meaning": "飞机",
+      "example": {
+        "en": "Our plane looks ready to go.",
+        "zh": "咱们这架飞机看着快准备好了。"
+      },
+      "synonyms": [
+        {
+          "en": "aircraft",
+          "zh": "飞机"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 33
+      }
+    },
+    {
+      "id": "gate",
+      "text": "gate",
+      "zhText": "登机口",
+      "phonetic": "/ɡeɪt/",
+      "pos": "n.",
+      "meaning": "登机口",
+      "example": {
+        "en": "Wait for me at the gate.",
+        "zh": "你在登机口等我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "boarding gate",
+          "zh": "登机口"
+        }
+      ],
+      "position": {
+        "x": 90,
+        "y": 24
+      }
+    },
+    {
+      "id": "boarding",
+      "text": "boarding",
+      "zhText": "登机",
+      "phonetic": "/ˈbɔːrdɪŋ/",
+      "pos": "n.",
+      "meaning": "登机",
+      "example": {
+        "en": "Boarding starts in ten minutes.",
+        "zh": "还有十分钟就开始登机了。"
+      },
+      "synonyms": [
+        {
+          "en": "getting on the plane",
+          "zh": "上飞机"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 63
+      }
+    },
+    {
+      "id": "wing",
+      "text": "wing",
+      "zhText": "机翼",
+      "phonetic": "/wɪŋ/",
+      "pos": "n.",
+      "meaning": "机翼",
+      "example": {
+        "en": "I always book a seat near the wing.",
+        "zh": "我一般都订靠近机翼的位置。"
+      },
+      "synonyms": [
+        {
+          "en": "airfoil",
+          "zh": "机翼"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 49
+      }
+    },
+    {
+      "id": "cart",
+      "text": "cart",
+      "zhText": "拖车",
+      "phonetic": "/kɑːrt/",
+      "pos": "n.",
+      "meaning": "拖车",
+      "example": {
+        "en": "That cart is carrying the luggage.",
+        "zh": "那辆拖车正在运行李。"
+      },
+      "synonyms": [
+        {
+          "en": "trolley",
+          "zh": "小车"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 70
+      }
+    },
+    {
+      "id": "worker",
+      "text": "worker",
+      "zhText": "地勤",
+      "phonetic": "/ˈwɜːrkər/",
+      "pos": "n.",
+      "meaning": "地勤",
+      "example": {
+        "en": "The ground worker is guiding the truck.",
+        "zh": "那个地勤正在给车指方向。"
+      },
+      "synonyms": [
+        {
+          "en": "staff",
+          "zh": "工作人员"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 76
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "board the plane",
+      "meaning": "登机"
+    },
+    {
+      "phrase": "wait at the gate",
+      "meaning": "在登机口等"
+    },
+    {
+      "phrase": "catch a flight",
+      "meaning": "赶飞机"
+    }
+  ]
+}
