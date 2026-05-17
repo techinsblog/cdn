@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 215,
+  "title": "等红灯",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #f6d7c3 0%, #8fa7b3 50%, #3f4a55 100%)",
+  "sentence": {
+    "en": "Looks like they're waiting at the light.",
+    "zh": "看样子是在等红灯。",
+    "highlights": [
+      "light",
+      "scooter"
+    ]
+  },
+  "words": [
+    {
+      "id": "scooter",
+      "text": "scooter",
+      "zhText": "电动车",
+      "phonetic": "/ˈskuːtər/",
+      "pos": "n.",
+      "meaning": "电动车",
+      "example": {
+        "en": "I usually take my scooter to the market.",
+        "zh": "我平时去菜市场都骑电动车。"
+      },
+      "synonyms": [
+        {
+          "en": "e-bike",
+          "zh": "电瓶车"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 79
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "头盔",
+      "example": {
+        "en": "Don't forget your helmet.",
+        "zh": "别忘了戴头盔。"
+      },
+      "synonyms": [
+        {
+          "en": "hard hat",
+          "zh": "安全帽"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 38
+      }
+    },
+    {
+      "id": "child",
+      "text": "child",
+      "zhText": "小孩",
+      "phonetic": "/tʃaɪld/",
+      "pos": "n.",
+      "meaning": "小孩",
+      "example": {
+        "en": "The child looks so cozy in that jacket.",
+        "zh": "这小孩穿这件外套看着挺暖和。"
+      },
+      "synonyms": [
+        {
+          "en": "kid",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 55
+      }
+    },
+    {
+      "id": "light",
+      "text": "light",
+      "zhText": "红灯",
+      "phonetic": "/laɪt/",
+      "pos": "n.",
+      "meaning": "红绿灯",
+      "example": {
+        "en": "We made it just before the light changed.",
+        "zh": "还好，红绿灯变之前赶上了。"
+      },
+      "synonyms": [
+        {
+          "en": "traffic light",
+          "zh": "红绿灯"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 14
+      }
+    },
+    {
+      "id": "wait",
+      "text": "wait",
+      "zhText": "等",
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaning": "等",
+      "example": {
+        "en": "Hang on, let's wait here a second.",
+        "zh": "等一下，咱们先在这儿停会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "hold on",
+          "zh": "稍等"
+        }
+      ],
+      "position": {
+        "x": 38,
+        "y": 49
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "包",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "包",
+      "example": {
+        "en": "Can you grab my bag from the back?",
+        "zh": "你帮我把后面的包拿一下。"
+      },
+      "synonyms": [
+        {
+          "en": "tote",
+          "zh": "手提袋"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 67
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "wait at the light",
+      "meaning": "在红灯口等着"
+    },
+    {
+      "phrase": "ride a scooter",
+      "meaning": "骑电动车"
+    },
+    {
+      "phrase": "wear a helmet",
+      "meaning": "戴头盔"
+    }
+  ]
+}
