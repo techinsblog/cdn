@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 248,
+  "title": "路边停单车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #5f7f5a 0%, #c96a3d 50%, #2f4a3b 100%)",
+  "sentence": {
+    "en": "There are bikes parked by the red wall.",
+    "zh": "红墙边停着几辆自行车。",
+    "highlights": [
+      "bike",
+      "parked",
+      "wall"
+    ]
+  },
+  "words": [
+    {
+      "id": "bike",
+      "text": "bikes",
+      "zhText": "单车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "I usually ride my bike to the subway.",
+        "zh": "我平时都骑单车去地铁站。"
+      },
+      "synonyms": [
+        {
+          "en": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 72
+      }
+    },
+    {
+      "id": "wall",
+      "text": "wall",
+      "zhText": "墙",
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "meaning": "墙",
+      "example": {
+        "en": "That red wall looks really nice in photos.",
+        "zh": "那面红墙拍照还挺好看的。"
+      },
+      "synonyms": [
+        {
+          "en": "side",
+          "zh": "墙面"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 56
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Let's stand under the tree for some shade.",
+        "zh": "咱们去树底下站会儿，凉快点。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 38
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "The window's open a little.",
+        "zh": "窗户开了一点。"
+      },
+      "synonyms": [
+        {
+          "en": "glass",
+          "zh": "窗子"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 24
+      }
+    },
+    {
+      "id": "parked",
+      "text": "parked",
+      "zhText": "停着",
+      "phonetic": "/pɑːrkt/",
+      "pos": "adj.",
+      "meaning": "停着的",
+      "example": {
+        "en": "There was a scooter parked right outside.",
+        "zh": "门口就停着一辆小电动车。"
+      },
+      "synonyms": [
+        {
+          "en": "stopped",
+          "zh": "停下的"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 86
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street is pretty quiet today.",
+        "zh": "今天这条街还挺安静的。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 92
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "park a bike",
+      "meaning": "停单车"
+    },
+    {
+      "phrase": "by the wall",
+      "meaning": "在墙边"
+    },
+    {
+      "phrase": "ride down the street",
+      "meaning": "沿街骑过去"
+    }
+  ]
+}
