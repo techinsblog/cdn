@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 208,
+  "title": "等火车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #d9e6ef 0%, #6f8fa6 50%, #1f3d4d 100%)",
+  "sentence": {
+    "en": "The train's already at the platform.",
+    "zh": "火车已经停在站台这儿了。",
+    "highlights": [
+      "train",
+      "platform"
+    ]
+  },
+  "words": [
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "火车",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "火车",
+      "example": {
+        "en": "Looks like the train's here already.",
+        "zh": "看样子火车已经到了。"
+      },
+      "synonyms": [
+        {
+          "en": "railway",
+          "zh": "铁路"
+        }
+      ],
+      "position": {
+        "x": 79,
+        "y": 58
+      }
+    },
+    {
+      "id": "platform",
+      "text": "platform",
+      "zhText": "站台",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "n.",
+      "meaning": "站台",
+      "example": {
+        "en": "Wait for me by the platform entrance.",
+        "zh": "你在站台入口那边等我。"
+      },
+      "synonyms": [
+        {
+          "en": "station area",
+          "zh": "站区"
+        }
+      ],
+      "position": {
+        "x": 21,
+        "y": 71
+      }
+    },
+    {
+      "id": "passenger",
+      "text": "passengers",
+      "zhText": "乘客",
+      "phonetic": "/ˈpæsɪndʒərz/",
+      "pos": "n.",
+      "meaning": "乘客",
+      "example": {
+        "en": "A lot of passengers are getting off here.",
+        "zh": "这站下车的人还挺多。"
+      },
+      "synonyms": [
+        {
+          "en": "traveler",
+          "zh": "旅客"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 49
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "铁轨",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "铁轨",
+      "example": {
+        "en": "Don't stand too close to the track.",
+        "zh": "别站得离铁轨太近。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "轨道"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 82
+      }
+    },
+    {
+      "id": "mountain",
+      "text": "mountain",
+      "zhText": "山",
+      "phonetic": "/ˈmaʊntən/",
+      "pos": "n.",
+      "meaning": "山",
+      "example": {
+        "en": "The mountain view from here is so nice.",
+        "zh": "这里看山的风景真不错。"
+      },
+      "synonyms": [
+        {
+          "en": "hill",
+          "zh": "山坡"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 16
+      }
+    },
+    {
+      "id": "board",
+      "text": "board",
+      "zhText": "上车",
+      "phonetic": "/bɔːrd/",
+      "pos": "v.",
+      "meaning": "上车",
+      "example": {
+        "en": "Let's board as soon as the door opens.",
+        "zh": "门一开咱们就上车。"
+      },
+      "synonyms": [
+        {
+          "en": "get on",
+          "zh": "上去"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 61
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch a train",
+      "meaning": "赶火车"
+    },
+    {
+      "phrase": "wait on the platform",
+      "meaning": "在站台等车"
+    },
+    {
+      "phrase": "board the train",
+      "meaning": "上火车"
+    }
+  ]
+}
