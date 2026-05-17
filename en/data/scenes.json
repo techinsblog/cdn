@@ -664,6 +664,14 @@
       "gradient": "linear-gradient(135deg, #87c9f5 0%, #b7d8ea 50%, #6f8fa6 100%)",
       "wordCount": 6,
       "previewWords": "sea · waves · walk"
+    },
+    {
+      "id": 190,
+      "title": "海边散步",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #7db7e8 0%, #f2d19c 50%, #4f86b8 100%)",
+      "wordCount": 6,
+      "previewWords": "beach · waves · walk"
     }
   ]
 }
