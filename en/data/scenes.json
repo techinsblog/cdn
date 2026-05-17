@@ -1040,6 +1040,14 @@
       "gradient": "linear-gradient(135deg, #2f5d3a 0%, #7fa36b 50%, #d9e6b3 100%)",
       "wordCount": 6,
       "previewWords": "campus · path · tree"
+    },
+    {
+      "id": 237,
+      "title": "图书馆学习",
+      "categoryId": "campus",
+      "gradient": "linear-gradient(135deg, #d58a2a 0%, #8c5a2b 50%, #5bb7d9 100%)",
+      "wordCount": 6,
+      "previewWords": "library · bookshelf · table"
     }
   ]
 }
