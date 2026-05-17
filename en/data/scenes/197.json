@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 197,
+  "title": "菜市场买菜",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #3F6B3F 0%, #D94E3D 50%, #F2D16B 100%)",
+  "sentence": {
+    "en": "Looks like he's picking out some fresh greens.",
+    "zh": "看着像是在挑点新鲜蔬菜。",
+    "highlights": [
+      "pick out",
+      "greens"
+    ]
+  },
+  "words": [
+    {
+      "id": "market",
+      "text": "market",
+      "zhText": "市场",
+      "phonetic": "/ˈmɑːrkɪt/",
+      "pos": "n.",
+      "meaning": "菜市场",
+      "example": {
+        "en": "I'm at the market. Need anything?",
+        "zh": "我在菜市场呢，你要带点啥吗？"
+      },
+      "synonyms": [
+        {
+          "en": "bazaar",
+          "zh": "集市"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 18
+      }
+    },
+    {
+      "id": "greens",
+      "text": "greens",
+      "zhText": "青菜",
+      "phonetic": "/ɡriːnz/",
+      "pos": "n.",
+      "meaning": "绿叶菜",
+      "example": {
+        "en": "These greens look really fresh today.",
+        "zh": "今天这青菜看着真新鲜。"
+      },
+      "synonyms": [
+        {
+          "en": "vegetables",
+          "zh": "蔬菜"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 63
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "袋子",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "塑料袋",
+      "example": {
+        "en": "Can you grab me a bag?",
+        "zh": "帮我拿个袋子呗。"
+      },
+      "synonyms": [
+        {
+          "en": "plastic bag",
+          "zh": "塑料袋"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 54
+      }
+    },
+    {
+      "id": "vendor",
+      "text": "vendor",
+      "zhText": "摊主",
+      "phonetic": "/ˈvendər/",
+      "pos": "n.",
+      "meaning": "摊贩",
+      "example": {
+        "en": "The vendor said this one's cheaper.",
+        "zh": "摊主说这个更便宜。"
+      },
+      "synonyms": [
+        {
+          "en": "seller",
+          "zh": "卖家"
+        }
+      ],
+      "position": {
+        "x": 69,
+        "y": 32
+      }
+    },
+    {
+      "id": "pick out",
+      "text": "pick out",
+      "zhText": "挑选",
+      "phonetic": "/pɪk aʊt/",
+      "pos": "v.",
+      "meaning": "挑一挑",
+      "example": {
+        "en": "Take your time and pick out the good ones.",
+        "zh": "你慢慢挑，把好的挑出来。"
+      },
+      "synonyms": [
+        {
+          "en": "choose",
+          "zh": "选择"
+        }
+      ],
+      "position": {
+        "x": 83,
+        "y": 58
+      }
+    },
+    {
+      "id": "fresh",
+      "text": "fresh",
+      "zhText": "新鲜",
+      "phonetic": "/freʃ/",
+      "pos": "adj.",
+      "meaning": "新鲜的",
+      "example": {
+        "en": "This stuff is super fresh.",
+        "zh": "这菜真的很新鲜。"
+      },
+      "synonyms": [
+        {
+          "en": "crisp",
+          "zh": "鲜嫩"
+        }
+      ],
+      "position": {
+        "x": 52,
+        "y": 83
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "pick out some vegetables",
+      "meaning": "挑点蔬菜"
+    },
+    {
+      "phrase": "carry a shopping bag",
+      "meaning": "拎着购物袋"
+    },
+    {
+      "phrase": "fresh from the market",
+      "meaning": "刚从菜市场买来的"
+    }
+  ]
+}
