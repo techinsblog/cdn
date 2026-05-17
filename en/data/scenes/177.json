@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 177,
+  "title": "河边收鱼",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2f3e36 0%, #6b4f3a 50%, #c96a5a 100%)",
+  "sentence": {
+    "en": "Looks like he's sorting out the catch.",
+    "zh": "看着像是在收拾刚抓上来的鱼。",
+    "highlights": [
+      "catch",
+      "sort out"
+    ]
+  },
+  "words": [
+    {
+      "id": "boat",
+      "text": "boat",
+      "zhText": "小船",
+      "phonetic": "/boʊt/",
+      "pos": "n.",
+      "meaning": "小船",
+      "example": {
+        "en": "The boat's pretty small, huh?",
+        "zh": "这船还挺小的哈。"
+      },
+      "synonyms": [
+        {
+          "en": "ship",
+          "zh": "船"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 72
+      }
+    },
+    {
+      "id": "bird",
+      "text": "birds",
+      "zhText": "水鸟",
+      "phonetic": "/bɝːd/",
+      "pos": "n.",
+      "meaning": "鸟",
+      "example": {
+        "en": "Those birds are all crowding around him.",
+        "zh": "那几只鸟全围到他旁边了。"
+      },
+      "synonyms": [
+        {
+          "en": "fowl",
+          "zh": "禽鸟"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 56
+      }
+    },
+    {
+      "id": "fish",
+      "text": "fish",
+      "zhText": "鱼",
+      "phonetic": "/fɪʃ/",
+      "pos": "n.",
+      "meaning": "鱼",
+      "example": {
+        "en": "That's a pretty decent-sized fish.",
+        "zh": "这条鱼个头还不小。"
+      },
+      "synonyms": [
+        {
+          "en": "catch",
+          "zh": "渔获"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 48
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水面",
+      "example": {
+        "en": "The water looks super still today.",
+        "zh": "今天这水面看着特别平。"
+      },
+      "synonyms": [
+        {
+          "en": "river",
+          "zh": "河水"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 24
+      }
+    },
+    {
+      "id": "hold",
+      "text": "holding",
+      "zhText": "抓着",
+      "phonetic": "/hoʊld/",
+      "pos": "v.",
+      "meaning": "抓着",
+      "example": {
+        "en": "Hold it tight or it'll slip.",
+        "zh": "抓紧点，不然就滑了。"
+      },
+      "synonyms": [
+        {
+          "en": "grip",
+          "zh": "握住"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 58
+      }
+    },
+    {
+      "id": "catch",
+      "text": "catch",
+      "zhText": "渔获",
+      "phonetic": "/kætʃ/",
+      "pos": "n.",
+      "meaning": "抓到的鱼",
+      "example": {
+        "en": "Looks like today's catch is pretty good.",
+        "zh": "看着今天收获还不错。"
+      },
+      "synonyms": [
+        {
+          "en": "haul",
+          "zh": "收获"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 78
+      }
+    },
+    {
+      "id": "sort out",
+      "text": "sort out",
+      "zhText": "收拾",
+      "phonetic": "/sɔːrt aʊt/",
+      "pos": "phr.v.",
+      "meaning": "整理处理",
+      "example": {
+        "en": "Give me a sec, I'm sorting this out.",
+        "zh": "你等我一下，我先把这个弄一弄。"
+      },
+      "synonyms": [
+        {
+          "en": "deal with",
+          "zh": "处理"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 36
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch fish",
+      "meaning": "抓鱼"
+    },
+    {
+      "phrase": "on the boat",
+      "meaning": "在船上"
+    },
+    {
+      "phrase": "by the water",
+      "meaning": "在水边"
+    }
+  ]
+}
