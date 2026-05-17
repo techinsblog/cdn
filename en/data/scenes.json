@@ -1024,6 +1024,14 @@
       "gradient": "linear-gradient(135deg, #1fb6c9 0%, #4f8f5b 50%, #f08a4b 100%)",
       "wordCount": 7,
       "previewWords": "basketball · hoop · jump"
+    },
+    {
+      "id": 235,
+      "title": "空教室",
+      "categoryId": "campus",
+      "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f9f7f1 50%, #f6d7a8 100%)",
+      "wordCount": 6,
+      "previewWords": "classroom · chair · desk"
     }
   ]
 }
