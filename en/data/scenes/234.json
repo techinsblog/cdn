@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 234,
+  "title": "打篮球",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #1fb6c9 0%, #4f8f5b 50%, #f08a4b 100%)",
+  "sentence": {
+    "en": "Nice shot on the court.",
+    "zh": "这球投得真不错。",
+    "highlights": [
+      "shot",
+      "court"
+    ]
+  },
+  "words": [
+    {
+      "id": "basketball",
+      "text": "basketball",
+      "zhText": "篮球",
+      "phonetic": "/ˈbæskɪtbɔːl/",
+      "pos": "n.",
+      "meaning": "篮球",
+      "example": {
+        "en": "Pass me the basketball.",
+        "zh": "把球传给我。"
+      },
+      "synonyms": [
+        {
+          "en": "ball",
+          "zh": "球"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 12
+      }
+    },
+    {
+      "id": "hoop",
+      "text": "hoop",
+      "zhText": "篮筐",
+      "phonetic": "/huːp/",
+      "pos": "n.",
+      "meaning": "篮筐",
+      "example": {
+        "en": "The ball almost hit the hoop.",
+        "zh": "这球差点就碰到篮筐了。"
+      },
+      "synonyms": [
+        {
+          "en": "rim",
+          "zh": "篮圈"
+        }
+      ],
+      "position": {
+        "x": 13,
+        "y": 39
+      }
+    },
+    {
+      "id": "jump",
+      "text": "jump",
+      "zhText": "跳起",
+      "phonetic": "/dʒʌmp/",
+      "pos": "v.",
+      "meaning": "跳起来",
+      "example": {
+        "en": "He can jump really high.",
+        "zh": "他真的跳得挺高。"
+      },
+      "synonyms": [
+        {
+          "en": "leap",
+          "zh": "跳跃"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 49
+      }
+    },
+    {
+      "id": "shoot",
+      "text": "shoot",
+      "zhText": "投篮",
+      "phonetic": "/ʃuːt/",
+      "pos": "v.",
+      "meaning": "投篮",
+      "example": {
+        "en": "Just shoot it!",
+        "zh": "直接投吧！"
+      },
+      "synonyms": [
+        {
+          "en": "score",
+          "zh": "得分"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 36
+      }
+    },
+    {
+      "id": "court",
+      "text": "court",
+      "zhText": "球场",
+      "phonetic": "/kɔːrt/",
+      "pos": "n.",
+      "meaning": "球场",
+      "example": {
+        "en": "Let's meet at the court after class.",
+        "zh": "咱们下课后球场见。"
+      },
+      "synonyms": [
+        {
+          "en": "playground",
+          "zh": "操场"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 83
+      }
+    },
+    {
+      "id": "player",
+      "text": "player",
+      "zhText": "球员",
+      "phonetic": "/ˈpleɪər/",
+      "pos": "n.",
+      "meaning": "打球的人",
+      "example": {
+        "en": "That player in blue is on fire.",
+        "zh": "那个穿蓝衣服的今天手感真好。"
+      },
+      "synonyms": [
+        {
+          "en": "athlete",
+          "zh": "运动员"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 58
+      }
+    },
+    {
+      "id": "shot",
+      "text": "shot",
+      "zhText": "投球",
+      "phonetic": "/ʃɑːt/",
+      "pos": "n.",
+      "meaning": "这一下投篮",
+      "example": {
+        "en": "That was a clean shot.",
+        "zh": "这球投得真干净利落。"
+      },
+      "synonyms": [
+        {
+          "en": "attempt",
+          "zh": "尝试"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 20
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "shoot the ball",
+      "meaning": "投球"
+    },
+    {
+      "phrase": "make a shot",
+      "meaning": "投进一球"
+    },
+    {
+      "phrase": "play basketball",
+      "meaning": "打篮球"
+    }
+  ]
+}
