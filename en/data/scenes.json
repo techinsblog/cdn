@@ -1112,6 +1112,14 @@
       "gradient": "linear-gradient(135deg, #6b6f5b 0%, #c98574 50%, #2f2f2f 100%)",
       "wordCount": 6,
       "previewWords": "chess · board · piece"
+    },
+    {
+      "id": 246,
+      "title": "路口等红灯",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #1f2937 0%, #6b7280 50%, #f59e0b 100%)",
+      "wordCount": 6,
+      "previewWords": "traffic light · scooter · bike"
     }
   ]
 }
