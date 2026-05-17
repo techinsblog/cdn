@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 210,
+  "title": "轻轨穿楼",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #cfd9df 0%, #e2ebf0 50%, #b7c7d6 100%)",
+  "sentence": {
+    "en": "There's a train running through the building.",
+    "zh": "有辆轻轨直接从楼里穿过去。",
+    "highlights": [
+      "train",
+      "building"
+    ]
+  },
+  "words": [
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "轻轨",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "轻轨；列车",
+      "example": {
+        "en": "The train goes right through the building.",
+        "zh": "这轻轨真的直接从楼里开过去。"
+      },
+      "synonyms": [
+        {
+          "en": "subway",
+          "zh": "地铁"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 33
+      }
+    },
+    {
+      "id": "building",
+      "text": "building",
+      "zhText": "大楼",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "大楼",
+      "example": {
+        "en": "That building looks huge from down here.",
+        "zh": "从底下看这栋楼真挺高的。"
+      },
+      "synonyms": [
+        {
+          "en": "tower",
+          "zh": "高楼"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 58
+      }
+    },
+    {
+      "id": "station",
+      "text": "station",
+      "zhText": "车站",
+      "phonetic": "/ˈsteɪʃən/",
+      "pos": "n.",
+      "meaning": "车站",
+      "example": {
+        "en": "Let's get off at this station.",
+        "zh": "咱们就在这站下吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stop",
+          "zh": "站点"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 73
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "轨道",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "轨道",
+      "example": {
+        "en": "The track runs along the side of the hill.",
+        "zh": "这条轨道是贴着山边走的。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "铁轨"
+        }
+      ],
+      "position": {
+        "x": 29,
+        "y": 40
+      }
+    },
+    {
+      "id": "hill",
+      "text": "hill",
+      "zhText": "山坡",
+      "phonetic": "/hɪl/",
+      "pos": "n.",
+      "meaning": "山坡",
+      "example": {
+        "en": "There's a green hill right below it.",
+        "zh": "下面就是一片绿绿的山坡。"
+      },
+      "synonyms": [
+        {
+          "en": "slope",
+          "zh": "坡地"
+        }
+      ],
+      "position": {
+        "x": 11,
+        "y": 70
+      }
+    },
+    {
+      "id": "ride",
+      "text": "ride",
+      "zhText": "乘坐",
+      "phonetic": "/raɪd/",
+      "pos": "v.",
+      "meaning": "乘坐",
+      "example": {
+        "en": "I'd totally ride this line for the view.",
+        "zh": "这条线风景这么好，我肯定想坐一趟。"
+      },
+      "synonyms": [
+        {
+          "en": "take",
+          "zh": "乘"
+        }
+      ],
+      "position": {
+        "x": 45,
+        "y": 50
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch the train",
+      "meaning": "赶火车；赶轻轨"
+    },
+    {
+      "phrase": "get off at the station",
+      "meaning": "在这站下车"
+    },
+    {
+      "phrase": "ride the train",
+      "meaning": "坐轻轨"
+    }
+  ]
+}
