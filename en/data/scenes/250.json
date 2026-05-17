@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 250,
+  "title": "店里看报",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #C97B63 0%, #E9D8C5 50%, #8C6A58 100%)",
+  "sentence": {
+    "en": "Looks like he's reading the paper in the shop.",
+    "zh": "看着像是在店里边看报纸呢。",
+    "highlights": [
+      "read",
+      "newspaper",
+      "shop"
+    ]
+  },
+  "words": [
+    {
+      "id": "newspaper",
+      "text": "newspaper",
+      "zhText": "报纸",
+      "phonetic": "/ˈnuːzˌpeɪpər/",
+      "pos": "n.",
+      "meaning": "报纸",
+      "example": {
+        "en": "He always grabs a newspaper in the morning.",
+        "zh": "他早上总会顺手拿份报纸。"
+      },
+      "synonyms": [
+        {
+          "en": "paper",
+          "zh": "报纸"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 71
+      }
+    },
+    {
+      "id": "shop",
+      "text": "shop",
+      "zhText": "店铺",
+      "phonetic": "/ʃɑːp/",
+      "pos": "n.",
+      "meaning": "小店，店铺",
+      "example": {
+        "en": "This little shop has a bit of everything.",
+        "zh": "这家小店真是啥都有一点。"
+      },
+      "synonyms": [
+        {
+          "en": "store",
+          "zh": "商店"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 18
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "碗",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "碗",
+      "example": {
+        "en": "We need a few more bowls for dinner.",
+        "zh": "晚饭还得再拿几个碗。"
+      },
+      "synonyms": [
+        {
+          "en": "dish",
+          "zh": "碗碟"
+        }
+      ],
+      "position": {
+        "x": 83,
+        "y": 84
+      }
+    },
+    {
+      "id": "vase",
+      "text": "vase",
+      "zhText": "花瓶",
+      "phonetic": "/veɪs/",
+      "pos": "n.",
+      "meaning": "花瓶",
+      "example": {
+        "en": "That vase looks kind of old-school.",
+        "zh": "那个花瓶看着还挺复古的。"
+      },
+      "synonyms": [
+        {
+          "en": "jar",
+          "zh": "瓶子"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 18
+      }
+    },
+    {
+      "id": "shelf",
+      "text": "shelf",
+      "zhText": "架子",
+      "phonetic": "/ʃelf/",
+      "pos": "n.",
+      "meaning": "架子",
+      "example": {
+        "en": "The top shelf is packed with stuff.",
+        "zh": "最上面那个架子塞得满满的。"
+      },
+      "synonyms": [
+        {
+          "en": "rack",
+          "zh": "架子"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 31
+      }
+    },
+    {
+      "id": "read",
+      "text": "reading",
+      "zhText": "看报",
+      "phonetic": "/riːd/",
+      "pos": "v.",
+      "meaning": "阅读",
+      "example": {
+        "en": "Just let him sit there reading for a bit.",
+        "zh": "就让他坐那儿看会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "look through",
+          "zh": "翻看"
+        }
+      ],
+      "position": {
+        "x": 45,
+        "y": 82
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "read the newspaper",
+      "meaning": "看报纸"
+    },
+    {
+      "phrase": "sit in the shop",
+      "meaning": "坐在店里"
+    },
+    {
+      "phrase": "pack the shelves",
+      "meaning": "把架子摆满"
+    }
+  ]
+}
