@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 233,
+  "title": "路边施工",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2f3e2e 0%, #5f7d4d 50%, #c98a3d 100%)",
+  "sentence": {
+    "en": "They're fixing up the wall by the road.",
+    "zh": "他们在路边弄这面墙呢。",
+    "highlights": [
+      "wall",
+      "road"
+    ]
+  },
+  "words": [
+    {
+      "id": "worker",
+      "text": "workers",
+      "zhText": "工人",
+      "phonetic": "/ˈwɝːkər/",
+      "pos": "n.",
+      "meaning": "工人",
+      "example": {
+        "en": "The workers are still here this morning.",
+        "zh": "这些工人今天早上还在这儿干活呢。"
+      },
+      "synonyms": [
+        {
+          "en": "builder",
+          "zh": "施工员"
+        }
+      ],
+      "position": {
+        "x": 9,
+        "y": 64
+      }
+    },
+    {
+      "id": "ladder",
+      "text": "ladders",
+      "zhText": "梯子",
+      "phonetic": "/ˈlædər/",
+      "pos": "n.",
+      "meaning": "梯子",
+      "example": {
+        "en": "Can you hold the ladder for a sec?",
+        "zh": "你帮我扶一下梯子呗。"
+      },
+      "synonyms": [
+        {
+          "en": "step ladder",
+          "zh": "折梯"
+        }
+      ],
+      "position": {
+        "x": 37,
+        "y": 57
+      }
+    },
+    {
+      "id": "wall",
+      "text": "wall",
+      "zhText": "墙面",
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "meaning": "墙面",
+      "example": {
+        "en": "That wall looks brand new now.",
+        "zh": "这面墙现在看着跟新的一样。"
+      },
+      "synonyms": [
+        {
+          "en": "fence",
+          "zh": "围挡"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 42
+      }
+    },
+    {
+      "id": "vest",
+      "text": "safety vest",
+      "zhText": "背心",
+      "phonetic": "/ˈseɪfti vest/",
+      "pos": "n.",
+      "meaning": "反光背心",
+      "example": {
+        "en": "Don't forget your safety vest.",
+        "zh": "别忘了穿反光背心。"
+      },
+      "synonyms": [
+        {
+          "en": "reflective vest",
+          "zh": "反光衣"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 78
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "安全帽",
+      "example": {
+        "en": "His helmet is bright yellow.",
+        "zh": "他的安全帽是亮黄色的。"
+      },
+      "synonyms": [
+        {
+          "en": "hard hat",
+          "zh": "安全帽"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 50
+      }
+    },
+    {
+      "id": "scooter",
+      "text": "scooter",
+      "zhText": "电动车",
+      "phonetic": "/ˈskuːtər/",
+      "pos": "n.",
+      "meaning": "电动车",
+      "example": {
+        "en": "She just rode by on a scooter.",
+        "zh": "她刚骑着电动车过去了。"
+      },
+      "synonyms": [
+        {
+          "en": "e-bike",
+          "zh": "电瓶车"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 83
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "马路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "马路",
+      "example": {
+        "en": "The road is blocked off a bit here.",
+        "zh": "这边路稍微拦了一下。"
+      },
+      "synonyms": [
+        {
+          "en": "street",
+          "zh": "街道"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 96
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do some work",
+      "meaning": "干点活"
+    },
+    {
+      "phrase": "set up a ladder",
+      "meaning": "把梯子支起来"
+    },
+    {
+      "phrase": "ride a scooter",
+      "meaning": "骑电动车"
+    }
+  ]
+}
