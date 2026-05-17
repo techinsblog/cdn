@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 235,
+  "title": "空教室",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f9f7f1 50%, #f6d7a8 100%)",
+  "sentence": {
+    "en": "The classroom is empty and full of sunlight.",
+    "zh": "教室里没人，阳光倒是洒得满满的。",
+    "highlights": [
+      "classroom",
+      "sunlight"
+    ]
+  },
+  "words": [
+    {
+      "id": "classroom",
+      "text": "classroom",
+      "zhText": "教室",
+      "phonetic": "/ˈklæsruːm/",
+      "pos": "n.",
+      "meaning": "教室",
+      "example": {
+        "en": "Let's wait in the classroom for a bit.",
+        "zh": "咱们先在教室里等会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "room",
+          "zh": "教室"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 18
+      }
+    },
+    {
+      "id": "chair",
+      "text": "chair",
+      "zhText": "椅子",
+      "phonetic": "/tʃer/",
+      "pos": "n.",
+      "meaning": "椅子",
+      "example": {
+        "en": "Can I move this chair over there?",
+        "zh": "我把这把椅子挪过去行吗？"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 63
+      }
+    },
+    {
+      "id": "desk",
+      "text": "desk",
+      "zhText": "课桌",
+      "phonetic": "/desk/",
+      "pos": "n.",
+      "meaning": "课桌",
+      "example": {
+        "en": "My phone's still on the desk.",
+        "zh": "我手机还放在课桌上呢。"
+      },
+      "synonyms": [
+        {
+          "en": "table",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 76
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "Open the window a little, it's stuffy.",
+        "zh": "把窗户开一点吧，有点闷。"
+      },
+      "synonyms": [
+        {
+          "en": "glass",
+          "zh": "窗玻璃"
+        }
+      ],
+      "position": {
+        "x": 8,
+        "y": 38
+      }
+    },
+    {
+      "id": "sunlight",
+      "text": "sunlight",
+      "zhText": "阳光",
+      "phonetic": "/ˈsʌnlaɪt/",
+      "pos": "n.",
+      "meaning": "阳光",
+      "example": {
+        "en": "The sunlight in here is really nice.",
+        "zh": "这屋里的阳光真挺舒服的。"
+      },
+      "synonyms": [
+        {
+          "en": "sun",
+          "zh": "太阳光"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 52
+      }
+    },
+    {
+      "id": "teach",
+      "text": "teach",
+      "zhText": "上课",
+      "phonetic": "/tiːtʃ/",
+      "pos": "v.",
+      "meaning": "上课",
+      "example": {
+        "en": "Who's teaching in this room today?",
+        "zh": "今天这间教室谁来上课啊？"
+      },
+      "synonyms": [
+        {
+          "en": "instruct",
+          "zh": "授课"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 44
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "empty classroom",
+      "meaning": "空教室"
+    },
+    {
+      "phrase": "take a seat",
+      "meaning": "坐下吧"
+    },
+    {
+      "phrase": "open the window",
+      "meaning": "开窗透透气"
+    }
+  ]
+}
