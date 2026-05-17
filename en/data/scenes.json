@@ -1128,6 +1128,14 @@
       "gradient": "linear-gradient(135deg, #c94b2c 0%, #e07a3f 50%, #f2d3a1 100%)",
       "wordCount": 6,
       "previewWords": "hug · lantern · street"
+    },
+    {
+      "id": 248,
+      "title": "路边停单车",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #5f7f5a 0%, #c96a3d 50%, #2f4a3b 100%)",
+      "wordCount": 6,
+      "previewWords": "bikes · wall · tree"
     }
   ]
 }
