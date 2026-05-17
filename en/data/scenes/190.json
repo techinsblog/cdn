@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 190,
+  "title": "海边散步",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #7db7e8 0%, #f2d19c 50%, #4f86b8 100%)",
+  "sentence": {
+    "en": "Looks like a nice walk by the beach.",
+    "zh": "看着就是个在海边散步的好时候。",
+    "highlights": [
+      "walk",
+      "beach"
+    ]
+  },
+  "words": [
+    {
+      "id": "beach",
+      "text": "beach",
+      "zhText": "海滩",
+      "phonetic": "/biːtʃ/",
+      "pos": "n.",
+      "meaning": "海滩",
+      "example": {
+        "en": "Let's just sit on the beach for a bit.",
+        "zh": "咱们就在海边坐一会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "shore",
+          "zh": "岸边"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 52
+      }
+    },
+    {
+      "id": "wave",
+      "text": "waves",
+      "zhText": "海浪",
+      "phonetic": "/weɪv/",
+      "pos": "n.",
+      "meaning": "海浪",
+      "example": {
+        "en": "The waves are pretty calm today.",
+        "zh": "今天海浪还挺平的。"
+      },
+      "synonyms": [
+        {
+          "en": "surf",
+          "zh": "浪花"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 63
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "散步",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "散步",
+      "example": {
+        "en": "We can walk along the water after dinner.",
+        "zh": "吃完饭咱们可以沿着海边走走。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 78
+      }
+    },
+    {
+      "id": "sand",
+      "text": "sand",
+      "zhText": "沙子",
+      "phonetic": "/sænd/",
+      "pos": "n.",
+      "meaning": "沙子",
+      "example": {
+        "en": "My shoes are full of sand now.",
+        "zh": "我鞋里现在全是沙子。"
+      },
+      "synonyms": [
+        {
+          "en": "shoreline",
+          "zh": "沙岸"
+        }
+      ],
+      "position": {
+        "x": 9,
+        "y": 70
+      }
+    },
+    {
+      "id": "swim",
+      "text": "swim",
+      "zhText": "游泳",
+      "phonetic": "/swɪm/",
+      "pos": "v.",
+      "meaning": "游泳",
+      "example": {
+        "en": "A few people are still swimming out there.",
+        "zh": "那边还有几个人在游泳呢。"
+      },
+      "synonyms": [
+        {
+          "en": "go for a swim",
+          "zh": "去游个泳"
+        }
+      ],
+      "position": {
+        "x": 92,
+        "y": 48
+      }
+    },
+    {
+      "id": "hotel",
+      "text": "hotel",
+      "zhText": "酒店",
+      "phonetic": "/hoʊˈtel/",
+      "pos": "n.",
+      "meaning": "酒店",
+      "example": {
+        "en": "That hotel has a really nice sea view.",
+        "zh": "那家酒店海景真不错。"
+      },
+      "synonyms": [
+        {
+          "en": "building",
+          "zh": "大楼"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 20
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk along the beach",
+      "meaning": "沿着海边散步"
+    },
+    {
+      "phrase": "go for a swim",
+      "meaning": "去游个泳"
+    },
+    {
+      "phrase": "watch the waves",
+      "meaning": "看海浪"
+    }
+  ]
+}
