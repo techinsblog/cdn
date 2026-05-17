@@ -656,6 +656,14 @@
       "gradient": "linear-gradient(135deg, #2aa7e8 0%, #6ec1ee 50%, #f6b36b 100%)",
       "wordCount": 6,
       "previewWords": "river · bridge · view"
+    },
+    {
+      "id": 189,
+      "title": "海边玩水",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #87c9f5 0%, #b7d8ea 50%, #6f8fa6 100%)",
+      "wordCount": 6,
+      "previewWords": "sea · waves · walk"
     }
   ]
 }
