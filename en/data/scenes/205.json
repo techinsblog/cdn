@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 205,
+  "title": "坐缆车上山",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #C9D7DF 0%, #6E7E87 50%, #3F4A4D 100%)",
+  "sentence": {
+    "en": "There's a cable car going up the mountain.",
+    "zh": "有辆缆车正往山上开呢。",
+    "highlights": [
+      "cable car",
+      "mountain"
+    ]
+  },
+  "words": [
+    {
+      "id": "cable car",
+      "text": "cable car",
+      "zhText": "缆车",
+      "phonetic": "/ˈkeɪbəl kɑːr/",
+      "pos": "n.",
+      "meaning": "缆车",
+      "example": {
+        "en": "Let's take the cable car instead of hiking.",
+        "zh": "咱们坐缆车吧，别自己爬了。"
+      },
+      "synonyms": [
+        {
+          "en": "gondola",
+          "zh": "吊厢"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 23
+      }
+    },
+    {
+      "id": "mountain",
+      "text": "mountain",
+      "zhText": "山",
+      "phonetic": "/ˈmaʊntən/",
+      "pos": "n.",
+      "meaning": "山",
+      "example": {
+        "en": "The mountain looks huge in this weather.",
+        "zh": "这天气里看这山真挺壮观的。"
+      },
+      "synonyms": [
+        {
+          "en": "hill",
+          "zh": "山坡"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 46
+      }
+    },
+    {
+      "id": "cable",
+      "text": "cable",
+      "zhText": "缆线",
+      "phonetic": "/ˈkeɪbəl/",
+      "pos": "n.",
+      "meaning": "缆线",
+      "example": {
+        "en": "The cable goes all the way across the valley.",
+        "zh": "这条缆线一直拉到山那边去了。"
+      },
+      "synonyms": [
+        {
+          "en": "wire",
+          "zh": "钢索"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 9
+      }
+    },
+    {
+      "id": "tower",
+      "text": "tower",
+      "zhText": "塔柱",
+      "phonetic": "/ˈtaʊər/",
+      "pos": "n.",
+      "meaning": "塔柱",
+      "example": {
+        "en": "That tower is holding the whole line up.",
+        "zh": "那根塔柱把整条线都撑起来了。"
+      },
+      "synonyms": [
+        {
+          "en": "pole",
+          "zh": "柱子"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 41
+      }
+    },
+    {
+      "id": "foggy",
+      "text": "foggy",
+      "zhText": "有雾",
+      "phonetic": "/ˈfɑːɡi/",
+      "pos": "adj.",
+      "meaning": "雾蒙蒙的",
+      "example": {
+        "en": "It's kind of foggy up there today.",
+        "zh": "今天上面有点雾蒙蒙的。"
+      },
+      "synonyms": [
+        {
+          "en": "misty",
+          "zh": "起雾的"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 12
+      }
+    },
+    {
+      "id": "ride",
+      "text": "ride",
+      "zhText": "乘坐",
+      "phonetic": "/raɪd/",
+      "pos": "v.",
+      "meaning": "乘坐",
+      "example": {
+        "en": "I'd totally ride this once.",
+        "zh": "这个我还真想坐一次。"
+      },
+      "synonyms": [
+        {
+          "en": "take",
+          "zh": "乘"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 24
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a cable car",
+      "meaning": "坐缆车"
+    },
+    {
+      "phrase": "go up the mountain",
+      "meaning": "上山"
+    },
+    {
+      "phrase": "enjoy the view",
+      "meaning": "看看风景"
+    }
+  ]
+}
