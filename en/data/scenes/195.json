@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 195,
+  "title": "荷塘看花",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #d9cfe3 0%, #9fc7a6 50%, #2f6f63 100%)",
+  "sentence": {
+    "en": "There's a lotus blooming in the pond.",
+    "zh": "池塘里有朵荷花开了。",
+    "highlights": [
+      "lotus",
+      "blooming",
+      "pond"
+    ]
+  },
+  "words": [
+    {
+      "id": "lotus",
+      "text": "lotus",
+      "zhText": "荷花",
+      "phonetic": "/ˈloʊtəs/",
+      "pos": "n.",
+      "meaning": "荷花",
+      "example": {
+        "en": "That lotus looks really pretty today.",
+        "zh": "那朵荷花今天看着真挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "water lily",
+          "zh": "睡莲"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 36
+      }
+    },
+    {
+      "id": "bud",
+      "text": "bud",
+      "zhText": "花苞",
+      "phonetic": "/bʌd/",
+      "pos": "n.",
+      "meaning": "花苞",
+      "example": {
+        "en": "This one is still just a bud.",
+        "zh": "这朵还没开呢，还是个花苞。"
+      },
+      "synonyms": [
+        {
+          "en": "flower bud",
+          "zh": "花苞"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 31
+      }
+    },
+    {
+      "id": "leaf",
+      "text": "leaf",
+      "zhText": "叶子",
+      "phonetic": "/liːf/",
+      "pos": "n.",
+      "meaning": "叶子",
+      "example": {
+        "en": "Look at how huge that leaf is.",
+        "zh": "你看那片叶子，真的好大。"
+      },
+      "synonyms": [
+        {
+          "en": "greenery",
+          "zh": "绿叶"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 52
+      }
+    },
+    {
+      "id": "pond",
+      "text": "pond",
+      "zhText": "池塘",
+      "phonetic": "/pɑːnd/",
+      "pos": "n.",
+      "meaning": "池塘",
+      "example": {
+        "en": "The pond is full of lotus leaves.",
+        "zh": "这池塘里全是荷叶。"
+      },
+      "synonyms": [
+        {
+          "en": "water",
+          "zh": "水面"
+        }
+      ],
+      "position": {
+        "x": 69,
+        "y": 68
+      }
+    },
+    {
+      "id": "blooming",
+      "text": "blooming",
+      "zhText": "开花",
+      "phonetic": "/ˈbluːmɪŋ/",
+      "pos": "adj./v.",
+      "meaning": "开着花的",
+      "example": {
+        "en": "Some flowers are already blooming.",
+        "zh": "有些花已经开了。"
+      },
+      "synonyms": [
+        {
+          "en": "flowering",
+          "zh": "开花的"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 50
+      }
+    },
+    {
+      "id": "pink",
+      "text": "pink",
+      "zhText": "粉色",
+      "phonetic": "/pɪŋk/",
+      "pos": "adj.",
+      "meaning": "粉色的",
+      "example": {
+        "en": "I love that soft pink color.",
+        "zh": "我还挺喜欢这种淡淡的粉色。"
+      },
+      "synonyms": [
+        {
+          "en": "rosy",
+          "zh": "粉红的"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 23
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "in bloom",
+      "meaning": "开着花"
+    },
+    {
+      "phrase": "lotus pond",
+      "meaning": "荷花池"
+    },
+    {
+      "phrase": "big leaves",
+      "meaning": "大片叶子"
+    }
+  ]
+}
