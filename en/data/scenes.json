@@ -1192,6 +1192,14 @@
       "gradient": "linear-gradient(135deg, #8ec5fc 0%, #f6d365 50%, #fda085 100%)",
       "wordCount": 6,
       "previewWords": "dog · leash · shop"
+    },
+    {
+      "id": 256,
+      "title": "算命摊",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #3b2a24 0%, #8b2e2e 50%, #d6a23a 100%)",
+      "wordCount": 6,
+      "previewWords": "fortune-telling · booth · sign"
     }
   ]
 }
