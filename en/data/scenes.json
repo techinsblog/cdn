@@ -1016,6 +1016,14 @@
       "gradient": "linear-gradient(135deg, #2f3e2e 0%, #5f7d4d 50%, #c98a3d 100%)",
       "wordCount": 7,
       "previewWords": "workers · ladders · wall"
+    },
+    {
+      "id": 234,
+      "title": "打篮球",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #1fb6c9 0%, #4f8f5b 50%, #f08a4b 100%)",
+      "wordCount": 7,
+      "previewWords": "basketball · hoop · jump"
     }
   ]
 }
