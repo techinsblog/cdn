@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 228,
+  "title": "正在画画",
+  "categoryId": "creative",
+  "gradient": "linear-gradient(135deg, #4b2a7b 0%, #8a5a2b 50%, #d9a441 100%)",
+  "sentence": {
+    "en": "Looks like he's really into the painting.",
+    "zh": "看得出来，他这会儿画得特别投入。",
+    "highlights": [
+      "painting",
+      "brush"
+    ]
+  },
+  "words": [
+    {
+      "id": "paintbrush",
+      "text": "brush",
+      "zhText": "画笔",
+      "phonetic": "/brʌʃ/",
+      "pos": "n.",
+      "meaning": "画笔",
+      "example": {
+        "en": "Pass me that brush, please.",
+        "zh": "把那支画笔递我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "paintbrush",
+          "zh": "画笔"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 58
+      }
+    },
+    {
+      "id": "painting",
+      "text": "painting",
+      "zhText": "画画",
+      "phonetic": "/ˈpeɪntɪŋ/",
+      "pos": "n.",
+      "meaning": "画画",
+      "example": {
+        "en": "He's been painting all afternoon.",
+        "zh": "他整个下午都在画画。"
+      },
+      "synonyms": [
+        {
+          "en": "art",
+          "zh": "绘画"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 66
+      }
+    },
+    {
+      "id": "beret",
+      "text": "beret",
+      "zhText": "贝雷帽",
+      "phonetic": "/bəˈreɪ/",
+      "pos": "n.",
+      "meaning": "贝雷帽",
+      "example": {
+        "en": "That purple beret looks really cool.",
+        "zh": "那顶紫色贝雷帽还挺酷的。"
+      },
+      "synonyms": [
+        {
+          "en": "hat",
+          "zh": "帽子"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 10
+      }
+    },
+    {
+      "id": "paint",
+      "text": "paint",
+      "zhText": "颜料",
+      "phonetic": "/peɪnt/",
+      "pos": "n.",
+      "meaning": "颜料",
+      "example": {
+        "en": "Don't touch it, the paint's still wet.",
+        "zh": "先别碰，颜料还没干呢。"
+      },
+      "synonyms": [
+        {
+          "en": "color",
+          "zh": "颜料"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 83
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "The table's covered in paint.",
+        "zh": "这桌子上全是颜料。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 49,
+        "y": 92
+      }
+    },
+    {
+      "id": "focus",
+      "text": "focused",
+      "zhText": "专注",
+      "phonetic": "/ˈfoʊkəst/",
+      "pos": "adj.",
+      "meaning": "很专注",
+      "example": {
+        "en": "He looks super focused right now.",
+        "zh": "他现在看起来特别专注。"
+      },
+      "synonyms": [
+        {
+          "en": "concentrated",
+          "zh": "专心的"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 42
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "paint a picture",
+      "meaning": "画一幅画"
+    },
+    {
+      "phrase": "work on a painting",
+      "meaning": "在画一幅画"
+    },
+    {
+      "phrase": "be focused on",
+      "meaning": "专注在……上"
+    }
+  ]
+}
