@@ -896,6 +896,14 @@
       "gradient": "linear-gradient(135deg, #5f6f7f 0%, #8fb3c9 50%, #d7c29a 100%)",
       "wordCount": 6,
       "previewWords": "traffic · cars · road"
+    },
+    {
+      "id": 219,
+      "title": "路上堵车",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #2f3e46 0%, #52796f 50%, #84a98c 100%)",
+      "wordCount": 6,
+      "previewWords": "traffic · motorbike · car"
     }
   ]
 }
