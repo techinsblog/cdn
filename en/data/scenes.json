@@ -848,6 +848,14 @@
       "gradient": "linear-gradient(135deg, #f7e7c6 0%, #c9b79c 50%, #6f6a67 100%)",
       "wordCount": 6,
       "previewWords": "platform · subway · escalator"
+    },
+    {
+      "id": 213,
+      "title": "奶茶店备单",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #0f4c5c 0%, #ff8a00 50%, #fff3e6 100%)",
+      "wordCount": 6,
+      "previewWords": "counter · drink · staff"
     }
   ]
 }
