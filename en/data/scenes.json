@@ -976,6 +976,14 @@
       "gradient": "linear-gradient(135deg, #4b2a7b 0%, #8a5a2b 50%, #d9a441 100%)",
       "wordCount": 6,
       "previewWords": "brush · painting · beret"
+    },
+    {
+      "id": 229,
+      "title": "看公告栏",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #d9c3a3 0%, #b9a38a 50%, #6f7d6b 100%)",
+      "wordCount": 5,
+      "previewWords": "notice board · newspaper · lean"
     }
   ]
 }
