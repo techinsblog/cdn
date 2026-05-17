@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 224,
+  "title": "窗边花墙",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #6b8f71 0%, #c97a8d 50%, #d8c7b0 100%)",
+  "sentence": {
+    "en": "Those windows are full of flowers.",
+    "zh": "这些窗边真的开满花了。",
+    "highlights": [
+      "windows",
+      "flowers"
+    ]
+  },
+  "words": [
+    {
+      "id": "window",
+      "text": "windows",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊz/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "The windows look so pretty from the street.",
+        "zh": "从街上看，这几扇窗真的挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "pane",
+          "zh": "窗格"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 31
+      }
+    },
+    {
+      "id": "flower",
+      "text": "flowers",
+      "zhText": "花",
+      "phonetic": "/ˈflaʊərz/",
+      "pos": "n.",
+      "meaning": "花",
+      "example": {
+        "en": "There are flowers everywhere on this building.",
+        "zh": "这栋楼上到处都是花。"
+      },
+      "synonyms": [
+        {
+          "en": "bloom",
+          "zh": "花朵"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 22
+      }
+    },
+    {
+      "id": "awning",
+      "text": "awning",
+      "zhText": "雨棚",
+      "phonetic": "/ˈɔːnɪŋ/",
+      "pos": "n.",
+      "meaning": "遮阳棚",
+      "example": {
+        "en": "That red awning really stands out.",
+        "zh": "那个红色棚子还挺显眼的。"
+      },
+      "synonyms": [
+        {
+          "en": "canopy",
+          "zh": "棚子"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 48
+      }
+    },
+    {
+      "id": "brick",
+      "text": "brick",
+      "zhText": "砖墙",
+      "phonetic": "/brɪk/",
+      "pos": "n.",
+      "meaning": "砖块",
+      "example": {
+        "en": "I like the look of the old brick wall.",
+        "zh": "我还挺喜欢这种老砖墙的感觉。"
+      },
+      "synonyms": [
+        {
+          "en": "masonry",
+          "zh": "砖石"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 40
+      }
+    },
+    {
+      "id": "hang",
+      "text": "hanging",
+      "zhText": "垂挂",
+      "phonetic": "/ˈhæŋɪŋ/",
+      "pos": "adj.",
+      "meaning": "垂挂的",
+      "example": {
+        "en": "Those hanging flowers make the place feel cozy.",
+        "zh": "这些垂下来的花让这地方看着很舒服。"
+      },
+      "synonyms": [
+        {
+          "en": "dangling",
+          "zh": "悬挂"
+        }
+      ],
+      "position": {
+        "x": 53,
+        "y": 70
+      }
+    },
+    {
+      "id": "pink",
+      "text": "pink",
+      "zhText": "粉色",
+      "phonetic": "/pɪŋk/",
+      "pos": "adj.",
+      "meaning": "粉色的",
+      "example": {
+        "en": "The pink flowers are my favorite part.",
+        "zh": "我最喜欢的就是这些粉色花。"
+      },
+      "synonyms": [
+        {
+          "en": "rosy",
+          "zh": "粉红"
+        }
+      ],
+      "position": {
+        "x": 87,
+        "y": 78
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "flower box",
+      "meaning": "窗边花箱"
+    },
+    {
+      "phrase": "brick wall",
+      "meaning": "砖墙"
+    },
+    {
+      "phrase": "look pretty",
+      "meaning": "看起来很好看"
+    }
+  ]
+}
