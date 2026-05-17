@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 191,
+  "title": "沙滩玩沙",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8fb3c9 50%, #5f6f7f 100%)",
+  "sentence": {
+    "en": "Looks like a busy day at the beach.",
+    "zh": "看着像是海边热热闹闹的一天。",
+    "highlights": [
+      "beach",
+      "busy"
+    ]
+  },
+  "words": [
+    {
+      "id": "beach",
+      "text": "beach",
+      "zhText": "沙滩",
+      "phonetic": "/biːtʃ/",
+      "pos": "n.",
+      "meaning": "沙滩",
+      "example": {
+        "en": "Let's head to the beach this weekend.",
+        "zh": "这周末咱们去沙滩吧。"
+      },
+      "synonyms": [
+        {
+          "en": "shore",
+          "zh": "海边"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 78
+      }
+    },
+    {
+      "id": "umbrella",
+      "text": "umbrella",
+      "zhText": "遮阳伞",
+      "phonetic": "/ʌmˈbrelə/",
+      "pos": "n.",
+      "meaning": "遮阳伞",
+      "example": {
+        "en": "Grab an umbrella. The sun's pretty strong.",
+        "zh": "拿把遮阳伞吧，太阳还挺晒的。"
+      },
+      "synonyms": [
+        {
+          "en": "parasol",
+          "zh": "阳伞"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 46
+      }
+    },
+    {
+      "id": "sand",
+      "text": "sand",
+      "zhText": "沙子",
+      "phonetic": "/sænd/",
+      "pos": "n.",
+      "meaning": "沙子",
+      "example": {
+        "en": "There's sand all over my shoes.",
+        "zh": "我鞋上全是沙子。"
+      },
+      "synonyms": [
+        {
+          "en": "grit",
+          "zh": "沙粒"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 88
+      }
+    },
+    {
+      "id": "dig",
+      "text": "dig",
+      "zhText": "挖",
+      "phonetic": "/dɪɡ/",
+      "pos": "v.",
+      "meaning": "挖",
+      "example": {
+        "en": "The kids are digging in the sand again.",
+        "zh": "孩子们又在那儿挖沙子了。"
+      },
+      "synonyms": [
+        {
+          "en": "scoop",
+          "zh": "挖起"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 67
+      }
+    },
+    {
+      "id": "kid",
+      "text": "kid",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小孩",
+      "example": {
+        "en": "That kid's been playing here forever.",
+        "zh": "那小孩在这儿玩了老半天了。"
+      },
+      "synonyms": [
+        {
+          "en": "child",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 83,
+        "y": 70
+      }
+    },
+    {
+      "id": "palm",
+      "text": "palm",
+      "zhText": "棕榈树",
+      "phonetic": "/pɑːm/",
+      "pos": "n.",
+      "meaning": "棕榈树",
+      "example": {
+        "en": "Those palm trees make it feel super tropical.",
+        "zh": "有这些棕榈树，感觉一下就很有海边那味儿了。"
+      },
+      "synonyms": [
+        {
+          "en": "palm tree",
+          "zh": "棕榈树"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 34
+      }
+    },
+    {
+      "id": "busy",
+      "text": "busy",
+      "zhText": "热闹",
+      "phonetic": "/ˈbɪzi/",
+      "pos": "adj.",
+      "meaning": "人很多的，热闹的",
+      "example": {
+        "en": "It's really busy today, huh?",
+        "zh": "今天人真挺多的哈。"
+      },
+      "synonyms": [
+        {
+          "en": "crowded",
+          "zh": "人多"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 52
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play in the sand",
+      "meaning": "在沙子里玩"
+    },
+    {
+      "phrase": "sit under an umbrella",
+      "meaning": "坐在遮阳伞下面"
+    },
+    {
+      "phrase": "spend the day at the beach",
+      "meaning": "在海边待一天"
+    }
+  ]
+}
