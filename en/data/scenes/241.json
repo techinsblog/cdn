@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 241,
+  "title": "买铁板鱿鱼",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #f7d08a 0%, #f28c6f 50%, #c85c5c 100%)",
+  "sentence": {
+    "en": "Let's grab some squid skewers.",
+    "zh": "来买点鱿鱼串吧。",
+    "highlights": [
+      "squid",
+      "skewer"
+    ]
+  },
+  "words": [
+    {
+      "id": "squid",
+      "text": "squid",
+      "zhText": "鱿鱼",
+      "phonetic": "/skwɪd/",
+      "pos": "n.",
+      "meaning": "鱿鱼",
+      "example": {
+        "en": "I always get squid here.",
+        "zh": "我每次来这儿都要点鱿鱼。"
+      },
+      "synonyms": [
+        {
+          "en": "calamari",
+          "zh": "鱿鱼"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 28
+      }
+    },
+    {
+      "id": "skewer",
+      "text": "skewer",
+      "zhText": "串",
+      "phonetic": "/ˈskjuːər/",
+      "pos": "n.",
+      "meaning": "串签",
+      "example": {
+        "en": "Give me two skewers, please.",
+        "zh": "给我来两串。"
+      },
+      "synonyms": [
+        {
+          "en": "stick",
+          "zh": "签子"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 41
+      }
+    },
+    {
+      "id": "stall",
+      "text": "stall",
+      "zhText": "摊位",
+      "phonetic": "/stɔːl/",
+      "pos": "n.",
+      "meaning": "小吃摊",
+      "example": {
+        "en": "That stall smells so good.",
+        "zh": "那个摊子闻着也太香了。"
+      },
+      "synonyms": [
+        {
+          "en": "stand",
+          "zh": "摊子"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 22
+      }
+    },
+    {
+      "id": "grill",
+      "text": "grill",
+      "zhText": "烤",
+      "phonetic": "/ɡrɪl/",
+      "pos": "v.",
+      "meaning": "烤",
+      "example": {
+        "en": "They grill everything fresh.",
+        "zh": "这儿都是现烤的。"
+      },
+      "synonyms": [
+        {
+          "en": "cook",
+          "zh": "做"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 56
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "托盘",
+      "example": {
+        "en": "The green trays are full already.",
+        "zh": "绿色托盘都快摆满了。"
+      },
+      "synonyms": [
+        {
+          "en": "plate",
+          "zh": "盘子"
+        }
+      ],
+      "position": {
+        "x": 51,
+        "y": 33
+      }
+    },
+    {
+      "id": "customer",
+      "text": "customer",
+      "zhText": "顾客",
+      "phonetic": "/ˈkʌstəmər/",
+      "pos": "n.",
+      "meaning": "顾客",
+      "example": {
+        "en": "There are a lot of customers waiting.",
+        "zh": "等着买的人还真不少。"
+      },
+      "synonyms": [
+        {
+          "en": "buyer",
+          "zh": "顾客"
+        }
+      ],
+      "position": {
+        "x": 26,
+        "y": 64
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab some skewers",
+      "meaning": "买点串吃"
+    },
+    {
+      "phrase": "grill it fresh",
+      "meaning": "现烤现做"
+    },
+    {
+      "phrase": "wait in line",
+      "meaning": "排队等着"
+    }
+  ]
+}
