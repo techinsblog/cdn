@@ -904,6 +904,14 @@
       "gradient": "linear-gradient(135deg, #2f3e46 0%, #52796f 50%, #84a98c 100%)",
       "wordCount": 6,
       "previewWords": "traffic · motorbike · car"
+    },
+    {
+      "id": 220,
+      "title": "公交进站",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #16322f 0%, #3f5f4f 50%, #8da06f 100%)",
+      "wordCount": 7,
+      "previewWords": "bus · bus stop · car"
     }
   ]
 }
