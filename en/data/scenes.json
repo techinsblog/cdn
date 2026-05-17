@@ -1160,6 +1160,14 @@
       "gradient": "linear-gradient(135deg, #2F3E46 0%, #52796F 50%, #CAD2C5 100%)",
       "wordCount": 6,
       "previewWords": "ears · table · chair"
+    },
+    {
+      "id": 252,
+      "title": "古装巡游",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #5b1f1f 0%, #c97a2b 50%, #6fa3c8 100%)",
+      "wordCount": 6,
+      "previewWords": "parade · armor · spear"
     }
   ]
 }
