@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 211,
+  "title": "坐地铁",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #8fd3f4 0%, #c7e9f1 50%, #f2f7f9 100%)",
+  "sentence": {
+    "en": "Looks like a quiet subway ride.",
+    "zh": "看起来就是一趟挺安静的地铁。",
+    "highlights": [
+      "subway",
+      "seat"
+    ]
+  },
+  "words": [
+    {
+      "id": "subway",
+      "text": "subway",
+      "zhText": "地铁",
+      "phonetic": "/ˈsʌbweɪ/",
+      "pos": "n.",
+      "meaning": "地铁",
+      "example": {
+        "en": "I usually take the subway to work.",
+        "zh": "我平时都坐地铁上班。"
+      },
+      "synonyms": [
+        {
+          "en": "metro",
+          "zh": "地铁"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 18
+      }
+    },
+    {
+      "id": "seat",
+      "text": "seat",
+      "zhText": "座位",
+      "phonetic": "/siːt/",
+      "pos": "n.",
+      "meaning": "座位",
+      "example": {
+        "en": "Nice, there's still a seat left.",
+        "zh": "还不错，居然还有个座位。"
+      },
+      "synonyms": [
+        {
+          "en": "chair",
+          "zh": "椅子"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 56
+      }
+    },
+    {
+      "id": "handle",
+      "text": "handle",
+      "zhText": "拉环",
+      "phonetic": "/ˈhændl/",
+      "pos": "n.",
+      "meaning": "拉环",
+      "example": {
+        "en": "Hold the handle when the train starts moving.",
+        "zh": "车一开起来就抓好拉环。"
+      },
+      "synonyms": [
+        {
+          "en": "strap",
+          "zh": "拉手"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 12
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bag",
+      "zhText": "包",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "包",
+      "example": {
+        "en": "Can you watch my bag for a sec?",
+        "zh": "帮我看一下包呗。"
+      },
+      "synonyms": [
+        {
+          "en": "backpack",
+          "zh": "背包"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 50
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sit",
+      "zhText": "坐着",
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaning": "坐着",
+      "example": {
+        "en": "Just sit here till the next stop.",
+        "zh": "先坐这儿，到下一站再说。"
+      },
+      "synonyms": [
+        {
+          "en": "rest",
+          "zh": "歇着"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 66
+      }
+    },
+    {
+      "id": "window",
+      "text": "window",
+      "zhText": "窗户",
+      "phonetic": "/ˈwɪndoʊ/",
+      "pos": "n.",
+      "meaning": "窗户",
+      "example": {
+        "en": "I always like the window seat.",
+        "zh": "我一直都喜欢靠窗的位置。"
+      },
+      "synonyms": [
+        {
+          "en": "glass",
+          "zh": "玻璃窗"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 33
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take the subway",
+      "meaning": "坐地铁"
+    },
+    {
+      "phrase": "grab a seat",
+      "meaning": "找个座位坐下"
+    },
+    {
+      "phrase": "stand by the door",
+      "meaning": "站在门边"
+    }
+  ]
+}
