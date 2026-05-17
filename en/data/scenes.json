@@ -1064,6 +1064,14 @@
       "gradient": "linear-gradient(135deg, #cfdde3 0%, #8fa7a7 50%, #5f6f73 100%)",
       "wordCount": 6,
       "previewWords": "pavilion · bridge · water"
+    },
+    {
+      "id": 240,
+      "title": "庙里上香",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #6b3f2a 0%, #c96f3d 50%, #f2c66d 100%)",
+      "wordCount": 6,
+      "previewWords": "incense · bow · offer"
     }
   ]
 }
