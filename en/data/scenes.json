@@ -840,6 +840,14 @@
       "gradient": "linear-gradient(135deg, #8fd3f4 0%, #c7e9f1 50%, #f2f7f9 100%)",
       "wordCount": 6,
       "previewWords": "subway · seat · handle"
+    },
+    {
+      "id": 212,
+      "title": "地铁站台",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #f7e7c6 0%, #c9b79c 50%, #6f6a67 100%)",
+      "wordCount": 6,
+      "previewWords": "platform · subway · escalator"
     }
   ]
 }
