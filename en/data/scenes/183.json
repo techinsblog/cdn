@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 183,
+  "title": "晾衣服",
+  "categoryId": "home",
+  "gradient": "linear-gradient(135deg, #d9c6a3 0%, #aab58a 50%, #6f7d5c 100%)",
+  "sentence": {
+    "en": "Looks like laundry day in the alley.",
+    "zh": "看着像是在巷子里洗晒衣服呢。",
+    "highlights": [
+      "laundry",
+      "alley"
+    ]
+  },
+  "words": [
+    {
+      "id": "laundry",
+      "text": "laundry",
+      "zhText": "洗衣",
+      "phonetic": "/ˈlɔːndri/",
+      "pos": "n.",
+      "meaning": "要洗或刚洗好的衣服",
+      "example": {
+        "en": "I still haven't done the laundry.",
+        "zh": "我衣服到现在还没洗呢。"
+      },
+      "synonyms": [
+        {
+          "en": "washing",
+          "zh": "洗衣"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 63
+      }
+    },
+    {
+      "id": "clothesline",
+      "text": "clothesline",
+      "zhText": "晾衣绳",
+      "phonetic": "/ˈkloʊðzlaɪn/",
+      "pos": "n.",
+      "meaning": "晾衣绳",
+      "example": {
+        "en": "Hang this on the clothesline for me.",
+        "zh": "帮我把这个挂到晾衣绳上。"
+      },
+      "synonyms": [
+        {
+          "en": "line",
+          "zh": "绳子"
+        }
+      ],
+      "position": {
+        "x": 9,
+        "y": 24
+      }
+    },
+    {
+      "id": "jacket",
+      "text": "jacket",
+      "zhText": "外套",
+      "phonetic": "/ˈdʒækɪt/",
+      "pos": "n.",
+      "meaning": "外套",
+      "example": {
+        "en": "Grab your jacket. It's getting cool.",
+        "zh": "把外套拿上，天有点凉了。"
+      },
+      "synonyms": [
+        {
+          "en": "coat",
+          "zh": "外套"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 53
+      }
+    },
+    {
+      "id": "stool",
+      "text": "stool",
+      "zhText": "凳子",
+      "phonetic": "/stuːl/",
+      "pos": "n.",
+      "meaning": "小凳子",
+      "example": {
+        "en": "There's a towel on the stool.",
+        "zh": "凳子上还搭着条毛巾。"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 86
+      }
+    },
+    {
+      "id": "hang",
+      "text": "hang",
+      "zhText": "晾挂",
+      "phonetic": "/hæŋ/",
+      "pos": "v.",
+      "meaning": "挂起来",
+      "example": {
+        "en": "Just hang it outside for a bit.",
+        "zh": "先拿出去挂一会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "put up",
+          "zh": "挂上"
+        }
+      ],
+      "position": {
+        "x": 60,
+        "y": 69
+      }
+    },
+    {
+      "id": "alley",
+      "text": "alley",
+      "zhText": "小巷",
+      "phonetic": "/ˈæli/",
+      "pos": "n.",
+      "meaning": "小巷子",
+      "example": {
+        "en": "This alley is super quiet in the afternoon.",
+        "zh": "这条小巷下午特别安静。"
+      },
+      "synonyms": [
+        {
+          "en": "lane",
+          "zh": "小巷"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 88
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "do the laundry",
+      "meaning": "洗衣服"
+    },
+    {
+      "phrase": "hang out the clothes",
+      "meaning": "把衣服晾出去"
+    },
+    {
+      "phrase": "down the alley",
+      "meaning": "沿着小巷往里"
+    }
+  ]
+}
