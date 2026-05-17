@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 202,
+  "title": "吃小笼包",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #8B5A2B 0%, #C58A4A 50%, #F2D2A2 100%)",
+  "sentence": {
+    "en": "These dumplings look so good.",
+    "zh": "这盘小笼包看着也太香了。",
+    "highlights": [
+      "dumpling",
+      "look"
+    ]
+  },
+  "words": [
+    {
+      "id": "dumpling",
+      "text": "dumplings",
+      "zhText": "饺子",
+      "phonetic": "/ˈdʌmplɪŋz/",
+      "pos": "n.",
+      "meaning": "饺子；面点",
+      "example": {
+        "en": "Let's get some dumplings for lunch.",
+        "zh": "咱们中午去吃点饺子吧。"
+      },
+      "synonyms": [
+        {
+          "en": "bao",
+          "zh": "包子"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 34
+      }
+    },
+    {
+      "id": "soy sauce",
+      "text": "soy sauce",
+      "zhText": "酱油",
+      "phonetic": "/ˌsɔɪ ˈsɔːs/",
+      "pos": "n.",
+      "meaning": "酱油",
+      "example": {
+        "en": "Just dip it in soy sauce.",
+        "zh": "直接蘸点酱油就行。"
+      },
+      "synonyms": [
+        {
+          "en": "sauce",
+          "zh": "酱料"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 44
+      }
+    },
+    {
+      "id": "chopsticks",
+      "text": "chopsticks",
+      "zhText": "筷子",
+      "phonetic": "/ˈtʃɑːpstɪks/",
+      "pos": "n.",
+      "meaning": "筷子",
+      "example": {
+        "en": "Do you need an extra pair of chopsticks?",
+        "zh": "你要不要再拿一双筷子？"
+      },
+      "synonyms": [
+        {
+          "en": "utensils",
+          "zh": "餐具"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 63
+      }
+    },
+    {
+      "id": "plate",
+      "text": "plate",
+      "zhText": "盘子",
+      "phonetic": "/pleɪt/",
+      "pos": "n.",
+      "meaning": "盘子",
+      "example": {
+        "en": "Put them on the plate first.",
+        "zh": "先把它们放盘子里吧。"
+      },
+      "synonyms": [
+        {
+          "en": "dish",
+          "zh": "盘"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "dip",
+      "text": "dip",
+      "zhText": "蘸",
+      "phonetic": "/dɪp/",
+      "pos": "v.",
+      "meaning": "蘸一下",
+      "example": {
+        "en": "I always dip mine before eating.",
+        "zh": "我吃之前都要先蘸一下。"
+      },
+      "synonyms": [
+        {
+          "en": "soak",
+          "zh": "蘸湿"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 42
+      }
+    },
+    {
+      "id": "steamed",
+      "text": "steamed",
+      "zhText": "蒸的",
+      "phonetic": "/stiːmd/",
+      "pos": "adj.",
+      "meaning": "蒸出来的",
+      "example": {
+        "en": "These are best when they're still steamed hot.",
+        "zh": "这种就是刚蒸好热乎乎的时候最好吃。"
+      },
+      "synonyms": [
+        {
+          "en": "hot",
+          "zh": "热的"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 22
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "dip in soy sauce",
+      "meaning": "蘸酱油"
+    },
+    {
+      "phrase": "grab some dumplings",
+      "meaning": "去吃点饺子"
+    },
+    {
+      "phrase": "freshly steamed",
+      "meaning": "刚蒸好的"
+    }
+  ]
+}
