@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 199,
+  "title": "包饺子",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #2f3e2f 0%, #6b7c59 50%, #d9c7b0 100%)",
+  "sentence": {
+    "en": "They're making dumplings from scratch.",
+    "zh": "他们这是在自己动手包饺子呢。",
+    "highlights": [
+      "dumpling",
+      "make"
+    ]
+  },
+  "words": [
+    {
+      "id": "dumpling",
+      "text": "dumpling",
+      "zhText": "饺子",
+      "phonetic": "/ˈdʌmplɪŋ/",
+      "pos": "n.",
+      "meaning": "饺子",
+      "example": {
+        "en": "I could eat dumplings every week.",
+        "zh": "我感觉我每周都能吃饺子。"
+      },
+      "synonyms": [
+        {
+          "en": "jiaozi",
+          "zh": "饺子"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 63
+      }
+    },
+    {
+      "id": "wrapper",
+      "text": "wrapper",
+      "zhText": "饺子皮",
+      "phonetic": "/ˈræpər/",
+      "pos": "n.",
+      "meaning": "饺子皮",
+      "example": {
+        "en": "This wrapper is a little too thick.",
+        "zh": "这张饺子皮有点太厚了。"
+      },
+      "synonyms": [
+        {
+          "en": "skin",
+          "zh": "面皮"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 78
+      }
+    },
+    {
+      "id": "filling",
+      "text": "filling",
+      "zhText": "馅儿",
+      "phonetic": "/ˈfɪlɪŋ/",
+      "pos": "n.",
+      "meaning": "馅儿",
+      "example": {
+        "en": "Don't put too much filling in it.",
+        "zh": "别塞太多馅儿。"
+      },
+      "synonyms": [
+        {
+          "en": "stuffing",
+          "zh": "馅料"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 41
+      }
+    },
+    {
+      "id": "spoon",
+      "text": "spoon",
+      "zhText": "勺子",
+      "phonetic": "/spuːn/",
+      "pos": "n.",
+      "meaning": "勺子",
+      "example": {
+        "en": "Just use a spoon for the filling.",
+        "zh": "直接拿勺子舀馅儿就行。"
+      },
+      "synonyms": [
+        {
+          "en": "ladle",
+          "zh": "勺"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 26
+      }
+    },
+    {
+      "id": "make",
+      "text": "make",
+      "zhText": "包",
+      "phonetic": "/meɪk/",
+      "pos": "v.",
+      "meaning": "包",
+      "example": {
+        "en": "My grandma still makes dumplings by hand.",
+        "zh": "我奶奶现在包饺子还是全手工。"
+      },
+      "synonyms": [
+        {
+          "en": "prepare",
+          "zh": "做"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 56
+      }
+    },
+    {
+      "id": "bowl",
+      "text": "bowl",
+      "zhText": "盆",
+      "phonetic": "/boʊl/",
+      "pos": "n.",
+      "meaning": "盆",
+      "example": {
+        "en": "The filling's still in the bowl.",
+        "zh": "馅儿还在盆里呢。"
+      },
+      "synonyms": [
+        {
+          "en": "container",
+          "zh": "容器"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 32
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "make dumplings",
+      "meaning": "包饺子"
+    },
+    {
+      "phrase": "add the filling",
+      "meaning": "放馅儿"
+    },
+    {
+      "phrase": "fold the wrapper",
+      "meaning": "把饺子皮对折起来"
+    }
+  ]
+}
