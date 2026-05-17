@@ -984,6 +984,14 @@
       "gradient": "linear-gradient(135deg, #d9c3a3 0%, #b9a38a 50%, #6f7d6b 100%)",
       "wordCount": 5,
       "previewWords": "notice board · newspaper · lean"
+    },
+    {
+      "id": 230,
+      "title": "寿衣店门口",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #c96a4a 0%, #d9b38c 50%, #8f2f23 100%)",
+      "wordCount": 6,
+      "previewWords": "shop · street · boxes"
     }
   ]
 }
