@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 239,
+  "title": "水边亭子",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #cfdde3 0%, #8fa7a7 50%, #5f6f73 100%)",
+  "sentence": {
+    "en": "There's a pavilion right over the water.",
+    "zh": "水面上正好有个亭子。",
+    "highlights": [
+      "pavilion",
+      "water"
+    ]
+  },
+  "words": [
+    {
+      "id": "pavilion",
+      "text": "pavilion",
+      "zhText": "亭子",
+      "phonetic": "/pəˈvɪljən/",
+      "pos": "n.",
+      "meaning": "亭子",
+      "example": {
+        "en": "Let's sit by the pavilion for a bit.",
+        "zh": "咱们去亭子边上坐会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "gazebo",
+          "zh": "凉亭"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 18
+      }
+    },
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "桥",
+      "example": {
+        "en": "Meet me by the bridge in five.",
+        "zh": "你五分钟后到桥边找我吧。"
+      },
+      "synonyms": [
+        {
+          "en": "crossing",
+          "zh": "通道"
+        }
+      ],
+      "position": {
+        "x": 83,
+        "y": 42
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水面",
+      "example": {
+        "en": "The water looks really calm today.",
+        "zh": "今天这水面看着还挺平静的。"
+      },
+      "synonyms": [
+        {
+          "en": "pond",
+          "zh": "池水"
+        }
+      ],
+      "position": {
+        "x": 15,
+        "y": 63
+      }
+    },
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those lanterns look nice at night.",
+        "zh": "那些灯笼晚上亮起来应该挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "light",
+          "zh": "灯"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 24
+      }
+    },
+    {
+      "id": "railing",
+      "text": "railing",
+      "zhText": "栏杆",
+      "phonetic": "/ˈreɪlɪŋ/",
+      "pos": "n.",
+      "meaning": "栏杆",
+      "example": {
+        "en": "Watch your step by the railing.",
+        "zh": "走栏杆边的时候小心点。"
+      },
+      "synonyms": [
+        {
+          "en": "barrier",
+          "zh": "护栏"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 78
+      }
+    },
+    {
+      "id": "roof",
+      "text": "roof",
+      "zhText": "屋檐",
+      "phonetic": "/ruːf/",
+      "pos": "n.",
+      "meaning": "屋檐",
+      "example": {
+        "en": "I love the shape of that roof.",
+        "zh": "那个屋檐的线条我还挺喜欢的。"
+      },
+      "synonyms": [
+        {
+          "en": "top",
+          "zh": "顶部"
+        }
+      ],
+      "position": {
+        "x": 42,
+        "y": 5
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk across the bridge",
+      "meaning": "走过这座桥"
+    },
+    {
+      "phrase": "by the water",
+      "meaning": "在水边"
+    },
+    {
+      "phrase": "traditional pavilion",
+      "meaning": "传统亭子"
+    }
+  ]
+}
