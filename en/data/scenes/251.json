@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 251,
+  "title": "露天掏耳朵",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #2F3E46 0%, #52796F 50%, #CAD2C5 100%)",
+  "sentence": {
+    "en": "He's getting his ears cleaned right at the table.",
+    "zh": "他这会儿 прямо坐在桌边掏耳朵呢。",
+    "highlights": [
+      "ear",
+      "table"
+    ]
+  },
+  "words": [
+    {
+      "id": "ear",
+      "text": "ears",
+      "zhText": "耳朵",
+      "phonetic": "/ɪr/",
+      "pos": "n.",
+      "meaning": "耳朵",
+      "example": {
+        "en": "My ear feels kind of itchy.",
+        "zh": "我耳朵有点痒。"
+      },
+      "synonyms": [
+        {
+          "en": "hearing",
+          "zh": "听觉"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 47
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "Let's grab that table by the side.",
+        "zh": "咱们坐旁边那张桌子吧。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌台"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 60
+      }
+    },
+    {
+      "id": "chair",
+      "text": "chair",
+      "zhText": "椅子",
+      "phonetic": "/tʃer/",
+      "pos": "n.",
+      "meaning": "椅子",
+      "example": {
+        "en": "Is this chair taken?",
+        "zh": "这椅子有人坐吗？"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 77
+      }
+    },
+    {
+      "id": "umbrella",
+      "text": "umbrella",
+      "zhText": "遮阳伞",
+      "phonetic": "/ʌmˈbrelə/",
+      "pos": "n.",
+      "meaning": "遮阳伞",
+      "example": {
+        "en": "Let's sit under the umbrella.",
+        "zh": "咱们坐遮阳伞下面吧。"
+      },
+      "synonyms": [
+        {
+          "en": "sunshade",
+          "zh": "阳伞"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 28
+      }
+    },
+    {
+      "id": "tea",
+      "text": "tea",
+      "zhText": "茶",
+      "phonetic": "/tiː/",
+      "pos": "n.",
+      "meaning": "茶",
+      "example": {
+        "en": "Want some tea first?",
+        "zh": "要不要先喝点茶？"
+      },
+      "synonyms": [
+        {
+          "en": "drink",
+          "zh": "饮品"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 63
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sitting",
+      "zhText": "坐着",
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaning": "坐着",
+      "example": {
+        "en": "We're just sitting here for a bit.",
+        "zh": "我们就在这儿坐一会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "rest",
+          "zh": "歇着"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 66
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "clean your ears",
+      "meaning": "掏耳朵"
+    },
+    {
+      "phrase": "sit at the table",
+      "meaning": "坐在桌边"
+    },
+    {
+      "phrase": "have some tea",
+      "meaning": "喝点茶"
+    }
+  ]
+}
