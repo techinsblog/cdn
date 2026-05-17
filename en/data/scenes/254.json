@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 254,
+  "title": "园林散步",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #6ec6df 0%, #f1c27d 50%, #2f5d73 100%)",
+  "sentence": {
+    "en": "Looks like a peaceful walk by the pond.",
+    "zh": "看着像是在池塘边悠闲散步。",
+    "highlights": [
+      "walk",
+      "pond"
+    ]
+  },
+  "words": [
+    {
+      "id": "pond",
+      "text": "pond",
+      "zhText": "池塘",
+      "phonetic": "/pɑːnd/",
+      "pos": "n.",
+      "meaning": "池塘",
+      "example": {
+        "en": "The pond is so still today.",
+        "zh": "今天这池塘也太平静了。"
+      },
+      "synonyms": [
+        {
+          "en": "pool",
+          "zh": "水池"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 57
+      }
+    },
+    {
+      "id": "pavilion",
+      "text": "pavilion",
+      "zhText": "亭子",
+      "phonetic": "/pəˈvɪljən/",
+      "pos": "n.",
+      "meaning": "亭子",
+      "example": {
+        "en": "Let's sit by the pavilion for a bit.",
+        "zh": "咱们去亭子边上坐会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "building",
+          "zh": "建筑"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 29
+      }
+    },
+    {
+      "id": "reflection",
+      "text": "reflection",
+      "zhText": "倒影",
+      "phonetic": "/rɪˈflekʃən/",
+      "pos": "n.",
+      "meaning": "倒影",
+      "example": {
+        "en": "The reflection looks really clear.",
+        "zh": "这倒影拍出来真挺清楚的。"
+      },
+      "synonyms": [
+        {
+          "en": "mirror image",
+          "zh": "映像"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 70
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "散步",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "散步",
+      "example": {
+        "en": "We can just walk around here.",
+        "zh": "咱们就在这附近随便走走吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 50,
+        "y": 41
+      }
+    },
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "石桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "石桥",
+      "example": {
+        "en": "Meet me by the little bridge.",
+        "zh": "你到那座小石桥边找我吧。"
+      },
+      "synonyms": [
+        {
+          "en": "pathway",
+          "zh": "小道"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 46
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Those trees look great in the evening light.",
+        "zh": "这些树在傍晚的光里真好看。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 24
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "go for a walk",
+      "meaning": "去散散步"
+    },
+    {
+      "phrase": "by the pond",
+      "meaning": "在池塘边"
+    },
+    {
+      "phrase": "take a photo",
+      "meaning": "拍张照"
+    }
+  ]
+}
