@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 256,
+  "title": "算命摊",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #3b2a24 0%, #8b2e2e 50%, #d6a23a 100%)",
+  "sentence": {
+    "en": "Looks like a fortune-telling booth.",
+    "zh": "看着像个算命摊。",
+    "highlights": [
+      "fortune-telling",
+      "booth"
+    ]
+  },
+  "words": [
+    {
+      "id": "fortune-telling",
+      "text": "fortune-telling",
+      "zhText": "算命",
+      "phonetic": "/ˈfɔːrtʃən ˌtelɪŋ/",
+      "pos": "n.",
+      "meaning": "算命",
+      "example": {
+        "en": "They do fortune-telling here at night.",
+        "zh": "这儿晚上还会摆摊算命。"
+      },
+      "synonyms": [
+        {
+          "en": "reading",
+          "zh": "占卜"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 18
+      }
+    },
+    {
+      "id": "booth",
+      "text": "booth",
+      "zhText": "摊位",
+      "phonetic": "/buːð/",
+      "pos": "n.",
+      "meaning": "摊位",
+      "example": {
+        "en": "That little booth gets busy after dinner.",
+        "zh": "那个小摊一到晚饭后就热闹了。"
+      },
+      "synonyms": [
+        {
+          "en": "stall",
+          "zh": "小摊"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 63
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "招牌",
+      "phonetic": "/saɪn/",
+      "pos": "n.",
+      "meaning": "招牌",
+      "example": {
+        "en": "The sign is hard to miss.",
+        "zh": "这招牌想不注意都难。"
+      },
+      "synonyms": [
+        {
+          "en": "board",
+          "zh": "牌子"
+        }
+      ],
+      "position": {
+        "x": 87,
+        "y": 34
+      }
+    },
+    {
+      "id": "stool",
+      "text": "stool",
+      "zhText": "凳子",
+      "phonetic": "/stuːl/",
+      "pos": "n.",
+      "meaning": "塑料凳",
+      "example": {
+        "en": "Just pull up a stool and sit.",
+        "zh": "随便搬个凳子坐就行。"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 26,
+        "y": 86
+      }
+    },
+    {
+      "id": "drink",
+      "text": "drink",
+      "zhText": "喝",
+      "phonetic": "/drɪŋk/",
+      "pos": "v.",
+      "meaning": "喝",
+      "example": {
+        "en": "He's just sitting there having a drink.",
+        "zh": "他就坐那儿喝点东西。"
+      },
+      "synonyms": [
+        {
+          "en": "sip",
+          "zh": "小口喝"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 42
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "The table's packed with stuff.",
+        "zh": "桌上摆得满满当当的。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌台"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "tell someone's fortune",
+      "meaning": "给人算命"
+    },
+    {
+      "phrase": "set up a booth",
+      "meaning": "支个摊位"
+    },
+    {
+      "phrase": "grab a seat",
+      "meaning": "找个位置坐下"
+    }
+  ]
+}
