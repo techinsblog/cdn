@@ -864,6 +864,14 @@
       "gradient": "linear-gradient(135deg, #2f3e2f 0%, #5b4a3f 50%, #d96b2b 100%)",
       "wordCount": 6,
       "previewWords": "crossing · street · bag"
+    },
+    {
+      "id": 215,
+      "title": "等红灯",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #f6d7c3 0%, #8fa7b3 50%, #3f4a55 100%)",
+      "wordCount": 6,
+      "previewWords": "scooter · helmet · child"
     }
   ]
 }
