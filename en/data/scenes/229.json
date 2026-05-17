@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "id": 229,
+  "title": "看公告栏",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #d9c3a3 0%, #b9a38a 50%, #6f7d6b 100%)",
+  "sentence": {
+    "en": "He's checking the notice board.",
+    "zh": "他在看公告栏呢。",
+    "highlights": [
+      "notice board"
+    ]
+  },
+  "words": [
+    {
+      "id": "notice board",
+      "text": "notice board",
+      "zhText": "公告栏",
+      "phonetic": "/ˈnoʊtɪs bɔːrd/",
+      "pos": "n.",
+      "meaning": "公告栏",
+      "example": {
+        "en": "Check the notice board first.",
+        "zh": "先看看公告栏吧。"
+      },
+      "synonyms": [
+        {
+          "en": "bulletin board",
+          "zh": "布告栏"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 38
+      }
+    },
+    {
+      "id": "newspaper",
+      "text": "newspaper",
+      "zhText": "报纸",
+      "phonetic": "/ˈnuːzpeɪpər/",
+      "pos": "n.",
+      "meaning": "报纸",
+      "example": {
+        "en": "He still reads the newspaper every day.",
+        "zh": "他现在还天天读报呢。"
+      },
+      "synonyms": [
+        {
+          "en": "paper",
+          "zh": "报纸"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 22
+      }
+    },
+    {
+      "id": "lean",
+      "text": "lean",
+      "zhText": "俯身",
+      "phonetic": "/liːn/",
+      "pos": "v.",
+      "meaning": "俯身",
+      "example": {
+        "en": "You gotta lean in to see that.",
+        "zh": "那个得凑近点看。"
+      },
+      "synonyms": [
+        {
+          "en": "bend",
+          "zh": "弯身"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 50
+      }
+    },
+    {
+      "id": "sidewalk",
+      "text": "sidewalk",
+      "zhText": "人行道",
+      "phonetic": "/ˈsaɪdwɔːk/",
+      "pos": "n.",
+      "meaning": "人行道",
+      "example": {
+        "en": "Let's wait on the sidewalk.",
+        "zh": "咱们就在路边等吧。"
+      },
+      "synonyms": [
+        {
+          "en": "pavement",
+          "zh": "人行道"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 86
+      }
+    },
+    {
+      "id": "poster",
+      "text": "poster",
+      "zhText": "海报",
+      "phonetic": "/ˈpoʊstər/",
+      "pos": "n.",
+      "meaning": "海报",
+      "example": {
+        "en": "That poster is huge.",
+        "zh": "那张海报可真大。"
+      },
+      "synonyms": [
+        {
+          "en": "ad",
+          "zh": "广告"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 30
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "check the notice board",
+      "meaning": "看公告栏"
+    },
+    {
+      "phrase": "lean in closer",
+      "meaning": "凑近一点"
+    },
+    {
+      "phrase": "read the newspaper",
+      "meaning": "看报纸"
+    }
+  ]
+}
