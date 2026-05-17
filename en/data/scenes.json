@@ -680,6 +680,14 @@
       "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8fb3c9 50%, #5f6f7f 100%)",
       "wordCount": 7,
       "previewWords": "beach · umbrella · sand"
+    },
+    {
+      "id": 192,
+      "title": "桥边看景",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #87BFE8 0%, #5F8F6B 50%, #2F4F4F 100%)",
+      "wordCount": 6,
+      "previewWords": "bridge · pond · lotus"
     }
   ]
 }
