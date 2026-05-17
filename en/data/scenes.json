@@ -1184,6 +1184,14 @@
       "gradient": "linear-gradient(135deg, #6ec6df 0%, #f1c27d 50%, #2f5d73 100%)",
       "wordCount": 6,
       "previewWords": "pond · pavilion · reflection"
+    },
+    {
+      "id": 255,
+      "title": "店门口遛狗",
+      "categoryId": "pets",
+      "gradient": "linear-gradient(135deg, #8ec5fc 0%, #f6d365 50%, #fda085 100%)",
+      "wordCount": 6,
+      "previewWords": "dog · leash · shop"
     }
   ]
 }
