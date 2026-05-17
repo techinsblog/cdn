@@ -1,117 +1,117 @@
 {
-  "version": 4,
+  "version": 5,
   "categories": [
     {
       "id": "daily",
       "name": "日常",
       "emoji": "☀️",
       "sort": 1,
-      "taglines": ["清晨日常", "休闲午后", "周末时光"]
+      "taglines": ["日常一刻", "生活片段", "寻常日子"]
     },
     {
       "id": "food",
       "name": "美食",
       "emoji": "🍜",
       "sort": 2,
-      "taglines": ["街头小吃", "咖啡时光", "家常味道"]
+      "taglines": ["食光正好", "人间烟火", "味蕾记忆"]
     },
     {
       "id": "travel",
       "name": "出行",
       "emoji": "✈️",
       "sort": 3,
-      "taglines": ["城市漫步", "旅途见闻", "在路上"]
+      "taglines": ["在路上", "旅途随笔", "行走之间"]
     },
     {
       "id": "work",
       "name": "职场",
       "emoji": "💼",
       "sort": 4,
-      "taglines": ["办公室一刻", "通勤路上", "忙里偷闲"]
+      "taglines": ["职场日常", "工作节奏", "忙碌之余"]
     },
     {
       "id": "healing",
       "name": "治愈",
       "emoji": "🌿",
       "sort": 5,
-      "taglines": ["温暖时刻", "慢下来", "给自己片刻"]
+      "taglines": ["温暖时刻", "慢下来", "片刻安宁"]
     },
     {
       "id": "sports",
       "name": "运动",
       "emoji": "🏃",
       "sort": 6,
-      "taglines": ["动起来", "户外挥汗", "赛后放松"]
+      "taglines": ["动起来", "活力满满", "酣畅淋漓"]
     },
     {
       "id": "shopping",
       "name": "购物",
       "emoji": "🛍️",
       "sort": 7,
-      "taglines": ["逛街去", "橱窗漫步", "好物入手"]
+      "taglines": ["购物心情", "走走停停", "小确幸"]
     },
     {
       "id": "social",
       "name": "社交",
       "emoji": "🎉",
       "sort": 8,
-      "taglines": ["聚会时光", "老友相见", "一起拍照"]
+      "taglines": ["相聚时刻", "谈笑风生", "有人陪伴"]
     },
     {
       "id": "culture",
       "name": "文化",
       "emoji": "🎭",
       "sort": 9,
-      "taglines": ["看展去", "城市文化", "艺术一刻"]
+      "taglines": ["文化浸润", "审美时刻", "文艺一刻"]
     },
     {
       "id": "nature",
       "name": "自然",
       "emoji": "🌊",
       "sort": 10,
-      "taglines": ["公园野餐", "海边散步", "亲近自然"]
+      "taglines": ["自然气息", "绿意盎然", "万物有灵"]
     },
     {
       "id": "home",
       "name": "居家",
       "emoji": "🏠",
       "sort": 11,
-      "taglines": ["宅家时光", "整理房间", "阳台小憩"]
+      "taglines": ["家的温度", "居家日常", "窝在家里"]
     },
     {
       "id": "health",
       "name": "健康",
       "emoji": "🏥",
       "sort": 12,
-      "taglines": ["好好吃饭", "早睡计划", "身心放松"]
+      "taglines": ["好好生活", "身轻心安", "照顾自己"]
     },
     {
       "id": "campus",
       "name": "校园",
       "emoji": "🎓",
       "sort": 13,
-      "taglines": ["课间十分钟", "图书馆时光", "校园漫步"]
+      "taglines": ["青春日常", "校园气息", "求学岁月"]
     },
     {
       "id": "beauty",
       "name": "美妆穿搭",
       "emoji": "💄",
       "sort": 14,
-      "taglines": ["今日穿搭", "镜前一刻", "出门准备"]
+      "taglines": ["美美一天", "精致日常", "打扮自己"]
     },
     {
       "id": "pets",
       "name": "萌宠",
       "emoji": "🐾",
       "sort": 15,
-      "taglines": ["和毛孩子在一起", "萌宠时光", "铲屎官日常"]
+      "taglines": ["毛孩相伴", "萌宠治愈", "有宠真好"]
     },
     {
       "id": "creative",
       "name": "手作文艺",
       "emoji": "✨",
       "sort": 16,
-      "taglines": ["动手时刻", "创作一角", "灵感来了"]
+      "taglines": ["手作时光", "灵感闪现", "创作乐趣"]
     }
   ]
 }
