@@ -1032,6 +1032,14 @@
       "gradient": "linear-gradient(135deg, #dfe9f3 0%, #f9f7f1 50%, #f6d7a8 100%)",
       "wordCount": 6,
       "previewWords": "classroom · chair · desk"
+    },
+    {
+      "id": 236,
+      "title": "校园散步",
+      "categoryId": "campus",
+      "gradient": "linear-gradient(135deg, #2f5d3a 0%, #7fa36b 50%, #d9e6b3 100%)",
+      "wordCount": 6,
+      "previewWords": "campus · path · tree"
     }
   ]
 }
