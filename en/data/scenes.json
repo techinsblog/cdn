@@ -944,6 +944,14 @@
       "gradient": "linear-gradient(135deg, #6b8f71 0%, #c97a8d 50%, #d8c7b0 100%)",
       "wordCount": 6,
       "previewWords": "windows · flowers · awning"
+    },
+    {
+      "id": 225,
+      "title": "山路挑货",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #5f554f 0%, #8c7b70 50%, #c96f4b 100%)",
+      "wordCount": 6,
+      "previewWords": "stairs · carry · pole"
     }
   ]
 }
