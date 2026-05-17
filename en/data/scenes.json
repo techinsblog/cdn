@@ -1096,6 +1096,14 @@
       "gradient": "linear-gradient(135deg, #C62828 0%, #E67E22 50%, #2C3E50 100%)",
       "wordCount": 6,
       "previewWords": "lantern · street · gate"
+    },
+    {
+      "id": 244,
+      "title": "路边卖饼",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #6b8e5a 0%, #c96b3b 50%, #e8d9b5 100%)",
+      "wordCount": 6,
+      "previewWords": "cart · pancakes · vendor"
     }
   ]
 }
