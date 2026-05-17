@@ -936,6 +936,14 @@
       "gradient": "linear-gradient(135deg, #8ec5fc 0%, #cfd9df 50%, #f6d365 100%)",
       "wordCount": 6,
       "previewWords": "balloon · kid · string"
+    },
+    {
+      "id": 224,
+      "title": "窗边花墙",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #6b8f71 0%, #c97a8d 50%, #d8c7b0 100%)",
+      "wordCount": 6,
+      "previewWords": "windows · flowers · awning"
     }
   ]
 }
