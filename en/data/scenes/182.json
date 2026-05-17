@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 182,
+  "title": "买面包",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #f08a4b 0%, #f6d365 50%, #5b8fb9 100%)",
+  "sentence": {
+    "en": "There's a line at the bakery counter.",
+    "zh": "面包柜台这边有人在排队。",
+    "highlights": [
+      "bakery",
+      "counter"
+    ]
+  },
+  "words": [
+    {
+      "id": "bakery",
+      "text": "bakery",
+      "zhText": "面包店",
+      "phonetic": "/ˈbeɪkəri/",
+      "pos": "n.",
+      "meaning": "面包店",
+      "example": {
+        "en": "Let's stop by the bakery after work.",
+        "zh": "下班后咱们顺路去一趟面包店吧。"
+      },
+      "synonyms": [
+        {
+          "en": "bake shop",
+          "zh": "烘焙店"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 18
+      }
+    },
+    {
+      "id": "counter",
+      "text": "counter",
+      "zhText": "柜台",
+      "phonetic": "/ˈkaʊntər/",
+      "pos": "n.",
+      "meaning": "柜台",
+      "example": {
+        "en": "Just pay at the counter.",
+        "zh": "直接去柜台结账就行。"
+      },
+      "synonyms": [
+        {
+          "en": "checkout",
+          "zh": "收银台"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 50
+      }
+    },
+    {
+      "id": "cashier",
+      "text": "cashier",
+      "zhText": "收银员",
+      "phonetic": "/kæˈʃɪr/",
+      "pos": "n.",
+      "meaning": "收银员",
+      "example": {
+        "en": "The cashier is helping the next customer.",
+        "zh": "收银员正在接待下一位顾客。"
+      },
+      "synonyms": [
+        {
+          "en": "clerk",
+          "zh": "店员"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 44
+      }
+    },
+    {
+      "id": "customer",
+      "text": "customer",
+      "zhText": "顾客",
+      "phonetic": "/ˈkʌstəmər/",
+      "pos": "n.",
+      "meaning": "顾客",
+      "example": {
+        "en": "There are a couple of customers waiting.",
+        "zh": "有几个顾客在等着。"
+      },
+      "synonyms": [
+        {
+          "en": "shopper",
+          "zh": "顾客"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 72
+      }
+    },
+    {
+      "id": "bread",
+      "text": "bread",
+      "zhText": "面包",
+      "phonetic": "/bred/",
+      "pos": "n.",
+      "meaning": "面包",
+      "example": {
+        "en": "That bread looks really fresh.",
+        "zh": "那个面包看着就很新鲜。"
+      },
+      "synonyms": [
+        {
+          "en": "loaf",
+          "zh": "一条面包"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 64
+      }
+    },
+    {
+      "id": "tray",
+      "text": "tray",
+      "zhText": "托盘",
+      "phonetic": "/treɪ/",
+      "pos": "n.",
+      "meaning": "托盘",
+      "example": {
+        "en": "Put these on a tray for me, please.",
+        "zh": "麻烦帮我把这些放到托盘里。"
+      },
+      "synonyms": [
+        {
+          "en": "plate",
+          "zh": "盘子"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 61
+      }
+    },
+    {
+      "id": "choose",
+      "text": "choose",
+      "zhText": "挑",
+      "phonetic": "/tʃuːz/",
+      "pos": "v.",
+      "meaning": "挑选",
+      "example": {
+        "en": "Take your time and choose what you want.",
+        "zh": "你慢慢挑，想要哪个都行。"
+      },
+      "synonyms": [
+        {
+          "en": "pick",
+          "zh": "选"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 40
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "pick out some bread",
+      "meaning": "挑几个面包"
+    },
+    {
+      "phrase": "wait in line",
+      "meaning": "排队等着"
+    },
+    {
+      "phrase": "pay at the counter",
+      "meaning": "在柜台结账"
+    }
+  ]
+}
