@@ -696,6 +696,14 @@
       "gradient": "linear-gradient(135deg, #6b4f3a 0%, #a8774d 50%, #d9a15b 100%)",
       "wordCount": 7,
       "previewWords": "stream · net · scoop"
+    },
+    {
+      "id": 194,
+      "title": "海边玩水",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #4fa3d9 0%, #e9c46a 50%, #f4a261 100%)",
+      "wordCount": 6,
+      "previewWords": "beach · splashing · kids"
     }
   ]
 }
