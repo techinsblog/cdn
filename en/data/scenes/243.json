@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 243,
+  "title": "挂灯笼",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #C62828 0%, #E67E22 50%, #2C3E50 100%)",
+  "sentence": {
+    "en": "The street is full of red lanterns.",
+    "zh": "这条街上挂满了红灯笼。",
+    "highlights": [
+      "lantern",
+      "street",
+      "red"
+    ]
+  },
+  "words": [
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those lanterns look so festive.",
+        "zh": "那些灯笼看着特别有过节气氛。"
+      },
+      "synonyms": [
+        {
+          "en": "light",
+          "zh": "灯"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street gets really busy at night.",
+        "zh": "这条街一到晚上就特别热闹。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "路"
+        }
+      ],
+      "position": {
+        "x": 50,
+        "y": 78
+      }
+    },
+    {
+      "id": "gate",
+      "text": "gate",
+      "zhText": "牌楼",
+      "phonetic": "/ɡeɪt/",
+      "pos": "n.",
+      "meaning": "门楼",
+      "example": {
+        "en": "Let's meet by the gate.",
+        "zh": "咱们就在门楼那儿碰头吧。"
+      },
+      "synonyms": [
+        {
+          "en": "entrance",
+          "zh": "入口"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 36
+      }
+    },
+    {
+      "id": "banner",
+      "text": "banner",
+      "zhText": "横幅",
+      "phonetic": "/ˈbænər/",
+      "pos": "n.",
+      "meaning": "横幅",
+      "example": {
+        "en": "They put up a new banner for the festival.",
+        "zh": "他们为了过节新挂了条横幅。"
+      },
+      "synonyms": [
+        {
+          "en": "sign",
+          "zh": "招牌"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 49
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "步行",
+      "example": {
+        "en": "We can just walk around after dinner.",
+        "zh": "吃完饭咱们就随便走走。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "闲逛"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 83
+      }
+    },
+    {
+      "id": "red",
+      "text": "red",
+      "zhText": "红色",
+      "phonetic": "/red/",
+      "pos": "adj.",
+      "meaning": "红色的",
+      "example": {
+        "en": "Red always stands out in photos.",
+        "zh": "红色在照片里总是特别显眼。"
+      },
+      "synonyms": [
+        {
+          "en": "crimson",
+          "zh": "深红"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 16
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hang lanterns",
+      "meaning": "挂灯笼"
+    },
+    {
+      "phrase": "walk down the street",
+      "meaning": "沿街走走"
+    },
+    {
+      "phrase": "festival decoration",
+      "meaning": "节日布置"
+    }
+  ]
+}
