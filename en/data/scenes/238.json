@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 238,
+  "title": "骑车过马路",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #4f5d4a 0%, #7a7f73 50%, #c96a3d 100%)",
+  "sentence": {
+    "en": "There's a bike crossing the street.",
+    "zh": "有辆自行车正过马路呢。",
+    "highlights": [
+      "bike",
+      "cross"
+    ]
+  },
+  "words": [
+    {
+      "id": "bike",
+      "text": "bike",
+      "zhText": "自行车",
+      "phonetic": "/baɪk/",
+      "pos": "n.",
+      "meaning": "自行车",
+      "example": {
+        "en": "I usually ride my bike to the store.",
+        "zh": "我平时一般骑自行车去店里。"
+      },
+      "synonyms": [
+        {
+          "en": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 55
+      }
+    },
+    {
+      "id": "cross",
+      "text": "cross",
+      "zhText": "通过",
+      "phonetic": "/krɔːs/",
+      "pos": "v.",
+      "meaning": "穿过",
+      "example": {
+        "en": "Wait a sec, let's cross when it's green.",
+        "zh": "等一下，绿灯了咱们再过。"
+      },
+      "synonyms": [
+        {
+          "en": "go across",
+          "zh": "走过去"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 68
+      }
+    },
+    {
+      "id": "crosswalk",
+      "text": "crosswalk",
+      "zhText": "斑马线",
+      "phonetic": "/ˈkrɔːswɔːk/",
+      "pos": "n.",
+      "meaning": "斑马线",
+      "example": {
+        "en": "Use the crosswalk, it's safer.",
+        "zh": "走斑马线吧，更安全。"
+      },
+      "synonyms": [
+        {
+          "en": "zebra crossing",
+          "zh": "人行横道"
+        }
+      ],
+      "position": {
+        "x": 52,
+        "y": 86
+      }
+    },
+    {
+      "id": "traffic light",
+      "text": "traffic light",
+      "zhText": "红绿灯",
+      "phonetic": "/ˈtræfɪk laɪt/",
+      "pos": "n.",
+      "meaning": "红绿灯",
+      "example": {
+        "en": "The traffic light just turned green.",
+        "zh": "红绿灯刚变绿。"
+      },
+      "synonyms": [
+        {
+          "en": "signal",
+          "zh": "信号灯"
+        }
+      ],
+      "position": {
+        "x": 26,
+        "y": 24
+      }
+    },
+    {
+      "id": "scooter",
+      "text": "scooter",
+      "zhText": "电动车",
+      "phonetic": "/ˈskuːtər/",
+      "pos": "n.",
+      "meaning": "电动车",
+      "example": {
+        "en": "That scooter came out of nowhere.",
+        "zh": "那辆电动车一下就过来了。"
+      },
+      "synonyms": [
+        {
+          "en": "e-bike",
+          "zh": "电动车"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 57
+      }
+    },
+    {
+      "id": "cone",
+      "text": "cone",
+      "zhText": "路锥",
+      "phonetic": "/koʊn/",
+      "pos": "n.",
+      "meaning": "路锥",
+      "example": {
+        "en": "Watch out for the cone on the road.",
+        "zh": "注意点，路上有个路锥。"
+      },
+      "synonyms": [
+        {
+          "en": "traffic cone",
+          "zh": "交通锥"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 73
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "ride a bike",
+      "meaning": "骑自行车"
+    },
+    {
+      "phrase": "cross the street",
+      "meaning": "过马路"
+    },
+    {
+      "phrase": "wait for the light",
+      "meaning": "等红绿灯"
+    }
+  ]
+}
