@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 181,
+  "title": "手冲咖啡",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #1f2a2e 0%, #4b3a32 50%, #8b6b4a 100%)",
+  "sentence": {
+    "en": "Fresh coffee is dripping right now.",
+    "zh": "咖啡这会儿正慢慢滴下来呢。",
+    "highlights": [
+      "coffee",
+      "drip"
+    ]
+  },
+  "words": [
+    {
+      "id": "coffee",
+      "text": "coffee",
+      "zhText": "咖啡",
+      "phonetic": "/ˈkɔːfi/",
+      "pos": "n.",
+      "meaning": "咖啡",
+      "example": {
+        "en": "This coffee smells so good.",
+        "zh": "这咖啡闻着也太香了。"
+      },
+      "synonyms": [
+        {
+          "en": "brew",
+          "zh": "咖啡"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 84
+      }
+    },
+    {
+      "id": "kettle",
+      "text": "kettle",
+      "zhText": "壶",
+      "phonetic": "/ˈketl/",
+      "pos": "n.",
+      "meaning": "水壶",
+      "example": {
+        "en": "Pass me the kettle, please.",
+        "zh": "把壶递我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "pot",
+          "zh": "壶"
+        }
+      ],
+      "position": {
+        "x": 27,
+        "y": 58
+      }
+    },
+    {
+      "id": "dripper",
+      "text": "dripper",
+      "zhText": "滤杯",
+      "phonetic": "/ˈdrɪpər/",
+      "pos": "n.",
+      "meaning": "滤杯",
+      "example": {
+        "en": "The dripper sits right on top.",
+        "zh": "滤杯就放在上面。"
+      },
+      "synonyms": [
+        {
+          "en": "filter",
+          "zh": "滤杯"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 63
+      }
+    },
+    {
+      "id": "pour",
+      "text": "pour",
+      "zhText": "倒",
+      "phonetic": "/pɔːr/",
+      "pos": "v.",
+      "meaning": "倒",
+      "example": {
+        "en": "Pour a little slower.",
+        "zh": "倒慢一点。"
+      },
+      "synonyms": [
+        {
+          "en": "fill",
+          "zh": "倒入"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 52
+      }
+    },
+    {
+      "id": "cup",
+      "text": "cup",
+      "zhText": "杯子",
+      "phonetic": "/kʌp/",
+      "pos": "n.",
+      "meaning": "杯子",
+      "example": {
+        "en": "I'll grab a clean cup.",
+        "zh": "我去拿个干净杯子。"
+      },
+      "synonyms": [
+        {
+          "en": "glass",
+          "zh": "杯子"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 88
+      }
+    },
+    {
+      "id": "drip",
+      "text": "drip",
+      "zhText": "滴滤",
+      "phonetic": "/drɪp/",
+      "pos": "v.",
+      "meaning": "滴下来",
+      "example": {
+        "en": "Just let it drip for a bit.",
+        "zh": "先让它滴一会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "trickle",
+          "zh": "滴下"
+        }
+      ],
+      "position": {
+        "x": 60,
+        "y": 70
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "pour over coffee",
+      "meaning": "手冲咖啡"
+    },
+    {
+      "phrase": "brew a cup",
+      "meaning": "泡一杯"
+    },
+    {
+      "phrase": "grab a coffee",
+      "meaning": "去喝杯咖啡"
+    }
+  ]
+}
