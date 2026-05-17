@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 196,
+  "title": "院里晒秋",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #F6D365 0%, #F4A261 50%, #C7511F 100%)",
+  "sentence": {
+    "en": "They're drying food out in the yard.",
+    "zh": "他们正在院子里晒东西呢。",
+    "highlights": [
+      "dry",
+      "yard"
+    ]
+  },
+  "words": [
+    {
+      "id": "yard",
+      "text": "yard",
+      "zhText": "院子",
+      "phonetic": "/jɑːrd/",
+      "pos": "n.",
+      "meaning": "院子",
+      "example": {
+        "en": "Let's sit out in the yard for a bit.",
+        "zh": "咱们去院子里坐会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "courtyard",
+          "zh": "院子"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 72
+      }
+    },
+    {
+      "id": "dry",
+      "text": "drying",
+      "zhText": "晾晒",
+      "phonetic": "/draɪ/",
+      "pos": "v.",
+      "meaning": "晾晒",
+      "example": {
+        "en": "They're drying peppers in the sun.",
+        "zh": "他们在太阳底下晒辣椒呢。"
+      },
+      "synonyms": [
+        {
+          "en": "air out",
+          "zh": "晾一晾"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 63
+      }
+    },
+    {
+      "id": "persimmon",
+      "text": "persimmons",
+      "zhText": "柿子",
+      "phonetic": "/pərˈsɪmənz/",
+      "pos": "n.",
+      "meaning": "柿子",
+      "example": {
+        "en": "These persimmons look really sweet.",
+        "zh": "这些柿子看着就挺甜的。"
+      },
+      "synonyms": [
+        {
+          "en": "fruit",
+          "zh": "水果"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 24
+      }
+    },
+    {
+      "id": "pepper",
+      "text": "peppers",
+      "zhText": "辣椒",
+      "phonetic": "/ˈpepərz/",
+      "pos": "n.",
+      "meaning": "辣椒",
+      "example": {
+        "en": "Don't add too many peppers this time.",
+        "zh": "这次辣椒别放太多啊。"
+      },
+      "synonyms": [
+        {
+          "en": "chili",
+          "zh": "辣椒"
+        }
+      ],
+      "position": {
+        "x": 81,
+        "y": 88
+      }
+    },
+    {
+      "id": "basket",
+      "text": "basket",
+      "zhText": "篮子",
+      "phonetic": "/ˈbæskɪt/",
+      "pos": "n.",
+      "meaning": "篮子",
+      "example": {
+        "en": "Put the fruit back in the basket.",
+        "zh": "把水果放回篮子里吧。"
+      },
+      "synonyms": [
+        {
+          "en": "bucket",
+          "zh": "筐"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 66
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "Everything's spread out on the table.",
+        "zh": "东西都摊在桌上了。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 80
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "dry in the sun",
+      "meaning": "拿到太阳底下晒"
+    },
+    {
+      "phrase": "pick persimmons",
+      "meaning": "摘柿子"
+    },
+    {
+      "phrase": "fill a basket",
+      "meaning": "装满一篮子"
+    }
+  ]
+}
