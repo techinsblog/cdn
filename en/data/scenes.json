@@ -1176,6 +1176,14 @@
       "gradient": "linear-gradient(135deg, #8ea9b8 0%, #bfc9cf 50%, #5f6f78 100%)",
       "wordCount": 6,
       "previewWords": "plane · gate · boarding"
+    },
+    {
+      "id": 254,
+      "title": "园林散步",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #6ec6df 0%, #f1c27d 50%, #2f5d73 100%)",
+      "wordCount": 6,
+      "previewWords": "pond · pavilion · reflection"
     }
   ]
 }
