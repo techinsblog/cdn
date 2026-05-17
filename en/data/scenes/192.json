@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 192,
+  "title": "桥边看景",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #87BFE8 0%, #5F8F6B 50%, #2F4F4F 100%)",
+  "sentence": {
+    "en": "Such a peaceful spot by the bridge.",
+    "zh": "这桥边看着也太舒服了。",
+    "highlights": [
+      "bridge",
+      "peaceful"
+    ]
+  },
+  "words": [
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "桥",
+      "example": {
+        "en": "Let's stop by the bridge for a minute.",
+        "zh": "咱们在桥边停一下吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stone bridge",
+          "zh": "石桥"
+        }
+      ],
+      "position": {
+        "x": 60,
+        "y": 41
+      }
+    },
+    {
+      "id": "pond",
+      "text": "pond",
+      "zhText": "池塘",
+      "phonetic": "/pɑːnd/",
+      "pos": "n.",
+      "meaning": "池塘",
+      "example": {
+        "en": "The pond looks super calm today.",
+        "zh": "今天这池塘看着特别静。"
+      },
+      "synonyms": [
+        {
+          "en": "water",
+          "zh": "水面"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 67
+      }
+    },
+    {
+      "id": "lotus",
+      "text": "lotus",
+      "zhText": "荷花",
+      "phonetic": "/ˈloʊtəs/",
+      "pos": "n.",
+      "meaning": "荷花",
+      "example": {
+        "en": "Look at all the lotus leaves over there.",
+        "zh": "你看那边一大片荷叶。"
+      },
+      "synonyms": [
+        {
+          "en": "water lily",
+          "zh": "睡莲"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 72
+      }
+    },
+    {
+      "id": "willow",
+      "text": "willow",
+      "zhText": "柳树",
+      "phonetic": "/ˈwɪloʊ/",
+      "pos": "n.",
+      "meaning": "柳树",
+      "example": {
+        "en": "Those willow trees make the place feel cooler.",
+        "zh": "那几棵柳树一衬，这地方都显得更凉快了。"
+      },
+      "synonyms": [
+        {
+          "en": "tree",
+          "zh": "树"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 30
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "散步",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "散步",
+      "example": {
+        "en": "Wanna walk around here for a bit?",
+        "zh": "要不要在这附近走走？"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 55
+      }
+    },
+    {
+      "id": "peaceful",
+      "text": "peaceful",
+      "zhText": "安静",
+      "phonetic": "/ˈpiːsfl/",
+      "pos": "adj.",
+      "meaning": "安静的",
+      "example": {
+        "en": "It's really peaceful here in the morning.",
+        "zh": "这儿早上真的挺安静的。"
+      },
+      "synonyms": [
+        {
+          "en": "calm",
+          "zh": "平静的"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a walk",
+      "meaning": "散散步"
+    },
+    {
+      "phrase": "by the bridge",
+      "meaning": "在桥边"
+    },
+    {
+      "phrase": "enjoy the view",
+      "meaning": "看看风景"
+    }
+  ]
+}
