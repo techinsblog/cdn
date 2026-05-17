@@ -688,6 +688,14 @@
       "gradient": "linear-gradient(135deg, #87BFE8 0%, #5F8F6B 50%, #2F4F4F 100%)",
       "wordCount": 6,
       "previewWords": "bridge · pond · lotus"
+    },
+    {
+      "id": 193,
+      "title": "溪边捞鱼",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #6b4f3a 0%, #a8774d 50%, #d9a15b 100%)",
+      "wordCount": 7,
+      "previewWords": "stream · net · scoop"
     }
   ]
 }
