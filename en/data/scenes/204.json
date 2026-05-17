@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "id": 204,
+  "title": "火车进站",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #5EB7C8 0%, #E7B43C 50%, #6A4A2F 100%)",
+  "sentence": {
+    "en": "There's a train coming around the bend.",
+    "zh": "有辆火车正拐着弯开过来。",
+    "highlights": [
+      "train"
+    ]
+  },
+  "words": [
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "火车",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "火车",
+      "example": {
+        "en": "We barely made it before the train left.",
+        "zh": "我们差点没赶上这趟火车。"
+      },
+      "synonyms": [
+        {
+          "en": "railcar",
+          "zh": "车厢"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 58
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "铁轨",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "铁轨",
+      "example": {
+        "en": "Stay behind the line and off the track.",
+        "zh": "站在线后面，别靠铁轨太近。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "轨道"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 88
+      }
+    },
+    {
+      "id": "platform",
+      "text": "platform",
+      "zhText": "站台",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "n.",
+      "meaning": "站台",
+      "example": {
+        "en": "Let's wait on the platform for a minute.",
+        "zh": "咱们先在站台上等会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "station platform",
+          "zh": "站台"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 72
+      }
+    },
+    {
+      "id": "curve",
+      "text": "curve",
+      "zhText": "弯道",
+      "phonetic": "/kɜːrv/",
+      "pos": "n.",
+      "meaning": "弯道",
+      "example": {
+        "en": "The train slows down on this curve.",
+        "zh": "火车到这个弯道会慢下来。"
+      },
+      "synonyms": [
+        {
+          "en": "bend",
+          "zh": "弯"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 61
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Those trees look amazing in the fall.",
+        "zh": "这些树一到秋天真的很好看。"
+      },
+      "synonyms": [
+        {
+          "en": "wood",
+          "zh": "树林"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 20
+      }
+    },
+    {
+      "id": "yellow",
+      "text": "yellow",
+      "zhText": "黄色",
+      "phonetic": "/ˈjeloʊ/",
+      "pos": "adj.",
+      "meaning": "黄色的",
+      "example": {
+        "en": "Everything turns yellow around this time.",
+        "zh": "每年这时候到处都黄了。"
+      },
+      "synonyms": [
+        {
+          "en": "golden",
+          "zh": "金黄的"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 15
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch a train",
+      "meaning": "赶火车"
+    },
+    {
+      "phrase": "wait on the platform",
+      "meaning": "在站台等"
+    },
+    {
+      "phrase": "go around the bend",
+      "meaning": "拐过弯来"
+    }
+  ]
+}
