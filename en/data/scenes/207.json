@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 207,
+  "title": "飞机过境",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #5FA0D6 0%, #7FA7B8 50%, #4E5D43 100%)",
+  "sentence": {
+    "en": "There's a plane overhead and a train below.",
+    "zh": "上面飞机飞过，下面高铁正好开过来。",
+    "highlights": [
+      "plane",
+      "train"
+    ]
+  },
+  "words": [
+    {
+      "id": "plane",
+      "text": "plane",
+      "zhText": "飞机",
+      "phonetic": "/pleɪn/",
+      "pos": "n.",
+      "meaning": "飞机",
+      "example": {
+        "en": "The plane's coming in pretty low.",
+        "zh": "这飞机飞得还挺低的。"
+      },
+      "synonyms": [
+        {
+          "en": "aircraft",
+          "zh": "飞机"
+        }
+      ],
+      "position": {
+        "x": 46,
+        "y": 24
+      }
+    },
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "高铁",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "火车，这里指高铁",
+      "example": {
+        "en": "That train looks really fast.",
+        "zh": "这趟高铁看着就很快。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "铁路"
+        }
+      ],
+      "position": {
+        "x": 25,
+        "y": 67
+      }
+    },
+    {
+      "id": "track",
+      "text": "track",
+      "zhText": "铁轨",
+      "phonetic": "/træk/",
+      "pos": "n.",
+      "meaning": "铁轨",
+      "example": {
+        "en": "The track curves right through the trees.",
+        "zh": "这段铁轨刚好从树林里拐过去。"
+      },
+      "synonyms": [
+        {
+          "en": "railway",
+          "zh": "铁路"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 78
+      }
+    },
+    {
+      "id": "land",
+      "text": "land",
+      "zhText": "降落",
+      "phonetic": "/lænd/",
+      "pos": "v.",
+      "meaning": "降落",
+      "example": {
+        "en": "Looks like it's about to land.",
+        "zh": "看着像是马上要降落了。"
+      },
+      "synonyms": [
+        {
+          "en": "touch down",
+          "zh": "着陆"
+        }
+      ],
+      "position": {
+        "x": 62,
+        "y": 31
+      }
+    },
+    {
+      "id": "curve",
+      "text": "curve",
+      "zhText": "转弯",
+      "phonetic": "/kɜːrv/",
+      "pos": "v.",
+      "meaning": "转弯",
+      "example": {
+        "en": "The train's curving around the bend.",
+        "zh": "高铁正拐过这个弯。"
+      },
+      "synonyms": [
+        {
+          "en": "bend",
+          "zh": "转弯"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 60
+      }
+    },
+    {
+      "id": "sky",
+      "text": "sky",
+      "zhText": "天空",
+      "phonetic": "/skaɪ/",
+      "pos": "n.",
+      "meaning": "天空",
+      "example": {
+        "en": "The sky is super clear today.",
+        "zh": "今天天空特别晴。"
+      },
+      "synonyms": [
+        {
+          "en": "blue sky",
+          "zh": "蓝天"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 12
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch a flight",
+      "meaning": "赶飞机"
+    },
+    {
+      "phrase": "take the train",
+      "meaning": "坐火车"
+    },
+    {
+      "phrase": "fly overhead",
+      "meaning": "从头顶飞过"
+    }
+  ]
+}
