@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 180,
+  "title": "小朋友玩沙",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #f6d365 0%, #fda085 50%, #f8b6c1 100%)",
+  "sentence": {
+    "en": "The kids are busy playing at the table.",
+    "zh": "几个小朋友正围着桌子玩得起劲呢。",
+    "highlights": [
+      "kids",
+      "table",
+      "play"
+    ]
+  },
+  "words": [
+    {
+      "id": "kids",
+      "text": "kids",
+      "zhText": "小孩",
+      "phonetic": "/kɪdz/",
+      "pos": "n.",
+      "meaning": "小朋友",
+      "example": {
+        "en": "The kids are having so much fun.",
+        "zh": "这帮小朋友玩得可开心了。"
+      },
+      "synonyms": [
+        {
+          "en": "children",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 13,
+        "y": 56
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "桌子",
+      "example": {
+        "en": "Put it on the table for now.",
+        "zh": "先放桌上吧。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 60
+      }
+    },
+    {
+      "id": "sand",
+      "text": "sand",
+      "zhText": "沙子",
+      "phonetic": "/sænd/",
+      "pos": "n.",
+      "meaning": "沙子",
+      "example": {
+        "en": "There's sand all over the table.",
+        "zh": "桌上到处都是沙子。"
+      },
+      "synonyms": [
+        {
+          "en": "soil",
+          "zh": "土"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 47
+      }
+    },
+    {
+      "id": "play",
+      "text": "play",
+      "zhText": "玩",
+      "phonetic": "/pleɪ/",
+      "pos": "v.",
+      "meaning": "玩耍",
+      "example": {
+        "en": "Let them play a bit longer.",
+        "zh": "让他们再玩一会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "have fun",
+          "zh": "玩得开心"
+        }
+      ],
+      "position": {
+        "x": 39,
+        "y": 66
+      }
+    },
+    {
+      "id": "stool",
+      "text": "stool",
+      "zhText": "小凳",
+      "phonetic": "/stuːl/",
+      "pos": "n.",
+      "meaning": "小板凳",
+      "example": {
+        "en": "Can you grab me a stool?",
+        "zh": "帮我拿个小凳子呗。"
+      },
+      "synonyms": [
+        {
+          "en": "seat",
+          "zh": "座位"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 82
+      }
+    },
+    {
+      "id": "toy",
+      "text": "toy",
+      "zhText": "玩具",
+      "phonetic": "/tɔɪ/",
+      "pos": "n.",
+      "meaning": "玩具",
+      "example": {
+        "en": "She picked up a toy and smiled.",
+        "zh": "她拿起个玩具就笑了。"
+      },
+      "synonyms": [
+        {
+          "en": "plaything",
+          "zh": "玩具"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 51
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play with sand",
+      "meaning": "玩沙子"
+    },
+    {
+      "phrase": "sit around the table",
+      "meaning": "围着桌子坐"
+    },
+    {
+      "phrase": "have fun together",
+      "meaning": "一起玩得很开心"
+    }
+  ]
+}
