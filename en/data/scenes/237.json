@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 237,
+  "title": "图书馆学习",
+  "categoryId": "campus",
+  "gradient": "linear-gradient(135deg, #d58a2a 0%, #8c5a2b 50%, #5bb7d9 100%)",
+  "sentence": {
+    "en": "Looks like everyone's settled in to study.",
+    "zh": "看起来大家都坐下来认真学习了。",
+    "highlights": [
+      "study",
+      "table"
+    ]
+  },
+  "words": [
+    {
+      "id": "library",
+      "text": "library",
+      "zhText": "图书馆",
+      "phonetic": "/ˈlaɪbreri/",
+      "pos": "n.",
+      "meaning": "图书馆",
+      "example": {
+        "en": "I'll be at the library all afternoon.",
+        "zh": "我整个下午都在图书馆。"
+      },
+      "synonyms": [
+        {
+          "en": "study hall",
+          "zh": "自习区"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 12
+      }
+    },
+    {
+      "id": "bookshelf",
+      "text": "bookshelf",
+      "zhText": "书架",
+      "phonetic": "/ˈbʊkʃelf/",
+      "pos": "n.",
+      "meaning": "书架",
+      "example": {
+        "en": "That bookshelf looks really cool.",
+        "zh": "那个书架看着真挺酷的。"
+      },
+      "synonyms": [
+        {
+          "en": "shelf",
+          "zh": "架子"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 10
+      }
+    },
+    {
+      "id": "table",
+      "text": "table",
+      "zhText": "桌子",
+      "phonetic": "/ˈteɪbəl/",
+      "pos": "n.",
+      "meaning": "长桌",
+      "example": {
+        "en": "Let's grab a seat at the table.",
+        "zh": "咱们去那张桌子边坐吧。"
+      },
+      "synonyms": [
+        {
+          "en": "desk",
+          "zh": "桌子"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 78
+      }
+    },
+    {
+      "id": "study",
+      "text": "study",
+      "zhText": "学习",
+      "phonetic": "/ˈstʌdi/",
+      "pos": "v.",
+      "meaning": "学习",
+      "example": {
+        "en": "I can't study with this much noise.",
+        "zh": "这么吵我真学不进去。"
+      },
+      "synonyms": [
+        {
+          "en": "review",
+          "zh": "复习"
+        }
+      ],
+      "position": {
+        "x": 62,
+        "y": 72
+      }
+    },
+    {
+      "id": "laptop",
+      "text": "laptop",
+      "zhText": "电脑",
+      "phonetic": "/ˈlæptɑːp/",
+      "pos": "n.",
+      "meaning": "笔记本电脑",
+      "example": {
+        "en": "My laptop's almost out of battery.",
+        "zh": "我电脑快没电了。"
+      },
+      "synonyms": [
+        {
+          "en": "computer",
+          "zh": "电脑"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 86
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "走路",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走着",
+      "example": {
+        "en": "They just walked in a minute ago.",
+        "zh": "他们也是刚走进来没多久。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 74
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hit the library",
+      "meaning": "去图书馆学习"
+    },
+    {
+      "phrase": "study together",
+      "meaning": "一起学习"
+    },
+    {
+      "phrase": "find a seat",
+      "meaning": "找个位置坐下"
+    }
+  ]
+}
