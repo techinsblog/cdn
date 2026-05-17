@@ -560,6 +560,14 @@
       "gradient": "linear-gradient(135deg, #1f3a5f 0%, #c94f2d 50%, #f2b544 100%)",
       "wordCount": 6,
       "previewWords": "sedan chair · parade · pole"
+    },
+    {
+      "id": 177,
+      "title": "河边收鱼",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2f3e36 0%, #6b4f3a 50%, #c96a5a 100%)",
+      "wordCount": 7,
+      "previewWords": "boat · birds · fish"
     }
   ]
 }
