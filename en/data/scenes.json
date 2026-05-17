@@ -776,6 +776,14 @@
       "gradient": "linear-gradient(135deg, #1f2a44 0%, #3fa46a 50%, #c9d94a 100%)",
       "wordCount": 6,
       "previewWords": "platform · train · volunteer"
+    },
+    {
+      "id": 204,
+      "title": "火车进站",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #5EB7C8 0%, #E7B43C 50%, #6A4A2F 100%)",
+      "wordCount": 6,
+      "previewWords": "train · track · platform"
     }
   ]
 }
