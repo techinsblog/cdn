@@ -1152,6 +1152,14 @@
       "gradient": "linear-gradient(135deg, #C97B63 0%, #E9D8C5 50%, #8C6A58 100%)",
       "wordCount": 6,
       "previewWords": "newspaper · shop · bowl"
+    },
+    {
+      "id": 251,
+      "title": "露天掏耳朵",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2F3E46 0%, #52796F 50%, #CAD2C5 100%)",
+      "wordCount": 6,
+      "previewWords": "ears · table · chair"
     }
   ]
 }
