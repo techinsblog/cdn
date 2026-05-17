@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 176,
+  "title": "抬轿游行",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #1f3a5f 0%, #c94f2d 50%, #f2b544 100%)",
+  "sentence": {
+    "en": "There's a sedan chair parade on the street.",
+    "zh": "这条街上正在抬轿游行呢。",
+    "highlights": [
+      "sedan chair",
+      "parade",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "sedan chair",
+      "text": "sedan chair",
+      "zhText": "轿子",
+      "phonetic": "/sɪˈdæn tʃer/",
+      "pos": "n.",
+      "meaning": "轿子",
+      "example": {
+        "en": "That sedan chair looks really detailed.",
+        "zh": "那顶轿子做得真挺讲究的。"
+      },
+      "synonyms": [
+        {
+          "en": "palanquin",
+          "zh": "轿子"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 30
+      }
+    },
+    {
+      "id": "parade",
+      "text": "parade",
+      "zhText": "游行",
+      "phonetic": "/pəˈreɪd/",
+      "pos": "n.",
+      "meaning": "游行",
+      "example": {
+        "en": "We just ran into a parade downtown.",
+        "zh": "我们刚好在市区碰上一场游行。"
+      },
+      "synonyms": [
+        {
+          "en": "procession",
+          "zh": "队伍"
+        }
+      ],
+      "position": {
+        "x": 15,
+        "y": 53
+      }
+    },
+    {
+      "id": "pole",
+      "text": "pole",
+      "zhText": "抬杆",
+      "phonetic": "/poʊl/",
+      "pos": "n.",
+      "meaning": "抬杆",
+      "example": {
+        "en": "Grab that pole carefully.",
+        "zh": "那根抬杆你小心扶一下。"
+      },
+      "synonyms": [
+        {
+          "en": "bar",
+          "zh": "杆子"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 51
+      }
+    },
+    {
+      "id": "carry",
+      "text": "carry",
+      "zhText": "抬着",
+      "phonetic": "/ˈkæri/",
+      "pos": "v.",
+      "meaning": "抬着",
+      "example": {
+        "en": "They're carrying it together.",
+        "zh": "他们正一起抬着走呢。"
+      },
+      "synonyms": [
+        {
+          "en": "lift",
+          "zh": "抬起"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 63
+      }
+    },
+    {
+      "id": "robe",
+      "text": "robe",
+      "zhText": "长袍",
+      "phonetic": "/roʊb/",
+      "pos": "n.",
+      "meaning": "长袍",
+      "example": {
+        "en": "That red robe really stands out.",
+        "zh": "那件红袍子特别显眼。"
+      },
+      "synonyms": [
+        {
+          "en": "gown",
+          "zh": "长袍"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 70
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "The whole street is packed today.",
+        "zh": "今天整条街都挺热闹的。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 31,
+        "y": 86
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "carry a sedan chair",
+      "meaning": "抬轿子"
+    },
+    {
+      "phrase": "street parade",
+      "meaning": "街头游行"
+    },
+    {
+      "phrase": "traditional procession",
+      "meaning": "传统巡游队伍"
+    }
+  ]
+}
