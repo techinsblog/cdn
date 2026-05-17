@@ -752,6 +752,14 @@
       "gradient": "linear-gradient(135deg, #F7D774 0%, #F4A261 50%, #A8D5BA 100%)",
       "wordCount": 6,
       "previewWords": "dumplings · tea · chopsticks"
+    },
+    {
+      "id": 201,
+      "title": "街头买熟食",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8f7a5a 50%, #4f5b46 100%)",
+      "wordCount": 6,
+      "previewWords": "stall · duck · vendor"
     }
   ]
 }
