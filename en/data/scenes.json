@@ -744,6 +744,14 @@
       "gradient": "linear-gradient(135deg, #2f3e2f 0%, #6b7c59 50%, #d9c7b0 100%)",
       "wordCount": 6,
       "previewWords": "dumpling · wrapper · filling"
+    },
+    {
+      "id": 200,
+      "title": "吃点心",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #F7D774 0%, #F4A261 50%, #A8D5BA 100%)",
+      "wordCount": 6,
+      "previewWords": "dumplings · tea · chopsticks"
     }
   ]
 }
