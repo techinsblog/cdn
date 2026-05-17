@@ -648,6 +648,14 @@
       "gradient": "linear-gradient(135deg, #c9d6df 0%, #9fb3c8 50%, #6f7f89 100%)",
       "wordCount": 6,
       "previewWords": "kids · stream · playing"
+    },
+    {
+      "id": 188,
+      "title": "江边看风景",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #2aa7e8 0%, #6ec1ee 50%, #f6b36b 100%)",
+      "wordCount": 6,
+      "previewWords": "river · bridge · view"
     }
   ]
 }
