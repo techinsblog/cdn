@@ -704,6 +704,14 @@
       "gradient": "linear-gradient(135deg, #4fa3d9 0%, #e9c46a 50%, #f4a261 100%)",
       "wordCount": 6,
       "previewWords": "beach · splashing · kids"
+    },
+    {
+      "id": 195,
+      "title": "荷塘看花",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #d9cfe3 0%, #9fc7a6 50%, #2f6f63 100%)",
+      "wordCount": 6,
+      "previewWords": "lotus · bud · leaf"
     }
   ]
 }
