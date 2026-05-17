@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 242,
+  "title": "遛狗路过店门口",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #c97a33 0%, #e6b85c 50%, #8b4a2b 100%)",
+  "sentence": {
+    "en": "Looks like a quick dog walk downtown.",
+    "zh": "看着就是在街上顺手遛个狗。",
+    "highlights": [
+      "dog",
+      "walk",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "dog",
+      "text": "dog",
+      "zhText": "狗",
+      "phonetic": "/dɔːɡ/",
+      "pos": "n.",
+      "meaning": "狗",
+      "example": {
+        "en": "Your dog is really cute.",
+        "zh": "你家狗狗真挺可爱的。"
+      },
+      "synonyms": [
+        {
+          "en": "puppy",
+          "zh": "小狗"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 71
+      }
+    },
+    {
+      "id": "leash",
+      "text": "leash",
+      "zhText": "牵引绳",
+      "phonetic": "/liːʃ/",
+      "pos": "n.",
+      "meaning": "牵引绳",
+      "example": {
+        "en": "Hold the leash tight for a sec.",
+        "zh": "你先把牵引绳拉紧一下。"
+      },
+      "synonyms": [
+        {
+          "en": "lead",
+          "zh": "狗绳"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 63
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street gets busy at night.",
+        "zh": "这条街一到晚上就热闹了。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 54,
+        "y": 88
+      }
+    },
+    {
+      "id": "shop",
+      "text": "shop",
+      "zhText": "店铺",
+      "phonetic": "/ʃɑːp/",
+      "pos": "n.",
+      "meaning": "店铺",
+      "example": {
+        "en": "That little shop looks fun to browse.",
+        "zh": "那家小店看着还挺好逛的。"
+      },
+      "synonyms": [
+        {
+          "en": "store",
+          "zh": "商店"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 34
+      }
+    },
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those red lanterns look great here.",
+        "zh": "这排红灯笼挂这儿真挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "light",
+          "zh": "灯"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 22
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "遛",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "遛弯",
+      "example": {
+        "en": "I usually walk the dog after lunch.",
+        "zh": "我一般吃完午饭就去遛狗。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "散步"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 70
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk the dog",
+      "meaning": "遛狗"
+    },
+    {
+      "phrase": "on a leash",
+      "meaning": "拴着牵引绳"
+    },
+    {
+      "phrase": "down the street",
+      "meaning": "沿着这条街往前"
+    }
+  ]
+}
