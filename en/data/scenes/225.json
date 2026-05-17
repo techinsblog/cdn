@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 225,
+  "title": "山路挑货",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #5f554f 0%, #8c7b70 50%, #c96f4b 100%)",
+  "sentence": {
+    "en": "That's a tough climb with all that stuff.",
+    "zh": "背着这么多东西爬上去，真不容易。",
+    "highlights": [
+      "climb",
+      "stuff"
+    ]
+  },
+  "words": [
+    {
+      "id": "stairs",
+      "text": "stairs",
+      "zhText": "台阶",
+      "phonetic": "/sterz/",
+      "pos": "n.",
+      "meaning": "楼梯，台阶",
+      "example": {
+        "en": "These stairs are no joke.",
+        "zh": "这段台阶可真够呛。"
+      },
+      "synonyms": [
+        {
+          "en": "steps",
+          "zh": "台阶"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 74
+      }
+    },
+    {
+      "id": "carry",
+      "text": "carry",
+      "zhText": "扛",
+      "phonetic": "/ˈkæri/",
+      "pos": "v.",
+      "meaning": "扛着，搬着",
+      "example": {
+        "en": "I can't carry all this by myself.",
+        "zh": "这么多东西我一个人真搬不动。"
+      },
+      "synonyms": [
+        {
+          "en": "haul",
+          "zh": "搬运"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 53
+      }
+    },
+    {
+      "id": "pole",
+      "text": "pole",
+      "zhText": "扁担",
+      "phonetic": "/poʊl/",
+      "pos": "n.",
+      "meaning": "杆子，扁担",
+      "example": {
+        "en": "That pole looks really heavy.",
+        "zh": "那根扁担看着就很沉。"
+      },
+      "synonyms": [
+        {
+          "en": "rod",
+          "zh": "杆子"
+        }
+      ],
+      "position": {
+        "x": 48,
+        "y": 46
+      }
+    },
+    {
+      "id": "box",
+      "text": "boxes",
+      "zhText": "箱子",
+      "phonetic": "/bɑːksɪz/",
+      "pos": "n.",
+      "meaning": "箱子",
+      "example": {
+        "en": "There are boxes on both sides.",
+        "zh": "两边都挂着箱子。"
+      },
+      "synonyms": [
+        {
+          "en": "cartons",
+          "zh": "纸箱"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 55
+      }
+    },
+    {
+      "id": "climb",
+      "text": "climb",
+      "zhText": "爬",
+      "phonetic": "/klaɪm/",
+      "pos": "v.",
+      "meaning": "往上爬，攀爬",
+      "example": {
+        "en": "He's still climbing up there.",
+        "zh": "他还在往上爬呢。"
+      },
+      "synonyms": [
+        {
+          "en": "go up",
+          "zh": "上去"
+        }
+      ],
+      "position": {
+        "x": 70,
+        "y": 72
+      }
+    },
+    {
+      "id": "stuff",
+      "text": "stuff",
+      "zhText": "东西",
+      "phonetic": "/stʌf/",
+      "pos": "n.",
+      "meaning": "东西，物品",
+      "example": {
+        "en": "That's a lot of stuff to bring up.",
+        "zh": "要搬上去的东西也太多了。"
+      },
+      "synonyms": [
+        {
+          "en": "things",
+          "zh": "东西"
+        }
+      ],
+      "position": {
+        "x": 29,
+        "y": 50
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "carry a load",
+      "meaning": "扛一担东西"
+    },
+    {
+      "phrase": "climb the stairs",
+      "meaning": "爬楼梯"
+    },
+    {
+      "phrase": "bring stuff up",
+      "meaning": "把东西搬上去"
+    }
+  ]
+}
