@@ -856,6 +856,14 @@
       "gradient": "linear-gradient(135deg, #0f4c5c 0%, #ff8a00 50%, #fff3e6 100%)",
       "wordCount": 6,
       "previewWords": "counter · drink · staff"
+    },
+    {
+      "id": 214,
+      "title": "过马路",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2f3e2f 0%, #5b4a3f 50%, #d96b2b 100%)",
+      "wordCount": 6,
+      "previewWords": "crossing · street · bag"
     }
   ]
 }
