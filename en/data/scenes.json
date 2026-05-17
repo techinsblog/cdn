@@ -600,6 +600,14 @@
       "gradient": "linear-gradient(135deg, #1f2a2e 0%, #4b3a32 50%, #8b6b4a 100%)",
       "wordCount": 6,
       "previewWords": "coffee · kettle · dripper"
+    },
+    {
+      "id": 182,
+      "title": "买面包",
+      "categoryId": "food",
+      "gradient": "linear-gradient(135deg, #f08a4b 0%, #f6d365 50%, #5b8fb9 100%)",
+      "wordCount": 7,
+      "previewWords": "bakery · counter · cashier"
     }
   ]
 }
