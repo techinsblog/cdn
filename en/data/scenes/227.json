@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 227,
+  "title": "雪中山景",
+  "categoryId": "nature",
+  "gradient": "linear-gradient(135deg, #DCE7EE 0%, #AAB9C6 50%, #6F7F8A 100%)",
+  "sentence": {
+    "en": "The mountains are covered in snow.",
+    "zh": "这些山上都盖了一层雪。",
+    "highlights": [
+      "mountain",
+      "snow"
+    ]
+  },
+  "words": [
+    {
+      "id": "mountain",
+      "text": "mountains",
+      "zhText": "山峰",
+      "phonetic": "/ˈmaʊntən/",
+      "pos": "n.",
+      "meaning": "山，山峰",
+      "example": {
+        "en": "Those mountains look unreal in the snow.",
+        "zh": "那些雪山看着简直像假的一样。"
+      },
+      "synonyms": [
+        {
+          "en": "peak",
+          "zh": "山峰"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 20
+      }
+    },
+    {
+      "id": "snow",
+      "text": "snow",
+      "zhText": "雪",
+      "phonetic": "/snoʊ/",
+      "pos": "n.",
+      "meaning": "雪",
+      "example": {
+        "en": "There's still snow all over the trees.",
+        "zh": "树上到处都还有雪呢。"
+      },
+      "synonyms": [
+        {
+          "en": "ice",
+          "zh": "冰"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 16
+      }
+    },
+    {
+      "id": "cliff",
+      "text": "cliff",
+      "zhText": "峭壁",
+      "phonetic": "/klɪf/",
+      "pos": "n.",
+      "meaning": "悬崖，峭壁",
+      "example": {
+        "en": "That cliff is so steep.",
+        "zh": "那块峭壁也太陡了。"
+      },
+      "synonyms": [
+        {
+          "en": "rock face",
+          "zh": "岩壁"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 42
+      }
+    },
+    {
+      "id": "tree",
+      "text": "trees",
+      "zhText": "树木",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树，树木",
+      "example": {
+        "en": "The trees look amazing with snow on them.",
+        "zh": "树上挂着雪，真挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "woods",
+          "zh": "树林"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 74
+      }
+    },
+    {
+      "id": "frost",
+      "text": "frost",
+      "zhText": "霜",
+      "phonetic": "/frɔːst/",
+      "pos": "n.",
+      "meaning": "霜，冰霜",
+      "example": {
+        "en": "Everything's covered in frost this morning.",
+        "zh": "今天早上到处都结霜了。"
+      },
+      "synonyms": [
+        {
+          "en": "ice crystals",
+          "zh": "冰霜"
+        }
+      ],
+      "position": {
+        "x": 66,
+        "y": 86
+      }
+    },
+    {
+      "id": "tower",
+      "text": "stone tower",
+      "zhText": "石柱",
+      "phonetic": "/ˈstoʊn ˌtaʊər/",
+      "pos": "n.",
+      "meaning": "石柱状山体",
+      "example": {
+        "en": "That stone tower stands out right away.",
+        "zh": "那根石柱一眼就能看到。"
+      },
+      "synonyms": [
+        {
+          "en": "pillar",
+          "zh": "石柱"
+        }
+      ],
+      "position": {
+        "x": 45,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "be covered in snow",
+      "meaning": "被雪盖住"
+    },
+    {
+      "phrase": "snow-covered mountains",
+      "meaning": "白雪覆盖的山"
+    },
+    {
+      "phrase": "take in the view",
+      "meaning": "看看风景"
+    }
+  ]
+}
