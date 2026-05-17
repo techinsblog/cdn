@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 230,
+  "title": "寿衣店门口",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #c96a4a 0%, #d9b38c 50%, #8f2f23 100%)",
+  "sentence": {
+    "en": "There's a funeral goods shop on this street.",
+    "zh": "这条街上有家卖白事用品的店。",
+    "highlights": [
+      "shop",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "shop",
+      "text": "shop",
+      "zhText": "店铺",
+      "phonetic": "/ʃɑːp/",
+      "pos": "n.",
+      "meaning": "店，铺子",
+      "example": {
+        "en": "That little shop is packed with stuff.",
+        "zh": "那家小店东西还真不少。"
+      },
+      "synonyms": [
+        {
+          "en": "store",
+          "zh": "商店"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 18
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道，马路",
+      "example": {
+        "en": "This street gets pretty quiet in the afternoon.",
+        "zh": "这条街下午还挺安静的。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 78
+      }
+    },
+    {
+      "id": "box",
+      "text": "boxes",
+      "zhText": "纸箱",
+      "phonetic": "/bɑːks/",
+      "pos": "n.",
+      "meaning": "箱子，纸箱",
+      "example": {
+        "en": "Can you move those boxes over there?",
+        "zh": "你把那几箱挪过去呗。"
+      },
+      "synonyms": [
+        {
+          "en": "carton",
+          "zh": "纸箱"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 48
+      }
+    },
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "Those red lanterns really stand out.",
+        "zh": "那几个红灯笼还挺显眼的。"
+      },
+      "synonyms": [
+        {
+          "en": "light",
+          "zh": "灯"
+        }
+      ],
+      "position": {
+        "x": 9,
+        "y": 28
+      }
+    },
+    {
+      "id": "bag",
+      "text": "bags",
+      "zhText": "袋子",
+      "phonetic": "/bæɡ/",
+      "pos": "n.",
+      "meaning": "袋子，包袋",
+      "example": {
+        "en": "Just leave the bags by the door.",
+        "zh": "袋子就放门口吧。"
+      },
+      "synonyms": [
+        {
+          "en": "sack",
+          "zh": "袋子"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 90
+      }
+    },
+    {
+      "id": "stack",
+      "text": "stacked",
+      "zhText": "堆着",
+      "phonetic": "/stækt/",
+      "pos": "adj.",
+      "meaning": "堆起来的",
+      "example": {
+        "en": "Everything's stacked so neatly here.",
+        "zh": "这儿的东西都码得挺整齐。"
+      },
+      "synonyms": [
+        {
+          "en": "piled",
+          "zh": "堆起的"
+        }
+      ],
+      "position": {
+        "x": 53,
+        "y": 36
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "run a shop",
+      "meaning": "开店"
+    },
+    {
+      "phrase": "on the street",
+      "meaning": "在街边"
+    },
+    {
+      "phrase": "stack up boxes",
+      "meaning": "把箱子码起来"
+    }
+  ]
+}
