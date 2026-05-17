@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 223,
+  "title": "牵着气球",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #8ec5fc 0%, #cfd9df 50%, #f6d365 100%)",
+  "sentence": {
+    "en": "That balloon is almost bigger than the kid.",
+    "zh": "这气球都快比小朋友还大了。",
+    "highlights": [
+      "balloon",
+      "kid"
+    ]
+  },
+  "words": [
+    {
+      "id": "balloon",
+      "text": "balloon",
+      "zhText": "气球",
+      "phonetic": "/bəˈluːn/",
+      "pos": "n.",
+      "meaning": "气球",
+      "example": {
+        "en": "Hold the balloon tight, or it'll fly away.",
+        "zh": "把气球抓紧点，不然就飞走了。"
+      },
+      "synonyms": [
+        {
+          "en": "helium balloon",
+          "zh": "氦气球"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 18
+      }
+    },
+    {
+      "id": "kid",
+      "text": "kid",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小朋友",
+      "example": {
+        "en": "The kid looks so serious walking around.",
+        "zh": "这小朋友走起来还挺认真。"
+      },
+      "synonyms": [
+        {
+          "en": "child",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 59,
+        "y": 78
+      }
+    },
+    {
+      "id": "string",
+      "text": "string",
+      "zhText": "绳子",
+      "phonetic": "/strɪŋ/",
+      "pos": "n.",
+      "meaning": "细绳",
+      "example": {
+        "en": "The string is way too long.",
+        "zh": "这绳子也太长了吧。"
+      },
+      "synonyms": [
+        {
+          "en": "thread",
+          "zh": "线"
+        }
+      ],
+      "position": {
+        "x": 70,
+        "y": 53
+      }
+    },
+    {
+      "id": "coat",
+      "text": "coat",
+      "zhText": "外套",
+      "phonetic": "/koʊt/",
+      "pos": "n.",
+      "meaning": "外套",
+      "example": {
+        "en": "That coat looks really warm.",
+        "zh": "这件外套看着就很暖和。"
+      },
+      "synonyms": [
+        {
+          "en": "jacket",
+          "zh": "夹克"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 86
+      }
+    },
+    {
+      "id": "hold",
+      "text": "hold",
+      "zhText": "拿着",
+      "phonetic": "/hoʊld/",
+      "pos": "v.",
+      "meaning": "拿着",
+      "example": {
+        "en": "Can you hold this for a second?",
+        "zh": "你帮我拿一下呗。"
+      },
+      "synonyms": [
+        {
+          "en": "carry",
+          "zh": "拿"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 69
+      }
+    },
+    {
+      "id": "square",
+      "text": "square",
+      "zhText": "广场",
+      "phonetic": "/skwer/",
+      "pos": "n.",
+      "meaning": "广场",
+      "example": {
+        "en": "Let's meet in the square later.",
+        "zh": "我们等会儿在广场见吧。"
+      },
+      "synonyms": [
+        {
+          "en": "plaza",
+          "zh": "广场"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 66
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "hold a balloon",
+      "meaning": "拿着气球"
+    },
+    {
+      "phrase": "walk around",
+      "meaning": "到处走走"
+    },
+    {
+      "phrase": "in the square",
+      "meaning": "在广场上"
+    }
+  ]
+}
