@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 194,
+  "title": "海边玩水",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #4fa3d9 0%, #e9c46a 50%, #f4a261 100%)",
+  "sentence": {
+    "en": "Looks like the kids are having a blast.",
+    "zh": "看着这帮小孩玩得可开心了。",
+    "highlights": [
+      "kids",
+      "blast"
+    ]
+  },
+  "words": [
+    {
+      "id": "beach",
+      "text": "beach",
+      "zhText": "海边",
+      "phonetic": "/biːtʃ/",
+      "pos": "n.",
+      "meaning": "海边，沙滩",
+      "example": {
+        "en": "Let's hit the beach early tomorrow.",
+        "zh": "咱们明天早点去海边吧。"
+      },
+      "synonyms": [
+        {
+          "en": "shore",
+          "zh": "岸边"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 58
+      }
+    },
+    {
+      "id": "splash",
+      "text": "splashing",
+      "zhText": "泼水",
+      "phonetic": "/splæʃ/",
+      "pos": "v.",
+      "meaning": "泼水，踩出水花",
+      "example": {
+        "en": "Quit splashing me!",
+        "zh": "别老往我身上泼水啦！"
+      },
+      "synonyms": [
+        {
+          "en": "spray",
+          "zh": "喷溅"
+        }
+      ],
+      "position": {
+        "x": 34,
+        "y": 73
+      }
+    },
+    {
+      "id": "kids",
+      "text": "kids",
+      "zhText": "小孩",
+      "phonetic": "/kɪdz/",
+      "pos": "n.",
+      "meaning": "小孩们",
+      "example": {
+        "en": "The kids are still playing in the water.",
+        "zh": "那几个小孩还在水里玩呢。"
+      },
+      "synonyms": [
+        {
+          "en": "children",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 52,
+        "y": 52
+      }
+    },
+    {
+      "id": "sand",
+      "text": "sand",
+      "zhText": "沙子",
+      "phonetic": "/sænd/",
+      "pos": "n.",
+      "meaning": "沙子",
+      "example": {
+        "en": "There's sand all over my legs.",
+        "zh": "我腿上全是沙子。"
+      },
+      "synonyms": [
+        {
+          "en": "beach sand",
+          "zh": "沙滩沙子"
+        }
+      ],
+      "position": {
+        "x": 70,
+        "y": 86
+      }
+    },
+    {
+      "id": "float",
+      "text": "float",
+      "zhText": "泳圈",
+      "phonetic": "/floʊt/",
+      "pos": "n.",
+      "meaning": "游泳圈，浮圈",
+      "example": {
+        "en": "Grab the float before it drifts away.",
+        "zh": "快把泳圈拿住，别让它漂走了。"
+      },
+      "synonyms": [
+        {
+          "en": "ring",
+          "zh": "圈"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 60
+      }
+    },
+    {
+      "id": "blast",
+      "text": "blast",
+      "zhText": "玩嗨",
+      "phonetic": "/blæst/",
+      "pos": "n.",
+      "meaning": "特别开心，玩得很嗨",
+      "example": {
+        "en": "They had a blast at the beach.",
+        "zh": "他们在海边玩得特别嗨。"
+      },
+      "synonyms": [
+        {
+          "en": "great time",
+          "zh": "开心时光"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 34
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play in the water",
+      "meaning": "在水里玩"
+    },
+    {
+      "phrase": "build a sandcastle",
+      "meaning": "堆沙堡"
+    },
+    {
+      "phrase": "have a blast",
+      "meaning": "玩得特别开心"
+    }
+  ]
+}
