@@ -952,6 +952,14 @@
       "gradient": "linear-gradient(135deg, #5f554f 0%, #8c7b70 50%, #c96f4b 100%)",
       "wordCount": 6,
       "previewWords": "stairs · carry · pole"
+    },
+    {
+      "id": 226,
+      "title": "池边泡脚",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #2f4f3a 0%, #6f8f6b 50%, #b7c9d6 100%)",
+      "wordCount": 6,
+      "previewWords": "water · dip · edge"
     }
   ]
 }
