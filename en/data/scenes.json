@@ -960,6 +960,14 @@
       "gradient": "linear-gradient(135deg, #2f4f3a 0%, #6f8f6b 50%, #b7c9d6 100%)",
       "wordCount": 6,
       "previewWords": "water · dip · edge"
+    },
+    {
+      "id": 227,
+      "title": "雪中山景",
+      "categoryId": "nature",
+      "gradient": "linear-gradient(135deg, #DCE7EE 0%, #AAB9C6 50%, #6F7F8A 100%)",
+      "wordCount": 6,
+      "previewWords": "mountains · snow · cliff"
     }
   ]
 }
