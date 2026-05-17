@@ -712,6 +712,14 @@
       "gradient": "linear-gradient(135deg, #d9cfe3 0%, #9fc7a6 50%, #2f6f63 100%)",
       "wordCount": 6,
       "previewWords": "lotus · bud · leaf"
+    },
+    {
+      "id": 196,
+      "title": "院里晒秋",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #F6D365 0%, #F4A261 50%, #C7511F 100%)",
+      "wordCount": 6,
+      "previewWords": "yard · drying · persimmons"
     }
   ]
 }
