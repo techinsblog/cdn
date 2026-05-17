@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 193,
+  "title": "溪边捞鱼",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #6b4f3a 0%, #a8774d 50%, #d9a15b 100%)",
+  "sentence": {
+    "en": "Looks like the kids are scooping stuff in the stream.",
+    "zh": "看着像是在小溪里捞东西呢。",
+    "highlights": [
+      "stream",
+      "scoop"
+    ]
+  },
+  "words": [
+    {
+      "id": "stream",
+      "text": "stream",
+      "zhText": "小溪",
+      "phonetic": "/striːm/",
+      "pos": "n.",
+      "meaning": "小溪",
+      "example": {
+        "en": "The stream is really shallow here.",
+        "zh": "这儿的溪水还挺浅的。"
+      },
+      "synonyms": [
+        {
+          "en": "creek",
+          "zh": "小溪"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 42
+      }
+    },
+    {
+      "id": "net",
+      "text": "net",
+      "zhText": "网兜",
+      "phonetic": "/net/",
+      "pos": "n.",
+      "meaning": "网兜",
+      "example": {
+        "en": "Grab the net and check over there.",
+        "zh": "拿上网兜，去那边看看。"
+      },
+      "synonyms": [
+        {
+          "en": "mesh",
+          "zh": "网子"
+        }
+      ],
+      "position": {
+        "x": 8,
+        "y": 55
+      }
+    },
+    {
+      "id": "scoop",
+      "text": "scoop",
+      "zhText": "捞",
+      "phonetic": "/skuːp/",
+      "pos": "v.",
+      "meaning": "捞",
+      "example": {
+        "en": "Try to scoop it up slowly.",
+        "zh": "慢点捞，别一下子吓跑了。"
+      },
+      "synonyms": [
+        {
+          "en": "pick up",
+          "zh": "捞起"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 46
+      }
+    },
+    {
+      "id": "bucket",
+      "text": "bucket",
+      "zhText": "水桶",
+      "phonetic": "/ˈbʌkɪt/",
+      "pos": "n.",
+      "meaning": "水桶",
+      "example": {
+        "en": "The bucket's down by the rocks.",
+        "zh": "水桶就在下面那堆石头旁边。"
+      },
+      "synonyms": [
+        {
+          "en": "pail",
+          "zh": "桶"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 88
+      }
+    },
+    {
+      "id": "rock",
+      "text": "rock",
+      "zhText": "石头",
+      "phonetic": "/rɑːk/",
+      "pos": "n.",
+      "meaning": "石头",
+      "example": {
+        "en": "Watch out, those rocks are slippery.",
+        "zh": "小心点，那些石头有点滑。"
+      },
+      "synonyms": [
+        {
+          "en": "stone",
+          "zh": "石头"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 83
+      }
+    },
+    {
+      "id": "shallow",
+      "text": "shallow",
+      "zhText": "浅的",
+      "phonetic": "/ˈʃæloʊ/",
+      "pos": "adj.",
+      "meaning": "浅的",
+      "example": {
+        "en": "Don't worry, the water's pretty shallow.",
+        "zh": "别担心，这水挺浅的。"
+      },
+      "synonyms": [
+        {
+          "en": "not deep",
+          "zh": "不深的"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 61
+      }
+    },
+    {
+      "id": "phone",
+      "text": "phone",
+      "zhText": "手机",
+      "phonetic": "/foʊn/",
+      "pos": "n.",
+      "meaning": "手机",
+      "example": {
+        "en": "She's still holding her phone.",
+        "zh": "她还一直拿着手机呢。"
+      },
+      "synonyms": [
+        {
+          "en": "cellphone",
+          "zh": "手机"
+        }
+      ],
+      "position": {
+        "x": 77,
+        "y": 22
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play in the water",
+      "meaning": "在水里玩"
+    },
+    {
+      "phrase": "catch little fish",
+      "meaning": "捉小鱼"
+    },
+    {
+      "phrase": "by the stream",
+      "meaning": "在溪边"
+    }
+  ]
+}
