@@ -632,6 +632,14 @@
       "gradient": "linear-gradient(135deg, #dfeaf0 0%, #7f8f63 50%, #3f3a33 100%)",
       "wordCount": 6,
       "previewWords": "stairs · backpack · climb"
+    },
+    {
+      "id": 186,
+      "title": "扛着孩子散步",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #F6E3A1 0%, #DFA65B 50%, #4F5D3A 100%)",
+      "wordCount": 6,
+      "previewWords": "shoulders · kid · walk"
     }
   ]
 }
