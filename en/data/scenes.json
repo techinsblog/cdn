@@ -968,6 +968,14 @@
       "gradient": "linear-gradient(135deg, #DCE7EE 0%, #AAB9C6 50%, #6F7F8A 100%)",
       "wordCount": 6,
       "previewWords": "mountains · snow · cliff"
+    },
+    {
+      "id": 228,
+      "title": "正在画画",
+      "categoryId": "creative",
+      "gradient": "linear-gradient(135deg, #4b2a7b 0%, #8a5a2b 50%, #d9a441 100%)",
+      "wordCount": 6,
+      "previewWords": "brush · painting · beret"
     }
   ]
 }
