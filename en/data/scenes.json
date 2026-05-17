@@ -792,6 +792,14 @@
       "gradient": "linear-gradient(135deg, #C9D7DF 0%, #6E7E87 50%, #3F4A4D 100%)",
       "wordCount": 6,
       "previewWords": "cable car · mountain · cable"
+    },
+    {
+      "id": 206,
+      "title": "站台等车",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #A9C7DF 0%, #D9D4C8 50%, #6E7C86 100%)",
+      "wordCount": 6,
+      "previewWords": "platform · train · track"
     }
   ]
 }
