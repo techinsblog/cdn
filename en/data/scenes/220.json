@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 220,
+  "title": "公交进站",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #16322f 0%, #3f5f4f 50%, #8da06f 100%)",
+  "sentence": {
+    "en": "Looks like the bus is pulling in.",
+    "zh": "看着像是公交车要进站了。",
+    "highlights": [
+      "bus",
+      "pull in"
+    ]
+  },
+  "words": [
+    {
+      "id": "bus",
+      "text": "bus",
+      "zhText": "公交",
+      "phonetic": "/bʌs/",
+      "pos": "n.",
+      "meaning": "公交车",
+      "example": {
+        "en": "I'll just take the bus today.",
+        "zh": "我今天就坐公交吧。"
+      },
+      "synonyms": [
+        {
+          "en": "coach",
+          "zh": "大巴"
+        }
+      ],
+      "position": {
+        "x": 73,
+        "y": 36
+      }
+    },
+    {
+      "id": "stop",
+      "text": "bus stop",
+      "zhText": "站台",
+      "phonetic": "/ˈbʌs stɑːp/",
+      "pos": "n.",
+      "meaning": "公交站",
+      "example": {
+        "en": "Meet me at the bus stop in ten.",
+        "zh": "你十分钟后到公交站找我吧。"
+      },
+      "synonyms": [
+        {
+          "en": "station",
+          "zh": "车站"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 43
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "That car came out of nowhere.",
+        "zh": "那辆车突然就开过来了。"
+      },
+      "synonyms": [
+        {
+          "en": "vehicle",
+          "zh": "车辆"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 58
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "Those trees give a lot of shade.",
+        "zh": "那几棵树真挺遮阴的。"
+      },
+      "synonyms": [
+        {
+          "en": "plant",
+          "zh": "植物"
+        }
+      ],
+      "position": {
+        "x": 38,
+        "y": 16
+      }
+    },
+    {
+      "id": "wait",
+      "text": "wait",
+      "zhText": "等",
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaning": "等车",
+      "example": {
+        "en": "Hang on, I'm still waiting for the bus.",
+        "zh": "等会儿，我还在等公交呢。"
+      },
+      "synonyms": [
+        {
+          "en": "stay",
+          "zh": "停留"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 55
+      }
+    },
+    {
+      "id": "lane",
+      "text": "lane",
+      "zhText": "车道",
+      "phonetic": "/leɪn/",
+      "pos": "n.",
+      "meaning": "车道",
+      "example": {
+        "en": "Stay in your lane, it's busy here.",
+        "zh": "走自己这条道啊，这儿车挺多的。"
+      },
+      "synonyms": [
+        {
+          "en": "roadway",
+          "zh": "道路"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 72
+      }
+    },
+    {
+      "id": "pull in",
+      "text": "pulling in",
+      "zhText": "进站",
+      "phonetic": "/ˌpʊlɪŋ ˈɪn/",
+      "pos": "phr.v.",
+      "meaning": "靠站进来",
+      "example": {
+        "en": "The bus is pulling in now.",
+        "zh": "公交车这会儿正进站呢。"
+      },
+      "synonyms": [
+        {
+          "en": "arrive",
+          "zh": "到站"
+        }
+      ],
+      "position": {
+        "x": 54,
+        "y": 42
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "catch the bus",
+      "meaning": "赶公交"
+    },
+    {
+      "phrase": "wait at the bus stop",
+      "meaning": "在公交站等车"
+    },
+    {
+      "phrase": "pull into the stop",
+      "meaning": "靠站进来"
+    }
+  ]
+}
