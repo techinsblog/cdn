@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 188,
+  "title": "江边看风景",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #2aa7e8 0%, #6ec1ee 50%, #f6b36b 100%)",
+  "sentence": {
+    "en": "Such a nice view by the river.",
+    "zh": "这江边的风景也太舒服了。",
+    "highlights": [
+      "view",
+      "river"
+    ]
+  },
+  "words": [
+    {
+      "id": "river",
+      "text": "river",
+      "zhText": "江",
+      "phonetic": "/ˈrɪvər/",
+      "pos": "n.",
+      "meaning": "江，河",
+      "example": {
+        "en": "Let's walk by the river for a bit.",
+        "zh": "咱们去江边走一会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "water",
+          "zh": "水面"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 67
+      }
+    },
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "桥",
+      "example": {
+        "en": "That bridge looks really cool from here.",
+        "zh": "从这儿看那座桥还挺酷的。"
+      },
+      "synonyms": [
+        {
+          "en": "overpass",
+          "zh": "高架桥"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 48
+      }
+    },
+    {
+      "id": "view",
+      "text": "view",
+      "zhText": "风景",
+      "phonetic": "/vjuː/",
+      "pos": "n.",
+      "meaning": "风景，景色",
+      "example": {
+        "en": "The view here is so worth it.",
+        "zh": "这儿的风景真值了。"
+      },
+      "synonyms": [
+        {
+          "en": "scenery",
+          "zh": "景色"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 18
+      }
+    },
+    {
+      "id": "sunglasses",
+      "text": "sunglasses",
+      "zhText": "墨镜",
+      "phonetic": "/ˈsʌnˌɡlæsɪz/",
+      "pos": "n.",
+      "meaning": "墨镜",
+      "example": {
+        "en": "Don't forget your sunglasses, it's bright out.",
+        "zh": "别忘了带墨镜，外面阳光挺晃眼的。"
+      },
+      "synonyms": [
+        {
+          "en": "shades",
+          "zh": "墨镜"
+        }
+      ],
+      "position": {
+        "x": 47,
+        "y": 55
+      }
+    },
+    {
+      "id": "lean",
+      "text": "lean",
+      "zhText": "倚靠",
+      "phonetic": "/liːn/",
+      "pos": "v.",
+      "meaning": "倚着，靠着",
+      "example": {
+        "en": "Just lean on the rail and relax.",
+        "zh": "就靠着栏杆放松一下呗。"
+      },
+      "synonyms": [
+        {
+          "en": "rest",
+          "zh": "靠着"
+        }
+      ],
+      "position": {
+        "x": 34,
+        "y": 72
+      }
+    },
+    {
+      "id": "railing",
+      "text": "railing",
+      "zhText": "栏杆",
+      "phonetic": "/ˈreɪlɪŋ/",
+      "pos": "n.",
+      "meaning": "栏杆",
+      "example": {
+        "en": "Don't sit on the railing.",
+        "zh": "别坐栏杆上啊。"
+      },
+      "synonyms": [
+        {
+          "en": "rail",
+          "zh": "扶栏"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 64
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "by the river",
+      "meaning": "在江边"
+    },
+    {
+      "phrase": "enjoy the view",
+      "meaning": "看看风景"
+    },
+    {
+      "phrase": "lean on the railing",
+      "meaning": "靠着栏杆"
+    }
+  ]
+}
