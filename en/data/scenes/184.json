@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "id": 184,
+  "title": "雨天散步",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #d9dde5 0%, #aab3bf 50%, #5c6673 100%)",
+  "sentence": {
+    "en": "Looks like a rainy walk in the city.",
+    "zh": "看着像是在城里雨天散步。",
+    "highlights": [
+      "rainy",
+      "walk",
+      "city"
+    ]
+  },
+  "words": [
+    {
+      "id": "rainy",
+      "text": "rainy",
+      "zhText": "雨天",
+      "phonetic": "/ˈreɪni/",
+      "pos": "adj.",
+      "meaning": "下雨的，雨天的",
+      "example": {
+        "en": "It's kind of rainy today, so bring a jacket.",
+        "zh": "今天有点下雨，带件外套吧。"
+      },
+      "synonyms": [
+        {
+          "en": "wet",
+          "zh": "湿漉漉的"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "walk",
+      "text": "walk",
+      "zhText": "散步",
+      "phonetic": "/wɔːk/",
+      "pos": "v.",
+      "meaning": "走路，散步",
+      "example": {
+        "en": "Let's just walk a bit after dinner.",
+        "zh": "吃完饭咱们随便走走吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stroll",
+          "zh": "溜达"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 78
+      }
+    },
+    {
+      "id": "tower",
+      "text": "tower",
+      "zhText": "高楼",
+      "phonetic": "/ˈtaʊər/",
+      "pos": "n.",
+      "meaning": "高塔，高楼",
+      "example": {
+        "en": "That tower looks huge up close.",
+        "zh": "那栋楼近看真的挺高的。"
+      },
+      "synonyms": [
+        {
+          "en": "building",
+          "zh": "大楼"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 24
+      }
+    },
+    {
+      "id": "fog",
+      "text": "fog",
+      "zhText": "雾气",
+      "phonetic": "/fɑːɡ/",
+      "pos": "n.",
+      "meaning": "雾，雾气",
+      "example": {
+        "en": "The fog is so thick this morning.",
+        "zh": "今天早上的雾也太大了。"
+      },
+      "synonyms": [
+        {
+          "en": "mist",
+          "zh": "薄雾"
+        }
+      ],
+      "position": {
+        "x": 34,
+        "y": 30
+      }
+    },
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "zhText": "天桥",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaning": "桥，天桥",
+      "example": {
+        "en": "Let's meet on the bridge.",
+        "zh": "咱们在桥上碰头吧。"
+      },
+      "synonyms": [
+        {
+          "en": "overpass",
+          "zh": "天桥"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 88
+      }
+    },
+    {
+      "id": "reflection",
+      "text": "reflection",
+      "zhText": "倒影",
+      "phonetic": "/rɪˈflekʃən/",
+      "pos": "n.",
+      "meaning": "倒影，映像",
+      "example": {
+        "en": "The reflection on the ground looks really nice.",
+        "zh": "地上的倒影还挺好看的。"
+      },
+      "synonyms": [
+        {
+          "en": "mirror image",
+          "zh": "镜像"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 95
+      }
+    },
+    {
+      "id": "city",
+      "text": "city",
+      "zhText": "城市",
+      "phonetic": "/ˈsɪti/",
+      "pos": "n.",
+      "meaning": "城市",
+      "example": {
+        "en": "The city feels super quiet in this weather.",
+        "zh": "这种天气里，整座城市都显得很安静。"
+      },
+      "synonyms": [
+        {
+          "en": "downtown",
+          "zh": "市区"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 52
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "take a walk",
+      "meaning": "去走走"
+    },
+    {
+      "phrase": "in the fog",
+      "meaning": "在雾里"
+    },
+    {
+      "phrase": "rainy day",
+      "meaning": "下雨天"
+    }
+  ]
+}
