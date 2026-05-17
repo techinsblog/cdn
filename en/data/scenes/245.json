@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 245,
+  "title": "下棋聊天",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #6b6f5b 0%, #c98574 50%, #2f2f2f 100%)",
+  "sentence": {
+    "en": "Looks like they're deep in a game.",
+    "zh": "看样子他们这盘下得正认真呢。",
+    "highlights": [
+      "game",
+      "chess"
+    ]
+  },
+  "words": [
+    {
+      "id": "chess",
+      "text": "chess",
+      "zhText": "象棋",
+      "phonetic": "/tʃes/",
+      "pos": "n.",
+      "meaning": "象棋",
+      "example": {
+        "en": "Want to play a quick game of chess?",
+        "zh": "要不要来一盘象棋？"
+      },
+      "synonyms": [
+        {
+          "en": "board game",
+          "zh": "棋类"
+        }
+      ],
+      "position": {
+        "x": 53,
+        "y": 88
+      }
+    },
+    {
+      "id": "board",
+      "text": "board",
+      "zhText": "棋盘",
+      "phonetic": "/bɔːrd/",
+      "pos": "n.",
+      "meaning": "棋盘",
+      "example": {
+        "en": "Put the board here so we can both see it.",
+        "zh": "把棋盘放这儿吧，咱俩都看得清。"
+      },
+      "synonyms": [
+        {
+          "en": "game board",
+          "zh": "棋盘"
+        }
+      ],
+      "position": {
+        "x": 68,
+        "y": 82
+      }
+    },
+    {
+      "id": "piece",
+      "text": "piece",
+      "zhText": "棋子",
+      "phonetic": "/piːs/",
+      "pos": "n.",
+      "meaning": "棋子",
+      "example": {
+        "en": "Don't touch that piece yet.",
+        "zh": "先别动那颗棋子。"
+      },
+      "synonyms": [
+        {
+          "en": "token",
+          "zh": "棋子"
+        }
+      ],
+      "position": {
+        "x": 39,
+        "y": 84
+      }
+    },
+    {
+      "id": "game",
+      "text": "game",
+      "zhText": "对局",
+      "phonetic": "/ɡeɪm/",
+      "pos": "n.",
+      "meaning": "一局棋",
+      "example": {
+        "en": "This game is getting really close.",
+        "zh": "这局下得还真挺胶着。"
+      },
+      "synonyms": [
+        {
+          "en": "match",
+          "zh": "比赛"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 72
+      }
+    },
+    {
+      "id": "watch",
+      "text": "watch",
+      "zhText": "看棋",
+      "phonetic": "/wɑːtʃ/",
+      "pos": "v.",
+      "meaning": "观看",
+      "example": {
+        "en": "I'm just watching this round.",
+        "zh": "我这局先在旁边看看。"
+      },
+      "synonyms": [
+        {
+          "en": "look at",
+          "zh": "看"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 73
+      }
+    },
+    {
+      "id": "wall",
+      "text": "wall",
+      "zhText": "墙",
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "meaning": "墙面",
+      "example": {
+        "en": "That red wall really stands out.",
+        "zh": "这面红墙还挺显眼的。"
+      },
+      "synonyms": [
+        {
+          "en": "side wall",
+          "zh": "墙"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 40
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play chess",
+      "meaning": "下象棋"
+    },
+    {
+      "phrase": "watch the game",
+      "meaning": "看棋局"
+    },
+    {
+      "phrase": "make a move",
+      "meaning": "走一步棋"
+    }
+  ]
+}
