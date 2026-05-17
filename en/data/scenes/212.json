@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "id": 212,
+  "title": "地铁站台",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #f7e7c6 0%, #c9b79c 50%, #6f6a67 100%)",
+  "sentence": {
+    "en": "The platform looks pretty empty right now.",
+    "zh": "这会儿站台看着还挺空的。",
+    "highlights": [
+      "platform"
+    ]
+  },
+  "words": [
+    {
+      "id": "platform",
+      "text": "platform",
+      "zhText": "站台",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "n.",
+      "meaning": "站台",
+      "example": {
+        "en": "Meet me on the platform in five.",
+        "zh": "五分钟后站台见。"
+      },
+      "synonyms": [
+        {
+          "en": "station platform",
+          "zh": "站台"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 40
+      }
+    },
+    {
+      "id": "subway",
+      "text": "subway",
+      "zhText": "地铁",
+      "phonetic": "/ˈsʌbweɪ/",
+      "pos": "n.",
+      "meaning": "地铁",
+      "example": {
+        "en": "I take the subway to work every day.",
+        "zh": "我每天都坐地铁上班。"
+      },
+      "synonyms": [
+        {
+          "en": "metro",
+          "zh": "地铁"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 22
+      }
+    },
+    {
+      "id": "escalator",
+      "text": "escalator",
+      "zhText": "扶梯",
+      "phonetic": "/ˈeskəleɪtər/",
+      "pos": "n.",
+      "meaning": "自动扶梯",
+      "example": {
+        "en": "Let's take the escalator upstairs.",
+        "zh": "咱们坐扶梯上去吧。"
+      },
+      "synonyms": [
+        {
+          "en": "moving stairs",
+          "zh": "电扶梯"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 30
+      }
+    },
+    {
+      "id": "floor",
+      "text": "floor",
+      "zhText": "地面",
+      "phonetic": "/flɔːr/",
+      "pos": "n.",
+      "meaning": "地面",
+      "example": {
+        "en": "Careful, the floor is kind of slippery.",
+        "zh": "小心点，地面有点滑。"
+      },
+      "synonyms": [
+        {
+          "en": "ground",
+          "zh": "地面"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 78
+      }
+    },
+    {
+      "id": "line",
+      "text": "line",
+      "zhText": "线",
+      "phonetic": "/laɪn/",
+      "pos": "n.",
+      "meaning": "线路",
+      "example": {
+        "en": "Which line do we need for downtown?",
+        "zh": "我们去市区要坐哪条线？"
+      },
+      "synonyms": [
+        {
+          "en": "route",
+          "zh": "线路"
+        }
+      ],
+      "position": {
+        "x": 44,
+        "y": 58
+      }
+    },
+    {
+      "id": "wait",
+      "text": "wait",
+      "zhText": "等",
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaning": "等候",
+      "example": {
+        "en": "Just wait here. The train's almost here.",
+        "zh": "就在这儿等吧，车快到了。"
+      },
+      "synonyms": [
+        {
+          "en": "stay",
+          "zh": "等着"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 56
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "wait for the train",
+      "meaning": "等地铁"
+    },
+    {
+      "phrase": "take the subway",
+      "meaning": "坐地铁"
+    },
+    {
+      "phrase": "on the platform",
+      "meaning": "在站台上"
+    }
+  ]
+}
