@@ -1088,6 +1088,14 @@
       "gradient": "linear-gradient(135deg, #c97a33 0%, #e6b85c 50%, #8b4a2b 100%)",
       "wordCount": 6,
       "previewWords": "dog · leash · street"
+    },
+    {
+      "id": 243,
+      "title": "挂灯笼",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #C62828 0%, #E67E22 50%, #2C3E50 100%)",
+      "wordCount": 6,
+      "previewWords": "lantern · street · gate"
     }
   ]
 }
