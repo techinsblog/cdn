@@ -1104,6 +1104,14 @@
       "gradient": "linear-gradient(135deg, #6b8e5a 0%, #c96b3b 50%, #e8d9b5 100%)",
       "wordCount": 6,
       "previewWords": "cart · pancakes · vendor"
+    },
+    {
+      "id": 245,
+      "title": "下棋聊天",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #6b6f5b 0%, #c98574 50%, #2f2f2f 100%)",
+      "wordCount": 6,
+      "previewWords": "chess · board · piece"
     }
   ]
 }
