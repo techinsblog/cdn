@@ -784,6 +784,14 @@
       "gradient": "linear-gradient(135deg, #5EB7C8 0%, #E7B43C 50%, #6A4A2F 100%)",
       "wordCount": 6,
       "previewWords": "train · track · platform"
+    },
+    {
+      "id": 205,
+      "title": "坐缆车上山",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #C9D7DF 0%, #6E7E87 50%, #3F4A4D 100%)",
+      "wordCount": 6,
+      "previewWords": "cable car · mountain · cable"
     }
   ]
 }
