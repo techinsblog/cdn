@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "id": 203,
+  "title": "地铁等车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #1f2a44 0%, #3fa46a 50%, #c9d94a 100%)",
+  "sentence": {
+    "en": "Looks like the train's not here yet.",
+    "zh": "看样子车还没到呢。",
+    "highlights": [
+      "train"
+    ]
+  },
+  "words": [
+    {
+      "id": "platform",
+      "text": "platform",
+      "zhText": "站台",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "n.",
+      "meaning": "站台",
+      "example": {
+        "en": "Wait for me on the platform.",
+        "zh": "你在站台等我就行。"
+      },
+      "synonyms": [
+        {
+          "en": "station area",
+          "zh": "站内区域"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 56
+      }
+    },
+    {
+      "id": "train",
+      "text": "train",
+      "zhText": "地铁",
+      "phonetic": "/treɪn/",
+      "pos": "n.",
+      "meaning": "地铁",
+      "example": {
+        "en": "The train should be here in a minute.",
+        "zh": "地铁应该马上就到了。"
+      },
+      "synonyms": [
+        {
+          "en": "subway",
+          "zh": "地铁"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 46
+      }
+    },
+    {
+      "id": "volunteer",
+      "text": "volunteer",
+      "zhText": "志愿者",
+      "phonetic": "/ˌvɑːlənˈtɪr/",
+      "pos": "n.",
+      "meaning": "志愿者",
+      "example": {
+        "en": "Ask the volunteer if you need help.",
+        "zh": "要是需要帮忙，就问下志愿者。"
+      },
+      "synonyms": [
+        {
+          "en": "helper",
+          "zh": "帮手"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 67
+      }
+    },
+    {
+      "id": "screen",
+      "text": "screen",
+      "zhText": "屏幕",
+      "phonetic": "/skriːn/",
+      "pos": "n.",
+      "meaning": "屏幕",
+      "example": {
+        "en": "Check the screen for the next train.",
+        "zh": "看看屏幕上下一班车什么时候到。"
+      },
+      "synonyms": [
+        {
+          "en": "display",
+          "zh": "显示屏"
+        }
+      ],
+      "position": {
+        "x": 86,
+        "y": 16
+      }
+    },
+    {
+      "id": "exit",
+      "text": "exit",
+      "zhText": "出口",
+      "phonetic": "/ˈeksɪt/",
+      "pos": "n.",
+      "meaning": "出口",
+      "example": {
+        "en": "The exit is that way.",
+        "zh": "出口在那边。"
+      },
+      "synonyms": [
+        {
+          "en": "way out",
+          "zh": "出口"
+        }
+      ],
+      "position": {
+        "x": 12,
+        "y": 22
+      }
+    },
+    {
+      "id": "wait",
+      "text": "wait",
+      "zhText": "等",
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaning": "等",
+      "example": {
+        "en": "Just wait here with me.",
+        "zh": "就在这儿陪我等会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stay",
+          "zh": "待着"
+        }
+      ],
+      "position": {
+        "x": 49,
+        "y": 84
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "wait for the train",
+      "meaning": "等地铁"
+    },
+    {
+      "phrase": "head to the exit",
+      "meaning": "往出口走"
+    },
+    {
+      "phrase": "check the screen",
+      "meaning": "看下屏幕"
+    }
+  ]
+}
