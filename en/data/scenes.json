@@ -552,6 +552,14 @@
       "gradient": "linear-gradient(135deg, #89AFC7 0%, #6F8796 50%, #3E4F5C 100%)",
       "wordCount": 6,
       "previewWords": "plane · gate · engine"
+    },
+    {
+      "id": 176,
+      "title": "抬轿游行",
+      "categoryId": "culture",
+      "gradient": "linear-gradient(135deg, #1f3a5f 0%, #c94f2d 50%, #f2b544 100%)",
+      "wordCount": 6,
+      "previewWords": "sedan chair · parade · pole"
     }
   ]
 }
