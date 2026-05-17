@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 219,
+  "title": "路上堵车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #2f3e46 0%, #52796f 50%, #84a98c 100%)",
+  "sentence": {
+    "en": "Traffic is barely moving.",
+    "zh": "这路况，基本就没怎么动。",
+    "highlights": [
+      "traffic",
+      "move"
+    ]
+  },
+  "words": [
+    {
+      "id": "traffic",
+      "text": "traffic",
+      "zhText": "车流",
+      "phonetic": "/ˈtræfɪk/",
+      "pos": "n.",
+      "meaning": "车流，路上的车况",
+      "example": {
+        "en": "Traffic is crazy right now.",
+        "zh": "现在路上堵得离谱。"
+      },
+      "synonyms": [
+        {
+          "en": "cars",
+          "zh": "车辆"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 12
+      }
+    },
+    {
+      "id": "motorbike",
+      "text": "motorbike",
+      "zhText": "摩托",
+      "phonetic": "/ˈmoʊtərbaɪk/",
+      "pos": "n.",
+      "meaning": "摩托车",
+      "example": {
+        "en": "There are motorbikes everywhere.",
+        "zh": "到处都是摩托车。"
+      },
+      "synonyms": [
+        {
+          "en": "motorcycle",
+          "zh": "摩托车"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 78
+      }
+    },
+    {
+      "id": "car",
+      "text": "car",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "That black car isn't moving either.",
+        "zh": "那辆黑车也一动不动。"
+      },
+      "synonyms": [
+        {
+          "en": "vehicle",
+          "zh": "车辆"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 64
+      }
+    },
+    {
+      "id": "helmet",
+      "text": "helmet",
+      "zhText": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "pos": "n.",
+      "meaning": "头盔",
+      "example": {
+        "en": "Don't forget your helmet.",
+        "zh": "别忘了戴头盔。"
+      },
+      "synonyms": [
+        {
+          "en": "headgear",
+          "zh": "护具"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 26
+      }
+    },
+    {
+      "id": "jam",
+      "text": "jam",
+      "zhText": "堵车",
+      "phonetic": "/dʒæm/",
+      "pos": "n.",
+      "meaning": "堵车",
+      "example": {
+        "en": "We're stuck in a huge jam.",
+        "zh": "我们堵在一大段车流里了。"
+      },
+      "synonyms": [
+        {
+          "en": "backup",
+          "zh": "拥堵"
+        }
+      ],
+      "position": {
+        "x": 89,
+        "y": 44
+      }
+    },
+    {
+      "id": "move",
+      "text": "moving",
+      "zhText": "挪动",
+      "phonetic": "/muːv/",
+      "pos": "v.",
+      "meaning": "移动，往前挪",
+      "example": {
+        "en": "We've barely moved for ten minutes.",
+        "zh": "十分钟了，几乎没往前挪。"
+      },
+      "synonyms": [
+        {
+          "en": "go",
+          "zh": "走"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 52
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "stuck in traffic",
+      "meaning": "堵在路上"
+    },
+    {
+      "phrase": "heavy traffic",
+      "meaning": "车很多，很堵"
+    },
+    {
+      "phrase": "ride a motorbike",
+      "meaning": "骑摩托车"
+    }
+  ]
+}
