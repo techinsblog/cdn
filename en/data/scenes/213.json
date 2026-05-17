@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 213,
+  "title": "奶茶店备单",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #0f4c5c 0%, #ff8a00 50%, #fff3e6 100%)",
+  "sentence": {
+    "en": "Looks busy at the drink counter.",
+    "zh": "这家饮品柜台看着挺忙的。",
+    "highlights": [
+      "counter",
+      "drink"
+    ]
+  },
+  "words": [
+    {
+      "id": "counter",
+      "text": "counter",
+      "zhText": "柜台",
+      "phonetic": "/ˈkaʊntər/",
+      "pos": "n.",
+      "meaning": "柜台",
+      "example": {
+        "en": "Just wait by the counter for your drink.",
+        "zh": "就在柜台这儿等你的饮料就行。"
+      },
+      "synonyms": [
+        {
+          "en": "bar",
+          "zh": "吧台"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 58
+      }
+    },
+    {
+      "id": "drink",
+      "text": "drink",
+      "zhText": "饮料",
+      "phonetic": "/drɪŋk/",
+      "pos": "n.",
+      "meaning": "饮料",
+      "example": {
+        "en": "My drink should be ready in a minute.",
+        "zh": "我的饮料应该马上就好了。"
+      },
+      "synonyms": [
+        {
+          "en": "beverage",
+          "zh": "饮品"
+        }
+      ],
+      "position": {
+        "x": 45,
+        "y": 66
+      }
+    },
+    {
+      "id": "staff",
+      "text": "staff",
+      "zhText": "店员",
+      "phonetic": "/stæf/",
+      "pos": "n.",
+      "meaning": "店员",
+      "example": {
+        "en": "The staff are moving really fast today.",
+        "zh": "今天店员动作都好快。"
+      },
+      "synonyms": [
+        {
+          "en": "worker",
+          "zh": "员工"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 41
+      }
+    },
+    {
+      "id": "menu",
+      "text": "menu",
+      "zhText": "菜单",
+      "phonetic": "/ˈmenjuː/",
+      "pos": "n.",
+      "meaning": "菜单",
+      "example": {
+        "en": "Check the menu first if you can't decide.",
+        "zh": "拿不定主意的话先看看菜单。"
+      },
+      "synonyms": [
+        {
+          "en": "list",
+          "zh": "单子"
+        }
+      ],
+      "position": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": "order",
+      "text": "order",
+      "zhText": "点单",
+      "phonetic": "/ˈɔːrdər/",
+      "pos": "v.",
+      "meaning": "点单",
+      "example": {
+        "en": "I already ordered mine on the app.",
+        "zh": "我已经在手机上点好了。"
+      },
+      "synonyms": [
+        {
+          "en": "book",
+          "zh": "预订"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 48
+      }
+    },
+    {
+      "id": "machine",
+      "text": "machine",
+      "zhText": "机器",
+      "phonetic": "/məˈʃiːn/",
+      "pos": "n.",
+      "meaning": "机器",
+      "example": {
+        "en": "That machine is still making the tea.",
+        "zh": "那台机器还在做茶呢。"
+      },
+      "synonyms": [
+        {
+          "en": "maker",
+          "zh": "设备"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 47
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "grab a drink",
+      "meaning": "买杯喝的"
+    },
+    {
+      "phrase": "place an order",
+      "meaning": "下单"
+    },
+    {
+      "phrase": "check the menu",
+      "meaning": "看看菜单"
+    }
+  ]
+}
