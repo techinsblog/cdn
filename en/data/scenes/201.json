@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 201,
+  "title": "街头买熟食",
+  "categoryId": "food",
+  "gradient": "linear-gradient(135deg, #d9c6a3 0%, #8f7a5a 50%, #4f5b46 100%)",
+  "sentence": {
+    "en": "There's a crowd around the food stall.",
+    "zh": "这家熟食摊前面围了好多人。",
+    "highlights": [
+      "stall",
+      "crowd"
+    ]
+  },
+  "words": [
+    {
+      "id": "stall",
+      "text": "stall",
+      "zhText": "摊位",
+      "phonetic": "/stɔːl/",
+      "pos": "n.",
+      "meaning": "小吃摊，路边摊",
+      "example": {
+        "en": "Let's grab something from that stall.",
+        "zh": "咱们去那个摊上买点吃的吧。"
+      },
+      "synonyms": [
+        {
+          "en": "stand",
+          "zh": "摊子"
+        }
+      ],
+      "position": {
+        "x": 71,
+        "y": 42
+      }
+    },
+    {
+      "id": "duck",
+      "text": "duck",
+      "zhText": "鸭肉",
+      "phonetic": "/dʌk/",
+      "pos": "n.",
+      "meaning": "鸭肉",
+      "example": {
+        "en": "The duck looks really good here.",
+        "zh": "这家的鸭肉看着真不错。"
+      },
+      "synonyms": [
+        {
+          "en": "roast duck",
+          "zh": "烤鸭"
+        }
+      ],
+      "position": {
+        "x": 45,
+        "y": 52
+      }
+    },
+    {
+      "id": "vendor",
+      "text": "vendor",
+      "zhText": "摊主",
+      "phonetic": "/ˈvendər/",
+      "pos": "n.",
+      "meaning": "摊主，小贩",
+      "example": {
+        "en": "The vendor is chopping it up fast.",
+        "zh": "老板切得可快了。"
+      },
+      "synonyms": [
+        {
+          "en": "seller",
+          "zh": "卖家"
+        }
+      ],
+      "position": {
+        "x": 79,
+        "y": 68
+      }
+    },
+    {
+      "id": "crowd",
+      "text": "crowd",
+      "zhText": "人群",
+      "phonetic": "/kraʊd/",
+      "pos": "n.",
+      "meaning": "一群人，人堆",
+      "example": {
+        "en": "It's always a crowd around lunchtime.",
+        "zh": "一到中午这儿总是很多人。"
+      },
+      "synonyms": [
+        {
+          "en": "group",
+          "zh": "一群人"
+        }
+      ],
+      "position": {
+        "x": 60,
+        "y": 28
+      }
+    },
+    {
+      "id": "wait",
+      "text": "wait",
+      "zhText": "等",
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaning": "等，排着等",
+      "example": {
+        "en": "We might have to wait a bit.",
+        "zh": "咱们可能得等一会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "hold on",
+          "zh": "稍等"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 58
+      }
+    },
+    {
+      "id": "umbrella",
+      "text": "umbrella",
+      "zhText": "大伞",
+      "phonetic": "/ʌmˈbrelə/",
+      "pos": "n.",
+      "meaning": "伞，遮阳伞",
+      "example": {
+        "en": "That umbrella gives the stall some shade.",
+        "zh": "那把大伞正好给摊位挡挡太阳。"
+      },
+      "synonyms": [
+        {
+          "en": "parasol",
+          "zh": "遮阳伞"
+        }
+      ],
+      "position": {
+        "x": 50,
+        "y": 12
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "food stall",
+      "meaning": "小吃摊"
+    },
+    {
+      "phrase": "wait in line",
+      "meaning": "排队等"
+    },
+    {
+      "phrase": "grab a bite",
+      "meaning": "随便吃点"
+    }
+  ]
+}
