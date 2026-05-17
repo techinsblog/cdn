@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 218,
+  "title": "城市堵车",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #5f6f7f 0%, #8fb3c9 50%, #d7c29a 100%)",
+  "sentence": {
+    "en": "Traffic is pretty heavy downtown.",
+    "zh": "市区这会儿车还挺堵的。",
+    "highlights": [
+      "traffic",
+      "downtown"
+    ]
+  },
+  "words": [
+    {
+      "id": "traffic",
+      "text": "traffic",
+      "zhText": "车流",
+      "phonetic": "/ˈtræfɪk/",
+      "pos": "n.",
+      "meaning": "车流，路上的车况",
+      "example": {
+        "en": "The traffic is bad again today.",
+        "zh": "今天路上又堵了。"
+      },
+      "synonyms": [
+        {
+          "en": "cars",
+          "zh": "车流"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 78
+      }
+    },
+    {
+      "id": "car",
+      "text": "cars",
+      "zhText": "汽车",
+      "phonetic": "/kɑːr/",
+      "pos": "n.",
+      "meaning": "汽车",
+      "example": {
+        "en": "There are so many cars out right now.",
+        "zh": "这会儿外面车也太多了。"
+      },
+      "synonyms": [
+        {
+          "en": "vehicle",
+          "zh": "车辆"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 86
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "马路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "马路，道路",
+      "example": {
+        "en": "This road is always packed after work.",
+        "zh": "这条路一下班基本都很堵。"
+      },
+      "synonyms": [
+        {
+          "en": "street",
+          "zh": "街道"
+        }
+      ],
+      "position": {
+        "x": 50,
+        "y": 66
+      }
+    },
+    {
+      "id": "building",
+      "text": "buildings",
+      "zhText": "高楼",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "pos": "n.",
+      "meaning": "楼，高楼大厦",
+      "example": {
+        "en": "Those buildings look really tall.",
+        "zh": "那些楼看着真高。"
+      },
+      "synonyms": [
+        {
+          "en": "tower",
+          "zh": "高楼"
+        }
+      ],
+      "position": {
+        "x": 76,
+        "y": 24
+      }
+    },
+    {
+      "id": "lane",
+      "text": "lane",
+      "zhText": "车道",
+      "phonetic": "/leɪn/",
+      "pos": "n.",
+      "meaning": "车道",
+      "example": {
+        "en": "Stay in your lane here.",
+        "zh": "这段路先别乱变道。"
+      },
+      "synonyms": [
+        {
+          "en": "line",
+          "zh": "道"
+        }
+      ],
+      "position": {
+        "x": 41,
+        "y": 58
+      }
+    },
+    {
+      "id": "downtown",
+      "text": "downtown",
+      "zhText": "市区",
+      "phonetic": "/ˌdaʊnˈtaʊn/",
+      "pos": "n./adv.",
+      "meaning": "市中心，城区",
+      "example": {
+        "en": "I'm heading downtown now.",
+        "zh": "我现在正往市区走。"
+      },
+      "synonyms": [
+        {
+          "en": "city center",
+          "zh": "市中心"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 36
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "heavy traffic",
+      "meaning": "车很多，很堵"
+    },
+    {
+      "phrase": "stuck in traffic",
+      "meaning": "堵在路上"
+    },
+    {
+      "phrase": "drive downtown",
+      "meaning": "开车去市区"
+    }
+  ]
+}
