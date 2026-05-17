@@ -992,6 +992,14 @@
       "gradient": "linear-gradient(135deg, #c96a4a 0%, #d9b38c 50%, #8f2f23 100%)",
       "wordCount": 6,
       "previewWords": "shop · street · boxes"
+    },
+    {
+      "id": 231,
+      "title": "带娃玩小鸡",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #F6D365 0%, #FDA085 50%, #84FAB0 100%)",
+      "wordCount": 6,
+      "previewWords": "chicks · feeding · pool"
     }
   ]
 }
