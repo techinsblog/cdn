@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "id": 187,
+  "title": "溪边玩水",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #c9d6df 0%, #9fb3c8 50%, #6f7f89 100%)",
+  "sentence": {
+    "en": "Looks like the kids are playing in the stream.",
+    "zh": "看着像是在溪边玩水呢。",
+    "highlights": [
+      "kids",
+      "stream",
+      "playing"
+    ]
+  },
+  "words": [
+    {
+      "id": "kid",
+      "text": "kids",
+      "zhText": "小孩",
+      "phonetic": "/kɪd/",
+      "pos": "n.",
+      "meaning": "小孩",
+      "example": {
+        "en": "The kids are having a great time.",
+        "zh": "这俩小孩玩得可开心了。"
+      },
+      "synonyms": [
+        {
+          "en": "child",
+          "zh": "孩子"
+        }
+      ],
+      "position": {
+        "x": 19,
+        "y": 47
+      }
+    },
+    {
+      "id": "stream",
+      "text": "stream",
+      "zhText": "小溪",
+      "phonetic": "/striːm/",
+      "pos": "n.",
+      "meaning": "小溪",
+      "example": {
+        "en": "The water in the stream is really shallow.",
+        "zh": "这条小溪的水还挺浅的。"
+      },
+      "synonyms": [
+        {
+          "en": "creek",
+          "zh": "小溪"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 38
+      }
+    },
+    {
+      "id": "play",
+      "text": "playing",
+      "zhText": "玩水",
+      "phonetic": "/pleɪ/",
+      "pos": "v.",
+      "meaning": "玩耍",
+      "example": {
+        "en": "They're just playing in the water.",
+        "zh": "他们就是在水里玩一会儿。"
+      },
+      "synonyms": [
+        {
+          "en": "have fun",
+          "zh": "玩得开心"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 58
+      }
+    },
+    {
+      "id": "rock",
+      "text": "rocks",
+      "zhText": "石头",
+      "phonetic": "/rɑːk/",
+      "pos": "n.",
+      "meaning": "石头",
+      "example": {
+        "en": "Watch out, the rocks are slippery.",
+        "zh": "小心点，石头有点滑。"
+      },
+      "synonyms": [
+        {
+          "en": "stone",
+          "zh": "石头"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 74
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水",
+      "example": {
+        "en": "The water feels pretty cool.",
+        "zh": "这水摸着还挺凉快的。"
+      },
+      "synonyms": [
+        {
+          "en": "river water",
+          "zh": "河水"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 52
+      }
+    },
+    {
+      "id": "bucket",
+      "text": "bucket",
+      "zhText": "桶",
+      "phonetic": "/ˈbʌkɪt/",
+      "pos": "n.",
+      "meaning": "小桶",
+      "example": {
+        "en": "Pass me the bucket for a second.",
+        "zh": "把那个小桶递我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "pail",
+          "zh": "桶"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 63
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "play in the water",
+      "meaning": "在水里玩"
+    },
+    {
+      "phrase": "pick up rocks",
+      "meaning": "捡石头"
+    },
+    {
+      "phrase": "by the stream",
+      "meaning": "在溪边"
+    }
+  ]
+}
