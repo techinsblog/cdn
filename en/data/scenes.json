@@ -888,6 +888,14 @@
       "gradient": "linear-gradient(135deg, #dbeaf3 0%, #9fc3d9 50%, #5f86a3 100%)",
       "wordCount": 6,
       "previewWords": "boat · docked · water"
+    },
+    {
+      "id": 218,
+      "title": "城市堵车",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #5f6f7f 0%, #8fb3c9 50%, #d7c29a 100%)",
+      "wordCount": 6,
+      "previewWords": "traffic · cars · road"
     }
   ]
 }
