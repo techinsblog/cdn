@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 179,
+  "title": "码头吊机",
+  "categoryId": "travel",
+  "gradient": "linear-gradient(135deg, #62c7f2 0%, #4d8fd6 50%, #f3b36b 100%)",
+  "sentence": {
+    "en": "Those harbor cranes look huge up close.",
+    "zh": "这些港口吊机近看真的好大。",
+    "highlights": [
+      "crane",
+      "harbor"
+    ]
+  },
+  "words": [
+    {
+      "id": "crane",
+      "text": "crane",
+      "zhText": "吊机",
+      "phonetic": "/kreɪn/",
+      "pos": "n.",
+      "meaning": "吊机，起重机",
+      "example": {
+        "en": "That crane is seriously massive.",
+        "zh": "那个吊机真的大得夸张。"
+      },
+      "synonyms": [
+        {
+          "en": "lift",
+          "zh": "起重设备"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 20
+      }
+    },
+    {
+      "id": "harbor",
+      "text": "harbor",
+      "zhText": "港口",
+      "phonetic": "/ˈhɑːrbər/",
+      "pos": "n.",
+      "meaning": "港口",
+      "example": {
+        "en": "The harbor looks pretty calm today.",
+        "zh": "今天这个港口看着还挺平静的。"
+      },
+      "synonyms": [
+        {
+          "en": "port",
+          "zh": "港口"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 76
+      }
+    },
+    {
+      "id": "water",
+      "text": "water",
+      "zhText": "水面",
+      "phonetic": "/ˈwɔːtər/",
+      "pos": "n.",
+      "meaning": "水面，水",
+      "example": {
+        "en": "The water's really blue here.",
+        "zh": "这边的水看着还挺蓝的。"
+      },
+      "synonyms": [
+        {
+          "en": "sea",
+          "zh": "海水"
+        }
+      ],
+      "position": {
+        "x": 16,
+        "y": 84
+      }
+    },
+    {
+      "id": "dock",
+      "text": "dock",
+      "zhText": "码头",
+      "phonetic": "/dɑːk/",
+      "pos": "n.",
+      "meaning": "码头",
+      "example": {
+        "en": "Let's walk down to the dock.",
+        "zh": "咱们走到码头那边去吧。"
+      },
+      "synonyms": [
+        {
+          "en": "pier",
+          "zh": "栈桥"
+        }
+      ],
+      "position": {
+        "x": 33,
+        "y": 66
+      }
+    },
+    {
+      "id": "railing",
+      "text": "railing",
+      "zhText": "栏杆",
+      "phonetic": "/ˈreɪlɪŋ/",
+      "pos": "n.",
+      "meaning": "栏杆",
+      "example": {
+        "en": "Just lean on the railing for a second.",
+        "zh": "你先靠着栏杆歇一下。"
+      },
+      "synonyms": [
+        {
+          "en": "barrier",
+          "zh": "护栏"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 92
+      }
+    },
+    {
+      "id": "skyline",
+      "text": "skyline",
+      "zhText": "天际线",
+      "phonetic": "/ˈskaɪlaɪn/",
+      "pos": "n.",
+      "meaning": "城市天际线",
+      "example": {
+        "en": "The skyline looks so clear from here.",
+        "zh": "从这儿看城市天际线还挺清楚的。"
+      },
+      "synonyms": [
+        {
+          "en": "city view",
+          "zh": "城市景色"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 58
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "harbor crane",
+      "meaning": "港口吊机"
+    },
+    {
+      "phrase": "by the water",
+      "meaning": "在水边"
+    },
+    {
+      "phrase": "walk along the dock",
+      "meaning": "沿着码头走一走"
+    }
+  ]
+}
