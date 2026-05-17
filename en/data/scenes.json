@@ -371,7 +371,7 @@
     },
     {
       "id": 153,
-      "title": "他在攀岩墙上发力",
+      "title": "他在攀岩",
       "categoryId": "sports",
       "gradient": "linear-gradient(135deg, #8C6A4A 0%, #B88A5A 50%, #5C4A3D 100%)",
       "wordCount": 6,
@@ -627,7 +627,7 @@
     },
     {
       "id": 185,
-      "title": "爬山台阶",
+      "title": "登山台阶",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #dfeaf0 0%, #7f8f63 50%, #3f3a33 100%)",
       "wordCount": 6,
@@ -803,7 +803,7 @@
     },
     {
       "id": 207,
-      "title": "飞机过境",
+      "title": "飞机飞过",
       "categoryId": "travel",
       "gradient": "linear-gradient(135deg, #5FA0D6 0%, #7FA7B8 50%, #4E5D43 100%)",
       "wordCount": 6,
@@ -931,7 +931,7 @@
     },
     {
       "id": 223,
-      "title": "牵着气球",
+      "title": "拿着气球",
       "categoryId": "daily",
       "gradient": "linear-gradient(135deg, #8ec5fc 0%, #cfd9df 50%, #f6d365 100%)",
       "wordCount": 6,
@@ -995,7 +995,7 @@
     },
     {
       "id": 231,
-      "title": "带娃玩小鸡",
+      "title": "带娃逗小鸡",
       "categoryId": "daily",
       "gradient": "linear-gradient(135deg, #F6D365 0%, #FDA085 50%, #84FAB0 100%)",
       "wordCount": 6,
@@ -1003,7 +1003,7 @@
     },
     {
       "id": 232,
-      "title": "投篮上篮",
+      "title": "投篮",
       "categoryId": "sports",
       "gradient": "linear-gradient(135deg, #e94f37 0%, #2d6cdf 50%, #f4c542 100%)",
       "wordCount": 6,
