@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 232,
+  "title": "投篮上篮",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #e94f37 0%, #2d6cdf 50%, #f4c542 100%)",
+  "sentence": {
+    "en": "Nice layup by the hoop.",
+    "zh": "这上篮真不错。",
+    "highlights": [
+      "layup",
+      "hoop"
+    ]
+  },
+  "words": [
+    {
+      "id": "layup",
+      "text": "layup",
+      "zhText": "上篮",
+      "phonetic": "/ˈleɪˌʌp/",
+      "pos": "n.",
+      "meaning": "上篮",
+      "example": {
+        "en": "That layup was smooth.",
+        "zh": "刚刚那个上篮真顺。"
+      },
+      "synonyms": [
+        {
+          "en": "close shot",
+          "zh": "近距离投篮"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 43
+      }
+    },
+    {
+      "id": "hoop",
+      "text": "hoop",
+      "zhText": "篮筐",
+      "phonetic": "/huːp/",
+      "pos": "n.",
+      "meaning": "篮筐",
+      "example": {
+        "en": "The ball hit the hoop and bounced out.",
+        "zh": "球砸到篮筐又弹出来了。"
+      },
+      "synonyms": [
+        {
+          "en": "rim",
+          "zh": "篮圈"
+        }
+      ],
+      "position": {
+        "x": 21,
+        "y": 11
+      }
+    },
+    {
+      "id": "basketball",
+      "text": "basketball",
+      "zhText": "篮球",
+      "phonetic": "/ˈbæskɪtbɔːl/",
+      "pos": "n.",
+      "meaning": "篮球",
+      "example": {
+        "en": "Pass me the basketball.",
+        "zh": "把球传我一下。"
+      },
+      "synonyms": [
+        {
+          "en": "ball",
+          "zh": "球"
+        }
+      ],
+      "position": {
+        "x": 54,
+        "y": 18
+      }
+    },
+    {
+      "id": "jump",
+      "text": "jump",
+      "zhText": "跳起",
+      "phonetic": "/dʒʌmp/",
+      "pos": "v.",
+      "meaning": "跳起来",
+      "example": {
+        "en": "Jump a little higher next time.",
+        "zh": "下次再跳高一点。"
+      },
+      "synonyms": [
+        {
+          "en": "leap",
+          "zh": "跃起"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 61
+      }
+    },
+    {
+      "id": "jersey",
+      "text": "jersey",
+      "zhText": "球衣",
+      "phonetic": "/ˈdʒɜːrzi/",
+      "pos": "n.",
+      "meaning": "球衣",
+      "example": {
+        "en": "I like that blue jersey.",
+        "zh": "那件蓝色球衣还挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "uniform",
+          "zh": "队服"
+        }
+      ],
+      "position": {
+        "x": 57,
+        "y": 74
+      }
+    },
+    {
+      "id": "defend",
+      "text": "defend",
+      "zhText": "防守",
+      "phonetic": "/dɪˈfend/",
+      "pos": "v.",
+      "meaning": "防守",
+      "example": {
+        "en": "She's trying to defend that shot.",
+        "zh": "她正想防住这个球。"
+      },
+      "synonyms": [
+        {
+          "en": "guard",
+          "zh": "盯防"
+        }
+      ],
+      "position": {
+        "x": 85,
+        "y": 86
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "shoot the ball",
+      "meaning": "投篮"
+    },
+    {
+      "phrase": "go for a layup",
+      "meaning": "上篮去"
+    },
+    {
+      "phrase": "play defense",
+      "meaning": "打防守"
+    }
+  ]
+}
