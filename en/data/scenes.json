@@ -1168,6 +1168,14 @@
       "gradient": "linear-gradient(135deg, #5b1f1f 0%, #c97a2b 50%, #6fa3c8 100%)",
       "wordCount": 6,
       "previewWords": "parade · armor · spear"
+    },
+    {
+      "id": 253,
+      "title": "飞机登机",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #8ea9b8 0%, #bfc9cf 50%, #5f6f78 100%)",
+      "wordCount": 6,
+      "previewWords": "plane · gate · boarding"
     }
   ]
 }
