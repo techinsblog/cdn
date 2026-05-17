@@ -1144,6 +1144,14 @@
       "gradient": "linear-gradient(135deg, #2f2f2f 0%, #d9a11e 50%, #b61f1f 100%)",
       "wordCount": 6,
       "previewWords": "lion dance · costume · performer"
+    },
+    {
+      "id": 250,
+      "title": "店里看报",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #C97B63 0%, #E9D8C5 50%, #8C6A58 100%)",
+      "wordCount": 6,
+      "previewWords": "newspaper · shop · bowl"
     }
   ]
 }
