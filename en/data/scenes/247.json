@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 247,
+  "title": "路边拥抱",
+  "categoryId": "social",
+  "gradient": "linear-gradient(135deg, #c94b2c 0%, #e07a3f 50%, #f2d3a1 100%)",
+  "sentence": {
+    "en": "Looks like a warm hug on the street.",
+    "zh": "看着像是在路边抱了个大大的拥抱。",
+    "highlights": [
+      "hug",
+      "street"
+    ]
+  },
+  "words": [
+    {
+      "id": "hug",
+      "text": "hug",
+      "zhText": "拥抱",
+      "phonetic": "/hʌɡ/",
+      "pos": "n./v.",
+      "meaning": "拥抱",
+      "example": {
+        "en": "Come here, give me a hug.",
+        "zh": "过来，抱一下。"
+      },
+      "synonyms": [
+        {
+          "en": "embrace",
+          "zh": "拥抱"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 70
+      }
+    },
+    {
+      "id": "lantern",
+      "text": "lantern",
+      "zhText": "灯笼",
+      "phonetic": "/ˈlæntərn/",
+      "pos": "n.",
+      "meaning": "灯笼",
+      "example": {
+        "en": "The red lanterns look so nice at night.",
+        "zh": "这些红灯笼晚上看着真挺好看。"
+      },
+      "synonyms": [
+        {
+          "en": "light",
+          "zh": "灯"
+        }
+      ],
+      "position": {
+        "x": 56,
+        "y": 18
+      }
+    },
+    {
+      "id": "street",
+      "text": "street",
+      "zhText": "街道",
+      "phonetic": "/striːt/",
+      "pos": "n.",
+      "meaning": "街道",
+      "example": {
+        "en": "This street gets really busy at night.",
+        "zh": "这条街一到晚上就特别热闹。"
+      },
+      "synonyms": [
+        {
+          "en": "road",
+          "zh": "马路"
+        }
+      ],
+      "position": {
+        "x": 84,
+        "y": 78
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "路牌",
+      "phonetic": "/saɪn/",
+      "pos": "n.",
+      "meaning": "路牌",
+      "example": {
+        "en": "I almost missed the sign.",
+        "zh": "我差点没看到这个牌子。"
+      },
+      "synonyms": [
+        {
+          "en": "notice",
+          "zh": "标志"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 24
+      }
+    },
+    {
+      "id": "sidewalk",
+      "text": "sidewalk",
+      "zhText": "人行道",
+      "phonetic": "/ˈsaɪdwɔːk/",
+      "pos": "n.",
+      "meaning": "人行道",
+      "example": {
+        "en": "Let's walk on the sidewalk.",
+        "zh": "咱们走人行道吧。"
+      },
+      "synonyms": [
+        {
+          "en": "pavement",
+          "zh": "人行道"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 92
+      }
+    },
+    {
+      "id": "drink",
+      "text": "drink",
+      "zhText": "饮料",
+      "phonetic": "/drɪŋk/",
+      "pos": "n.",
+      "meaning": "饮料",
+      "example": {
+        "en": "I still have my drink in my hand.",
+        "zh": "我手里还拿着饮料呢。"
+      },
+      "synonyms": [
+        {
+          "en": "beverage",
+          "zh": "饮品"
+        }
+      ],
+      "position": {
+        "x": 8,
+        "y": 82
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "give someone a hug",
+      "meaning": "抱一下某人"
+    },
+    {
+      "phrase": "walk down the street",
+      "meaning": "沿着街走"
+    },
+    {
+      "phrase": "red lantern",
+      "meaning": "红灯笼"
+    }
+  ]
+}
