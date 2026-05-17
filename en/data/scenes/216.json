@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 216,
+  "title": "街头卖气球",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #f7d1dc 0%, #c9d7df 50%, #6f7f6e 100%)",
+  "sentence": {
+    "en": "There's a guy selling balloons by the road.",
+    "zh": "路边有个大哥在卖气球。",
+    "highlights": [
+      "balloon",
+      "road"
+    ]
+  },
+  "words": [
+    {
+      "id": "balloon",
+      "text": "balloons",
+      "zhText": "气球",
+      "phonetic": "/bəˈluːn/",
+      "pos": "n.",
+      "meaning": "气球",
+      "example": {
+        "en": "Those balloons are huge.",
+        "zh": "那些气球也太大了吧。"
+      },
+      "synonyms": [
+        {
+          "en": "party balloon",
+          "zh": "派对气球"
+        }
+      ],
+      "position": {
+        "x": 42,
+        "y": 30
+      }
+    },
+    {
+      "id": "tricycle",
+      "text": "tricycle",
+      "zhText": "三轮车",
+      "phonetic": "/ˈtraɪsɪkəl/",
+      "pos": "n.",
+      "meaning": "三轮车",
+      "example": {
+        "en": "He gets around on a tricycle.",
+        "zh": "他平时就开这个三轮车到处跑。"
+      },
+      "synonyms": [
+        {
+          "en": "three-wheeler",
+          "zh": "三轮车"
+        }
+      ],
+      "position": {
+        "x": 20,
+        "y": 78
+      }
+    },
+    {
+      "id": "sell",
+      "text": "selling",
+      "zhText": "卖",
+      "phonetic": "/sel/",
+      "pos": "v.",
+      "meaning": "卖",
+      "example": {
+        "en": "He's out here selling toys and balloons.",
+        "zh": "他在这儿卖玩具和气球呢。"
+      },
+      "synonyms": [
+        {
+          "en": "trade",
+          "zh": "卖"
+        }
+      ],
+      "position": {
+        "x": 55,
+        "y": 66
+      }
+    },
+    {
+      "id": "road",
+      "text": "road",
+      "zhText": "马路",
+      "phonetic": "/roʊd/",
+      "pos": "n.",
+      "meaning": "马路",
+      "example": {
+        "en": "The road looks pretty busy today.",
+        "zh": "今天这条路看着挺忙的。"
+      },
+      "synonyms": [
+        {
+          "en": "street",
+          "zh": "街道"
+        }
+      ],
+      "position": {
+        "x": 74,
+        "y": 88
+      }
+    },
+    {
+      "id": "bus",
+      "text": "bus",
+      "zhText": "公交",
+      "phonetic": "/bʌs/",
+      "pos": "n.",
+      "meaning": "公交车",
+      "example": {
+        "en": "The bus is coming up behind him.",
+        "zh": "后面的公交车快开过来了。"
+      },
+      "synonyms": [
+        {
+          "en": "city bus",
+          "zh": "公交车"
+        }
+      ],
+      "position": {
+        "x": 11,
+        "y": 58
+      }
+    },
+    {
+      "id": "traffic",
+      "text": "traffic",
+      "zhText": "车流",
+      "phonetic": "/ˈtræfɪk/",
+      "pos": "n.",
+      "meaning": "车流",
+      "example": {
+        "en": "Traffic's kind of heavy right now.",
+        "zh": "这会儿车还真有点多。"
+      },
+      "synonyms": [
+        {
+          "en": "cars",
+          "zh": "车流"
+        }
+      ],
+      "position": {
+        "x": 90,
+        "y": 63
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "sell balloons",
+      "meaning": "卖气球"
+    },
+    {
+      "phrase": "on the road",
+      "meaning": "在路边"
+    },
+    {
+      "phrase": "heavy traffic",
+      "meaning": "车很多"
+    }
+  ]
+}
