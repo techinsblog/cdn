@@ -640,6 +640,14 @@
       "gradient": "linear-gradient(135deg, #F6E3A1 0%, #DFA65B 50%, #4F5D3A 100%)",
       "wordCount": 6,
       "previewWords": "shoulders · kid · walk"
+    },
+    {
+      "id": 187,
+      "title": "溪边玩水",
+      "categoryId": "daily",
+      "gradient": "linear-gradient(135deg, #c9d6df 0%, #9fb3c8 50%, #6f7f89 100%)",
+      "wordCount": 6,
+      "previewWords": "kids · stream · playing"
     }
   ]
 }
