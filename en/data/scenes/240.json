@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 240,
+  "title": "庙里上香",
+  "categoryId": "culture",
+  "gradient": "linear-gradient(135deg, #6b3f2a 0%, #c96f3d 50%, #f2c66d 100%)",
+  "sentence": {
+    "en": "Looks like they're offering incense.",
+    "zh": "看着像是在上香呢。",
+    "highlights": [
+      "incense",
+      "offer"
+    ]
+  },
+  "words": [
+    {
+      "id": "incense",
+      "text": "incense",
+      "zhText": "香",
+      "phonetic": "/ˈɪnsens/",
+      "pos": "n.",
+      "meaning": "香，线香",
+      "example": {
+        "en": "The incense smells really nice here.",
+        "zh": "这儿的香味闻着还挺舒服的。"
+      },
+      "synonyms": [
+        {
+          "en": "joss stick",
+          "zh": "香"
+        }
+      ],
+      "position": {
+        "x": 67,
+        "y": 46
+      }
+    },
+    {
+      "id": "bow",
+      "text": "bow",
+      "zhText": "鞠躬",
+      "phonetic": "/baʊ/",
+      "pos": "v.",
+      "meaning": "鞠躬，弯身行礼",
+      "example": {
+        "en": "Just bow a little before you go in.",
+        "zh": "进去前稍微鞠个躬就行。"
+      },
+      "synonyms": [
+        {
+          "en": "bend",
+          "zh": "弯身"
+        }
+      ],
+      "position": {
+        "x": 40,
+        "y": 58
+      }
+    },
+    {
+      "id": "offer",
+      "text": "offer",
+      "zhText": "供上",
+      "phonetic": "/ˈɔːfər/",
+      "pos": "v.",
+      "meaning": "供上，敬献",
+      "example": {
+        "en": "People come here to offer incense.",
+        "zh": "大家来这儿就是上香的。"
+      },
+      "synonyms": [
+        {
+          "en": "present",
+          "zh": "敬献"
+        }
+      ],
+      "position": {
+        "x": 54,
+        "y": 52
+      }
+    },
+    {
+      "id": "temple",
+      "text": "temple",
+      "zhText": "寺庙",
+      "phonetic": "/ˈtempl/",
+      "pos": "n.",
+      "meaning": "寺庙",
+      "example": {
+        "en": "This temple gets pretty busy on weekends.",
+        "zh": "这寺庙一到周末人就挺多。"
+      },
+      "synonyms": [
+        {
+          "en": "shrine",
+          "zh": "庙"
+        }
+      ],
+      "position": {
+        "x": 78,
+        "y": 18
+      }
+    },
+    {
+      "id": "courtyard",
+      "text": "courtyard",
+      "zhText": "院子",
+      "phonetic": "/ˈkɔːrtjɑːrd/",
+      "pos": "n.",
+      "meaning": "院子，庭院",
+      "example": {
+        "en": "Let's wait in the courtyard for a bit.",
+        "zh": "咱们先在院子里等会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "yard",
+          "zh": "院子"
+        }
+      ],
+      "position": {
+        "x": 22,
+        "y": 72
+      }
+    },
+    {
+      "id": "visitor",
+      "text": "visitor",
+      "zhText": "游客",
+      "phonetic": "/ˈvɪzɪtər/",
+      "pos": "n.",
+      "meaning": "来参观的人，游客",
+      "example": {
+        "en": "There are quite a few visitors today.",
+        "zh": "今天来的人还真不少。"
+      },
+      "synonyms": [
+        {
+          "en": "guest",
+          "zh": "来客"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 33
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "offer incense",
+      "meaning": "上香"
+    },
+    {
+      "phrase": "bow slightly",
+      "meaning": "微微鞠个躬"
+    },
+    {
+      "phrase": "visit a temple",
+      "meaning": "逛寺庙"
+    }
+  ]
+}
