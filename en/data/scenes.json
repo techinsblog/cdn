@@ -1120,6 +1120,14 @@
       "gradient": "linear-gradient(135deg, #1f2937 0%, #6b7280 50%, #f59e0b 100%)",
       "wordCount": 6,
       "previewWords": "traffic light · scooter · bike"
+    },
+    {
+      "id": 247,
+      "title": "路边拥抱",
+      "categoryId": "social",
+      "gradient": "linear-gradient(135deg, #c94b2c 0%, #e07a3f 50%, #f2d3a1 100%)",
+      "wordCount": 6,
+      "previewWords": "hug · lantern · street"
     }
   ]
 }
