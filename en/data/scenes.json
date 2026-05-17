@@ -616,6 +616,14 @@
       "gradient": "linear-gradient(135deg, #d9c6a3 0%, #aab58a 50%, #6f7d5c 100%)",
       "wordCount": 6,
       "previewWords": "laundry · clothesline · jacket"
+    },
+    {
+      "id": 184,
+      "title": "雨天散步",
+      "categoryId": "travel",
+      "gradient": "linear-gradient(135deg, #d9dde5 0%, #aab3bf 50%, #5c6673 100%)",
+      "wordCount": 7,
+      "previewWords": "rainy · walk · tower"
     }
   ]
 }
