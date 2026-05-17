@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 255,
+  "title": "店门口遛狗",
+  "categoryId": "pets",
+  "gradient": "linear-gradient(135deg, #8ec5fc 0%, #f6d365 50%, #fda085 100%)",
+  "sentence": {
+    "en": "There's a dog waiting outside the shop.",
+    "zh": "有只狗在店门口等着呢。",
+    "highlights": [
+      "dog",
+      "shop"
+    ]
+  },
+  "words": [
+    {
+      "id": "dog",
+      "text": "dog",
+      "zhText": "狗狗",
+      "phonetic": "/dɔːɡ/",
+      "pos": "n.",
+      "meaning": "狗",
+      "example": {
+        "en": "Your dog looks really friendly.",
+        "zh": "你家狗狗看着好亲人啊。"
+      },
+      "synonyms": [
+        {
+          "en": "puppy",
+          "zh": "小狗"
+        }
+      ],
+      "position": {
+        "x": 64,
+        "y": 48
+      }
+    },
+    {
+      "id": "leash",
+      "text": "leash",
+      "zhText": "牵绳",
+      "phonetic": "/liːʃ/",
+      "pos": "n.",
+      "meaning": "牵引绳",
+      "example": {
+        "en": "Hold the leash tight for a sec.",
+        "zh": "先把牵绳拉紧一下。"
+      },
+      "synonyms": [
+        {
+          "en": "lead",
+          "zh": "牵绳"
+        }
+      ],
+      "position": {
+        "x": 23,
+        "y": 56
+      }
+    },
+    {
+      "id": "shop",
+      "text": "shop",
+      "zhText": "小店",
+      "phonetic": "/ʃɑːp/",
+      "pos": "n.",
+      "meaning": "店铺",
+      "example": {
+        "en": "That little shop is always busy.",
+        "zh": "那家小店一直都挺忙的。"
+      },
+      "synonyms": [
+        {
+          "en": "store",
+          "zh": "商店"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 20
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sit",
+      "zhText": "坐着",
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaning": "坐",
+      "example": {
+        "en": "Just sit here and wait a minute.",
+        "zh": "你就坐这儿等一下吧。"
+      },
+      "synonyms": [
+        {
+          "en": "rest",
+          "zh": "歇着"
+        }
+      ],
+      "position": {
+        "x": 35,
+        "y": 42
+      }
+    },
+    {
+      "id": "sign",
+      "text": "sign",
+      "zhText": "招牌",
+      "phonetic": "/saɪn/",
+      "pos": "n.",
+      "meaning": "招牌",
+      "example": {
+        "en": "I saw the sign from across the street.",
+        "zh": "我在马路对面就看到这招牌了。"
+      },
+      "synonyms": [
+        {
+          "en": "board",
+          "zh": "牌子"
+        }
+      ],
+      "position": {
+        "x": 81,
+        "y": 30
+      }
+    },
+    {
+      "id": "sidewalk",
+      "text": "sidewalk",
+      "zhText": "路边",
+      "phonetic": "/ˈsaɪdwɔːk/",
+      "pos": "n.",
+      "meaning": "人行道",
+      "example": {
+        "en": "The dog's just standing on the sidewalk.",
+        "zh": "那只狗就站在路边呢。"
+      },
+      "synonyms": [
+        {
+          "en": "pavement",
+          "zh": "人行道"
+        }
+      ],
+      "position": {
+        "x": 50,
+        "y": 72
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "walk the dog",
+      "meaning": "遛狗"
+    },
+    {
+      "phrase": "wait outside",
+      "meaning": "在外面等"
+    },
+    {
+      "phrase": "sit by the door",
+      "meaning": "坐在门边"
+    }
+  ]
+}
