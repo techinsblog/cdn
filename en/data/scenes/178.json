@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "id": 178,
+  "title": "江边野餐",
+  "categoryId": "daily",
+  "gradient": "linear-gradient(135deg, #5fb0d9 0%, #8cc7d8 50%, #4f7f5f 100%)",
+  "sentence": {
+    "en": "Looks like a chill picnic by the river.",
+    "zh": "看着像是在江边悠闲野餐呢。",
+    "highlights": [
+      "picnic",
+      "river"
+    ]
+  },
+  "words": [
+    {
+      "id": "picnic",
+      "text": "picnic",
+      "zhText": "野餐",
+      "phonetic": "/ˈpɪknɪk/",
+      "pos": "n.",
+      "meaning": "野餐",
+      "example": {
+        "en": "We should have a picnic here sometime.",
+        "zh": "咱们改天也来这儿野餐吧。"
+      },
+      "synonyms": [
+        {
+          "en": "outing",
+          "zh": "出游"
+        }
+      ],
+      "position": {
+        "x": 43,
+        "y": 69
+      }
+    },
+    {
+      "id": "river",
+      "text": "river",
+      "zhText": "江边",
+      "phonetic": "/ˈrɪvər/",
+      "pos": "n.",
+      "meaning": "江；河",
+      "example": {
+        "en": "The river looks really calm today.",
+        "zh": "今天这江面看着还挺平静的。"
+      },
+      "synonyms": [
+        {
+          "en": "water",
+          "zh": "水面"
+        }
+      ],
+      "position": {
+        "x": 72,
+        "y": 36
+      }
+    },
+    {
+      "id": "blanket",
+      "text": "blanket",
+      "zhText": "毯子",
+      "phonetic": "/ˈblæŋkɪt/",
+      "pos": "n.",
+      "meaning": "毯子",
+      "example": {
+        "en": "Just throw the blanket on the grass.",
+        "zh": "把毯子往草地上一铺就行。"
+      },
+      "synonyms": [
+        {
+          "en": "mat",
+          "zh": "垫子"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 74
+      }
+    },
+    {
+      "id": "grass",
+      "text": "grass",
+      "zhText": "草地",
+      "phonetic": "/ɡræs/",
+      "pos": "n.",
+      "meaning": "草地",
+      "example": {
+        "en": "The grass is a little damp, though.",
+        "zh": "不过草地稍微有点湿。"
+      },
+      "synonyms": [
+        {
+          "en": "lawn",
+          "zh": "草坪"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 88
+      }
+    },
+    {
+      "id": "sit",
+      "text": "sit",
+      "zhText": "坐着",
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaning": "坐",
+      "example": {
+        "en": "Let's just sit here for a bit.",
+        "zh": "咱们就在这儿坐会儿吧。"
+      },
+      "synonyms": [
+        {
+          "en": "rest",
+          "zh": "歇着"
+        }
+      ],
+      "position": {
+        "x": 58,
+        "y": 55
+      }
+    },
+    {
+      "id": "tree",
+      "text": "tree",
+      "zhText": "树",
+      "phonetic": "/triː/",
+      "pos": "n.",
+      "meaning": "树",
+      "example": {
+        "en": "That tree gives some nice shade.",
+        "zh": "那棵树遮阴还挺舒服的。"
+      },
+      "synonyms": [
+        {
+          "en": "shade",
+          "zh": "树荫"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 18
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "have a picnic",
+      "meaning": "去野餐"
+    },
+    {
+      "phrase": "sit by the river",
+      "meaning": "坐在江边"
+    },
+    {
+      "phrase": "spread out a blanket",
+      "meaning": "把毯子铺开"
+    }
+  ]
+}
