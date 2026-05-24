@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "山竹",
+  "categoryId": "fc_fruit",
+  "nutrition": {
+    "protein": 0.6,
+    "potassium": 48,
+    "phosphorus": 9,
+    "sodium": 1,
+    "energy": 72
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "green",
+    "dialysis": "green"
+  },
+  "tips": "山竹含钾较低，CKD患者一般可适量食用。建议一次食用可食部约100g左右，避免大量连续进食。若需更严格控制水果摄入，可与其他水果轮换选择。食用前去壳即可，无需特殊预处理；合并糖代谢异常者注意控制总量。",
+  "aliases": [
+    "莽吉柿",
+    "倒捻子"
+  ],
+  "pinyin": "shanzhu",
+  "pinyinInitials": "sz",
+  "aliasesPinyin": [
+    "mangjishi",
+    "daonianzi"
+  ],
+  "aliasesPinyinInitials": [
+    "mjs",
+    "dnz"
+  ],
+  "cover": "山竹.webp"
+}
