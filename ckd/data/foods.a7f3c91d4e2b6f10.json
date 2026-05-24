@@ -3631,8 +3631,7 @@
     },
     "tips": "极低钾低磷蔬菜（68mg），各期CKD患者均可放心食用。建议清炒或做汤，每次200g以内。",
     "categoryId": "fc_vegetable",
-    "aliases": [
-    ],
+    "aliases": [],
     "pinyin": "lvdouya",
     "pinyinInitials": "ldy",
     "aliasesPinyin": [
@@ -13613,7 +13612,7 @@
     "tips": "中钾品种（180mg），透析患者每天限半个。⚠️ 致命警告：所有西柚/葡萄柚品种均含呋喃香豆素，会严重干扰他克莫司、环孢素、多种降压药和降脂药的代谢。服用上述药物的患者必须严格禁止食用任何品种的西柚/葡萄柚。",
     "categoryId": "fc_fruit",
     "aliases": [
-      "西柚", 
+      "西柚",
       "以色列葡萄柚"
     ],
     "pinyin": "putaoyouyiselie",
@@ -24107,7 +24106,8 @@
     "aliasesPinyin": [],
     "aliasesPinyinInitials": [],
     "cover": "茶（绿茶）.webp"
-  },{
+  },
+  {
     "id": "f874",
     "name": "香菇（干）",
     "nutrition": {
@@ -24145,7 +24145,8 @@
       "gxg"
     ],
     "cover": "香菇.webp"
-  },{
+  },
+  {
     "id": "f875",
     "name": "圣女果（樱桃番茄）",
     "nutrition": {
@@ -24181,5 +24182,35 @@
       "mnfq"
     ],
     "cover": "圣女果.webp"
+  },
+  {
+    "id": "f876",
+    "name": "山竹",
+    "categoryId": "fc_fruit",
+    "nutrition": {
+      "protein": 0.6,
+      "potassium": 48,
+      "phosphorus": 9,
+      "sodium": 1,
+      "energy": 72
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "山竹属于低钾水果，CKD患者一般可适量食用。建议每次控制在100g左右，避免与大量其他水果同食以免总钾摄入过多。若需更严格控钾，可分次少量食用；果肉新鲜食用即可，无需特殊浸泡处理。合并糖尿病或需控能量者应注意总水果摄入量。",
+    "aliases": [
+      "莽吉柿"
+    ],
+    "pinyin": "shanzhu",
+    "pinyinInitials": "sz",
+    "aliasesPinyin": [
+      "mangjishi"
+    ],
+    "aliasesPinyinInitials": [
+      "mjs"
+    ],
+    "cover": "山竹.webp"
   }
 ]
