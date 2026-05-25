@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "鸡汤",
+  "categoryId": "fc_other",
+  "nutrition": {
+    "protein": 1.2,
+    "potassium": 35,
+    "phosphorus": 20,
+    "sodium": 15,
+    "energy": 12
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "鸡汤嘌呤和含氮浸出物较高，且长时间熬煮后钾、磷会进入汤中。CKD患者不建议用老火浓鸡汤进补，宜少量浅尝，避免把汤当水大量饮用；如需食用，建议去油、少盐，不加入味精鸡精和浓汤宝。3-5期及透析期若合并高钾、高磷或水肿，应优先少喝汤、可改吃焯水后的鸡肉本身。",
+  "aliases": [
+    "鸡清汤"
+  ],
+  "pinyin": "jitang",
+  "pinyinInitials": "jt",
+  "aliasesPinyin": [
+    "jiqingtang"
+  ],
+  "aliasesPinyinInitials": [
+    "jqt"
+  ],
+  "cover": "鸡汤.webp"
+}
