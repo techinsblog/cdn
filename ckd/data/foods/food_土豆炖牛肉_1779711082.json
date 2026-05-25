@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "土豆炖牛肉",
+  "categoryId": "fc_meat_dairy",
+  "nutrition": {
+    "protein": 12.5,
+    "potassium": 320,
+    "phosphorus": 125,
+    "sodium": 85,
+    "energy": 145
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "属于混合菜肴型食材，牛肉提供较多蛋白质和磷，土豆钾含量也不低。CKD 1-2期可少量食用，注意清淡烹调；3-5期建议限制，尤其不宜经常食用汤汁。透析期可按优质蛋白需要少量安排，但应减少盐、酱油和浓汤。建议将土豆切块后浸泡2小时以上并焯水，弃汤再炖；牛肉先焯水，少盐少酱，避免连汤大量食用。",
+  "aliases": [
+    "马铃薯炖牛肉",
+    "牛肉炖土豆"
+  ],
+  "pinyin": "tudoudunniurou",
+  "pinyinInitials": "tddnr",
+  "aliasesPinyin": [
+    "malingshudunniurou",
+    "niurouduntudou"
+  ],
+  "aliasesPinyinInitials": [
+    "mlsdnr",
+    "nrdtd"
+  ],
+  "cover": "土豆炖牛肉.webp"
+}
