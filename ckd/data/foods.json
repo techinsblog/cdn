@@ -24374,5 +24374,38 @@
       "jqt"
     ],
     "cover": "鸡汤.webp"
+  },
+  {
+    "id": "f882",
+    "name": "红烧鸡腿",
+    "categoryId": "fc_meat_dairy",
+    "nutrition": {
+      "protein": 18.5,
+      "potassium": 230,
+      "phosphorus": 170,
+      "sodium": 320,
+      "energy": 215
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "红烧鸡腿属肉类熟制品，蛋白质和磷含量中等偏高，且烹调常加入酱油、盐、料酒等，钠负担较高。CKD 1-2期可少量食用，注意控制每次约50-75g；3-5期非透析应减少频率，优先选择清炖、白煮或先焯水再烹调的做法以降低钠和部分钾；透析期可作为优质蛋白来源，但仍应少酱少盐，避免连汤汁一起食用。建议去皮后食用，可降低部分脂肪摄入。",
+    "aliases": [
+      "卤鸡腿",
+      "酱鸡腿"
+    ],
+    "pinyin": "hongshaojitui",
+    "pinyinInitials": "hsjt",
+    "aliasesPinyin": [
+      "lujitui",
+      "jiangjitui"
+    ],
+    "aliasesPinyinInitials": [
+      "ljt",
+      "jjt"
+    ],
+    "cover": "红烧鸡腿.webp"
   }
 ]
