@@ -24341,5 +24341,38 @@
       "dnz"
     ],
     "cover": "山竹.webp"
+  },
+  {
+    "id": "f881",
+    "name": "鸡汤",
+    "categoryId": "fc_other",
+    "nutrition": {
+      "protein": 1.5,
+      "potassium": 45,
+      "phosphorus": 20,
+      "sodium": 55,
+      "energy": 12
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "鸡汤嘌呤和钠含量受熬煮时间、是否加盐及是否浓缩影响较大，不建议长期大量饮用。CKD患者宜选择清淡去油的淡鸡汤，每次少量；3-5期如需控钾控磷，可缩短熬煮时间，避免老火浓汤和反复浓缩；如为高尿酸或合并痛风者更应少喝。烹调时建议先焯水弃汤、去鸡皮和浮油，少盐或不额外加味精鸡精。",
+    "aliases": [
+      "清鸡汤",
+      "鸡清汤"
+    ],
+    "pinyin": "jitang",
+    "pinyinInitials": "jt",
+    "aliasesPinyin": [
+      "qingjitang",
+      "jiqingtang"
+    ],
+    "aliasesPinyinInitials": [
+      "qjt",
+      "jqt"
+    ],
+    "cover": "鸡汤.webp"
   }
 ]
