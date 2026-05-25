@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "糯玉米",
+  "categoryId": "fc_staple",
+  "nutrition": {
+    "protein": 4.0,
+    "potassium": 238,
+    "phosphorus": 95,
+    "sodium": 2,
+    "energy": 112
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "糯玉米属主食类，淀粉含量较高，可替代部分米饭或面食食用。CKD 1-2期可适量食用；3-5期及透析期需控制总量，避免与其他高钾主食或高钾菜肴同餐过量。若需进一步控钾，可将玉米粒剥下后焯水1-2分钟再烹调，但会影响口感。建议每次食用约50-100g，并注意与全天主食总量统筹。",
+  "aliases": [
+    "黏玉米",
+    "甜糯玉米"
+  ],
+  "pinyin": "nuoyumi",
+  "pinyinInitials": "nym",
+  "aliasesPinyin": [
+    "nianyumi",
+    "tiannuoyumi"
+  ],
+  "aliasesPinyinInitials": [
+    "nym",
+    "tnym"
+  ],
+  "cover": "糯玉米.webp"
+}
