@@ -24440,5 +24440,35 @@
       "jjc"
     ],
     "cover": "红烧鸡翅.webp"
+  },
+  {
+    "id": "f884",
+    "name": "牛肉面",
+    "categoryId": "fc_staple",
+    "nutrition": {
+      "protein": 9.2,
+      "potassium": 160,
+      "phosphorus": 110,
+      "sodium": 280,
+      "energy": 148
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "牛肉面多为面条配牛肉及汤汁的组合，钠含量通常偏高，若连汤食用会明显增加钠和嘌呤摄入。CKD 1-2期建议减少喝汤、少放卤汁和咸菜；3-5期应控制食用频率，优先选择清汤少盐版，牛肉减量，避免浓汤和全部喝完汤；透析期可少量选择，但仍需限盐，搭配焯水蔬菜并避免再加辣油、酱油。若为自制，可先将牛肉焯水弃汤、面条不过咸汤，单独煮面后再拌食以降低钠负担。",
+    "aliases": [
+      "红烧牛肉面"
+    ],
+    "pinyin": "niuroumian",
+    "pinyinInitials": "nrm",
+    "aliasesPinyin": [
+      "hongshaoniuroumian"
+    ],
+    "aliasesPinyinInitials": [
+      "hsnrm"
+    ],
+    "cover": "牛肉面.webp"
   }
 ]
