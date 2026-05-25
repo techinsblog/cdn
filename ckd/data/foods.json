@@ -24407,5 +24407,38 @@
       "jjt"
     ],
     "cover": "红烧鸡腿.webp"
+  },
+  {
+    "id": "f883",
+    "name": "红烧鸡翅",
+    "categoryId": "fc_meat_dairy",
+    "nutrition": {
+      "protein": 17.5,
+      "potassium": 180,
+      "phosphorus": 150,
+      "sodium": 320,
+      "energy": 230
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "鸡翅属于中高蛋白且磷含量不低，红烧做法常加入较多酱油、盐和糖，钠负担偏高。CKD 1-2期可少量食用，建议每次控制在50-80g；3-5期非透析应尽量少吃。若食用，建议先焯水弃汤，再改用少盐少酱油炖煮，不喝汤汁，不额外蘸酱；合并高钾时避免与浓肉汤、土豆等高钾配菜同食。",
+    "aliases": [
+      "卤鸡翅",
+      "酱鸡翅"
+    ],
+    "pinyin": "hongshaojichi",
+    "pinyinInitials": "hsjc",
+    "aliasesPinyin": [
+      "lujichi",
+      "jiangjichi"
+    ],
+    "aliasesPinyinInitials": [
+      "ljc",
+      "jjc"
+    ],
+    "cover": "红烧鸡翅.webp"
   }
 ]
