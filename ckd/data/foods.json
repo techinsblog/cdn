@@ -24605,5 +24605,35 @@
       "tnym"
     ],
     "cover": "糯玉米.webp"
+  },
+  {
+    "id": "f889",
+    "name": "鲜虾拌面",
+    "categoryId": "fc_other",
+    "nutrition": {
+      "protein": 12.8,
+      "potassium": 148,
+      "phosphorus": 122,
+      "sodium": 210,
+      "energy": 176
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "鲜虾拌面通常由熟面条、鲜虾及调味料制成，钠含量受酱油、蚝油、盐影响较大。CKD 1-2期可偶尔少量食用，注意少酱少汤；3-5期建议谨慎，控制分量在100g左右，优先选择清拌、少盐版本；透析期可根据蛋白需要少量选择，但仍应避免重口味。建议将虾焯水后使用，拌面时减少酱油、味精和调味包，搭配低钾蔬菜，避免同时摄入其他高钠菜品。",
+    "aliases": [
+      "虾仁拌面"
+    ],
+    "pinyin": "xianxiabanmian",
+    "pinyinInitials": "xxbm",
+    "aliasesPinyin": [
+      "xiarenbanmian"
+    ],
+    "aliasesPinyinInitials": [
+      "xrbm"
+    ],
+    "cover": "鲜虾拌面.webp"
   }
 ]
