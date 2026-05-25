@@ -1,0 +1,36 @@
+{
+  "id": "",
+  "name": "烤五花肉",
+  "categoryId": "fc_meat_dairy",
+  "nutrition": {
+    "protein": 14.0,
+    "potassium": 220,
+    "phosphorus": 160,
+    "sodium": 65,
+    "energy": 395
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "五花肉脂肪和能量较高，烤制时若提前腌制常会显著增加钠摄入。CKD人群建议控制每次食用量在30~50g，尽量选择原味少盐做法，避免搭配重口味蘸料。3~5期患者应减少食用频率；透析期如需补充能量可少量食用，但仍要注意总脂肪和总钠。烤前可去除部分可见肥肉，不建议与加工肉类同食。",
+  "aliases": [
+    "五花肉",
+    "猪五花",
+    "烤猪五花"
+  ],
+  "pinyin": "kaowuhuarou",
+  "pinyinInitials": "kwhr",
+  "aliasesPinyin": [
+    "wuhuarou",
+    "zhuwuhua",
+    "kaozhuwuhua"
+  ],
+  "aliasesPinyinInitials": [
+    "whr",
+    "zwh",
+    "kzwh"
+  ],
+  "cover": "烤五花肉.webp"
+}
