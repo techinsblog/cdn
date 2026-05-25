@@ -1352,7 +1352,7 @@
     "id": "f038",
     "name": "胡萝卜",
     "nutrition": {
-      "protein": 1.0,
+      "protein": 1,
       "potassium": 190,
       "phosphorus": 27,
       "sodium": 71.4,
@@ -6840,7 +6840,7 @@
     "aliasesPinyin": [],
     "aliasesPinyinInitials": [],
     "nutrition": {
-      "protein": 3.0,
+      "protein": 3,
       "potassium": 109,
       "phosphorus": 73,
       "sodium": 37,
@@ -6974,8 +6974,8 @@
     "name": "小麦粉(标准粉)",
     "nutrition": {
       "protein": 11.2,
-      "potassium": 190.0,
-      "phosphorus": 188.0,
+      "potassium": 190,
+      "phosphorus": 188,
       "sodium": 3.1,
       "energy": 353
     },
@@ -6998,8 +6998,8 @@
     "name": "小麦粉(富强粉，特一粉)",
     "nutrition": {
       "protein": 10.3,
-      "potassium": 128.0,
-      "phosphorus": 114.0,
+      "potassium": 128,
+      "phosphorus": 114,
       "sodium": 2.7,
       "energy": 356
     },
@@ -7022,9 +7022,9 @@
     "name": "通心面",
     "nutrition": {
       "protein": 11.9,
-      "potassium": 209.0,
-      "phosphorus": 97.0,
-      "sodium": 35.0,
+      "potassium": 209,
+      "phosphorus": 97,
+      "sodium": 35,
       "energy": 356
     },
     "advice": {
@@ -7052,8 +7052,8 @@
     "name": "花卷",
     "nutrition": {
       "protein": 6.4,
-      "potassium": 83.0,
-      "phosphorus": 72.0,
+      "potassium": 83,
+      "phosphorus": 72,
       "sodium": 400,
       "energy": 217
     },
@@ -7076,8 +7076,8 @@
     "name": "空锅饼",
     "nutrition": {
       "protein": 8.6,
-      "potassium": 138.0,
-      "phosphorus": 133.0,
+      "potassium": 138,
+      "phosphorus": 133,
       "sodium": 243.2,
       "energy": 283
     },
@@ -7100,8 +7100,8 @@
     "name": "烙饼(标准粉)",
     "nutrition": {
       "protein": 7.5,
-      "potassium": 141.0,
-      "phosphorus": 146.0,
+      "potassium": 141,
+      "phosphorus": 146,
       "sodium": 149.3,
       "energy": 262
     },
@@ -7123,9 +7123,9 @@
     "id": "f214",
     "name": "烧饼(加糖)",
     "nutrition": {
-      "protein": 8.0,
-      "potassium": 122.0,
-      "phosphorus": 105.0,
+      "protein": 8,
+      "potassium": 122,
+      "phosphorus": 105,
       "sodium": 300,
       "energy": 301
     },
@@ -7148,8 +7148,8 @@
     "name": "油饼",
     "nutrition": {
       "protein": 7.9,
-      "potassium": 106.0,
-      "phosphorus": 124.0,
+      "potassium": 106,
+      "phosphorus": 124,
       "sodium": 572.5,
       "energy": 402
     },
@@ -7172,8 +7172,8 @@
     "name": "油条",
     "nutrition": {
       "protein": 6.9,
-      "potassium": 227.0,
-      "phosphorus": 77.0,
+      "potassium": 227,
+      "phosphorus": 77,
       "sodium": 585.2,
       "energy": 389
     },
@@ -7196,9 +7196,9 @@
     "name": "水面筋",
     "nutrition": {
       "protein": 23.5,
-      "potassium": 69.0,
-      "phosphorus": 133.0,
-      "sodium": 15.0,
+      "potassium": 69,
+      "phosphorus": 133,
+      "sodium": 15,
       "energy": 144
     },
     "advice": {
@@ -7220,8 +7220,8 @@
     "name": "油面筋",
     "nutrition": {
       "protein": 26.9,
-      "potassium": 45.0,
-      "phosphorus": 98.0,
+      "potassium": 45,
+      "phosphorus": 98,
       "sodium": 29.5,
       "energy": 493
     },
@@ -7244,8 +7244,8 @@
     "name": "稻米",
     "nutrition": {
       "protein": 7.4,
-      "potassium": 103.0,
-      "phosphorus": 110.0,
+      "potassium": 103,
+      "phosphorus": 110,
       "sodium": 3.8,
       "energy": 352
     },
@@ -7268,8 +7268,8 @@
     "name": "籼米(标准)",
     "nutrition": {
       "protein": 7.9,
-      "potassium": 109.0,
-      "phosphorus": 112.0,
+      "potassium": 109,
+      "phosphorus": 112,
       "sodium": 1.7,
       "energy": 354
     },
@@ -7298,8 +7298,8 @@
     "name": "香大米",
     "nutrition": {
       "protein": 12.7,
-      "potassium": 49.0,
-      "phosphorus": 106.0,
+      "potassium": 49,
+      "phosphorus": 106,
       "sodium": 21.5,
       "energy": 353
     },
@@ -7322,8 +7322,8 @@
     "name": "籼米",
     "nutrition": {
       "protein": 7.5,
-      "potassium": 109.0,
-      "phosphorus": 112.0,
+      "potassium": 109,
+      "phosphorus": 112,
       "sodium": 1.7,
       "energy": 344
     },
@@ -7346,9 +7346,9 @@
     "name": "紫红糯米",
     "nutrition": {
       "protein": 8.3,
-      "potassium": 219.0,
-      "phosphorus": 183.0,
-      "sodium": 4.0,
+      "potassium": 219,
+      "phosphorus": 183,
+      "sodium": 4,
       "energy": 351
     },
     "advice": {
@@ -7376,8 +7376,8 @@
     "name": "米饭(蒸)",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 30.0,
-      "phosphorus": 62.0,
+      "potassium": 30,
+      "phosphorus": 62,
       "sodium": 2.5,
       "energy": 118
     },
@@ -7400,8 +7400,8 @@
     "name": "粳米粥",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 13.0,
-      "phosphorus": 20.0,
+      "potassium": 13,
+      "phosphorus": 20,
       "sodium": 2.8,
       "energy": 47
     },
@@ -7424,8 +7424,8 @@
     "name": "籼米粉",
     "nutrition": {
       "protein": 7.4,
-      "potassium": 14.0,
-      "phosphorus": 62.0,
+      "potassium": 14,
+      "phosphorus": 62,
       "sodium": 16.3,
       "energy": 361
     },
@@ -7454,8 +7454,8 @@
     "name": "籼米粥",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 13.0,
-      "phosphorus": 20.0,
+      "potassium": 13,
+      "phosphorus": 20,
       "sodium": 2.8,
       "energy": 60
     },
@@ -7477,9 +7477,9 @@
     "id": "f229",
     "name": "玉米面(白)",
     "nutrition": {
-      "protein": 8.0,
-      "potassium": 276.0,
-      "phosphorus": 187.0,
+      "protein": 8,
+      "potassium": 276,
+      "phosphorus": 187,
       "sodium": 0.5,
       "energy": 356
     },
@@ -7502,8 +7502,8 @@
     "name": "玉米面(黄)",
     "nutrition": {
       "protein": 8.1,
-      "potassium": 249.0,
-      "phosphorus": 196.0,
+      "potassium": 249,
+      "phosphorus": 196,
       "sodium": 2.3,
       "energy": 356
     },
@@ -7526,8 +7526,8 @@
     "name": "玉米糁(黄)",
     "nutrition": {
       "protein": 7.9,
-      "potassium": 177.0,
-      "phosphorus": 143.0,
+      "potassium": 177,
+      "phosphorus": 143,
       "sodium": 1.7,
       "energy": 358
     },
@@ -7550,8 +7550,8 @@
     "name": "玉米笋(罐头)",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 36.0,
-      "phosphorus": 4.0,
+      "potassium": 36,
+      "phosphorus": 4,
       "sodium": 170.9,
       "energy": 16
     },
@@ -7574,8 +7574,8 @@
     "name": "大麦",
     "nutrition": {
       "protein": 10.2,
-      "potassium": 49.0,
-      "phosphorus": 381.0,
+      "potassium": 49,
+      "phosphorus": 381,
       "sodium": 0,
       "energy": 330
     },
@@ -7604,9 +7604,9 @@
     "name": "青稞",
     "nutrition": {
       "protein": 8.1,
-      "potassium": 644.0,
-      "phosphorus": 405.0,
-      "sodium": 77.0,
+      "potassium": 644,
+      "phosphorus": 405,
+      "sodium": 77,
       "energy": 347
     },
     "advice": {
@@ -7628,8 +7628,8 @@
     "name": "小米面",
     "nutrition": {
       "protein": 7.2,
-      "potassium": 129.0,
-      "phosphorus": 159.0,
+      "potassium": 129,
+      "phosphorus": 159,
       "sodium": 6.2,
       "energy": 362
     },
@@ -7652,8 +7652,8 @@
     "name": "小米粥",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 19.0,
-      "phosphorus": 32.0,
+      "potassium": 19,
+      "phosphorus": 32,
       "sodium": 4.1,
       "energy": 46
     },
@@ -7676,8 +7676,8 @@
     "name": "大黄米",
     "nutrition": {
       "protein": 13.6,
-      "potassium": 201.0,
-      "phosphorus": 244.0,
+      "potassium": 201,
+      "phosphorus": 244,
       "sodium": 1.7,
       "energy": 360
     },
@@ -7706,8 +7706,8 @@
     "name": "高粱米",
     "nutrition": {
       "protein": 10.4,
-      "potassium": 281.0,
-      "phosphorus": 329.0,
+      "potassium": 281,
+      "phosphorus": 329,
       "sodium": 6.3,
       "energy": 364
     },
@@ -7730,8 +7730,8 @@
     "name": "糜子(带皮)",
     "nutrition": {
       "protein": 10.6,
-      "potassium": 148.0,
-      "phosphorus": 205.0,
+      "potassium": 148,
+      "phosphorus": 205,
       "sodium": 9.6,
       "energy": 340
     },
@@ -7754,8 +7754,8 @@
     "name": "苦荞麦粉",
     "nutrition": {
       "protein": 9.7,
-      "potassium": 320.0,
-      "phosphorus": 244.0,
+      "potassium": 320,
+      "phosphorus": 244,
       "sodium": 2.3,
       "energy": 319
     },
@@ -7778,8 +7778,8 @@
     "name": "莜麦面",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 319.0,
-      "phosphorus": 35.0,
+      "potassium": 319,
+      "phosphorus": 35,
       "sodium": 2.2,
       "energy": 379
     },
@@ -7802,8 +7802,8 @@
     "name": "薏米面",
     "nutrition": {
       "protein": 11.3,
-      "potassium": 163.0,
-      "phosphorus": 134.0,
+      "potassium": 163,
+      "phosphorus": 134,
       "sodium": 2.3,
       "energy": 355
     },
@@ -7826,8 +7826,8 @@
     "name": "马铃薯粉",
     "nutrition": {
       "protein": 7.2,
-      "potassium": 1075.0,
-      "phosphorus": 123.0,
+      "potassium": 1075,
+      "phosphorus": 123,
       "sodium": 4.7,
       "energy": 345
     },
@@ -7850,8 +7850,8 @@
     "name": "甘薯片",
     "nutrition": {
       "protein": 4.7,
-      "potassium": 353.0,
-      "phosphorus": 115.0,
+      "potassium": 353,
+      "phosphorus": 115,
       "sodium": 26.4,
       "energy": 349
     },
@@ -7880,8 +7880,8 @@
     "name": "甘薯粉",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 66.0,
-      "phosphorus": 12.0,
+      "potassium": 66,
+      "phosphorus": 12,
       "sodium": 26.4,
       "energy": 341
     },
@@ -7910,9 +7910,9 @@
     "name": "木薯",
     "nutrition": {
       "protein": 2.1,
-      "potassium": 764.0,
-      "phosphorus": 50.0,
-      "sodium": 8.0,
+      "potassium": 764,
+      "phosphorus": 50,
+      "sodium": 8,
       "energy": 121
     },
     "advice": {
@@ -7934,8 +7934,8 @@
     "name": "团粉",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 16.0,
-      "phosphorus": 25.0,
+      "potassium": 16,
+      "phosphorus": 25,
       "sodium": 13.3,
       "energy": 355
     },
@@ -7964,8 +7964,8 @@
     "name": "藕粉",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 35.0,
-      "phosphorus": 9.0,
+      "potassium": 35,
+      "phosphorus": 9,
       "sodium": 10.8,
       "energy": 379
     },
@@ -7988,8 +7988,8 @@
     "name": "魔芋精粉",
     "nutrition": {
       "protein": 4.6,
-      "potassium": 299.0,
-      "phosphorus": 272.0,
+      "potassium": 299,
+      "phosphorus": 272,
       "sodium": 49.9,
       "energy": 180
     },
@@ -8021,8 +8021,8 @@
     "name": "黄豆粉",
     "nutrition": {
       "protein": 32.7,
-      "potassium": 1890.0,
-      "phosphorus": 395.0,
+      "potassium": 1890,
+      "phosphorus": 395,
       "sodium": 3.6,
       "energy": 432
     },
@@ -8044,9 +8044,9 @@
     "id": "f251",
     "name": "豆腐花",
     "nutrition": {
-      "protein": 10.0,
-      "potassium": 339.0,
-      "phosphorus": 95.0,
+      "protein": 10,
+      "potassium": 339,
+      "phosphorus": 95,
       "sodium": 0,
       "energy": 406
     },
@@ -8075,8 +8075,8 @@
     "name": "豆浆粉",
     "nutrition": {
       "protein": 19.7,
-      "potassium": 771.0,
-      "phosphorus": 253.0,
+      "potassium": 771,
+      "phosphorus": 253,
       "sodium": 26.4,
       "energy": 430
     },
@@ -8099,9 +8099,9 @@
     "name": "豆粕",
     "nutrition": {
       "protein": 42.5,
-      "potassium": 1391.0,
-      "phosphorus": 28.0,
-      "sodium": 76.0,
+      "potassium": 1391,
+      "phosphorus": 28,
+      "sodium": 76,
       "energy": 329
     },
     "advice": {
@@ -8123,8 +8123,8 @@
     "name": "豆腐脑",
     "nutrition": {
       "protein": 1.9,
-      "potassium": 107.0,
-      "phosphorus": 5.0,
+      "potassium": 107,
+      "phosphorus": 5,
       "sodium": 2.8,
       "energy": 15
     },
@@ -8153,8 +8153,8 @@
     "name": "豆汁(生)",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 47.0,
-      "phosphorus": 21.0,
+      "potassium": 47,
+      "phosphorus": 21,
       "sodium": 6.5,
       "energy": 10
     },
@@ -8177,8 +8177,8 @@
     "name": "豆腐丝",
     "nutrition": {
       "protein": 21.5,
-      "potassium": 74.0,
-      "phosphorus": 220.0,
+      "potassium": 74,
+      "phosphorus": 220,
       "sodium": 20.6,
       "energy": 203
     },
@@ -8201,8 +8201,8 @@
     "name": "素鸡",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 42.0,
-      "phosphorus": 180.0,
+      "potassium": 42,
+      "phosphorus": 180,
       "sodium": 373.8,
       "energy": 193
     },
@@ -8224,9 +8224,9 @@
     "id": "f258",
     "name": "素什锦",
     "nutrition": {
-      "protein": 14.0,
-      "potassium": 143.0,
-      "phosphorus": 186.0,
+      "protein": 14,
+      "potassium": 143,
+      "phosphorus": 186,
       "sodium": 475.1,
       "energy": 177
     },
@@ -8249,9 +8249,9 @@
     "name": "烤麸",
     "nutrition": {
       "protein": 20.4,
-      "potassium": 25.0,
-      "phosphorus": 72.0,
-      "sodium": 230.0,
+      "potassium": 25,
+      "phosphorus": 72,
+      "sodium": 230,
       "energy": 123
     },
     "advice": {
@@ -8273,8 +8273,8 @@
     "name": "小豆粥",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 45.0,
-      "phosphorus": 14.0,
+      "potassium": 45,
+      "phosphorus": 14,
       "sodium": 2.3,
       "energy": 63
     },
@@ -8297,8 +8297,8 @@
     "name": "豆沙",
     "nutrition": {
       "protein": 5.5,
-      "potassium": 139.0,
-      "phosphorus": 68.0,
+      "potassium": 139,
+      "phosphorus": 68,
       "sodium": 23.5,
       "energy": 250
     },
@@ -8321,8 +8321,8 @@
     "name": "红豆沙",
     "nutrition": {
       "protein": 4.5,
-      "potassium": 21.0,
-      "phosphorus": 65.0,
+      "potassium": 21,
+      "phosphorus": 65,
       "sodium": 26.3,
       "energy": 247
     },
@@ -8345,8 +8345,8 @@
     "name": "红豆馅",
     "nutrition": {
       "protein": 4.5,
-      "potassium": 59.0,
-      "phosphorus": 90.0,
+      "potassium": 59,
+      "phosphorus": 90,
       "sodium": 28.6,
       "energy": 265
     },
@@ -8369,8 +8369,8 @@
     "name": "花豆(干，红)",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 358.0,
-      "phosphorus": 48.0,
+      "potassium": 358,
+      "phosphorus": 48,
       "sodium": 12.5,
       "energy": 332
     },
@@ -8393,8 +8393,8 @@
     "name": "花豆(干，紫)",
     "nutrition": {
       "protein": 17.2,
-      "potassium": 641.0,
-      "phosphorus": 169.0,
+      "potassium": 641,
+      "phosphorus": 169,
       "sodium": 19.6,
       "energy": 334
     },
@@ -8417,8 +8417,8 @@
     "name": "芸豆(干，红)",
     "nutrition": {
       "protein": 21.4,
-      "potassium": 1215.0,
-      "phosphorus": 218.0,
+      "potassium": 1215,
+      "phosphorus": 218,
       "sodium": 0.6,
       "energy": 335
     },
@@ -8441,8 +8441,8 @@
     "name": "芸豆(干，虎皮)",
     "nutrition": {
       "protein": 22.5,
-      "potassium": 809.0,
-      "phosphorus": 66.0,
+      "potassium": 809,
+      "phosphorus": 66,
       "sodium": 3.3,
       "energy": 346
     },
@@ -8465,8 +8465,8 @@
     "name": "芸豆(干，杂，带皮)",
     "nutrition": {
       "protein": 22.4,
-      "potassium": 1058.0,
-      "phosphorus": 386.0,
+      "potassium": 1058,
+      "phosphorus": 386,
       "sodium": 10.5,
       "energy": 331
     },
@@ -8489,8 +8489,8 @@
     "name": "蚕豆(带皮)",
     "nutrition": {
       "protein": 24.6,
-      "potassium": 992.0,
-      "phosphorus": 339.0,
+      "potassium": 992,
+      "phosphorus": 339,
       "sodium": 21.2,
       "energy": 330
     },
@@ -8513,8 +8513,8 @@
     "name": "蚕豆(去皮)",
     "nutrition": {
       "protein": 25.4,
-      "potassium": 801.0,
-      "phosphorus": 181.0,
+      "potassium": 801,
+      "phosphorus": 181,
       "sodium": 2.2,
       "energy": 351
     },
@@ -8537,8 +8537,8 @@
     "name": "眉豆(干)",
     "nutrition": {
       "protein": 18.6,
-      "potassium": 525.0,
-      "phosphorus": 310.0,
+      "potassium": 525,
+      "phosphorus": 310,
       "sodium": 86.5,
       "energy": 338
     },
@@ -8567,9 +8567,9 @@
     "name": "鹰嘴豆",
     "nutrition": {
       "protein": 21.2,
-      "potassium": 830.0,
-      "phosphorus": 450.0,
-      "sodium": 6.0,
+      "potassium": 830,
+      "phosphorus": 450,
+      "sodium": 6,
       "energy": 342
     },
     "advice": {
@@ -8598,7 +8598,7 @@
     "nutrition": {
       "protein": 43.6,
       "potassium": 0,
-      "phosphorus": 785.0,
+      "phosphorus": 785,
       "sodium": 0,
       "energy": 408
     },
@@ -8621,9 +8621,9 @@
     "name": "变萝卜",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 167.0,
-      "phosphorus": 33.0,
-      "sodium": 68.0,
+      "potassium": 167,
+      "phosphorus": 33,
+      "sodium": 68,
       "energy": 29
     },
     "advice": {
@@ -8651,8 +8651,8 @@
     "name": "红旦旦萝卜",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 63.0,
-      "phosphorus": 43.0,
+      "potassium": 63,
+      "phosphorus": 43,
       "sodium": 20.1,
       "energy": 21
     },
@@ -8675,8 +8675,8 @@
     "name": "红心萝卜",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 385.0,
-      "phosphorus": 30.0,
+      "potassium": 385,
+      "phosphorus": 30,
       "sodium": 49.1,
       "energy": 45
     },
@@ -8699,8 +8699,8 @@
     "name": "青萝卜",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 232.0,
-      "phosphorus": 34.0,
+      "potassium": 232,
+      "phosphorus": 34,
       "sodium": 69.9,
       "energy": 33
     },
@@ -8723,8 +8723,8 @@
     "name": "小水萝卜",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 286.0,
-      "phosphorus": 21.0,
+      "potassium": 286,
+      "phosphorus": 21,
       "sodium": 33.5,
       "energy": 21
     },
@@ -8756,8 +8756,8 @@
     "name": "心里美萝卜",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 116.0,
-      "phosphorus": 24.0,
+      "potassium": 116,
+      "phosphorus": 24,
       "sodium": 85.4,
       "energy": 23
     },
@@ -8780,8 +8780,8 @@
     "name": "芥菜头",
     "nutrition": {
       "protein": 1.9,
-      "potassium": 243.0,
-      "phosphorus": 36.0,
+      "potassium": 243,
+      "phosphorus": 36,
       "sodium": 65.6,
       "energy": 37
     },
@@ -8813,8 +8813,8 @@
     "name": "苤蓝",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 190.0,
-      "phosphorus": 46.0,
+      "potassium": 190,
+      "phosphorus": 46,
       "sodium": 29.8,
       "energy": 33
     },
@@ -8845,9 +8845,9 @@
     "id": "f283",
     "name": "甜菜根(鲜)",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 254.0,
-      "phosphorus": 18.0,
+      "protein": 1,
+      "potassium": 254,
+      "phosphorus": 18,
       "sodium": 20.8,
       "energy": 88
     },
@@ -8879,8 +8879,8 @@
     "name": "刀豆(鲜)",
     "nutrition": {
       "protein": 3.1,
-      "potassium": 209.0,
-      "phosphorus": 57.0,
+      "potassium": 209,
+      "phosphorus": 57,
       "sodium": 8.5,
       "energy": 40
     },
@@ -8903,8 +8903,8 @@
     "name": "龙豆(鲜)",
     "nutrition": {
       "protein": 3.7,
-      "potassium": 142.0,
-      "phosphorus": 54.0,
+      "potassium": 142,
+      "phosphorus": 54,
       "sodium": 4.1,
       "energy": 36
     },
@@ -8927,8 +8927,8 @@
     "name": "毛豆(鲜)",
     "nutrition": {
       "protein": 13.1,
-      "potassium": 478.0,
-      "phosphorus": 188.0,
+      "potassium": 478,
+      "phosphorus": 188,
       "sodium": 3.9,
       "energy": 131
     },
@@ -8960,8 +8960,8 @@
     "name": "豌豆尖",
     "nutrition": {
       "protein": 3.1,
-      "potassium": 160.0,
-      "phosphorus": 65.0,
+      "potassium": 160,
+      "phosphorus": 65,
       "sodium": 3.2,
       "energy": 232
     },
@@ -8984,8 +8984,8 @@
     "name": "油豆角(鲜)",
     "nutrition": {
       "protein": 2.4,
-      "potassium": 240.0,
-      "phosphorus": 56.0,
+      "potassium": 240,
+      "phosphorus": 56,
       "sodium": 3.3,
       "energy": 25
     },
@@ -9014,9 +9014,9 @@
     "name": "芸豆(鲜)",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 112.0,
-      "phosphorus": 37.0,
-      "sodium": 4.0,
+      "potassium": 112,
+      "phosphorus": 37,
+      "sodium": 4,
       "energy": 30
     },
     "advice": {
@@ -9038,8 +9038,8 @@
     "name": "奶柿子",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 163.0,
-      "phosphorus": 21.0,
+      "potassium": 163,
+      "phosphorus": 21,
       "sodium": 8.3,
       "energy": 15
     },
@@ -9067,10 +9067,10 @@
     "id": "f291",
     "name": "辣椒(红，尖，干)",
     "nutrition": {
-      "protein": 15.0,
-      "potassium": 1085.0,
-      "phosphorus": 298.0,
-      "sodium": 4.0,
+      "protein": 15,
+      "potassium": 1085,
+      "phosphorus": 298,
+      "sodium": 4,
       "energy": 292
     },
     "advice": {
@@ -9092,8 +9092,8 @@
     "name": "辣椒(红，小)",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 222.0,
-      "phosphorus": 95.0,
+      "potassium": 222,
+      "phosphorus": 95,
       "sodium": 2.6,
       "energy": 38
     },
@@ -9116,8 +9116,8 @@
     "name": "辣椒(青，尖)",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 209.0,
-      "phosphorus": 33.0,
+      "potassium": 209,
+      "phosphorus": 33,
       "sodium": 2.2,
       "energy": 27
     },
@@ -9140,8 +9140,8 @@
     "name": "葫子",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 73.0,
-      "phosphorus": 27.0,
+      "potassium": 73,
+      "phosphorus": 27,
       "sodium": 1.2,
       "energy": 29
     },
@@ -9163,10 +9163,10 @@
     "id": "f295",
     "name": "樱桃番茄",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 262.0,
-      "phosphorus": 26.0,
-      "sodium": 10.0,
+      "protein": 1,
+      "potassium": 262,
+      "phosphorus": 26,
+      "sodium": 10,
       "energy": 26
     },
     "advice": {
@@ -9194,8 +9194,8 @@
     "name": "彩椒",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 278.0,
-      "phosphorus": 26.0,
+      "potassium": 278,
+      "phosphorus": 26,
       "sodium": 6.8,
       "energy": 26
     },
@@ -9218,8 +9218,8 @@
     "name": "葫芦",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 87.0,
-      "phosphorus": 15.0,
+      "potassium": 87,
+      "phosphorus": 15,
       "sodium": 0.6,
       "energy": 16
     },
@@ -9254,8 +9254,8 @@
     "name": "节瓜",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 40.0,
-      "phosphorus": 13.0,
+      "potassium": 40,
+      "phosphorus": 13,
       "sodium": 0.2,
       "energy": 15
     },
@@ -9284,8 +9284,8 @@
     "name": "南瓜粉",
     "nutrition": {
       "protein": 7.1,
-      "potassium": 411.0,
-      "phosphorus": 307.0,
+      "potassium": 411,
+      "phosphorus": 307,
       "sodium": 83.6,
       "energy": 346
     },
@@ -9308,8 +9308,8 @@
     "name": "蛇瓜",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 763.0,
-      "phosphorus": 14.0,
+      "potassium": 763,
+      "phosphorus": 14,
       "sodium": 2.2,
       "energy": 19
     },
@@ -9341,8 +9341,8 @@
     "name": "笋瓜",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 96.0,
-      "phosphorus": 27.0,
+      "potassium": 96,
+      "phosphorus": 27,
       "sodium": 0,
       "energy": 15
     },
@@ -9370,9 +9370,9 @@
     "id": "f302",
     "name": "飞碟瓜",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 119.0,
-      "phosphorus": 29.0,
+      "protein": 1,
+      "potassium": 119,
+      "phosphorus": 29,
       "sodium": 4.3,
       "energy": 17
     },
@@ -9395,8 +9395,8 @@
     "name": "秋黄瓜",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 141.0,
-      "phosphorus": 23.0,
+      "potassium": 141,
+      "phosphorus": 23,
       "sodium": 2.2,
       "energy": 14
     },
@@ -9425,8 +9425,8 @@
     "name": "蒜黄",
     "nutrition": {
       "protein": 2.5,
-      "potassium": 168.0,
-      "phosphorus": 58.0,
+      "potassium": 168,
+      "phosphorus": 58,
       "sodium": 7.8,
       "energy": 24
     },
@@ -9449,8 +9449,8 @@
     "name": "韭黄",
     "nutrition": {
       "protein": 2.3,
-      "potassium": 192.0,
-      "phosphorus": 48.0,
+      "potassium": 192,
+      "phosphorus": 48,
       "sodium": 6.9,
       "energy": 24
     },
@@ -9479,9 +9479,9 @@
     "name": "韭苔",
     "nutrition": {
       "protein": 2.2,
-      "potassium": 121.0,
-      "phosphorus": 29.0,
-      "sodium": 1.0,
+      "potassium": 121,
+      "phosphorus": 29,
+      "sodium": 1,
       "energy": 38
     },
     "advice": {
@@ -9503,8 +9503,8 @@
     "name": "薤(鲜)",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 120.0,
-      "phosphorus": 58.0,
+      "potassium": 120,
+      "phosphorus": 58,
       "sodium": 4.2,
       "energy": 76
     },
@@ -9534,7 +9534,7 @@
     "nutrition": {
       "protein": 3.4,
       "potassium": 222,
-      "phosphorus": 53.0,
+      "phosphorus": 53,
       "sodium": 5.2,
       "energy": 32
     },
@@ -9569,8 +9569,8 @@
     "name": "酸白菜（腌制酸菜）",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 104.0,
-      "phosphorus": 38.0,
+      "potassium": 104,
+      "phosphorus": 38,
       "sodium": 500,
       "energy": 15
     },
@@ -9600,9 +9600,9 @@
     "name": "白菜薹",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 236.0,
-      "phosphorus": 54.0,
-      "sodium": 26.0,
+      "potassium": 236,
+      "phosphorus": 54,
+      "sodium": 26,
       "energy": 28
     },
     "advice": {
@@ -9633,8 +9633,8 @@
     "name": "红菜薹",
     "nutrition": {
       "protein": 2.9,
-      "potassium": 221.0,
-      "phosphorus": 60.0,
+      "potassium": 221,
+      "phosphorus": 60,
       "sodium": 1.5,
       "energy": 43
     },
@@ -9663,8 +9663,8 @@
     "name": "瓢儿白",
     "nutrition": {
       "protein": 1.7,
-      "potassium": 245.0,
-      "phosphorus": 36.0,
+      "potassium": 245,
+      "phosphorus": 36,
       "sodium": 56.9,
       "energy": 18
     },
@@ -9693,8 +9693,8 @@
     "name": "乌菜",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 154.0,
-      "phosphorus": 53.0,
+      "potassium": 154,
+      "phosphorus": 53,
       "sodium": 115.5,
       "energy": 28
     },
@@ -9726,8 +9726,8 @@
     "name": "油菜薹",
     "nutrition": {
       "protein": 3.2,
-      "potassium": 192.0,
-      "phosphorus": 51.0,
+      "potassium": 192,
+      "phosphorus": 51,
       "sodium": 83.2,
       "energy": 24
     },
@@ -9756,8 +9756,8 @@
     "name": "奶白菜",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 126.0,
-      "phosphorus": 55.0,
+      "potassium": 126,
+      "phosphorus": 55,
       "sodium": 170.2,
       "energy": 21
     },
@@ -9780,8 +9780,8 @@
     "name": "鸡毛菜",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 230.0,
-      "phosphorus": 25.0,
+      "potassium": 230,
+      "phosphorus": 25,
       "sodium": 62.7,
       "energy": 19
     },
@@ -9804,8 +9804,8 @@
     "name": "乌塌菜",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 213.0,
-      "phosphorus": 35.0,
+      "potassium": 213,
+      "phosphorus": 35,
       "sodium": 59.5,
       "energy": 13
     },
@@ -9837,8 +9837,8 @@
     "name": "芥蓝",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 104.0,
-      "phosphorus": 50.0,
+      "potassium": 104,
+      "phosphorus": 50,
       "sodium": 50.5,
       "energy": 22
     },
@@ -9870,9 +9870,9 @@
     "name": "结球甘蓝(紫)",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 177.0,
-      "phosphorus": 22.0,
-      "sodium": 27.0,
+      "potassium": 177,
+      "phosphorus": 22,
+      "sodium": 27,
       "energy": 25
     },
     "advice": {
@@ -9894,8 +9894,8 @@
     "name": "抱子甘蓝",
     "nutrition": {
       "protein": 3.5,
-      "potassium": 350.0,
-      "phosphorus": 60.0,
+      "potassium": 350,
+      "phosphorus": 60,
       "sodium": 35.5,
       "energy": 36
     },
@@ -9917,9 +9917,9 @@
     "id": "f322",
     "name": "羽衣甘蓝",
     "nutrition": {
-      "protein": 5.0,
-      "potassium": 395.0,
-      "phosphorus": 82.0,
+      "protein": 5,
+      "potassium": 395,
+      "phosphorus": 82,
       "sodium": 66.8,
       "energy": 39
     },
@@ -9942,8 +9942,8 @@
     "name": "盖菜",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 150.0,
-      "phosphorus": 33.0,
+      "potassium": 150,
+      "phosphorus": 33,
       "sodium": 73.5,
       "energy": 13
     },
@@ -9966,9 +9966,9 @@
     "name": "冬寒菜(鲜)",
     "nutrition": {
       "protein": 3.9,
-      "potassium": 280.0,
-      "phosphorus": 56.0,
-      "sodium": 14.0,
+      "potassium": 280,
+      "phosphorus": 56,
+      "sodium": 14,
       "energy": 35
     },
     "advice": {
@@ -9999,9 +9999,9 @@
     "name": "观达菜",
     "nutrition": {
       "protein": 1.7,
-      "potassium": 222.0,
-      "phosphorus": 41.0,
-      "sodium": 260.0,
+      "potassium": 222,
+      "phosphorus": 41,
+      "sodium": 260,
       "energy": 16
     },
     "advice": {
@@ -10032,8 +10032,8 @@
     "name": "胡萝卜缨(红，鲜)",
     "nutrition": {
       "protein": 1.7,
-      "potassium": 493.0,
-      "phosphorus": 39.0,
+      "potassium": 493,
+      "phosphorus": 39,
       "sodium": 74.6,
       "energy": 48
     },
@@ -10056,8 +10056,8 @@
     "name": "苦菜",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 180.0,
-      "phosphorus": 41.0,
+      "potassium": 180,
+      "phosphorus": 41,
       "sodium": 8.7,
       "energy": 46
     },
@@ -10089,8 +10089,8 @@
     "name": "萝卜缨(小萝卜)",
     "nutrition": {
       "protein": 1.6,
-      "potassium": 101.0,
-      "phosphorus": 32.0,
+      "potassium": 101,
+      "phosphorus": 32,
       "sodium": 43.1,
       "energy": 23
     },
@@ -10113,9 +10113,9 @@
     "name": "芹菜茎",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 206.0,
-      "phosphorus": 38.0,
-      "sodium": 159.0,
+      "potassium": 206,
+      "phosphorus": 38,
+      "sodium": 159,
       "energy": 22
     },
     "advice": {
@@ -10137,9 +10137,9 @@
     "name": "芹菜叶(鲜)",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 137.0,
-      "phosphorus": 64.0,
-      "sodium": 83.0,
+      "potassium": 137,
+      "phosphorus": 64,
+      "sodium": 83,
       "energy": 35
     },
     "advice": {
@@ -10161,9 +10161,9 @@
     "name": "甜菜叶(鲜)",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 547.0,
-      "phosphorus": 40.0,
-      "sodium": 201.0,
+      "potassium": 547,
+      "phosphorus": 40,
+      "sodium": 201,
       "energy": 21
     },
     "advice": {
@@ -10185,8 +10185,8 @@
     "name": "茴香(鲜)",
     "nutrition": {
       "protein": 2.5,
-      "potassium": 149.0,
-      "phosphorus": 23.0,
+      "potassium": 149,
+      "phosphorus": 23,
       "sodium": 186.3,
       "energy": 27
     },
@@ -10215,8 +10215,8 @@
     "name": "荠菜(鲜)",
     "nutrition": {
       "protein": 2.9,
-      "potassium": 280.0,
-      "phosphorus": 81.0,
+      "potassium": 280,
+      "phosphorus": 81,
       "sodium": 31.6,
       "energy": 31
     },
@@ -10249,7 +10249,7 @@
     "nutrition": {
       "protein": 1.4,
       "potassium": 304,
-      "phosphorus": 26.0,
+      "phosphorus": 26,
       "sodium": 39.1,
       "energy": 20
     },
@@ -10278,8 +10278,8 @@
     "name": "番杏",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 107.0,
-      "phosphorus": 25.0,
+      "potassium": 107,
+      "phosphorus": 25,
       "sodium": 445.2,
       "energy": 14
     },
@@ -10310,9 +10310,9 @@
     "id": "f336",
     "name": "樱桃萝卜缨",
     "nutrition": {
-      "protein": 2.0,
-      "potassium": 126.0,
-      "phosphorus": 50.0,
+      "protein": 2,
+      "potassium": 126,
+      "phosphorus": 50,
       "sodium": 111.3,
       "energy": 14
     },
@@ -10335,9 +10335,9 @@
     "name": "白凤菜",
     "nutrition": {
       "protein": 1.6,
-      "potassium": 192.0,
-      "phosphorus": 29.0,
-      "sodium": 152.0,
+      "potassium": 192,
+      "phosphorus": 29,
+      "sodium": 152,
       "energy": 16
     },
     "advice": {
@@ -10359,8 +10359,8 @@
     "name": "紫背天葵",
     "nutrition": {
       "protein": 1.9,
-      "potassium": 367.0,
-      "phosphorus": 31.0,
+      "potassium": 367,
+      "phosphorus": 31,
       "sodium": 19.3,
       "energy": 18
     },
@@ -10391,9 +10391,9 @@
     "id": "f339",
     "name": "白笋(干)",
     "nutrition": {
-      "protein": 26.0,
-      "potassium": 1754.0,
-      "phosphorus": 222.0,
+      "protein": 26,
+      "potassium": 1754,
+      "phosphorus": 222,
       "sodium": 0.7,
       "energy": 280
     },
@@ -10416,8 +10416,8 @@
     "name": "黑笋(干)",
     "nutrition": {
       "protein": 17.6,
-      "potassium": 115.0,
-      "phosphorus": 426.0,
+      "potassium": 115,
+      "phosphorus": 426,
       "sodium": 6.2,
       "energy": 268
     },
@@ -10440,8 +10440,8 @@
     "name": "毛笋(鲜)",
     "nutrition": {
       "protein": 2.2,
-      "potassium": 318.0,
-      "phosphorus": 34.0,
+      "potassium": 318,
+      "phosphorus": 34,
       "sodium": 5.2,
       "energy": 23
     },
@@ -10470,8 +10470,8 @@
     "name": "玉兰片",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 1400.0,
-      "phosphorus": 290.0,
+      "potassium": 1400,
+      "phosphorus": 290,
       "sodium": 1.9,
       "energy": 250
     },
@@ -10494,8 +10494,8 @@
     "name": "百合(鲜)",
     "nutrition": {
       "protein": 3.2,
-      "potassium": 510.0,
-      "phosphorus": 61.0,
+      "potassium": 510,
+      "phosphorus": 61,
       "sodium": 6.7,
       "energy": 168
     },
@@ -10518,8 +10518,8 @@
     "name": "百合(干)",
     "nutrition": {
       "protein": 6.7,
-      "potassium": 1200.0,
-      "phosphorus": 92.0,
+      "potassium": 1200,
+      "phosphorus": 92,
       "sodium": 37.3,
       "energy": 351
     },
@@ -10542,8 +10542,8 @@
     "name": "金针菜",
     "nutrition": {
       "protein": 19.4,
-      "potassium": 610.0,
-      "phosphorus": 216.0,
+      "potassium": 610,
+      "phosphorus": 216,
       "sodium": 59.2,
       "energy": 217
     },
@@ -10572,9 +10572,9 @@
     "name": "菊苣",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 314.0,
-      "phosphorus": 28.0,
-      "sodium": 22.0,
+      "potassium": 314,
+      "phosphorus": 28,
+      "sodium": 22,
       "energy": 19
     },
     "advice": {
@@ -10596,8 +10596,8 @@
     "name": "结球菊苣",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 365.0,
-      "phosphorus": 53.0,
+      "potassium": 365,
+      "phosphorus": 53,
       "sodium": 24.9,
       "energy": 17
     },
@@ -10620,8 +10620,8 @@
     "name": "软化白菊苣",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 216.0,
-      "phosphorus": 53.0,
+      "potassium": 216,
+      "phosphorus": 53,
       "sodium": 33.6,
       "energy": 17
     },
@@ -10644,8 +10644,8 @@
     "name": "慈菇(鲜)",
     "nutrition": {
       "protein": 4.6,
-      "potassium": 707.0,
-      "phosphorus": 157.0,
+      "potassium": 707,
+      "phosphorus": 157,
       "sodium": 39.1,
       "energy": 98
     },
@@ -10677,8 +10677,8 @@
     "name": "豆瓣菜(鲜)",
     "nutrition": {
       "protein": 2.9,
-      "potassium": 179.0,
-      "phosphorus": 26.0,
+      "potassium": 179,
+      "phosphorus": 26,
       "sodium": 61.2,
       "energy": 20
     },
@@ -10710,8 +10710,8 @@
     "name": "菱角(老,鲜)",
     "nutrition": {
       "protein": 4.5,
-      "potassium": 437.0,
-      "phosphorus": 93.0,
+      "potassium": 437,
+      "phosphorus": 93,
       "sodium": 5.8,
       "energy": 103
     },
@@ -10740,8 +10740,8 @@
     "name": "蒲菜(鲜)",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 230.0,
-      "phosphorus": 24.0,
+      "potassium": 230,
+      "phosphorus": 24,
       "sodium": 6.8,
       "energy": 14
     },
@@ -10773,8 +10773,8 @@
     "name": "水芹菜",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 212.0,
-      "phosphorus": 32.0,
+      "potassium": 212,
+      "phosphorus": 32,
       "sodium": 40.9,
       "energy": 13
     },
@@ -10806,8 +10806,8 @@
     "name": "茭白(鲜)",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 209.0,
-      "phosphorus": 36.0,
+      "potassium": 209,
+      "phosphorus": 36,
       "sodium": 5.8,
       "energy": 27
     },
@@ -10839,8 +10839,8 @@
     "name": "莼菜(瓶装)",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 2.0,
-      "phosphorus": 17.0,
+      "potassium": 2,
+      "phosphorus": 17,
       "sodium": 7.9,
       "energy": 21
     },
@@ -10869,9 +10869,9 @@
     "name": "大薯(鲜)",
     "nutrition": {
       "protein": 2.1,
-      "potassium": 390.0,
-      "phosphorus": 45.0,
-      "sodium": 5.0,
+      "potassium": 390,
+      "phosphorus": 45,
+      "sodium": 5,
       "energy": 109
     },
     "advice": {
@@ -10899,8 +10899,8 @@
     "name": "豆薯(鲜)",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 111.0,
-      "phosphorus": 24.0,
+      "potassium": 111,
+      "phosphorus": 24,
       "sodium": 5.5,
       "energy": 57
     },
@@ -10935,8 +10935,8 @@
     "name": "葛(鲜)",
     "nutrition": {
       "protein": 2.2,
-      "potassium": 320.0,
-      "phosphorus": 48.0,
+      "potassium": 320,
+      "phosphorus": 48,
       "sodium": 4.5,
       "energy": 152
     },
@@ -10967,9 +10967,9 @@
     "id": "f359",
     "name": "槟榔芋(鲜)",
     "nutrition": {
-      "protein": 3.0,
-      "potassium": 370.0,
-      "phosphorus": 33.0,
+      "protein": 3,
+      "potassium": 370,
+      "phosphorus": 33,
       "sodium": 4.2,
       "energy": 91
     },
@@ -11001,8 +11001,8 @@
     "name": "洋姜(鲜)",
     "nutrition": {
       "protein": 2.4,
-      "potassium": 458.0,
-      "phosphorus": 27.0,
+      "potassium": 458,
+      "phosphorus": 27,
       "sodium": 11.5,
       "energy": 74
     },
@@ -11034,9 +11034,9 @@
     "name": "草菇",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 179.0,
-      "phosphorus": 33.0,
-      "sodium": 73.0,
+      "potassium": 179,
+      "phosphorus": 33,
+      "sodium": 73,
       "energy": 27
     },
     "advice": {
@@ -11064,8 +11064,8 @@
     "name": "大红菇(干)",
     "nutrition": {
       "protein": 24.4,
-      "potassium": 228.0,
-      "phosphorus": 523.0,
+      "potassium": 228,
+      "phosphorus": 523,
       "sodium": 1.7,
       "energy": 263
     },
@@ -11094,8 +11094,8 @@
     "name": "黄蘑(干)",
     "nutrition": {
       "protein": 16.4,
-      "potassium": 1953.0,
-      "phosphorus": 194.0,
+      "potassium": 1953,
+      "phosphorus": 194,
       "sodium": 6.1,
       "energy": 203
     },
@@ -11118,8 +11118,8 @@
     "name": "普中红蘑(干)",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 169.0,
-      "phosphorus": 35.0,
+      "potassium": 169,
+      "phosphorus": 35,
       "sodium": 4.3,
       "energy": 264
     },
@@ -11142,8 +11142,8 @@
     "name": "松蘑(干)",
     "nutrition": {
       "protein": 20.3,
-      "potassium": 93.0,
-      "phosphorus": 50.0,
+      "potassium": 93,
+      "phosphorus": 50,
       "sodium": 4.3,
       "energy": 204
     },
@@ -11175,8 +11175,8 @@
     "name": "羊肚菌(干)",
     "nutrition": {
       "protein": 26.9,
-      "potassium": 1726.0,
-      "phosphorus": 1193.0,
+      "potassium": 1726,
+      "phosphorus": 1193,
       "sodium": 33.6,
       "energy": 322
     },
@@ -11205,8 +11205,8 @@
     "name": "珍珠白蘑(干)",
     "nutrition": {
       "protein": 18.3,
-      "potassium": 284.0,
-      "phosphorus": 28.0,
+      "potassium": 284,
+      "phosphorus": 28,
       "sodium": 4.4,
       "energy": 259
     },
@@ -11229,8 +11229,8 @@
     "name": "榛蘑(干)",
     "nutrition": {
       "protein": 9.5,
-      "potassium": 2493.0,
-      "phosphorus": 286.0,
+      "potassium": 2493,
+      "phosphorus": 286,
       "sodium": 51.3,
       "energy": 179
     },
@@ -11259,8 +11259,8 @@
     "name": "榛蘑(水发)",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 732.0,
-      "phosphorus": 84.0,
+      "potassium": 732,
+      "phosphorus": 84,
       "sodium": 15.1,
       "energy": 53
     },
@@ -11283,8 +11283,8 @@
     "name": "黄伞菇(干)",
     "nutrition": {
       "protein": 22.8,
-      "potassium": 3128.0,
-      "phosphorus": 566.0,
+      "potassium": 3128,
+      "phosphorus": 566,
       "sodium": 6.4,
       "energy": 294
     },
@@ -11316,8 +11316,8 @@
     "name": "鸡腿菇(干)",
     "nutrition": {
       "protein": 26.7,
-      "potassium": 4053.0,
-      "phosphorus": 764.0,
+      "potassium": 4053,
+      "phosphorus": 764,
       "sodium": 68.2,
       "energy": 296
     },
@@ -11346,8 +11346,8 @@
     "name": "鸡枞(干)",
     "nutrition": {
       "protein": 32.8,
-      "potassium": 1312.0,
-      "phosphorus": 1005.0,
+      "potassium": 1312,
+      "phosphorus": 1005,
       "sodium": 23.9,
       "energy": 298
     },
@@ -11370,8 +11370,8 @@
     "name": "鸡枞(油炸)",
     "nutrition": {
       "protein": 4.8,
-      "potassium": 367.0,
-      "phosphorus": 232.0,
+      "potassium": 367,
+      "phosphorus": 232,
       "sodium": 1265.7,
       "energy": 636
     },
@@ -11399,9 +11399,9 @@
     "id": "f374",
     "name": "牛肝菌(白)",
     "nutrition": {
-      "protein": 4.0,
-      "potassium": 301.0,
-      "phosphorus": 68.0,
+      "protein": 4,
+      "potassium": 301,
+      "phosphorus": 68,
       "sodium": 2.1,
       "energy": 35
     },
@@ -11430,8 +11430,8 @@
     "name": "牛肝菌(白、干)",
     "nutrition": {
       "protein": 27.8,
-      "potassium": 1571.0,
-      "phosphorus": 528.0,
+      "potassium": 1571,
+      "phosphorus": 528,
       "sodium": 9.1,
       "energy": 297
     },
@@ -11460,8 +11460,8 @@
     "name": "牛肝菌(黑)",
     "nutrition": {
       "protein": 3.6,
-      "potassium": 291.0,
-      "phosphorus": 60.0,
+      "potassium": 291,
+      "phosphorus": 60,
       "sodium": 1.3,
       "energy": 33
     },
@@ -11490,8 +11490,8 @@
     "name": "牛肝菌（黄皮牛肝菌，鲜)",
     "nutrition": {
       "protein": 4.3,
-      "potassium": 224.0,
-      "phosphorus": 49.0,
+      "potassium": 224,
+      "phosphorus": 49,
       "sodium": 1.6,
       "energy": 32
     },
@@ -11523,8 +11523,8 @@
     "name": "乳牛肝菌(干)",
     "nutrition": {
       "protein": 15.3,
-      "potassium": 1481.0,
-      "phosphorus": 391.0,
+      "potassium": 1481,
+      "phosphorus": 391,
       "sodium": 11.2,
       "energy": 263
     },
@@ -11556,8 +11556,8 @@
     "name": "青头菌",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 269.0,
-      "phosphorus": 52.0,
+      "potassium": 269,
+      "phosphorus": 52,
       "sodium": 1.1,
       "energy": 20
     },
@@ -11589,9 +11589,9 @@
     "name": "竹荪(干)",
     "nutrition": {
       "protein": 17.8,
-      "potassium": 11882.0,
-      "phosphorus": 289.0,
-      "sodium": 50.0,
+      "potassium": 11882,
+      "phosphorus": 289,
+      "sodium": 50,
       "energy": 245
     },
     "advice": {
@@ -11622,8 +11622,8 @@
     "name": "发菜(干)",
     "nutrition": {
       "protein": 20.2,
-      "potassium": 217.0,
-      "phosphorus": 76.0,
+      "potassium": 217,
+      "phosphorus": 76,
       "sodium": 100.7,
       "energy": 258
     },
@@ -11652,8 +11652,8 @@
     "name": "海冻菜(干)",
     "nutrition": {
       "protein": 5.4,
-      "potassium": 141.0,
-      "phosphorus": 209.0,
+      "potassium": 141,
+      "phosphorus": 209,
       "sodium": 380.8,
       "energy": 319
     },
@@ -11685,8 +11685,8 @@
     "name": "琼脂",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 11.0,
-      "phosphorus": 7.0,
+      "potassium": 11,
+      "phosphorus": 7,
       "sodium": 3.3,
       "energy": 316
     },
@@ -11714,10 +11714,10 @@
     "id": "f384",
     "name": "苔菜(干)",
     "nutrition": {
-      "protein": 19.0,
-      "potassium": 410.0,
-      "phosphorus": 302.0,
-      "sodium": 4955.0,
+      "protein": 19,
+      "potassium": 410,
+      "phosphorus": 302,
+      "sodium": 4955,
       "energy": 168
     },
     "advice": {
@@ -11747,9 +11747,9 @@
     "id": "f385",
     "name": "裙带菜(干)",
     "nutrition": {
-      "protein": 25.0,
-      "potassium": 335.0,
-      "phosphorus": 305.0,
+      "protein": 25,
+      "potassium": 335,
+      "phosphorus": 305,
       "sodium": 4411.6,
       "energy": 198
     },
@@ -11781,9 +11781,9 @@
     "name": "红香蕉苹果",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 85.0,
-      "phosphorus": 8.0,
-      "sodium": 2.0,
+      "potassium": 85,
+      "phosphorus": 8,
+      "sodium": 2,
       "energy": 51
     },
     "advice": {
@@ -11805,8 +11805,8 @@
     "name": "红星苹果",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 115.0,
-      "phosphorus": 4.0,
+      "potassium": 115,
+      "phosphorus": 4,
       "sodium": 2.3,
       "energy": 59
     },
@@ -11838,8 +11838,8 @@
     "name": "红元帅苹果",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 58.0,
-      "phosphorus": 1.0,
+      "potassium": 58,
+      "phosphorus": 1,
       "sodium": 0.7,
       "energy": 61
     },
@@ -11862,8 +11862,8 @@
     "name": "金元帅苹果",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 72.0,
-      "phosphorus": 5.0,
+      "potassium": 72,
+      "phosphorus": 5,
       "sodium": 1.7,
       "energy": 53
     },
@@ -11886,8 +11886,8 @@
     "name": "青香蕉苹果",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 83.0,
-      "phosphorus": 7.0,
+      "potassium": 83,
+      "phosphorus": 7,
       "sodium": 1.3,
       "energy": 53
     },
@@ -11910,8 +11910,8 @@
     "name": "香玉苹果",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 173.0,
-      "phosphorus": 6.0,
+      "potassium": 173,
+      "phosphorus": 6,
       "sodium": 2.6,
       "energy": 63
     },
@@ -11934,8 +11934,8 @@
     "name": "祝光苹果",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 140.0,
-      "phosphorus": 5.0,
+      "potassium": 140,
+      "phosphorus": 5,
       "sodium": 1.7,
       "energy": 50
     },
@@ -11958,8 +11958,8 @@
     "name": "倭锦苹果",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 70.0,
-      "phosphorus": 10.0,
+      "potassium": 70,
+      "phosphorus": 10,
       "sodium": 0.6,
       "energy": 54
     },
@@ -11991,8 +11991,8 @@
     "name": "长把梨",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 50.0,
-      "phosphorus": 18.0,
+      "potassium": 50,
+      "phosphorus": 18,
       "sodium": 3.2,
       "energy": 62
     },
@@ -12015,8 +12015,8 @@
     "name": "鹅黄梨",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 69.0,
-      "phosphorus": 13.0,
+      "potassium": 69,
+      "phosphorus": 13,
       "sodium": 1.7,
       "energy": 42
     },
@@ -12039,8 +12039,8 @@
     "name": "红肖梨",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 78.0,
-      "phosphorus": 7.0,
+      "potassium": 78,
+      "phosphorus": 7,
       "sodium": 3.4,
       "energy": 43
     },
@@ -12063,8 +12063,8 @@
     "name": "马蹄黄梨",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 80.0,
-      "phosphorus": 14.0,
+      "potassium": 80,
+      "phosphorus": 14,
       "sodium": 3.3,
       "energy": 50
     },
@@ -12087,8 +12087,8 @@
     "name": "明月梨",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 110.0,
-      "phosphorus": 14.0,
+      "potassium": 110,
+      "phosphorus": 14,
       "sodium": 1.4,
       "energy": 55
     },
@@ -12111,9 +12111,9 @@
     "name": "木梨",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 121.0,
-      "phosphorus": 13.0,
-      "sodium": 3.0,
+      "potassium": 121,
+      "phosphorus": 13,
+      "sodium": 3,
       "energy": 32
     },
     "advice": {
@@ -12135,9 +12135,9 @@
     "name": "软梨",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 105.0,
-      "phosphorus": 19.0,
-      "sodium": 1.0,
+      "potassium": 105,
+      "phosphorus": 19,
+      "sodium": 1,
       "energy": 31
     },
     "advice": {
@@ -12159,8 +12159,8 @@
     "name": "苏梅梨",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 39.0,
-      "phosphorus": 19.0,
+      "potassium": 39,
+      "phosphorus": 19,
       "sodium": 0.9,
       "energy": 78
     },
@@ -12183,8 +12183,8 @@
     "name": "酥梨",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 76.0,
-      "phosphorus": 16.0,
+      "potassium": 76,
+      "phosphorus": 16,
       "sodium": 2.3,
       "energy": 46
     },
@@ -12207,8 +12207,8 @@
     "name": "酸梨",
     "nutrition": {
       "protein": 0.1,
-      "potassium": 102.0,
-      "phosphorus": 13.0,
+      "potassium": 102,
+      "phosphorus": 13,
       "sodium": 8.5,
       "energy": 33
     },
@@ -12231,8 +12231,8 @@
     "name": "红果",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 299.0,
-      "phosphorus": 24.0,
+      "potassium": 299,
+      "phosphorus": 24,
       "sodium": 5.4,
       "energy": 103
     },
@@ -12264,8 +12264,8 @@
     "name": "红果(干)",
     "nutrition": {
       "protein": 4.3,
-      "potassium": 440.0,
-      "phosphorus": 440.0,
+      "potassium": 440,
+      "phosphorus": 440,
       "sodium": 9.9,
       "energy": 249
     },
@@ -12288,8 +12288,8 @@
     "name": "海棠果",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 263.0,
-      "phosphorus": 16.0,
+      "potassium": 263,
+      "phosphorus": 16,
       "sodium": 0.6,
       "energy": 77
     },
@@ -12318,8 +12318,8 @@
     "name": "沙果",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 123.0,
-      "phosphorus": 14.0,
+      "potassium": 123,
+      "phosphorus": 14,
       "sodium": 2.1,
       "energy": 71
     },
@@ -12342,8 +12342,8 @@
     "name": "酸刺",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 259.0,
-      "phosphorus": 39.0,
+      "potassium": 259,
+      "phosphorus": 39,
       "sodium": 8.3,
       "energy": 113
     },
@@ -12366,8 +12366,8 @@
     "name": "蛇果",
     "nutrition": {
       "protein": 0.1,
-      "potassium": 110.0,
-      "phosphorus": 21.0,
+      "potassium": 110,
+      "phosphorus": 21,
       "sodium": 3.1,
       "energy": 59
     },
@@ -12399,8 +12399,8 @@
     "name": "桃",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 166.0,
-      "phosphorus": 20.0,
+      "potassium": 166,
+      "phosphorus": 20,
       "sodium": 5.7,
       "energy": 51
     },
@@ -12423,8 +12423,8 @@
     "name": "桃（黄桃）",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 125.0,
-      "phosphorus": 7.0,
+      "potassium": 125,
+      "phosphorus": 7,
       "sodium": 3.5,
       "energy": 57
     },
@@ -12456,9 +12456,9 @@
     "name": "桃（久保桃）",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 100.0,
-      "phosphorus": 16.0,
-      "sodium": 2.0,
+      "potassium": 100,
+      "phosphorus": 16,
+      "sodium": 2,
       "energy": 43
     },
     "advice": {
@@ -12480,8 +12480,8 @@
     "name": "蜜桃",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 169.0,
-      "phosphorus": 21.0,
+      "potassium": 169,
+      "phosphorus": 21,
       "sodium": 2.9,
       "energy": 43
     },
@@ -12504,9 +12504,9 @@
     "name": "蒲桃",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 109.0,
-      "phosphorus": 14.0,
-      "sodium": 1.0,
+      "potassium": 109,
+      "phosphorus": 14,
+      "sodium": 1,
       "energy": 39
     },
     "advice": {
@@ -12528,9 +12528,9 @@
     "name": "桃(糖水罐头)",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 16.0,
-      "phosphorus": 6.0,
-      "sodium": 28.0,
+      "potassium": 16,
+      "phosphorus": 6,
+      "sodium": 28,
       "energy": 61
     },
     "advice": {
@@ -12552,8 +12552,8 @@
     "name": "李子",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 144.0,
-      "phosphorus": 11.0,
+      "potassium": 144,
+      "phosphorus": 11,
       "sodium": 3.8,
       "energy": 38
     },
@@ -12575,9 +12575,9 @@
     "id": "f417",
     "name": "李子杏",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 103.0,
-      "phosphorus": 11.0,
+      "protein": 1,
+      "potassium": 103,
+      "phosphorus": 11,
       "sodium": 1.5,
       "energy": 38
     },
@@ -12600,9 +12600,9 @@
     "name": "梅",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 230.0,
-      "phosphorus": 36.0,
-      "sodium": 3.0,
+      "potassium": 230,
+      "phosphorus": 36,
+      "sodium": 3,
       "energy": 35
     },
     "advice": {
@@ -12630,8 +12630,8 @@
     "name": "杏",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 226.0,
-      "phosphorus": 15.0,
+      "potassium": 226,
+      "phosphorus": 15,
       "sodium": 2.3,
       "energy": 39
     },
@@ -12654,8 +12654,8 @@
     "name": "杏(罐头)",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 26.0,
-      "phosphorus": 8.0,
+      "potassium": 26,
+      "phosphorus": 8,
       "sodium": 22.3,
       "energy": 41
     },
@@ -12678,8 +12678,8 @@
     "name": "杏干",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 783.0,
-      "phosphorus": 89.0,
+      "potassium": 783,
+      "phosphorus": 89,
       "sodium": 40.4,
       "energy": 343
     },
@@ -12702,8 +12702,8 @@
     "name": "布朗",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 160.0,
-      "phosphorus": 11.0,
+      "potassium": 160,
+      "phosphorus": 11,
       "sodium": 2.2,
       "energy": 45
     },
@@ -12735,8 +12735,8 @@
     "name": "西梅",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 155.0,
-      "phosphorus": 16.0,
+      "potassium": 155,
+      "phosphorus": 16,
       "sodium": 3.2,
       "energy": 42
     },
@@ -12759,8 +12759,8 @@
     "name": "枣(鲜)",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 375.0,
-      "phosphorus": 23.0,
+      "potassium": 375,
+      "phosphorus": 23,
       "sodium": 1.2,
       "energy": 127
     },
@@ -12783,8 +12783,8 @@
     "name": "枣(干)",
     "nutrition": {
       "protein": 3.2,
-      "potassium": 524.0,
-      "phosphorus": 51.0,
+      "potassium": 524,
+      "phosphorus": 51,
       "sodium": 6.2,
       "energy": 280
     },
@@ -12807,8 +12807,8 @@
     "name": "枣（金丝小枣）",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 620.0,
-      "phosphorus": 60.0,
+      "potassium": 620,
+      "phosphorus": 60,
       "sodium": 7.4,
       "energy": 311
     },
@@ -12840,8 +12840,8 @@
     "name": "黑枣(无核)",
     "nutrition": {
       "protein": 1.7,
-      "potassium": 478.0,
-      "phosphorus": 63.0,
+      "potassium": 478,
+      "phosphorus": 63,
       "sodium": 6.3,
       "energy": 237
     },
@@ -12870,8 +12870,8 @@
     "name": "酒枣",
     "nutrition": {
       "protein": 1.6,
-      "potassium": 444.0,
-      "phosphorus": 45.0,
+      "potassium": 444,
+      "phosphorus": 45,
       "sodium": 0.8,
       "energy": 150
     },
@@ -12894,8 +12894,8 @@
     "name": "蜜枣",
     "nutrition": {
       "protein": 1.3,
-      "potassium": 284.0,
-      "phosphorus": 22.0,
+      "potassium": 284,
+      "phosphorus": 22,
       "sodium": 25.1,
       "energy": 337
     },
@@ -12917,9 +12917,9 @@
     "id": "f430",
     "name": "蜜枣(无核)",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 480.0,
-      "phosphorus": 45.0,
+      "protein": 1,
+      "potassium": 480,
+      "phosphorus": 45,
       "sodium": 15.8,
       "energy": 331
     },
@@ -12951,9 +12951,9 @@
     "name": "冬枣",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 195.0,
-      "phosphorus": 29.0,
-      "sodium": 33.0,
+      "potassium": 195,
+      "phosphorus": 29,
+      "sodium": 33,
       "energy": 114
     },
     "advice": {
@@ -12975,8 +12975,8 @@
     "name": "酸枣",
     "nutrition": {
       "protein": 3.5,
-      "potassium": 420.0,
-      "phosphorus": 55.0,
+      "potassium": 420,
+      "phosphorus": 55,
       "sodium": 3.8,
       "energy": 303
     },
@@ -13008,8 +13008,8 @@
     "name": "红玫瑰葡萄",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 119.0,
-      "phosphorus": 13.0,
+      "potassium": 119,
+      "phosphorus": 13,
       "sodium": 1.5,
       "energy": 42
     },
@@ -13032,8 +13032,8 @@
     "name": "石榴",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 231.0,
-      "phosphorus": 71.0,
+      "potassium": 231,
+      "phosphorus": 71,
       "sodium": 0.9,
       "energy": 73
     },
@@ -13056,8 +13056,8 @@
     "name": "柿",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 151.0,
-      "phosphorus": 23.0,
+      "potassium": 151,
+      "phosphorus": 23,
       "sodium": 0.8,
       "energy": 75
     },
@@ -13080,8 +13080,8 @@
     "name": "柿饼",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 339.0,
-      "phosphorus": 55.0,
+      "potassium": 339,
+      "phosphorus": 55,
       "sodium": 6.4,
       "energy": 259
     },
@@ -13104,9 +13104,9 @@
     "name": "桑葚",
     "nutrition": {
       "protein": 1.7,
-      "potassium": 32.0,
-      "phosphorus": 33.0,
-      "sodium": 2.0,
+      "potassium": 32,
+      "phosphorus": 33,
+      "sodium": 2,
       "energy": 58
     },
     "advice": {
@@ -13128,9 +13128,9 @@
     "name": "桑葚(白)",
     "nutrition": {
       "protein": 1.8,
-      "potassium": 33.0,
+      "potassium": 33,
       "phosphorus": 0,
-      "sodium": 2.0,
+      "sodium": 2,
       "energy": 60
     },
     "advice": {
@@ -13152,8 +13152,8 @@
     "name": "桑葚(红)",
     "nutrition": {
       "protein": 1.6,
-      "potassium": 32.0,
-      "phosphorus": 33.0,
+      "potassium": 32,
+      "phosphorus": 33,
       "sodium": 1.9,
       "energy": 55
     },
@@ -13176,9 +13176,9 @@
     "name": "醋栗",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 198.0,
-      "phosphorus": 27.0,
-      "sodium": 1.0,
+      "potassium": 198,
+      "phosphorus": 27,
+      "sodium": 1,
       "energy": 46
     },
     "advice": {
@@ -13206,9 +13206,9 @@
     "name": "黑醋栗",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 322.0,
-      "phosphorus": 59.0,
-      "sodium": 2.0,
+      "potassium": 322,
+      "phosphorus": 59,
+      "sodium": 2,
       "energy": 66
     },
     "advice": {
@@ -13236,9 +13236,9 @@
     "name": "沙棘",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 359.0,
-      "phosphorus": 54.0,
-      "sodium": 28.0,
+      "potassium": 359,
+      "phosphorus": 54,
+      "sodium": 28,
       "energy": 121
     },
     "advice": {
@@ -13260,8 +13260,8 @@
     "name": "无花果",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 212.0,
-      "phosphorus": 18.0,
+      "potassium": 212,
+      "phosphorus": 18,
       "sodium": 5.5,
       "energy": 65
     },
@@ -13284,9 +13284,9 @@
     "name": "中华猕猴桃",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 310.0,
-      "phosphorus": 26.0,
-      "sodium": 10.0,
+      "potassium": 310,
+      "phosphorus": 26,
+      "sodium": 10,
       "energy": 62
     },
     "advice": {
@@ -13314,8 +13314,8 @@
     "name": "红提子葡萄",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 186.0,
-      "phosphorus": 20.0,
+      "potassium": 186,
+      "phosphorus": 20,
       "sodium": 4.4,
       "energy": 55
     },
@@ -13338,9 +13338,9 @@
     "name": "无花果(干)",
     "nutrition": {
       "protein": 3.6,
-      "potassium": 898.0,
-      "phosphorus": 67.0,
-      "sodium": 10.0,
+      "potassium": 898,
+      "phosphorus": 67,
+      "sodium": 10,
       "energy": 340
     },
     "advice": {
@@ -13362,8 +13362,8 @@
     "name": "橙",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 159.0,
-      "phosphorus": 22.0,
+      "potassium": 159,
+      "phosphorus": 22,
       "sodium": 1.2,
       "energy": 49
     },
@@ -13386,8 +13386,8 @@
     "name": "柑桔",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 154.0,
-      "phosphorus": 18.0,
+      "potassium": 154,
+      "phosphorus": 18,
       "sodium": 1.4,
       "energy": 52
     },
@@ -13409,10 +13409,10 @@
     "id": "f449",
     "name": "桔(金桔)",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 144.0,
-      "phosphorus": 20.0,
-      "sodium": 3.0,
+      "protein": 1,
+      "potassium": 144,
+      "phosphorus": 20,
+      "sodium": 3,
       "energy": 59
     },
     "advice": {
@@ -13440,9 +13440,9 @@
     "name": "芦柑",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 130.0,
-      "phosphorus": 25.0,
-      "sodium": 3.0,
+      "potassium": 130,
+      "phosphorus": 25,
+      "sodium": 3,
       "energy": 45
     },
     "advice": {
@@ -13473,8 +13473,8 @@
     "name": "蜜桔",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 177.0,
-      "phosphorus": 18.0,
+      "potassium": 177,
+      "phosphorus": 18,
       "sodium": 1.3,
       "energy": 46
     },
@@ -13497,8 +13497,8 @@
     "name": "小叶桔",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 124.0,
-      "phosphorus": 16.0,
+      "potassium": 124,
+      "phosphorus": 16,
       "sodium": 2.1,
       "energy": 40
     },
@@ -13521,8 +13521,8 @@
     "name": "桔饼",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 4.0,
-      "phosphorus": 6.0,
+      "potassium": 4,
+      "phosphorus": 6,
       "sodium": 485.9,
       "energy": 376
     },
@@ -13545,8 +13545,8 @@
     "name": "柠檬",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 209.0,
-      "phosphorus": 22.0,
+      "potassium": 209,
+      "phosphorus": 22,
       "sodium": 1.1,
       "energy": 38
     },
@@ -13569,9 +13569,9 @@
     "name": "葡萄柚(台湾)",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 60.0,
-      "phosphorus": 17.0,
-      "sodium": 7.0,
+      "potassium": 60,
+      "phosphorus": 17,
+      "sodium": 7,
       "energy": 35
     },
     "advice": {
@@ -13599,8 +13599,8 @@
     "name": "葡萄柚(以色列)",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 180.0,
-      "phosphorus": 16.0,
+      "potassium": 180,
+      "phosphorus": 16,
       "sodium": 4.1,
       "energy": 40
     },
@@ -13630,8 +13630,8 @@
     "name": "芭蕉",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 330.0,
-      "phosphorus": 18.0,
+      "potassium": 330,
+      "phosphorus": 18,
       "sodium": 1.3,
       "energy": 116
     },
@@ -13666,8 +13666,8 @@
     "name": "菠萝",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 113.0,
-      "phosphorus": 9.0,
+      "potassium": 113,
+      "phosphorus": 9,
       "sodium": 0.8,
       "energy": 44
     },
@@ -13699,8 +13699,8 @@
     "name": "菠萝蜜",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 330.0,
-      "phosphorus": 18.0,
+      "potassium": 330,
+      "phosphorus": 18,
       "sodium": 11.4,
       "energy": 106
     },
@@ -13729,8 +13729,8 @@
     "name": "刺梨",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 280.0,
-      "phosphorus": 13.0,
+      "potassium": 280,
+      "phosphorus": 13,
       "sodium": 3.2,
       "energy": 64
     },
@@ -13762,8 +13762,8 @@
     "name": "番石榴",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 235.0,
-      "phosphorus": 16.0,
+      "potassium": 235,
+      "phosphorus": 16,
       "sodium": 3.3,
       "energy": 53
     },
@@ -13795,8 +13795,8 @@
     "name": "桂圆",
     "nutrition": {
       "protein": 1.2,
-      "potassium": 248.0,
-      "phosphorus": 30.0,
+      "potassium": 248,
+      "phosphorus": 30,
       "sodium": 3.9,
       "energy": 72
     },
@@ -13818,9 +13818,9 @@
     "id": "f464",
     "name": "桂圆(干)",
     "nutrition": {
-      "protein": 5.0,
-      "potassium": 1348.0,
-      "phosphorus": 206.0,
+      "protein": 5,
+      "potassium": 1348,
+      "phosphorus": 206,
       "sodium": 3.3,
       "energy": 281
     },
@@ -13843,8 +13843,8 @@
     "name": "荔枝",
     "nutrition": {
       "protein": 0.9,
-      "potassium": 151.0,
-      "phosphorus": 24.0,
+      "potassium": 151,
+      "phosphorus": 24,
       "sodium": 1.7,
       "energy": 72
     },
@@ -13867,8 +13867,8 @@
     "name": "人参果",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 100.0,
-      "phosphorus": 7.0,
+      "potassium": 100,
+      "phosphorus": 7,
       "sodium": 7.1,
       "energy": 87
     },
@@ -13891,8 +13891,8 @@
     "name": "杨桃",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 128.0,
-      "phosphorus": 18.0,
+      "potassium": 128,
+      "phosphorus": 18,
       "sodium": 1.4,
       "energy": 32
     },
@@ -13914,9 +13914,9 @@
     "id": "f468",
     "name": "椰子",
     "nutrition": {
-      "protein": 4.0,
-      "potassium": 475.0,
-      "phosphorus": 90.0,
+      "protein": 4,
+      "potassium": 475,
+      "phosphorus": 90,
       "sodium": 55.6,
       "energy": 240
     },
@@ -13939,9 +13939,9 @@
     "name": "枇杷",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 122.0,
-      "phosphorus": 8.0,
-      "sodium": 4.0,
+      "potassium": 122,
+      "phosphorus": 8,
+      "sodium": 4,
       "energy": 41
     },
     "advice": {
@@ -13963,8 +13963,8 @@
     "name": "橄榄(白榄)",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 23.0,
-      "phosphorus": 18.0,
+      "potassium": 23,
+      "phosphorus": 18,
       "sodium": 0,
       "energy": 58
     },
@@ -13987,9 +13987,9 @@
     "name": "余柑子",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 210.0,
-      "phosphorus": 9.0,
-      "sodium": 3.0,
+      "potassium": 210,
+      "phosphorus": 9,
+      "sodium": 3,
       "energy": 45
     },
     "advice": {
@@ -14016,9 +14016,9 @@
     "id": "f472",
     "name": "红毛丹",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 13.0,
-      "phosphorus": 20.0,
+      "protein": 1,
+      "potassium": 13,
+      "phosphorus": 20,
       "sodium": 2.3,
       "energy": 82
     },
@@ -14041,8 +14041,8 @@
     "name": "榴莲",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 261.0,
-      "phosphorus": 38.0,
+      "potassium": 261,
+      "phosphorus": 38,
       "sodium": 2.9,
       "energy": 151
     },
@@ -14065,9 +14065,9 @@
     "name": "白兰瓜",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 120.0,
-      "phosphorus": 13.0,
-      "sodium": 2.0,
+      "potassium": 120,
+      "phosphorus": 13,
+      "sodium": 2,
       "energy": 23
     },
     "advice": {
@@ -14098,8 +14098,8 @@
     "name": "哈蜜瓜",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 190.0,
-      "phosphorus": 19.0,
+      "potassium": 190,
+      "phosphorus": 19,
       "sodium": 26.7,
       "energy": 35
     },
@@ -14122,8 +14122,8 @@
     "name": "甜瓜",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 139.0,
-      "phosphorus": 17.0,
+      "potassium": 139,
+      "phosphorus": 17,
       "sodium": 8.8,
       "energy": 27
     },
@@ -14152,8 +14152,8 @@
     "name": "白果(干)",
     "nutrition": {
       "protein": 13.2,
-      "potassium": 470.0,
-      "phosphorus": 90.0,
+      "potassium": 470,
+      "phosphorus": 90,
       "sodium": 17.5,
       "energy": 360
     },
@@ -14182,8 +14182,8 @@
     "name": "菠萝蜜子",
     "nutrition": {
       "protein": 4.9,
-      "potassium": 400.0,
-      "phosphorus": 68.0,
+      "potassium": 400,
+      "phosphorus": 68,
       "sodium": 11.5,
       "energy": 167
     },
@@ -14205,9 +14205,9 @@
     "id": "f479",
     "name": "山核桃(干)",
     "nutrition": {
-      "protein": 18.0,
-      "potassium": 237.0,
-      "phosphorus": 521.0,
+      "protein": 18,
+      "potassium": 237,
+      "phosphorus": 521,
       "sodium": 250.7,
       "energy": 609
     },
@@ -14230,8 +14230,8 @@
     "name": "山核桃(熟)",
     "nutrition": {
       "protein": 7.9,
-      "potassium": 241.0,
-      "phosphorus": 222.0,
+      "potassium": 241,
+      "phosphorus": 222,
       "sodium": 430.3,
       "energy": 605
     },
@@ -14260,9 +14260,9 @@
     "name": "松子(生)",
     "nutrition": {
       "protein": 12.6,
-      "potassium": 584.0,
-      "phosphorus": 620.0,
-      "sodium": 3.0,
+      "potassium": 584,
+      "phosphorus": 620,
+      "sodium": 3,
       "energy": 655
     },
     "advice": {
@@ -14293,9 +14293,9 @@
     "name": "松子(炒)",
     "nutrition": {
       "protein": 14.1,
-      "potassium": 612.0,
-      "phosphorus": 227.0,
-      "sodium": 3.0,
+      "potassium": 612,
+      "phosphorus": 227,
+      "sodium": 3,
       "energy": 635
     },
     "advice": {
@@ -14326,8 +14326,8 @@
     "name": "松子仁",
     "nutrition": {
       "protein": 13.4,
-      "potassium": 502.0,
-      "phosphorus": 569.0,
+      "potassium": 502,
+      "phosphorus": 569,
       "sodium": 10.1,
       "energy": 707
     },
@@ -14359,8 +14359,8 @@
     "name": "杏仁",
     "nutrition": {
       "protein": 22.5,
-      "potassium": 680.0,
-      "phosphorus": 520.0,
+      "potassium": 680,
+      "phosphorus": 520,
       "sodium": 8.3,
       "energy": 573
     },
@@ -14392,9 +14392,9 @@
     "name": "杏仁(大)",
     "nutrition": {
       "protein": 19.9,
-      "potassium": 169.0,
-      "phosphorus": 490.0,
-      "sodium": 3.0,
+      "potassium": 169,
+      "phosphorus": 490,
+      "sodium": 3,
       "energy": 533
     },
     "advice": {
@@ -14425,9 +14425,9 @@
     "name": "杏仁(炒)",
     "nutrition": {
       "protein": 25.7,
-      "potassium": 650.0,
-      "phosphorus": 202.0,
-      "sodium": 3.0,
+      "potassium": 650,
+      "phosphorus": 202,
+      "sodium": 3,
       "energy": 612
     },
     "advice": {
@@ -14457,10 +14457,10 @@
     "id": "f487",
     "name": "橡实",
     "nutrition": {
-      "protein": 4.0,
-      "potassium": 430.0,
-      "phosphorus": 64.0,
-      "sodium": 3.0,
+      "protein": 4,
+      "potassium": 430,
+      "phosphorus": 64,
+      "sodium": 3,
       "energy": 236
     },
     "advice": {
@@ -14490,9 +14490,9 @@
     "id": "f488",
     "name": "榛子(干)",
     "nutrition": {
-      "protein": 20.0,
-      "potassium": 1244.0,
-      "phosphorus": 422.0,
+      "protein": 20,
+      "potassium": 1244,
+      "phosphorus": 422,
       "sodium": 4.7,
       "energy": 555
     },
@@ -14515,9 +14515,9 @@
     "name": "榛子(炒)",
     "nutrition": {
       "protein": 30.5,
-      "potassium": 686.0,
-      "phosphorus": 423.0,
-      "sodium": 153.0,
+      "potassium": 686,
+      "phosphorus": 423,
+      "sodium": 153,
       "energy": 604
     },
     "advice": {
@@ -14539,8 +14539,8 @@
     "name": "开心果(熟)",
     "nutrition": {
       "protein": 20.6,
-      "potassium": 735.0,
-      "phosphorus": 468.0,
+      "potassium": 735,
+      "phosphorus": 468,
       "sodium": 756.4,
       "energy": 624
     },
@@ -14563,8 +14563,8 @@
     "name": "胡麻籽",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 408.0,
-      "phosphorus": 577.0,
+      "potassium": 408,
+      "phosphorus": 577,
       "sodium": 48.8,
       "energy": 445
     },
@@ -14587,8 +14587,8 @@
     "name": "花生仁(生)",
     "nutrition": {
       "protein": 24.8,
-      "potassium": 587.0,
-      "phosphorus": 324.0,
+      "potassium": 587,
+      "phosphorus": 324,
       "sodium": 3.6,
       "energy": 569
     },
@@ -14611,8 +14611,8 @@
     "name": "花生仁(炒)",
     "nutrition": {
       "protein": 23.9,
-      "potassium": 674.0,
-      "phosphorus": 315.0,
+      "potassium": 674,
+      "phosphorus": 315,
       "sodium": 445.1,
       "energy": 585
     },
@@ -14635,8 +14635,8 @@
     "name": "葵花子(生)",
     "nutrition": {
       "protein": 23.9,
-      "potassium": 562.0,
-      "phosphorus": 238.0,
+      "potassium": 562,
+      "phosphorus": 238,
       "sodium": 5.5,
       "energy": 603
     },
@@ -14659,9 +14659,9 @@
     "name": "葵花子(炒)",
     "nutrition": {
       "protein": 22.6,
-      "potassium": 491.0,
-      "phosphorus": 564.0,
-      "sodium": 1322.0,
+      "potassium": 491,
+      "phosphorus": 564,
+      "sodium": 1322,
       "energy": 619
     },
     "advice": {
@@ -14683,9 +14683,9 @@
     "name": "葵花子仁",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 547.0,
-      "phosphorus": 604.0,
-      "sodium": 5.0,
+      "potassium": 547,
+      "phosphorus": 604,
+      "sodium": 5,
       "energy": 608
     },
     "advice": {
@@ -14706,8 +14706,8 @@
     "id": "f497",
     "name": "南瓜子(炒)",
     "nutrition": {
-      "protein": 36.0,
-      "potassium": 672.0,
+      "protein": 36,
+      "potassium": 672,
       "phosphorus": 0,
       "sodium": 15.8,
       "energy": 577
@@ -14737,8 +14737,8 @@
     "name": "南瓜子仁",
     "nutrition": {
       "protein": 33.2,
-      "potassium": 102.0,
-      "phosphorus": 1159.0,
+      "potassium": 102,
+      "phosphorus": 1159,
       "sodium": 20.6,
       "energy": 570
     },
@@ -14761,8 +14761,8 @@
     "name": "西瓜子(炒)",
     "nutrition": {
       "protein": 32.7,
-      "potassium": 612.0,
-      "phosphorus": 765.0,
+      "potassium": 612,
+      "phosphorus": 765,
       "sodium": 187.7,
       "energy": 577
     },
@@ -14785,8 +14785,8 @@
     "name": "西瓜子仁",
     "nutrition": {
       "protein": 32.4,
-      "potassium": 186.0,
-      "phosphorus": 818.0,
+      "potassium": 186,
+      "phosphorus": 818,
       "sodium": 9.4,
       "energy": 561
     },
@@ -14809,8 +14809,8 @@
     "name": "芝麻籽(白)",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 266.0,
-      "phosphorus": 513.0,
+      "potassium": 266,
+      "phosphorus": 513,
       "sodium": 32.2,
       "energy": 532
     },
@@ -14833,8 +14833,8 @@
     "name": "芝麻籽(黑)",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 358.0,
-      "phosphorus": 516.0,
+      "potassium": 358,
+      "phosphorus": 516,
       "sodium": 8.3,
       "energy": 553
     },
@@ -14857,9 +14857,9 @@
     "name": "芡实米(鲜)",
     "nutrition": {
       "protein": 4.4,
-      "potassium": 220.0,
-      "phosphorus": 110.0,
-      "sodium": 3.0,
+      "potassium": 220,
+      "phosphorus": 110,
+      "sodium": 3,
       "energy": 147
     },
     "advice": {
@@ -14887,8 +14887,8 @@
     "name": "花生仁(油炸)",
     "nutrition": {
       "protein": 22.2,
-      "potassium": 551.0,
-      "phosphorus": 474.0,
+      "potassium": 551,
+      "phosphorus": 474,
       "sodium": 207.8,
       "energy": 576
     },
@@ -14911,8 +14911,8 @@
     "name": "猪大肠",
     "nutrition": {
       "protein": 6.9,
-      "potassium": 44.0,
-      "phosphorus": 56.0,
+      "potassium": 44,
+      "phosphorus": 56,
       "sodium": 116.3,
       "energy": 193
     },
@@ -14935,8 +14935,8 @@
     "name": "猪大排",
     "nutrition": {
       "protein": 18.3,
-      "potassium": 274.0,
-      "phosphorus": 125.0,
+      "potassium": 274,
+      "phosphorus": 125,
       "sodium": 44.5,
       "energy": 262
     },
@@ -14959,8 +14959,8 @@
     "name": "猪耳",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 58.0,
-      "phosphorus": 28.0,
+      "potassium": 58,
+      "phosphorus": 28,
       "sodium": 68.2,
       "energy": 176
     },
@@ -14983,9 +14983,9 @@
     "name": "猪蹄",
     "nutrition": {
       "protein": 22.6,
-      "potassium": 54.0,
-      "phosphorus": 33.0,
-      "sodium": 101.0,
+      "potassium": 54,
+      "phosphorus": 33,
+      "sodium": 101,
       "energy": 258
     },
     "advice": {
@@ -15007,8 +15007,8 @@
     "name": "猪小排",
     "nutrition": {
       "protein": 16.7,
-      "potassium": 230.0,
-      "phosphorus": 135.0,
+      "potassium": 230,
+      "phosphorus": 135,
       "sodium": 62.6,
       "energy": 275
     },
@@ -15031,8 +15031,8 @@
     "name": "猪肚",
     "nutrition": {
       "protein": 15.2,
-      "potassium": 171.0,
-      "phosphorus": 124.0,
+      "potassium": 171,
+      "phosphorus": 124,
       "sodium": 75.1,
       "energy": 110
     },
@@ -15055,8 +15055,8 @@
     "name": "猪肺",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 210.0,
-      "phosphorus": 165.0,
+      "potassium": 210,
+      "phosphorus": 165,
       "sodium": 81.4,
       "energy": 84
     },
@@ -15079,8 +15079,8 @@
     "name": "猪脑",
     "nutrition": {
       "protein": 10.8,
-      "potassium": 259.0,
-      "phosphorus": 294.0,
+      "potassium": 259,
+      "phosphorus": 294,
       "sodium": 130.7,
       "energy": 130
     },
@@ -15103,8 +15103,8 @@
     "name": "猪舌",
     "nutrition": {
       "protein": 15.7,
-      "potassium": 216.0,
-      "phosphorus": 163.0,
+      "potassium": 216,
+      "phosphorus": 163,
       "sodium": 79.4,
       "energy": 231
     },
@@ -15133,8 +15133,8 @@
     "name": "猪肾",
     "nutrition": {
       "protein": 15.4,
-      "potassium": 217.0,
-      "phosphorus": 215.0,
+      "potassium": 217,
+      "phosphorus": 215,
       "sodium": 134.2,
       "energy": 97
     },
@@ -15162,9 +15162,9 @@
     "id": "f515",
     "name": "猪小肠",
     "nutrition": {
-      "protein": 10.0,
-      "potassium": 142.0,
-      "phosphorus": 95.0,
+      "protein": 10,
+      "potassium": 142,
+      "phosphorus": 95,
       "sodium": 204.8,
       "energy": 65
     },
@@ -15187,8 +15187,8 @@
     "name": "猪心",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 260.0,
-      "phosphorus": 189.0,
+      "potassium": 260,
+      "phosphorus": 189,
       "sodium": 71.2,
       "energy": 119
     },
@@ -15211,8 +15211,8 @@
     "name": "叉烧肉",
     "nutrition": {
       "protein": 23.8,
-      "potassium": 430.0,
-      "phosphorus": 218.0,
+      "potassium": 430,
+      "phosphorus": 218,
       "sodium": 818.8,
       "energy": 278
     },
@@ -15235,8 +15235,8 @@
     "name": "腊肉(培根)",
     "nutrition": {
       "protein": 22.3,
-      "potassium": 294.0,
-      "phosphorus": 228.0,
+      "potassium": 294,
+      "phosphorus": 228,
       "sodium": 51.2,
       "energy": 181
     },
@@ -15259,8 +15259,8 @@
     "name": "腊肉(生)",
     "nutrition": {
       "protein": 11.8,
-      "potassium": 416.0,
-      "phosphorus": 249.0,
+      "potassium": 416,
+      "phosphorus": 249,
       "sodium": 763.9,
       "energy": 491
     },
@@ -15283,8 +15283,8 @@
     "name": "午餐肉",
     "nutrition": {
       "protein": 9.4,
-      "potassium": 146.0,
-      "phosphorus": 81.0,
+      "potassium": 146,
+      "phosphorus": 81,
       "sodium": 981.9,
       "energy": 228
     },
@@ -15307,8 +15307,8 @@
     "name": "咸肉",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 387.0,
-      "phosphorus": 112.0,
+      "potassium": 387,
+      "phosphorus": 112,
       "sodium": 195.6,
       "energy": 386
     },
@@ -15331,8 +15331,8 @@
     "name": "猪蹄(熟)",
     "nutrition": {
       "protein": 23.6,
-      "potassium": 270.0,
-      "phosphorus": 130.0,
+      "potassium": 270,
+      "phosphorus": 130,
       "sodium": 363.2,
       "energy": 259
     },
@@ -15364,9 +15364,9 @@
     "name": "猪肉松",
     "nutrition": {
       "protein": 23.4,
-      "potassium": 313.0,
-      "phosphorus": 162.0,
-      "sodium": 469.0,
+      "potassium": 313,
+      "phosphorus": 162,
+      "sodium": 469,
       "energy": 399
     },
     "advice": {
@@ -15397,8 +15397,8 @@
     "name": "蛋清肠",
     "nutrition": {
       "protein": 12.5,
-      "potassium": 161.0,
-      "phosphorus": 85.0,
+      "potassium": 161,
+      "phosphorus": 85,
       "sodium": 1143.2,
       "energy": 276
     },
@@ -15421,9 +15421,9 @@
     "name": "风干肠",
     "nutrition": {
       "protein": 12.4,
-      "potassium": 163.0,
-      "phosphorus": 121.0,
-      "sodium": 618.0,
+      "potassium": 163,
+      "phosphorus": 121,
+      "sodium": 618,
       "energy": 280
     },
     "advice": {
@@ -15444,9 +15444,9 @@
     "id": "f526",
     "name": "广东香肠",
     "nutrition": {
-      "protein": 18.0,
-      "potassium": 356.0,
-      "phosphorus": 173.0,
+      "protein": 18,
+      "potassium": 356,
+      "phosphorus": 173,
       "sodium": 1477.9,
       "energy": 429
     },
@@ -15468,9 +15468,9 @@
     "id": "f527",
     "name": "火腿肠",
     "nutrition": {
-      "protein": 14.0,
-      "potassium": 217.0,
-      "phosphorus": 187.0,
+      "protein": 14,
+      "potassium": 217,
+      "phosphorus": 187,
       "sodium": 771.2,
       "energy": 212
     },
@@ -15493,8 +15493,8 @@
     "name": "蒜肠",
     "nutrition": {
       "protein": 7.5,
-      "potassium": 92.0,
-      "phosphorus": 74.0,
+      "potassium": 92,
+      "phosphorus": 74,
       "sodium": 561.5,
       "energy": 307
     },
@@ -15517,8 +15517,8 @@
     "name": "小泥肠",
     "nutrition": {
       "protein": 11.3,
-      "potassium": 132.0,
-      "phosphorus": 170.0,
+      "potassium": 132,
+      "phosphorus": 170,
       "sodium": 648.2,
       "energy": 292
     },
@@ -15541,8 +15541,8 @@
     "name": "午餐肚",
     "nutrition": {
       "protein": 9.3,
-      "potassium": 57.0,
-      "phosphorus": 19.0,
+      "potassium": 57,
+      "phosphorus": 19,
       "sodium": 294.4,
       "energy": 183
     },
@@ -15564,9 +15564,9 @@
     "id": "f531",
     "name": "火腿",
     "nutrition": {
-      "protein": 16.0,
-      "potassium": 220.0,
-      "phosphorus": 90.0,
+      "protein": 16,
+      "potassium": 220,
+      "phosphorus": 90,
       "sodium": 1086.7,
       "energy": 327
     },
@@ -15589,8 +15589,8 @@
     "name": "金华火腿",
     "nutrition": {
       "protein": 16.4,
-      "potassium": 389.0,
-      "phosphorus": 125.0,
+      "potassium": 389,
+      "phosphorus": 125,
       "sodium": 233.4,
       "energy": 315
     },
@@ -15613,8 +15613,8 @@
     "name": "牛蹄筋",
     "nutrition": {
       "protein": 34.1,
-      "potassium": 250.0,
-      "phosphorus": 150.0,
+      "potassium": 250,
+      "phosphorus": 150,
       "sodium": 153.6,
       "energy": 153
     },
@@ -15646,9 +15646,9 @@
     "name": "牛鞭(泡发)",
     "nutrition": {
       "protein": 27.2,
-      "potassium": 200.0,
-      "phosphorus": 18.0,
-      "sodium": 32.0,
+      "potassium": 200,
+      "phosphorus": 18,
+      "sodium": 32,
       "energy": 119
     },
     "advice": {
@@ -15678,10 +15678,10 @@
     "id": "f535",
     "name": "牛大肠",
     "nutrition": {
-      "protein": 11.0,
-      "potassium": 55.0,
-      "phosphorus": 102.0,
-      "sodium": 28.0,
+      "protein": 11,
+      "potassium": 55,
+      "phosphorus": 102,
+      "sodium": 28,
       "energy": 67
     },
     "advice": {
@@ -15703,8 +15703,8 @@
     "name": "牛肚",
     "nutrition": {
       "protein": 14.5,
-      "potassium": 162.0,
-      "phosphorus": 104.0,
+      "potassium": 162,
+      "phosphorus": 104,
       "sodium": 60.6,
       "energy": 73
     },
@@ -15727,8 +15727,8 @@
     "name": "牛肺",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 197.0,
-      "phosphorus": 269.0,
+      "potassium": 197,
+      "phosphorus": 269,
       "sodium": 154.8,
       "energy": 95
     },
@@ -15751,9 +15751,9 @@
     "name": "牛肝",
     "nutrition": {
       "protein": 19.8,
-      "potassium": 185.0,
-      "phosphorus": 252.0,
-      "sodium": 45.0,
+      "potassium": 185,
+      "phosphorus": 252,
+      "sodium": 45,
       "energy": 140
     },
     "advice": {
@@ -15775,8 +15775,8 @@
     "name": "牛脑",
     "nutrition": {
       "protein": 12.5,
-      "potassium": 300.0,
-      "phosphorus": 435.0,
+      "potassium": 300,
+      "phosphorus": 435,
       "sodium": 185.6,
       "energy": 148
     },
@@ -15798,9 +15798,9 @@
     "id": "f540",
     "name": "牛舌",
     "nutrition": {
-      "protein": 17.0,
-      "potassium": 236.0,
-      "phosphorus": 151.0,
+      "protein": 17,
+      "potassium": 236,
+      "phosphorus": 151,
       "sodium": 58.4,
       "energy": 195
     },
@@ -15823,8 +15823,8 @@
     "name": "牛肾",
     "nutrition": {
       "protein": 15.6,
-      "potassium": 190.0,
-      "phosphorus": 214.0,
+      "potassium": 190,
+      "phosphorus": 214,
       "sodium": 180.8,
       "energy": 95
     },
@@ -15847,8 +15847,8 @@
     "name": "牛心",
     "nutrition": {
       "protein": 15.4,
-      "potassium": 282.0,
-      "phosphorus": 178.0,
+      "potassium": 282,
+      "phosphorus": 178,
       "sodium": 47.9,
       "energy": 106
     },
@@ -15871,8 +15871,8 @@
     "name": "酱牛肉",
     "nutrition": {
       "protein": 31.4,
-      "potassium": 148.0,
-      "phosphorus": 178.0,
+      "potassium": 148,
+      "phosphorus": 178,
       "sodium": 869.2,
       "energy": 246
     },
@@ -15895,8 +15895,8 @@
     "name": "牛肉松",
     "nutrition": {
       "protein": 8.2,
-      "potassium": 128.0,
-      "phosphorus": 74.0,
+      "potassium": 128,
+      "phosphorus": 74,
       "sodium": 1945.7,
       "energy": 447
     },
@@ -15919,8 +15919,8 @@
     "name": "山羊肉(冻)",
     "nutrition": {
       "protein": 8.7,
-      "potassium": 744.0,
-      "phosphorus": 151.0,
+      "potassium": 744,
+      "phosphorus": 151,
       "sodium": 160.6,
       "energy": 290
     },
@@ -15943,8 +15943,8 @@
     "name": "羊蹄筋(生)",
     "nutrition": {
       "protein": 34.3,
-      "potassium": 240.0,
-      "phosphorus": 39.0,
+      "potassium": 240,
+      "phosphorus": 39,
       "sodium": 149.7,
       "energy": 161
     },
@@ -15976,9 +15976,9 @@
     "name": "羊大肠",
     "nutrition": {
       "protein": 13.4,
-      "potassium": 220.0,
-      "phosphorus": 120.0,
-      "sodium": 79.0,
+      "potassium": 220,
+      "phosphorus": 120,
+      "sodium": 79,
       "energy": 76
     },
     "advice": {
@@ -16009,9 +16009,9 @@
     "name": "羊肚",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 210.0,
-      "phosphorus": 133.0,
-      "sodium": 66.0,
+      "potassium": 210,
+      "phosphorus": 133,
+      "sodium": 66,
       "energy": 87
     },
     "advice": {
@@ -16042,8 +16042,8 @@
     "name": "羊肺",
     "nutrition": {
       "protein": 16.2,
-      "potassium": 230.0,
-      "phosphorus": 172.0,
+      "potassium": 230,
+      "phosphorus": 172,
       "sodium": 146.2,
       "energy": 97
     },
@@ -16075,9 +16075,9 @@
     "name": "羊肝",
     "nutrition": {
       "protein": 17.9,
-      "potassium": 241.0,
-      "phosphorus": 299.0,
-      "sodium": 123.0,
+      "potassium": 241,
+      "phosphorus": 299,
+      "sodium": 123,
       "energy": 135
     },
     "advice": {
@@ -16108,8 +16108,8 @@
     "name": "羊脑",
     "nutrition": {
       "protein": 11.3,
-      "potassium": 220.0,
-      "phosphorus": 356.0,
+      "potassium": 220,
+      "phosphorus": 356,
       "sodium": 151.8,
       "energy": 141
     },
@@ -16141,8 +16141,8 @@
     "name": "羊肾",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 230.0,
-      "phosphorus": 233.0,
+      "potassium": 230,
+      "phosphorus": 233,
       "sodium": 193.3,
       "energy": 96
     },
@@ -16174,8 +16174,8 @@
     "name": "羊心",
     "nutrition": {
       "protein": 13.8,
-      "potassium": 200.0,
-      "phosphorus": 172.0,
+      "potassium": 200,
+      "phosphorus": 172,
       "sodium": 100.8,
       "energy": 113
     },
@@ -16207,8 +16207,8 @@
     "name": "羊血",
     "nutrition": {
       "protein": 6.8,
-      "potassium": 180.0,
-      "phosphorus": 7.0,
+      "potassium": 180,
+      "phosphorus": 7,
       "sodium": 443.4,
       "energy": 57
     },
@@ -16240,8 +16240,8 @@
     "name": "腊羊肉",
     "nutrition": {
       "protein": 26.1,
-      "potassium": 310.0,
-      "phosphorus": 210.0,
+      "potassium": 310,
+      "phosphorus": 210,
       "sodium": 8991.6,
       "energy": 246
     },
@@ -16263,9 +16263,9 @@
     "id": "f556",
     "name": "羊肉串(烤)",
     "nutrition": {
-      "protein": 26.0,
-      "potassium": 205.0,
-      "phosphorus": 254.0,
+      "protein": 26,
+      "potassium": 205,
+      "phosphorus": 254,
       "sodium": 484.8,
       "energy": 207
     },
@@ -16288,8 +16288,8 @@
     "name": "羊肉串(炸)",
     "nutrition": {
       "protein": 18.3,
-      "potassium": 297.0,
-      "phosphorus": 194.0,
+      "potassium": 297,
+      "phosphorus": 194,
       "sodium": 580.8,
       "energy": 217
     },
@@ -16312,8 +16312,8 @@
     "name": "山羊肉(酱)",
     "nutrition": {
       "protein": 25.4,
-      "potassium": 134.0,
-      "phosphorus": 169.0,
+      "potassium": 134,
+      "phosphorus": 169,
       "sodium": 937.8,
       "energy": 272
     },
@@ -16336,8 +16336,8 @@
     "name": "驴肉(瘦)",
     "nutrition": {
       "protein": 21.5,
-      "potassium": 325.0,
-      "phosphorus": 178.0,
+      "potassium": 325,
+      "phosphorus": 178,
       "sodium": 46.9,
       "energy": 117
     },
@@ -16360,8 +16360,8 @@
     "name": "驴肉(酱)",
     "nutrition": {
       "protein": 33.7,
-      "potassium": 185.0,
-      "phosphorus": 197.0,
+      "potassium": 185,
+      "phosphorus": 197,
       "sodium": 228.6,
       "energy": 162
     },
@@ -16384,9 +16384,9 @@
     "name": "驴肉(卤)",
     "nutrition": {
       "protein": 27.7,
-      "potassium": 219.0,
-      "phosphorus": 179.0,
-      "sodium": 307.0,
+      "potassium": 219,
+      "phosphorus": 179,
+      "sodium": 307,
       "energy": 153
     },
     "advice": {
@@ -16407,9 +16407,9 @@
     "id": "f562",
     "name": "驴肉(煮)",
     "nutrition": {
-      "protein": 27.0,
-      "potassium": 114.0,
-      "phosphorus": 170.0,
+      "protein": 27,
+      "potassium": 114,
+      "phosphorus": 170,
       "sodium": 207.4,
       "energy": 229
     },
@@ -16432,8 +16432,8 @@
     "name": "马肉",
     "nutrition": {
       "protein": 20.1,
-      "potassium": 526.0,
-      "phosphorus": 367.0,
+      "potassium": 526,
+      "phosphorus": 367,
       "sodium": 115.8,
       "energy": 123
     },
@@ -16456,8 +16456,8 @@
     "name": "马心",
     "nutrition": {
       "protein": 18.9,
-      "potassium": 176.0,
-      "phosphorus": 240.0,
+      "potassium": 176,
+      "phosphorus": 240,
       "sodium": 66.2,
       "energy": 105
     },
@@ -16480,8 +16480,8 @@
     "name": "马肉(卤)",
     "nutrition": {
       "protein": 30.5,
-      "potassium": 171.0,
-      "phosphorus": 193.0,
+      "potassium": 171,
+      "phosphorus": 193,
       "sodium": 236.9,
       "energy": 171
     },
@@ -16504,8 +16504,8 @@
     "name": "狗肉",
     "nutrition": {
       "protein": 16.8,
-      "potassium": 140.0,
-      "phosphorus": 107.0,
+      "potassium": 140,
+      "phosphorus": 107,
       "sodium": 47.4,
       "energy": 116
     },
@@ -16528,8 +16528,8 @@
     "name": "兔肉",
     "nutrition": {
       "protein": 19.7,
-      "potassium": 284.0,
-      "phosphorus": 165.0,
+      "potassium": 284,
+      "phosphorus": 165,
       "sodium": 45.1,
       "energy": 103
     },
@@ -16552,8 +16552,8 @@
     "name": "鸡",
     "nutrition": {
       "protein": 19.3,
-      "potassium": 251.0,
-      "phosphorus": 156.0,
+      "potassium": 251,
+      "phosphorus": 156,
       "sodium": 63.3,
       "energy": 167
     },
@@ -16576,8 +16576,8 @@
     "name": "鸡(土鸡，家养)",
     "nutrition": {
       "protein": 20.8,
-      "potassium": 276.0,
-      "phosphorus": 141.0,
+      "potassium": 276,
+      "phosphorus": 141,
       "sodium": 74.1,
       "energy": 124
     },
@@ -16600,8 +16600,8 @@
     "name": "肉鸡(肥)",
     "nutrition": {
       "protein": 16.7,
-      "potassium": 123.0,
-      "phosphorus": 102.0,
+      "potassium": 123,
+      "phosphorus": 102,
       "sodium": 47.8,
       "energy": 385
     },
@@ -16624,9 +16624,9 @@
     "name": "鸡(乌骨鸡)",
     "nutrition": {
       "protein": 22.3,
-      "potassium": 323.0,
-      "phosphorus": 210.0,
-      "sodium": 64.0,
+      "potassium": 323,
+      "phosphorus": 210,
+      "sodium": 64,
       "energy": 112
     },
     "advice": {
@@ -16648,8 +16648,8 @@
     "name": "鸡胸脯肉",
     "nutrition": {
       "protein": 19.4,
-      "potassium": 338.0,
-      "phosphorus": 214.0,
+      "potassium": 338,
+      "phosphorus": 214,
       "sodium": 34.4,
       "energy": 133
     },
@@ -16672,9 +16672,9 @@
     "name": "鸡爪",
     "nutrition": {
       "protein": 23.9,
-      "potassium": 108.0,
-      "phosphorus": 76.0,
-      "sodium": 169.0,
+      "potassium": 108,
+      "phosphorus": 76,
+      "sodium": 169,
       "energy": 253
     },
     "advice": {
@@ -16696,9 +16696,9 @@
     "name": "鸡肝",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 222.0,
-      "phosphorus": 263.0,
-      "sodium": 92.0,
+      "potassium": 222,
+      "phosphorus": 263,
+      "sodium": 92,
       "energy": 121
     },
     "advice": {
@@ -16720,8 +16720,8 @@
     "name": "鸡心",
     "nutrition": {
       "protein": 15.9,
-      "potassium": 220.0,
-      "phosphorus": 176.0,
+      "potassium": 220,
+      "phosphorus": 176,
       "sodium": 108.4,
       "energy": 171
     },
@@ -16744,9 +16744,9 @@
     "name": "鸡血",
     "nutrition": {
       "protein": 7.8,
-      "potassium": 136.0,
-      "phosphorus": 68.0,
-      "sodium": 208.0,
+      "potassium": 136,
+      "phosphorus": 68,
+      "sodium": 208,
       "energy": 50
     },
     "advice": {
@@ -16768,8 +16768,8 @@
     "name": "鸡肫",
     "nutrition": {
       "protein": 19.2,
-      "potassium": 272.0,
-      "phosphorus": 135.0,
+      "potassium": 272,
+      "phosphorus": 135,
       "sodium": 74.8,
       "energy": 119
     },
@@ -16798,8 +16798,8 @@
     "name": "扒鸡",
     "nutrition": {
       "protein": 29.6,
-      "potassium": 149.0,
-      "phosphorus": 157.0,
+      "potassium": 149,
+      "phosphorus": 157,
       "sodium": 1000.7,
       "energy": 217
     },
@@ -16822,8 +16822,8 @@
     "name": "烤鸡",
     "nutrition": {
       "protein": 22.4,
-      "potassium": 142.0,
-      "phosphorus": 136.0,
+      "potassium": 142,
+      "phosphorus": 136,
       "sodium": 472.3,
       "energy": 239
     },
@@ -16846,8 +16846,8 @@
     "name": "鸡肉松",
     "nutrition": {
       "protein": 7.2,
-      "potassium": 109.0,
-      "phosphorus": 83.0,
+      "potassium": 109,
+      "phosphorus": 83,
       "sodium": 1687.8,
       "energy": 442
     },
@@ -16870,9 +16870,9 @@
     "name": "鸭",
     "nutrition": {
       "protein": 15.5,
-      "potassium": 191.0,
-      "phosphorus": 122.0,
-      "sodium": 69.0,
+      "potassium": 191,
+      "phosphorus": 122,
+      "sodium": 69,
       "energy": 238
     },
     "advice": {
@@ -16893,9 +16893,9 @@
     "id": "f582",
     "name": "鸭胸脯肉",
     "nutrition": {
-      "protein": 15.0,
-      "potassium": 126.0,
-      "phosphorus": 86.0,
+      "protein": 15,
+      "potassium": 126,
+      "phosphorus": 86,
       "sodium": 60.2,
       "energy": 91
     },
@@ -16918,8 +16918,8 @@
     "name": "鸭翅",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 100.0,
-      "phosphorus": 84.0,
+      "potassium": 100,
+      "phosphorus": 84,
       "sodium": 53.6,
       "energy": 147
     },
@@ -16942,8 +16942,8 @@
     "name": "鸭掌",
     "nutrition": {
       "protein": 26.9,
-      "potassium": 28.0,
-      "phosphorus": 91.0,
+      "potassium": 28,
+      "phosphorus": 91,
       "sodium": 61.1,
       "energy": 151
     },
@@ -16966,9 +16966,9 @@
     "name": "鸭肠",
     "nutrition": {
       "protein": 14.2,
-      "potassium": 136.0,
-      "phosphorus": 166.0,
-      "sodium": 32.0,
+      "potassium": 136,
+      "phosphorus": 166,
+      "sodium": 32,
       "energy": 128
     },
     "advice": {
@@ -16990,8 +16990,8 @@
     "name": "鸭肝",
     "nutrition": {
       "protein": 14.5,
-      "potassium": 230.0,
-      "phosphorus": 283.0,
+      "potassium": 230,
+      "phosphorus": 283,
       "sodium": 87.2,
       "energy": 127
     },
@@ -17014,8 +17014,8 @@
     "name": "鸭舌",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 44.0,
-      "phosphorus": 94.0,
+      "potassium": 44,
+      "phosphorus": 94,
       "sodium": 81.5,
       "energy": 243
     },
@@ -17044,8 +17044,8 @@
     "name": "鸭心",
     "nutrition": {
       "protein": 12.8,
-      "potassium": 233.0,
-      "phosphorus": 188.0,
+      "potassium": 233,
+      "phosphorus": 188,
       "sodium": 86.2,
       "energy": 142
     },
@@ -17068,8 +17068,8 @@
     "name": "鸭血(白鸭)",
     "nutrition": {
       "protein": 13.6,
-      "potassium": 166.0,
-      "phosphorus": 87.0,
+      "potassium": 166,
+      "phosphorus": 87,
       "sodium": 173.6,
       "energy": 109
     },
@@ -17092,8 +17092,8 @@
     "name": "鸭肫",
     "nutrition": {
       "protein": 17.9,
-      "potassium": 284.0,
-      "phosphorus": 134.0,
+      "potassium": 284,
+      "phosphorus": 134,
       "sodium": 69.2,
       "energy": 93
     },
@@ -17116,9 +17116,9 @@
     "name": "北京烤鸭",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 247.0,
-      "phosphorus": 175.0,
-      "sodium": 83.0,
+      "potassium": 247,
+      "phosphorus": 175,
+      "sodium": 83,
       "energy": 431
     },
     "advice": {
@@ -17140,8 +17140,8 @@
     "name": "酱鸭",
     "nutrition": {
       "protein": 18.9,
-      "potassium": 236.0,
-      "phosphorus": 140.0,
+      "potassium": 236,
+      "phosphorus": 140,
       "sodium": 981.3,
       "energy": 265
     },
@@ -17164,8 +17164,8 @@
     "name": "盐水鸭(熟)",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 218.0,
-      "phosphorus": 112.0,
+      "potassium": 218,
+      "phosphorus": 112,
       "sodium": 1557.5,
       "energy": 310
     },
@@ -17188,8 +17188,8 @@
     "name": "鹅",
     "nutrition": {
       "protein": 17.9,
-      "potassium": 232.0,
-      "phosphorus": 144.0,
+      "potassium": 232,
+      "phosphorus": 144,
       "sodium": 58.8,
       "energy": 249
     },
@@ -17212,8 +17212,8 @@
     "name": "鹅肝",
     "nutrition": {
       "protein": 15.2,
-      "potassium": 336.0,
-      "phosphorus": 216.0,
+      "potassium": 336,
+      "phosphorus": 216,
       "sodium": 70.2,
       "energy": 130
     },
@@ -17236,8 +17236,8 @@
     "name": "鹅肫",
     "nutrition": {
       "protein": 19.6,
-      "potassium": 410.0,
-      "phosphorus": 112.0,
+      "potassium": 410,
+      "phosphorus": 112,
       "sodium": 58.2,
       "energy": 101
     },
@@ -17260,9 +17260,9 @@
     "name": "烧鹅",
     "nutrition": {
       "protein": 19.7,
-      "potassium": 22.0,
-      "phosphorus": 202.0,
-      "sodium": 240.0,
+      "potassium": 22,
+      "phosphorus": 202,
+      "sodium": 240,
       "energy": 287
     },
     "advice": {
@@ -17283,9 +17283,9 @@
     "id": "f598",
     "name": "火鸡腿",
     "nutrition": {
-      "protein": 20.0,
-      "potassium": 708.0,
-      "phosphorus": 470.0,
+      "protein": 20,
+      "potassium": 708,
+      "phosphorus": 470,
       "sodium": 168.4,
       "energy": 92
     },
@@ -17308,8 +17308,8 @@
     "name": "火鸡胸脯肉",
     "nutrition": {
       "protein": 22.4,
-      "potassium": 227.0,
-      "phosphorus": 116.0,
+      "potassium": 227,
+      "phosphorus": 116,
       "sodium": 93.7,
       "energy": 104
     },
@@ -17331,9 +17331,9 @@
     "id": "f600",
     "name": "火鸡肝",
     "nutrition": {
-      "protein": 20.0,
-      "potassium": 244.0,
-      "phosphorus": 225.0,
+      "protein": 20,
+      "potassium": 244,
+      "phosphorus": 225,
       "sodium": 128.6,
       "energy": 143
     },
@@ -17356,9 +17356,9 @@
     "name": "火鸡肫",
     "nutrition": {
       "protein": 18.9,
-      "potassium": 352.0,
-      "phosphorus": 108.0,
-      "sodium": 57.0,
+      "potassium": 352,
+      "phosphorus": 108,
+      "sodium": 57,
       "energy": 92
     },
     "advice": {
@@ -17380,8 +17380,8 @@
     "name": "鸽",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 334.0,
-      "phosphorus": 136.0,
+      "potassium": 334,
+      "phosphorus": 136,
       "sodium": 63.6,
       "energy": 200
     },
@@ -17404,8 +17404,8 @@
     "name": "鹌鹑",
     "nutrition": {
       "protein": 20.2,
-      "potassium": 204.0,
-      "phosphorus": 179.0,
+      "potassium": 204,
+      "phosphorus": 179,
       "sodium": 48.4,
       "energy": 110
     },
@@ -17428,8 +17428,8 @@
     "name": "乳鸽",
     "nutrition": {
       "protein": 11.3,
-      "potassium": 163.0,
-      "phosphorus": 573.0,
+      "potassium": 163,
+      "phosphorus": 573,
       "sodium": 653.8,
       "energy": 348
     },
@@ -17452,8 +17452,8 @@
     "name": "乳鸽(红烧)",
     "nutrition": {
       "protein": 16.9,
-      "potassium": 385.0,
-      "phosphorus": 1050.0,
+      "potassium": 385,
+      "phosphorus": 1050,
       "sodium": 1809.8,
       "energy": 253
     },
@@ -17475,9 +17475,9 @@
     "id": "f606",
     "name": "乳品（牛乳，均值)",
     "nutrition": {
-      "protein": 3.0,
-      "potassium": 109.0,
-      "phosphorus": 73.0,
+      "protein": 3,
+      "potassium": 109,
+      "phosphorus": 73,
       "sodium": 37.2,
       "energy": 54
     },
@@ -17509,8 +17509,8 @@
     "name": "乳品（鲜羊乳）",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 135.0,
-      "phosphorus": 98.0,
+      "potassium": 135,
+      "phosphorus": 98,
       "sodium": 20.6,
       "energy": 59
     },
@@ -17542,8 +17542,8 @@
     "name": "全脂加糖奶粉",
     "nutrition": {
       "protein": 22.5,
-      "potassium": 841.0,
-      "phosphorus": 1018.0,
+      "potassium": 841,
+      "phosphorus": 1018,
       "sodium": 450.8,
       "energy": 491
     },
@@ -17575,8 +17575,8 @@
     "name": "全脂速溶奶粉",
     "nutrition": {
       "protein": 19.9,
-      "potassium": 541.0,
-      "phosphorus": 571.0,
+      "potassium": 541,
+      "phosphorus": 571,
       "sodium": 247.6,
       "energy": 467
     },
@@ -17608,8 +17608,8 @@
     "name": "乳品（酸奶，均值)",
     "nutrition": {
       "protein": 2.5,
-      "potassium": 150.0,
-      "phosphorus": 85.0,
+      "potassium": 150,
+      "phosphorus": 85,
       "sodium": 39.8,
       "energy": 72
     },
@@ -17641,8 +17641,8 @@
     "name": "奶酪",
     "nutrition": {
       "protein": 25.7,
-      "potassium": 75.0,
-      "phosphorus": 326.0,
+      "potassium": 75,
+      "phosphorus": 326,
       "sodium": 584.6,
       "energy": 326
     },
@@ -17671,8 +17671,8 @@
     "name": "奶豆腐(鲜)",
     "nutrition": {
       "protein": 46.2,
-      "potassium": 240.0,
-      "phosphorus": 657.0,
+      "potassium": 240,
+      "phosphorus": 657,
       "sodium": 90.2,
       "energy": 308
     },
@@ -17695,8 +17695,8 @@
     "name": "低脂奶酪",
     "nutrition": {
       "protein": 21.6,
-      "potassium": 368.0,
-      "phosphorus": 606.0,
+      "potassium": 368,
+      "phosphorus": 606,
       "sodium": 1684.8,
       "energy": 242
     },
@@ -17719,9 +17719,9 @@
     "name": "硬质干酪",
     "nutrition": {
       "protein": 24.9,
-      "potassium": 76.0,
-      "phosphorus": 500.0,
-      "sodium": 687.0,
+      "potassium": 76,
+      "phosphorus": 500,
+      "sodium": 687,
       "energy": 420
     },
     "advice": {
@@ -17743,9 +17743,9 @@
     "name": "乳品（奶油）",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 226.0,
-      "phosphorus": 11.0,
-      "sodium": 268.0,
+      "potassium": 226,
+      "phosphorus": 11,
+      "sodium": 268,
       "energy": 864
     },
     "advice": {
@@ -17767,8 +17767,8 @@
     "name": "黄油",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 39.0,
-      "phosphorus": 8.0,
+      "potassium": 39,
+      "phosphorus": 8,
       "sodium": 40.3,
       "energy": 872
     },
@@ -17800,9 +17800,9 @@
     "name": "酥油",
     "nutrition": {
       "protein": 1.5,
-      "potassium": 188.0,
-      "phosphorus": 9.0,
-      "sodium": 73.0,
+      "potassium": 188,
+      "phosphorus": 9,
+      "sodium": 73,
       "energy": 845
     },
     "advice": {
@@ -17832,9 +17832,9 @@
     "id": "f623",
     "name": "炼乳(甜，罐头)",
     "nutrition": {
-      "protein": 8.0,
-      "potassium": 309.0,
-      "phosphorus": 200.0,
+      "protein": 8,
+      "potassium": 309,
+      "phosphorus": 200,
       "sodium": 211.9,
       "energy": 335
     },
@@ -17866,8 +17866,8 @@
     "name": "奶皮子",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 280.0,
-      "phosphorus": 308.0,
+      "potassium": 280,
+      "phosphorus": 308,
       "sodium": 2.3,
       "energy": 455
     },
@@ -17899,8 +17899,8 @@
     "name": "奶片",
     "nutrition": {
       "protein": 13.3,
-      "potassium": 356.0,
-      "phosphorus": 427.0,
+      "potassium": 356,
+      "phosphorus": 427,
       "sodium": 179.7,
       "energy": 474
     },
@@ -17923,8 +17923,8 @@
     "name": "全脂甜炼乳",
     "nutrition": {
       "protein": 8.2,
-      "potassium": 428.0,
-      "phosphorus": 246.0,
+      "potassium": 428,
+      "phosphorus": 246,
       "sodium": 103.9,
       "energy": 377
     },
@@ -17947,9 +17947,9 @@
     "name": "脱脂甜炼乳",
     "nutrition": {
       "protein": 10.3,
-      "potassium": 520.0,
-      "phosphorus": 300.0,
-      "sodium": 180.0,
+      "potassium": 520,
+      "phosphorus": 300,
+      "sodium": 180,
       "energy": 279
     },
     "advice": {
@@ -17971,8 +17971,8 @@
     "name": "毛蛋",
     "nutrition": {
       "protein": 14.2,
-      "potassium": 210.0,
-      "phosphorus": 155.0,
+      "potassium": 210,
+      "phosphorus": 155,
       "sodium": 75.8,
       "energy": 174
     },
@@ -18004,9 +18004,9 @@
     "name": "荷包蛋(油煎)",
     "nutrition": {
       "protein": 13.5,
-      "potassium": 132.0,
-      "phosphorus": 194.0,
-      "sodium": 353.0,
+      "potassium": 132,
+      "phosphorus": 194,
+      "sodium": 353,
       "energy": 193
     },
     "advice": {
@@ -18037,9 +18037,9 @@
     "name": "荷包蛋(煮)",
     "nutrition": {
       "protein": 12.3,
-      "potassium": 100.0,
-      "phosphorus": 200.0,
-      "sodium": 110.0,
+      "potassium": 100,
+      "phosphorus": 200,
+      "sodium": 110,
       "energy": 154
     },
     "advice": {
@@ -18070,8 +18070,8 @@
     "name": "海鸭蛋",
     "nutrition": {
       "protein": 12.7,
-      "potassium": 119.0,
-      "phosphorus": 6.0,
+      "potassium": 119,
+      "phosphorus": 6,
       "sodium": 105.1,
       "energy": 242
     },
@@ -18094,8 +18094,8 @@
     "name": "蛋（松花蛋，鸭蛋)",
     "nutrition": {
       "protein": 14.2,
-      "potassium": 152.0,
-      "phosphorus": 165.0,
+      "potassium": 152,
+      "phosphorus": 165,
       "sodium": 542.7,
       "energy": 171
     },
@@ -18124,8 +18124,8 @@
     "name": "咸鸭蛋",
     "nutrition": {
       "protein": 12.7,
-      "potassium": 184.0,
-      "phosphorus": 231.0,
+      "potassium": 184,
+      "phosphorus": 231,
       "sodium": 2706.1,
       "energy": 190
     },
@@ -18148,9 +18148,9 @@
     "name": "咸鸭蛋(煮)",
     "nutrition": {
       "protein": 13.8,
-      "potassium": 226.0,
-      "phosphorus": 212.0,
-      "sodium": 1131.0,
+      "potassium": 226,
+      "phosphorus": 212,
+      "sodium": 1131,
       "energy": 175
     },
     "advice": {
@@ -18172,8 +18172,8 @@
     "name": "蛋（鹅蛋）",
     "nutrition": {
       "protein": 11.1,
-      "potassium": 74.0,
-      "phosphorus": 130.0,
+      "potassium": 74,
+      "phosphorus": 130,
       "sodium": 90.6,
       "energy": 195
     },
@@ -18196,8 +18196,8 @@
     "name": "鹅蛋白",
     "nutrition": {
       "protein": 8.9,
-      "potassium": 36.0,
-      "phosphorus": 11.0,
+      "potassium": 36,
+      "phosphorus": 11,
       "sodium": 77.3,
       "energy": 49
     },
@@ -18220,9 +18220,9 @@
     "name": "鹅蛋(煮)",
     "nutrition": {
       "protein": 12.7,
-      "potassium": 76.0,
-      "phosphorus": 70.0,
-      "sodium": 45.0,
+      "potassium": 76,
+      "phosphorus": 70,
+      "sodium": 45,
       "energy": 176
     },
     "advice": {
@@ -18244,8 +18244,8 @@
     "name": "蛋（鹌鹑蛋）",
     "nutrition": {
       "protein": 12.8,
-      "potassium": 138.0,
-      "phosphorus": 180.0,
+      "potassium": 138,
+      "phosphorus": 180,
       "sodium": 106.6,
       "energy": 159
     },
@@ -18268,9 +18268,9 @@
     "name": "白条鱼(裸鱼)",
     "nutrition": {
       "protein": 16.6,
-      "potassium": 331.0,
-      "phosphorus": 224.0,
-      "sodium": 68.0,
+      "potassium": 331,
+      "phosphorus": 224,
+      "sodium": 68,
       "energy": 103
     },
     "advice": {
@@ -18292,9 +18292,9 @@
     "name": "赤眼鳟",
     "nutrition": {
       "protein": 18.1,
-      "potassium": 291.0,
-      "phosphorus": 186.0,
-      "sodium": 87.0,
+      "potassium": 291,
+      "phosphorus": 186,
+      "sodium": 87,
       "energy": 110
     },
     "advice": {
@@ -18322,8 +18322,8 @@
     "name": "感鱼",
     "nutrition": {
       "protein": 17.5,
-      "potassium": 194.0,
-      "phosphorus": 109.0,
+      "potassium": 194,
+      "phosphorus": 109,
       "sodium": 158.4,
       "energy": 114
     },
@@ -18352,8 +18352,8 @@
     "name": "胡子鲇",
     "nutrition": {
       "protein": 15.4,
-      "potassium": 78.0,
-      "phosphorus": 129.0,
+      "potassium": 78,
+      "phosphorus": 129,
       "sodium": 45.5,
       "energy": 146
     },
@@ -18382,8 +18382,8 @@
     "name": "黄颡鱼",
     "nutrition": {
       "protein": 17.8,
-      "potassium": 202.0,
-      "phosphorus": 166.0,
+      "potassium": 202,
+      "phosphorus": 166,
       "sodium": 250.4,
       "energy": 125
     },
@@ -18414,9 +18414,9 @@
     "id": "f649",
     "name": "鱼（黄鳝）",
     "nutrition": {
-      "protein": 18.0,
-      "potassium": 263.0,
-      "phosphorus": 206.0,
+      "protein": 18,
+      "potassium": 263,
+      "phosphorus": 206,
       "sodium": 70.2,
       "energy": 90
     },
@@ -18445,9 +18445,9 @@
     "name": "黄鳝丝",
     "nutrition": {
       "protein": 15.4,
-      "potassium": 278.0,
-      "phosphorus": 81.0,
-      "sodium": 131.0,
+      "potassium": 278,
+      "phosphorus": 81,
+      "sodium": 131,
       "energy": 70
     },
     "advice": {
@@ -18469,8 +18469,8 @@
     "name": "尖嘴白",
     "nutrition": {
       "protein": 22.7,
-      "potassium": 375.0,
-      "phosphorus": 192.0,
+      "potassium": 375,
+      "phosphorus": 192,
       "sodium": 48.3,
       "energy": 138
     },
@@ -18493,8 +18493,8 @@
     "name": "口头鱼",
     "nutrition": {
       "protein": 19.6,
-      "potassium": 270.0,
-      "phosphorus": 247.0,
+      "potassium": 270,
+      "phosphorus": 247,
       "sodium": 47.7,
       "energy": 135
     },
@@ -18517,8 +18517,8 @@
     "name": "鲤鱼",
     "nutrition": {
       "protein": 17.6,
-      "potassium": 334.0,
-      "phosphorus": 204.0,
+      "potassium": 334,
+      "phosphorus": 204,
       "sodium": 53.7,
       "energy": 110
     },
@@ -18547,8 +18547,8 @@
     "name": "罗非鱼",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 289.0,
-      "phosphorus": 161.0,
+      "potassium": 289,
+      "phosphorus": 161,
       "sodium": 19.8,
       "energy": 99
     },
@@ -18571,8 +18571,8 @@
     "name": "青鱼",
     "nutrition": {
       "protein": 20.1,
-      "potassium": 325.0,
-      "phosphorus": 184.0,
+      "potassium": 325,
+      "phosphorus": 184,
       "sodium": 47.4,
       "energy": 119
     },
@@ -18607,8 +18607,8 @@
     "name": "乌鳢",
     "nutrition": {
       "protein": 18.5,
-      "potassium": 313.0,
-      "phosphorus": 232.0,
+      "potassium": 313,
+      "phosphorus": 232,
       "sodium": 48.8,
       "energy": 86
     },
@@ -18643,8 +18643,8 @@
     "name": "鱼（银鱼）",
     "nutrition": {
       "protein": 17.2,
-      "potassium": 246.0,
-      "phosphorus": 22.0,
+      "potassium": 246,
+      "phosphorus": 22,
       "sodium": 8.6,
       "energy": 105
     },
@@ -18673,9 +18673,9 @@
     "name": "湟鱼(裸鲤鱼)",
     "nutrition": {
       "protein": 17.1,
-      "potassium": 372.0,
-      "phosphorus": 229.0,
-      "sodium": 42.0,
+      "potassium": 372,
+      "phosphorus": 229,
+      "sodium": 42,
       "energy": 125
     },
     "advice": {
@@ -18697,8 +18697,8 @@
     "name": "鲇鱼",
     "nutrition": {
       "protein": 17.3,
-      "potassium": 351.0,
-      "phosphorus": 195.0,
+      "potassium": 351,
+      "phosphorus": 195,
       "sodium": 49.6,
       "energy": 103
     },
@@ -18734,7 +18734,7 @@
     "nutrition": {
       "protein": 15.6,
       "potassium": 0,
-      "phosphorus": 270.0,
+      "phosphorus": 270,
       "sodium": 63.5,
       "energy": 117
     },
@@ -18757,8 +18757,8 @@
     "name": "鲮鱼",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 317.0,
-      "phosphorus": 176.0,
+      "potassium": 317,
+      "phosphorus": 176,
       "sodium": 40.1,
       "energy": 96
     },
@@ -18787,8 +18787,8 @@
     "name": "鳊鱼",
     "nutrition": {
       "protein": 18.3,
-      "potassium": 215.0,
-      "phosphorus": 188.0,
+      "potassium": 215,
+      "phosphorus": 188,
       "sodium": 41.1,
       "energy": 135
     },
@@ -18820,8 +18820,8 @@
     "name": "鳗鲡",
     "nutrition": {
       "protein": 18.6,
-      "potassium": 207.0,
-      "phosphorus": 248.0,
+      "potassium": 207,
+      "phosphorus": 248,
       "sodium": 58.8,
       "energy": 180
     },
@@ -18853,8 +18853,8 @@
     "name": "鳙鱼",
     "nutrition": {
       "protein": 15.3,
-      "potassium": 229.0,
-      "phosphorus": 180.0,
+      "potassium": 229,
+      "phosphorus": 180,
       "sodium": 60.6,
       "energy": 101
     },
@@ -18889,8 +18889,8 @@
     "name": "鳜鱼",
     "nutrition": {
       "protein": 19.9,
-      "potassium": 295.0,
-      "phosphorus": 217.0,
+      "potassium": 295,
+      "phosphorus": 217,
       "sodium": 68.6,
       "energy": 118
     },
@@ -18922,9 +18922,9 @@
     "name": "鳟鱼",
     "nutrition": {
       "protein": 18.6,
-      "potassium": 688.0,
-      "phosphorus": 374.0,
-      "sodium": 110.0,
+      "potassium": 688,
+      "phosphorus": 374,
+      "sodium": 110,
       "energy": 99
     },
     "advice": {
@@ -18952,8 +18952,8 @@
     "name": "白姑鱼",
     "nutrition": {
       "protein": 19.1,
-      "potassium": 382.0,
-      "phosphorus": 171.0,
+      "potassium": 382,
+      "phosphorus": 171,
       "sodium": 152.7,
       "energy": 150
     },
@@ -18982,8 +18982,8 @@
     "name": "参鱼",
     "nutrition": {
       "protein": 18.5,
-      "potassium": 215.0,
-      "phosphorus": 191.0,
+      "potassium": 215,
+      "phosphorus": 191,
       "sodium": 81.6,
       "energy": 125
     },
@@ -19015,9 +19015,9 @@
     "name": "堤鱼",
     "nutrition": {
       "protein": 17.6,
-      "potassium": 228.0,
-      "phosphorus": 324.0,
-      "sodium": 65.0,
+      "potassium": 228,
+      "phosphorus": 324,
+      "sodium": 65,
       "energy": 190
     },
     "advice": {
@@ -19039,8 +19039,8 @@
     "name": "狗母鱼",
     "nutrition": {
       "protein": 16.7,
-      "potassium": 194.0,
-      "phosphorus": 263.0,
+      "potassium": 194,
+      "phosphorus": 263,
       "sodium": 156.3,
       "energy": 100
     },
@@ -19068,9 +19068,9 @@
     "id": "f671",
     "name": "海鲫鱼",
     "nutrition": {
-      "protein": 17.0,
-      "potassium": 133.0,
-      "phosphorus": 193.0,
+      "protein": 17,
+      "potassium": 133,
+      "phosphorus": 193,
       "sodium": 15.8,
       "energy": 205
     },
@@ -19099,8 +19099,8 @@
     "name": "海鳗",
     "nutrition": {
       "protein": 18.8,
-      "potassium": 266.0,
-      "phosphorus": 159.0,
+      "potassium": 266,
+      "phosphorus": 159,
       "sodium": 95.8,
       "energy": 123
     },
@@ -19128,9 +19128,9 @@
     "id": "f673",
     "name": "红娘鱼",
     "nutrition": {
-      "protein": 18.0,
-      "potassium": 308.0,
-      "phosphorus": 297.0,
+      "protein": 18,
+      "potassium": 308,
+      "phosphorus": 297,
       "sodium": 163.9,
       "energy": 106
     },
@@ -19159,8 +19159,8 @@
     "name": "黄姑鱼",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 282.0,
-      "phosphorus": 196.0,
+      "potassium": 282,
+      "phosphorus": 196,
       "sodium": 101.9,
       "energy": 137
     },
@@ -19189,8 +19189,8 @@
     "name": "黄鲂",
     "nutrition": {
       "protein": 18.5,
-      "potassium": 227.0,
-      "phosphorus": 157.0,
+      "potassium": 227,
+      "phosphorus": 157,
       "sodium": 159.9,
       "energy": 82
     },
@@ -19222,9 +19222,9 @@
     "name": "金线鱼",
     "nutrition": {
       "protein": 18.6,
-      "potassium": 300.0,
-      "phosphorus": 128.0,
-      "sodium": 118.0,
+      "potassium": 300,
+      "phosphorus": 128,
+      "sodium": 118,
       "energy": 101
     },
     "advice": {
@@ -19252,8 +19252,8 @@
     "name": "绿鳍马面豚",
     "nutrition": {
       "protein": 18.1,
-      "potassium": 291.0,
-      "phosphorus": 185.0,
+      "potassium": 291,
+      "phosphorus": 185,
       "sodium": 80.5,
       "energy": 84
     },
@@ -19285,8 +19285,8 @@
     "name": "梅童鱼",
     "nutrition": {
       "protein": 18.9,
-      "potassium": 299.0,
-      "phosphorus": 164.0,
+      "potassium": 299,
+      "phosphorus": 164,
       "sodium": 106.1,
       "energy": 121
     },
@@ -19318,8 +19318,8 @@
     "name": "沙丁鱼",
     "nutrition": {
       "protein": 19.8,
-      "potassium": 136.0,
-      "phosphorus": 183.0,
+      "potassium": 136,
+      "phosphorus": 183,
       "sodium": 91.5,
       "energy": 90
     },
@@ -19348,8 +19348,8 @@
     "name": "沙钻鱼",
     "nutrition": {
       "protein": 18.4,
-      "potassium": 211.0,
-      "phosphorus": 220.0,
+      "potassium": 211,
+      "phosphorus": 220,
       "sodium": 173.6,
       "energy": 85
     },
@@ -19384,8 +19384,8 @@
     "name": "舌鳎",
     "nutrition": {
       "protein": 17.7,
-      "potassium": 309.0,
-      "phosphorus": 168.0,
+      "potassium": 309,
+      "phosphorus": 168,
       "sodium": 138.8,
       "energy": 84
     },
@@ -19417,8 +19417,8 @@
     "name": "油抒",
     "nutrition": {
       "protein": 15.9,
-      "potassium": 275.0,
-      "phosphorus": 158.0,
+      "potassium": 275,
+      "phosphorus": 158,
       "sodium": 67.5,
       "energy": 144
     },
@@ -19447,8 +19447,8 @@
     "name": "颚针鱼",
     "nutrition": {
       "protein": 20.2,
-      "potassium": 336.0,
-      "phosphorus": 197.0,
+      "potassium": 336,
+      "phosphorus": 197,
       "sodium": 73.3,
       "energy": 180
     },
@@ -19477,8 +19477,8 @@
     "name": "鲅鱼",
     "nutrition": {
       "protein": 21.2,
-      "potassium": 370.0,
-      "phosphorus": 130.0,
+      "potassium": 370,
+      "phosphorus": 130,
       "sodium": 74.2,
       "energy": 122
     },
@@ -19513,8 +19513,8 @@
     "name": "鲆",
     "nutrition": {
       "protein": 20.8,
-      "potassium": 317.0,
-      "phosphorus": 178.0,
+      "potassium": 317,
+      "phosphorus": 178,
       "sodium": 66.7,
       "energy": 113
     },
@@ -19546,8 +19546,8 @@
     "name": "鲐鱼",
     "nutrition": {
       "protein": 19.9,
-      "potassium": 263.0,
-      "phosphorus": 247.0,
+      "potassium": 263,
+      "phosphorus": 247,
       "sodium": 87.7,
       "energy": 155
     },
@@ -19582,9 +19582,9 @@
     "name": "鲑鱼籽酱",
     "nutrition": {
       "protein": 10.9,
-      "potassium": 171.0,
-      "phosphorus": 359.0,
-      "sodium": 2881.0,
+      "potassium": 171,
+      "phosphorus": 359,
+      "sodium": 2881,
       "energy": 251
     },
     "advice": {
@@ -19612,8 +19612,8 @@
     "name": "鲚鱼(大)",
     "nutrition": {
       "protein": 13.2,
-      "potassium": 161.0,
-      "phosphorus": 498.0,
+      "potassium": 161,
+      "phosphorus": 498,
       "sodium": 53.1,
       "energy": 106
     },
@@ -19642,8 +19642,8 @@
     "name": "鲚鱼(小)",
     "nutrition": {
       "protein": 15.5,
-      "potassium": 225.0,
-      "phosphorus": 460.0,
+      "potassium": 225,
+      "phosphorus": 460,
       "sodium": 38.5,
       "energy": 124
     },
@@ -19672,8 +19672,8 @@
     "name": "鲷",
     "nutrition": {
       "protein": 17.9,
-      "potassium": 261.0,
-      "phosphorus": 304.0,
+      "potassium": 261,
+      "phosphorus": 304,
       "sodium": 103.9,
       "energy": 107
     },
@@ -19708,8 +19708,8 @@
     "name": "鲻鱼",
     "nutrition": {
       "protein": 18.9,
-      "potassium": 245.0,
-      "phosphorus": 183.0,
+      "potassium": 245,
+      "phosphorus": 183,
       "sodium": 71.4,
       "energy": 119
     },
@@ -19738,8 +19738,8 @@
     "name": "鲽",
     "nutrition": {
       "protein": 21.1,
-      "potassium": 264.0,
-      "phosphorus": 135.0,
+      "potassium": 264,
+      "phosphorus": 135,
       "sodium": 150.4,
       "energy": 108
     },
@@ -19771,9 +19771,9 @@
     "name": "鳐鱼",
     "nutrition": {
       "protein": 20.8,
-      "potassium": 277.0,
-      "phosphorus": 159.0,
-      "sodium": 130.0,
+      "potassium": 277,
+      "phosphorus": 159,
+      "sodium": 130,
       "energy": 91
     },
     "advice": {
@@ -19801,8 +19801,8 @@
     "name": "鳓鱼",
     "nutrition": {
       "protein": 20.7,
-      "potassium": 246.0,
-      "phosphorus": 203.0,
+      "potassium": 246,
+      "phosphorus": 203,
       "sodium": 47.8,
       "energy": 159
     },
@@ -19834,8 +19834,8 @@
     "name": "鳕鱼",
     "nutrition": {
       "protein": 20.4,
-      "potassium": 321.0,
-      "phosphorus": 232.0,
+      "potassium": 321,
+      "phosphorus": 232,
       "sodium": 130.3,
       "energy": 89
     },
@@ -19867,8 +19867,8 @@
     "name": "鳘鱼",
     "nutrition": {
       "protein": 20.2,
-      "potassium": 357.0,
-      "phosphorus": 228.0,
+      "potassium": 357,
+      "phosphorus": 228,
       "sodium": 54.8,
       "energy": 90
     },
@@ -19891,9 +19891,9 @@
     "name": "双髻鲨",
     "nutrition": {
       "protein": 27.4,
-      "potassium": 492.0,
-      "phosphorus": 259.0,
-      "sodium": 83.0,
+      "potassium": 492,
+      "phosphorus": 259,
+      "sodium": 83,
       "energy": 112
     },
     "advice": {
@@ -19915,8 +19915,8 @@
     "name": "鱼片干",
     "nutrition": {
       "protein": 46.1,
-      "potassium": 251.0,
-      "phosphorus": 308.0,
+      "potassium": 251,
+      "phosphorus": 308,
       "sodium": 2320.6,
       "energy": 307
     },
@@ -19939,8 +19939,8 @@
     "name": "金鲨鱼翅(干)",
     "nutrition": {
       "protein": 84.1,
-      "potassium": 226.0,
-      "phosphorus": 115.0,
+      "potassium": 226,
+      "phosphorus": 115,
       "sodium": 79.6,
       "energy": 355
     },
@@ -19963,8 +19963,8 @@
     "name": "鱼丸",
     "nutrition": {
       "protein": 11.1,
-      "potassium": 360.0,
-      "phosphorus": 272.0,
+      "potassium": 360,
+      "phosphorus": 272,
       "sodium": 854.2,
       "energy": 108
     },
@@ -19987,8 +19987,8 @@
     "name": "鱼子酱",
     "nutrition": {
       "protein": 9.6,
-      "potassium": 271.0,
-      "phosphorus": 88.0,
+      "potassium": 271,
+      "phosphorus": 88,
       "sodium": 394.6,
       "energy": 202
     },
@@ -20011,8 +20011,8 @@
     "name": "凤尾鱼(熟)",
     "nutrition": {
       "protein": 23.5,
-      "potassium": 161.0,
-      "phosphorus": 643.0,
+      "potassium": 161,
+      "phosphorus": 643,
       "sodium": 525.4,
       "energy": 515
     },
@@ -20035,8 +20035,8 @@
     "name": "箭鱼(炸)",
     "nutrition": {
       "protein": 20.8,
-      "potassium": 60.0,
-      "phosphorus": 167.0,
+      "potassium": 60,
+      "phosphorus": 167,
       "sodium": 403.6,
       "energy": 270
     },
@@ -20059,9 +20059,9 @@
     "name": "金枪鱼(盐水浸)",
     "nutrition": {
       "protein": 23.5,
-      "potassium": 230.0,
-      "phosphorus": 170.0,
-      "sodium": 320.0,
+      "potassium": 230,
+      "phosphorus": 170,
+      "sodium": 320,
       "energy": 106
     },
     "advice": {
@@ -20083,9 +20083,9 @@
     "name": "金枪鱼(油浸)",
     "nutrition": {
       "protein": 27.1,
-      "potassium": 260.0,
-      "phosphorus": 200.0,
-      "sodium": 290.0,
+      "potassium": 260,
+      "phosphorus": 200,
+      "sodium": 290,
       "energy": 192
     },
     "advice": {
@@ -20107,8 +20107,8 @@
     "name": "鲮鱼(豆豉，熟)",
     "nutrition": {
       "protein": 25.5,
-      "potassium": 399.0,
-      "phosphorus": 262.0,
+      "potassium": 399,
+      "phosphorus": 262,
       "sodium": 1291.7,
       "energy": 469
     },
@@ -20137,9 +20137,9 @@
     "name": "鲭鱼(炸)",
     "nutrition": {
       "protein": 17.2,
-      "potassium": 301.0,
-      "phosphorus": 262.0,
-      "sodium": 75.0,
+      "potassium": 301,
+      "phosphorus": 262,
+      "sodium": 75,
       "energy": 543
     },
     "advice": {
@@ -20161,8 +20161,8 @@
     "name": "鲭鱼(蒸)",
     "nutrition": {
       "protein": 14.6,
-      "potassium": 235.0,
-      "phosphorus": 211.0,
+      "potassium": 235,
+      "phosphorus": 211,
       "sodium": 52.4,
       "energy": 386
     },
@@ -20185,9 +20185,9 @@
     "name": "鲭鱼(煮)",
     "nutrition": {
       "protein": 14.9,
-      "potassium": 211.0,
-      "phosphorus": 175.0,
-      "sodium": 51.0,
+      "potassium": 211,
+      "phosphorus": 175,
+      "sodium": 51,
       "energy": 368
     },
     "advice": {
@@ -20209,8 +20209,8 @@
     "name": "沙丁鱼(茄汁，熟)",
     "nutrition": {
       "protein": 13.8,
-      "potassium": 268.0,
-      "phosphorus": 137.0,
+      "potassium": 268,
+      "phosphorus": 137,
       "sodium": 820.2,
       "energy": 155
     },
@@ -20239,9 +20239,9 @@
     "name": "沙丁鱼(盐水浸)",
     "nutrition": {
       "protein": 21.5,
-      "potassium": 320.0,
-      "phosphorus": 510.0,
-      "sodium": 530.0,
+      "potassium": 320,
+      "phosphorus": 510,
+      "sodium": 530,
       "energy": 183
     },
     "advice": {
@@ -20263,9 +20263,9 @@
     "name": "沙丁鱼(油浸)",
     "nutrition": {
       "protein": 23.3,
-      "potassium": 410.0,
-      "phosphorus": 520.0,
-      "sodium": 450.0,
+      "potassium": 410,
+      "phosphorus": 520,
+      "sodium": 450,
       "energy": 236
     },
     "advice": {
@@ -20287,8 +20287,8 @@
     "name": "午餐鱼(香辣味)",
     "nutrition": {
       "protein": 24.4,
-      "potassium": 576.0,
-      "phosphorus": 801.0,
+      "potassium": 576,
+      "phosphorus": 801,
       "sodium": 1321.2,
       "energy": 380
     },
@@ -20311,9 +20311,9 @@
     "name": "鳕鱼(烤)",
     "nutrition": {
       "protein": 21.4,
-      "potassium": 350.0,
-      "phosphorus": 190.0,
-      "sodium": 340.0,
+      "potassium": 350,
+      "phosphorus": 190,
+      "sodium": 340,
       "energy": 101
     },
     "advice": {
@@ -20335,9 +20335,9 @@
     "name": "鳕鱼(炸)",
     "nutrition": {
       "protein": 12.4,
-      "potassium": 230.0,
-      "phosphorus": 190.0,
-      "sodium": 480.0,
+      "potassium": 230,
+      "phosphorus": 190,
+      "sodium": 480,
       "energy": 247
     },
     "advice": {
@@ -20358,9 +20358,9 @@
     "id": "f716",
     "name": "刺蛄",
     "nutrition": {
-      "protein": 16.0,
-      "potassium": 181.0,
-      "phosphorus": 283.0,
+      "protein": 16,
+      "potassium": 181,
+      "phosphorus": 283,
       "sodium": 86.8,
       "energy": 77
     },
@@ -20383,8 +20383,8 @@
     "name": "江虾",
     "nutrition": {
       "protein": 10.3,
-      "potassium": 683.0,
-      "phosphorus": 293.0,
+      "potassium": 683,
+      "phosphorus": 293,
       "sodium": 0,
       "energy": 88
     },
@@ -20413,9 +20413,9 @@
     "name": "塘水虾",
     "nutrition": {
       "protein": 21.2,
-      "potassium": 250.0,
-      "phosphorus": 233.0,
-      "sodium": 109.0,
+      "potassium": 250,
+      "phosphorus": 233,
+      "sodium": 109,
       "energy": 97
     },
     "advice": {
@@ -20443,8 +20443,8 @@
     "name": "虾虎",
     "nutrition": {
       "protein": 11.6,
-      "potassium": 132.0,
-      "phosphorus": 206.0,
+      "potassium": 132,
+      "phosphorus": 206,
       "sodium": 136.6,
       "energy": 82
     },
@@ -20467,8 +20467,8 @@
     "name": "虾皮",
     "nutrition": {
       "protein": 30.7,
-      "potassium": 617.0,
-      "phosphorus": 582.0,
+      "potassium": 617,
+      "phosphorus": 582,
       "sodium": 5057.7,
       "energy": 154
     },
@@ -20491,8 +20491,8 @@
     "name": "螯虾",
     "nutrition": {
       "protein": 14.8,
-      "potassium": 550.0,
-      "phosphorus": 228.0,
+      "potassium": 550,
+      "phosphorus": 228,
       "sodium": 225.2,
       "energy": 94
     },
@@ -20515,8 +20515,8 @@
     "name": "虾米",
     "nutrition": {
       "protein": 43.7,
-      "potassium": 550.0,
-      "phosphorus": 666.0,
+      "potassium": 550,
+      "phosphorus": 666,
       "sodium": 4891.9,
       "energy": 201
     },
@@ -20548,8 +20548,8 @@
     "name": "虾酱",
     "nutrition": {
       "protein": 10.8,
-      "potassium": 196.0,
-      "phosphorus": 177.0,
+      "potassium": 196,
+      "phosphorus": 177,
       "sodium": 4584.6,
       "energy": 111
     },
@@ -20572,9 +20572,9 @@
     "name": "蟹（海蟹）",
     "nutrition": {
       "protein": 13.8,
-      "potassium": 232.0,
-      "phosphorus": 142.0,
-      "sodium": 260.0,
+      "potassium": 232,
+      "phosphorus": 142,
+      "sodium": 260,
       "energy": 96
     },
     "advice": {
@@ -20596,8 +20596,8 @@
     "name": "蟹（河蟹）",
     "nutrition": {
       "protein": 17.5,
-      "potassium": 181.0,
-      "phosphorus": 182.0,
+      "potassium": 181,
+      "phosphorus": 182,
       "sodium": 193.5,
       "energy": 103
     },
@@ -20620,9 +20620,9 @@
     "name": "蟹肉",
     "nutrition": {
       "protein": 11.6,
-      "potassium": 214.0,
-      "phosphorus": 159.0,
-      "sodium": 270.0,
+      "potassium": 214,
+      "phosphorus": 159,
+      "sodium": 270,
       "energy": 62
     },
     "advice": {
@@ -20643,10 +20643,10 @@
     "id": "f727",
     "name": "蟹足棒",
     "nutrition": {
-      "protein": 9.0,
-      "potassium": 164.0,
-      "phosphorus": 117.0,
-      "sodium": 1242.0,
+      "protein": 9,
+      "potassium": 164,
+      "phosphorus": 117,
+      "sodium": 1242,
       "energy": 125
     },
     "advice": {
@@ -20668,8 +20668,8 @@
     "name": "鲍鱼",
     "nutrition": {
       "protein": 12.6,
-      "potassium": 136.0,
-      "phosphorus": 77.0,
+      "potassium": 136,
+      "phosphorus": 77,
       "sodium": 2011.7,
       "energy": 85
     },
@@ -20698,8 +20698,8 @@
     "name": "鲍鱼(干)",
     "nutrition": {
       "protein": 54.1,
-      "potassium": 366.0,
-      "phosphorus": 251.0,
+      "potassium": 366,
+      "phosphorus": 251,
       "sodium": 2316.2,
       "energy": 325
     },
@@ -20722,8 +20722,8 @@
     "name": "蛏子",
     "nutrition": {
       "protein": 7.3,
-      "potassium": 220.0,
-      "phosphorus": 114.0,
+      "potassium": 220,
+      "phosphorus": 114,
       "sodium": 175.9,
       "energy": 41
     },
@@ -20755,8 +20755,8 @@
     "name": "河蚌",
     "nutrition": {
       "protein": 10.9,
-      "potassium": 17.0,
-      "phosphorus": 305.0,
+      "potassium": 17,
+      "phosphorus": 305,
       "sodium": 17.4,
       "energy": 54
     },
@@ -20778,9 +20778,9 @@
     "id": "f732",
     "name": "河蚬",
     "nutrition": {
-      "protein": 7.0,
-      "potassium": 210.0,
-      "phosphorus": 127.0,
+      "protein": 7,
+      "potassium": 210,
+      "phosphorus": 127,
       "sodium": 18.4,
       "energy": 48
     },
@@ -20809,8 +20809,8 @@
     "name": "牡蛎",
     "nutrition": {
       "protein": 5.3,
-      "potassium": 200.0,
-      "phosphorus": 115.0,
+      "potassium": 200,
+      "phosphorus": 115,
       "sodium": 462.1,
       "energy": 73
     },
@@ -20839,9 +20839,9 @@
     "name": "生蚝",
     "nutrition": {
       "protein": 10.9,
-      "potassium": 375.0,
-      "phosphorus": 100.0,
-      "sodium": 270.0,
+      "potassium": 375,
+      "phosphorus": 100,
+      "sodium": 270,
       "energy": 58
     },
     "advice": {
@@ -20871,9 +20871,9 @@
     "id": "f735",
     "name": "泥蚶",
     "nutrition": {
-      "protein": 10.0,
-      "potassium": 207.0,
-      "phosphorus": 103.0,
+      "protein": 10,
+      "potassium": 207,
+      "phosphorus": 103,
       "sodium": 354.9,
       "energy": 72
     },
@@ -20905,9 +20905,9 @@
     "name": "扇贝(鲜)",
     "nutrition": {
       "protein": 11.1,
-      "potassium": 210.0,
-      "phosphorus": 132.0,
-      "sodium": 339.0,
+      "potassium": 210,
+      "phosphorus": 132,
+      "sodium": 339,
       "energy": 61
     },
     "advice": {
@@ -20938,8 +20938,8 @@
     "name": "扇贝(干)",
     "nutrition": {
       "protein": 55.6,
-      "potassium": 969.0,
-      "phosphorus": 504.0,
+      "potassium": 969,
+      "phosphorus": 504,
       "sodium": 306.4,
       "energy": 268
     },
@@ -20968,8 +20968,8 @@
     "name": "银蚶",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 76.0,
-      "phosphorus": 111.0,
+      "potassium": 76,
+      "phosphorus": 111,
       "sodium": 280.1,
       "energy": 71
     },
@@ -20998,8 +20998,8 @@
     "name": "贻贝(鲜)",
     "nutrition": {
       "protein": 11.4,
-      "potassium": 157.0,
-      "phosphorus": 197.0,
+      "potassium": 157,
+      "phosphorus": 197,
       "sodium": 451.4,
       "energy": 81
     },
@@ -21031,9 +21031,9 @@
     "name": "贻贝(干)",
     "nutrition": {
       "protein": 47.8,
-      "potassium": 264.0,
-      "phosphorus": 454.0,
-      "sodium": 779.0,
+      "potassium": 264,
+      "phosphorus": 454,
+      "sodium": 779,
       "energy": 358
     },
     "advice": {
@@ -21064,9 +21064,9 @@
     "name": "海蚌",
     "nutrition": {
       "protein": 9.5,
-      "potassium": 159.0,
-      "phosphorus": 100.0,
-      "sodium": 793.0,
+      "potassium": 159,
+      "phosphorus": 100,
+      "sodium": 793,
       "energy": 42
     },
     "advice": {
@@ -21094,8 +21094,8 @@
     "name": "螺",
     "nutrition": {
       "protein": 15.7,
-      "potassium": 210.0,
-      "phosphorus": 118.0,
+      "potassium": 210,
+      "phosphorus": 118,
       "sodium": 153.3,
       "energy": 101
     },
@@ -21130,9 +21130,9 @@
     "name": "文蛤丸",
     "nutrition": {
       "protein": 16.2,
-      "potassium": 226.0,
-      "phosphorus": 165.0,
-      "sodium": 565.0,
+      "potassium": 226,
+      "phosphorus": 165,
+      "sodium": 565,
       "energy": 211
     },
     "advice": {
@@ -21154,8 +21154,8 @@
     "name": "海参",
     "nutrition": {
       "protein": 16.5,
-      "potassium": 43.0,
-      "phosphorus": 28.0,
+      "potassium": 43,
+      "phosphorus": 28,
       "sodium": 502.9,
       "energy": 79
     },
@@ -21178,9 +21178,9 @@
     "name": "海参(干)",
     "nutrition": {
       "protein": 50.2,
-      "potassium": 356.0,
-      "phosphorus": 94.0,
-      "sodium": 4968.0,
+      "potassium": 356,
+      "phosphorus": 94,
+      "sodium": 4968,
       "energy": 265
     },
     "advice": {
@@ -21202,9 +21202,9 @@
     "name": "海蜇皮",
     "nutrition": {
       "protein": 3.7,
-      "potassium": 200.0,
-      "phosphorus": 30.0,
-      "sodium": 325.0,
+      "potassium": 200,
+      "phosphorus": 30,
+      "sodium": 325,
       "energy": 33
     },
     "advice": {
@@ -21234,9 +21234,9 @@
     "id": "f747",
     "name": "海蜇头",
     "nutrition": {
-      "protein": 6.0,
-      "potassium": 331.0,
-      "phosphorus": 22.0,
+      "protein": 6,
+      "potassium": 331,
+      "phosphorus": 22,
       "sodium": 467.7,
       "energy": 75
     },
@@ -21268,8 +21268,8 @@
     "name": "墨鱼",
     "nutrition": {
       "protein": 15.2,
-      "potassium": 400.0,
-      "phosphorus": 165.0,
+      "potassium": 400,
+      "phosphorus": 165,
       "sodium": 165.5,
       "energy": 83
     },
@@ -21304,9 +21304,9 @@
     "name": "墨鱼(干)",
     "nutrition": {
       "protein": 65.3,
-      "potassium": 1261.0,
-      "phosphorus": 413.0,
-      "sodium": 1744.0,
+      "potassium": 1261,
+      "phosphorus": 413,
+      "sodium": 1744,
       "energy": 291
     },
     "advice": {
@@ -21337,9 +21337,9 @@
     "name": "乌贼(鲜)",
     "nutrition": {
       "protein": 17.4,
-      "potassium": 290.0,
-      "phosphorus": 180.0,
-      "sodium": 110.0,
+      "potassium": 290,
+      "phosphorus": 180,
+      "sodium": 110,
       "energy": 85
     },
     "advice": {
@@ -21372,9 +21372,9 @@
     "id": "f751",
     "name": "鱿鱼(干)",
     "nutrition": {
-      "protein": 60.0,
-      "potassium": 1131.0,
-      "phosphorus": 392.0,
+      "protein": 60,
+      "potassium": 1131,
+      "phosphorus": 392,
       "sodium": 965.3,
       "energy": 316
     },
@@ -21402,9 +21402,9 @@
     "id": "f752",
     "name": "鱿鱼(水浸)",
     "nutrition": {
-      "protein": 17.0,
-      "potassium": 16.0,
-      "phosphorus": 60.0,
+      "protein": 17,
+      "potassium": 16,
+      "phosphorus": 60,
       "sodium": 134.7,
       "energy": 76
     },
@@ -21427,8 +21427,8 @@
     "name": "乌鱼蛋",
     "nutrition": {
       "protein": 14.1,
-      "potassium": 201.0,
-      "phosphorus": 99.0,
+      "potassium": 201,
+      "phosphorus": 99,
       "sodium": 126.8,
       "energy": 67
     },
@@ -21451,8 +21451,8 @@
     "name": "章鱼",
     "nutrition": {
       "protein": 10.6,
-      "potassium": 157.0,
-      "phosphorus": 106.0,
+      "potassium": 157,
+      "phosphorus": 106,
       "sodium": 288.1,
       "energy": 52
     },
@@ -21481,8 +21481,8 @@
     "name": "甲鱼蛋",
     "nutrition": {
       "protein": 12.5,
-      "potassium": 156.0,
-      "phosphorus": 268.0,
+      "potassium": 156,
+      "phosphorus": 268,
       "sodium": 103.9,
       "energy": 128
     },
@@ -21505,8 +21505,8 @@
     "name": "墨鱼丸",
     "nutrition": {
       "protein": 13.4,
-      "potassium": 275.0,
-      "phosphorus": 120.0,
+      "potassium": 275,
+      "phosphorus": 120,
       "sodium": 825.2,
       "energy": 129
     },
@@ -21529,8 +21529,8 @@
     "name": "山楂果肉饮料",
     "nutrition": {
       "protein": 0.1,
-      "potassium": 31.0,
-      "phosphorus": 3.0,
+      "potassium": 31,
+      "phosphorus": 3,
       "sodium": 2.7,
       "energy": 55
     },
@@ -21562,8 +21562,8 @@
     "name": "酸枣果汁饮料",
     "nutrition": {
       "protein": 0.1,
-      "potassium": 43.0,
-      "phosphorus": 3.0,
+      "potassium": 43,
+      "phosphorus": 3,
       "sodium": 1.3,
       "energy": 28
     },
@@ -21595,8 +21595,8 @@
     "name": "西番莲汁饮料",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 65.0,
-      "phosphorus": 3.0,
+      "potassium": 65,
+      "phosphorus": 3,
       "sodium": 9.7,
       "energy": 50
     },
@@ -21628,8 +21628,8 @@
     "name": "西柚汁饮料",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 190.0,
-      "phosphorus": 19.0,
+      "potassium": 190,
+      "phosphorus": 19,
       "sodium": 8.5,
       "energy": 35
     },
@@ -21661,8 +21661,8 @@
     "name": "椰子汁饮料",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 53.0,
-      "phosphorus": 11.0,
+      "potassium": 53,
+      "phosphorus": 11,
       "sodium": 13.7,
       "energy": 51
     },
@@ -21694,9 +21694,9 @@
     "name": "杏仁椰汁饮料",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 60.0,
-      "phosphorus": 10.0,
-      "sodium": 5.0,
+      "potassium": 60,
+      "phosphorus": 10,
+      "sodium": 5,
       "energy": 40
     },
     "advice": {
@@ -21727,9 +21727,9 @@
     "name": "胡萝卜汁饮料",
     "nutrition": {
       "protein": 0.1,
-      "potassium": 28.0,
-      "phosphorus": 3.0,
-      "sodium": 47.0,
+      "potassium": 28,
+      "phosphorus": 3,
+      "sodium": 47,
       "energy": 25
     },
     "advice": {
@@ -21760,9 +21760,9 @@
     "name": "AD钙奶",
     "nutrition": {
       "protein": 1.1,
-      "potassium": 50.0,
-      "phosphorus": 36.0,
-      "sodium": 30.0,
+      "potassium": 50,
+      "phosphorus": 36,
+      "sodium": 30,
       "energy": 55
     },
     "advice": {
@@ -21793,8 +21793,8 @@
     "name": "杏仁露",
     "nutrition": {
       "protein": 0.7,
-      "potassium": 60.0,
-      "phosphorus": 14.0,
+      "potassium": 60,
+      "phosphorus": 14,
       "sodium": 62.3,
       "energy": 49
     },
@@ -21826,9 +21826,9 @@
     "name": "可可粉",
     "nutrition": {
       "protein": 20.9,
-      "potassium": 360.0,
-      "phosphorus": 623.0,
-      "sodium": 23.0,
+      "potassium": 360,
+      "phosphorus": 623,
+      "sodium": 23,
       "energy": 350
     },
     "advice": {
@@ -21850,8 +21850,8 @@
     "name": "麦乳精",
     "nutrition": {
       "protein": 8.5,
-      "potassium": 355.0,
-      "phosphorus": 218.0,
+      "potassium": 355,
+      "phosphorus": 218,
       "sodium": 177.8,
       "energy": 433
     },
@@ -21874,8 +21874,8 @@
     "name": "柠檬茶",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 166.0,
-      "phosphorus": 42.0,
+      "potassium": 166,
+      "phosphorus": 42,
       "sodium": 1.9,
       "energy": 412
     },
@@ -21898,8 +21898,8 @@
     "name": "冰棍",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 50.0,
-      "phosphorus": 13.0,
+      "potassium": 50,
+      "phosphorus": 13,
       "sodium": 20.4,
       "energy": 48
     },
@@ -21931,8 +21931,8 @@
     "name": "冰淇淋",
     "nutrition": {
       "protein": 2.4,
-      "potassium": 125.0,
-      "phosphorus": 67.0,
+      "potassium": 125,
+      "phosphorus": 67,
       "sodium": 54.2,
       "energy": 127
     },
@@ -21964,9 +21964,9 @@
     "name": "冰淇淋(草莓味)",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 71.0,
-      "phosphorus": 64.0,
-      "sodium": 31.0,
+      "potassium": 71,
+      "phosphorus": 64,
+      "sodium": 31,
       "energy": 153
     },
     "advice": {
@@ -21997,8 +21997,8 @@
     "name": "冰淇淋(苦咖啡味)",
     "nutrition": {
       "protein": 2.9,
-      "potassium": 111.0,
-      "phosphorus": 42.0,
+      "potassium": 111,
+      "phosphorus": 42,
       "sodium": 56.3,
       "energy": 205
     },
@@ -22030,8 +22030,8 @@
     "name": "冰淇淋(脆皮甜筒)",
     "nutrition": {
       "protein": 3.5,
-      "potassium": 217.0,
-      "phosphorus": 96.0,
+      "potassium": 217,
+      "phosphorus": 96,
       "sodium": 68.8,
       "energy": 160
     },
@@ -22054,8 +22054,8 @@
     "name": "花生牛轧糖",
     "nutrition": {
       "protein": 4.9,
-      "potassium": 73.0,
-      "phosphorus": 123.0,
+      "potassium": 73,
+      "phosphorus": 123,
       "sodium": 168.1,
       "energy": 435
     },
@@ -22087,8 +22087,8 @@
     "name": "奶糖",
     "nutrition": {
       "protein": 2.5,
-      "potassium": 75.0,
-      "phosphorus": 26.0,
+      "potassium": 75,
+      "phosphorus": 26,
       "sodium": 222.5,
       "energy": 412
     },
@@ -22120,8 +22120,8 @@
     "name": "巧克力",
     "nutrition": {
       "protein": 4.3,
-      "potassium": 254.0,
-      "phosphorus": 114.0,
+      "potassium": 254,
+      "phosphorus": 114,
       "sodium": 111.8,
       "energy": 586
     },
@@ -22152,10 +22152,10 @@
     "id": "f795",
     "name": "酥糖",
     "nutrition": {
-      "protein": 6.0,
-      "potassium": 148.0,
-      "phosphorus": 135.0,
-      "sodium": 45.0,
+      "protein": 6,
+      "potassium": 148,
+      "phosphorus": 135,
+      "sodium": 45,
       "energy": 446
     },
     "advice": {
@@ -22186,8 +22186,8 @@
     "name": "夹心糖",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 144.0,
-      "phosphorus": 67.0,
+      "potassium": 144,
+      "phosphorus": 67,
       "sodium": 246.6,
       "energy": 495
     },
@@ -22209,9 +22209,9 @@
     "id": "f798",
     "name": "水果味软糖",
     "nutrition": {
-      "protein": 6.0,
-      "potassium": 14.0,
-      "phosphorus": 9.0,
+      "protein": 6,
+      "potassium": 14,
+      "phosphorus": 9,
       "sodium": 57.3,
       "energy": 375
     },
@@ -22234,8 +22234,8 @@
     "name": "牛奶糖",
     "nutrition": {
       "protein": 2.2,
-      "potassium": 200.0,
-      "phosphorus": 75.0,
+      "potassium": 200,
+      "phosphorus": 75,
       "sodium": 2.7,
       "energy": 440
     },
@@ -22258,8 +22258,8 @@
     "name": "酸奶软糖",
     "nutrition": {
       "protein": 0.5,
-      "potassium": 50.0,
-      "phosphorus": 1.0,
+      "potassium": 50,
+      "phosphorus": 1,
       "sodium": 8.3,
       "energy": 409
     },
@@ -22291,9 +22291,9 @@
     "name": "巧克力(黑)",
     "nutrition": {
       "protein": 4.2,
-      "potassium": 365.0,
-      "phosphorus": 132.0,
-      "sodium": 11.0,
+      "potassium": 365,
+      "phosphorus": 132,
+      "sodium": 11,
       "energy": 537
     },
     "advice": {
@@ -22315,8 +22315,8 @@
     "name": "海棠脯",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 144.0,
-      "phosphorus": 10.0,
+      "potassium": 144,
+      "phosphorus": 10,
       "sodium": 200.5,
       "energy": 294
     },
@@ -22339,8 +22339,8 @@
     "name": "李广杏脯",
     "nutrition": {
       "protein": 2.8,
-      "potassium": 409.0,
-      "phosphorus": 26.0,
+      "potassium": 409,
+      "phosphorus": 26,
       "sodium": 146.5,
       "energy": 297
     },
@@ -22363,8 +22363,8 @@
     "name": "苹果脯",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 67.0,
-      "phosphorus": 12.0,
+      "potassium": 67,
+      "phosphorus": 12,
       "sodium": 12.8,
       "energy": 345
     },
@@ -22387,9 +22387,9 @@
     "name": "桃脯",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 286.0,
-      "phosphorus": 32.0,
-      "sodium": 243.0,
+      "potassium": 286,
+      "phosphorus": 32,
+      "sodium": 243,
       "energy": 319
     },
     "advice": {
@@ -22411,8 +22411,8 @@
     "name": "杏脯",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 266.0,
-      "phosphorus": 22.0,
+      "potassium": 266,
+      "phosphorus": 22,
       "sodium": 213.3,
       "energy": 338
     },
@@ -22435,8 +22435,8 @@
     "name": "金糕条",
     "nutrition": {
       "protein": 0.6,
-      "potassium": 302.0,
-      "phosphorus": 18.0,
+      "potassium": 302,
+      "phosphorus": 18,
       "sodium": 192.1,
       "energy": 307
     },
@@ -22464,9 +22464,9 @@
     "id": "f808",
     "name": "山楂果丹皮",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 312.0,
-      "phosphorus": 41.0,
+      "protein": 1,
+      "potassium": 312,
+      "phosphorus": 41,
       "sodium": 115.5,
       "energy": 331
     },
@@ -22489,8 +22489,8 @@
     "name": "冰糖酸角",
     "nutrition": {
       "protein": 2.3,
-      "potassium": 1330.0,
-      "phosphorus": 68.0,
+      "potassium": 1330,
+      "phosphorus": 68,
       "sodium": 120.7,
       "energy": 274
     },
@@ -22513,8 +22513,8 @@
     "name": "甘草杏",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 1523.0,
-      "phosphorus": 67.0,
+      "potassium": 1523,
+      "phosphorus": 67,
       "sodium": 2574.2,
       "energy": 181
     },
@@ -22536,7 +22536,7 @@
     "id": "f811",
     "name": "清凉杏肉",
     "nutrition": {
-      "protein": 2.0,
+      "protein": 2,
       "potassium": 0,
       "phosphorus": 0,
       "sodium": 846.4,
@@ -22561,8 +22561,8 @@
     "name": "雪梅",
     "nutrition": {
       "protein": 3.1,
-      "potassium": 1653.0,
-      "phosphorus": 151.0,
+      "potassium": 1653,
+      "phosphorus": 151,
       "sodium": 895.6,
       "energy": 288
     },
@@ -22585,9 +22585,9 @@
     "name": "九制梅肉",
     "nutrition": {
       "protein": 3.4,
-      "potassium": 1317.0,
-      "phosphorus": 79.0,
-      "sodium": 958.0,
+      "potassium": 1317,
+      "phosphorus": 79,
+      "sodium": 958,
       "energy": 293
     },
     "advice": {
@@ -22609,8 +22609,8 @@
     "name": "九制西梅",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 1437.0,
-      "phosphorus": 57.0,
+      "potassium": 1437,
+      "phosphorus": 57,
       "sodium": 4.3,
       "energy": 259
     },
@@ -22633,8 +22633,8 @@
     "name": "九制应子",
     "nutrition": {
       "protein": 2.3,
-      "potassium": 258.0,
-      "phosphorus": 23.0,
+      "potassium": 258,
+      "phosphorus": 23,
       "sodium": 8322.8,
       "energy": 184
     },
@@ -22657,8 +22657,8 @@
     "name": "梅脯",
     "nutrition": {
       "protein": 0.3,
-      "potassium": 179.0,
-      "phosphorus": 231.0,
+      "potassium": 179,
+      "phosphorus": 231,
       "sodium": 85.5,
       "energy": 321
     },
@@ -22705,8 +22705,8 @@
     "name": "黑贡枣",
     "nutrition": {
       "protein": 2.7,
-      "potassium": 548.0,
-      "phosphorus": 25.0,
+      "potassium": 548,
+      "phosphorus": 25,
       "sodium": 7.9,
       "energy": 322
     },
@@ -22807,8 +22807,8 @@
     "name": "牛油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 15.0,
-      "phosphorus": 9.0,
+      "potassium": 15,
+      "phosphorus": 9,
       "sodium": 9.4,
       "energy": 821
     },
@@ -22840,8 +22840,8 @@
     "name": "羊油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 15.0,
-      "phosphorus": 18.0,
+      "potassium": 15,
+      "phosphorus": 18,
       "sodium": 13.2,
       "energy": 811
     },
@@ -22873,9 +22873,9 @@
     "name": "油（菜籽油)",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 9.0,
-      "sodium": 7.0,
+      "potassium": 10,
+      "phosphorus": 9,
+      "sodium": 7,
       "energy": 883
     },
     "advice": {
@@ -22906,8 +22906,8 @@
     "name": "油（茶油)",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 8.0,
+      "potassium": 10,
+      "phosphorus": 8,
       "sodium": 0.7,
       "energy": 883
     },
@@ -22939,8 +22939,8 @@
     "name": "豆油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 7.0,
+      "potassium": 10,
+      "phosphorus": 7,
       "sodium": 4.9,
       "energy": 883
     },
@@ -22972,8 +22972,8 @@
     "name": "油（胡麻油)",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 5.0,
+      "potassium": 10,
+      "phosphorus": 5,
       "sodium": 0.6,
       "energy": 884
     },
@@ -23005,8 +23005,8 @@
     "name": "葵花籽油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 4.0,
+      "potassium": 10,
+      "phosphorus": 4,
       "sodium": 2.8,
       "energy": 883
     },
@@ -23038,8 +23038,8 @@
     "name": "油（棉籽油)",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 16.0,
+      "potassium": 10,
+      "phosphorus": 16,
       "sodium": 4.5,
       "energy": 883
     },
@@ -23071,8 +23071,8 @@
     "name": "色拉油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 1.0,
+      "potassium": 10,
+      "phosphorus": 1,
       "sodium": 5.1,
       "energy": 883
     },
@@ -23104,8 +23104,8 @@
     "name": "玉米油",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 10.0,
-      "phosphorus": 18.0,
+      "potassium": 10,
+      "phosphorus": 18,
       "sodium": 1.4,
       "energy": 879
     },
@@ -23138,7 +23138,7 @@
     "nutrition": {
       "protein": 0,
       "potassium": 0,
-      "phosphorus": 8.0,
+      "phosphorus": 8,
       "sodium": 1.3,
       "energy": 884
     },
@@ -23160,9 +23160,9 @@
     "id": "f833",
     "name": "核桃油",
     "nutrition": {
-      "protein": 0.0,
-      "potassium": 2.0,
-      "phosphorus": 1.0,
+      "protein": 0,
+      "potassium": 2,
+      "phosphorus": 1,
       "sodium": 1.8,
       "energy": 880
     },
@@ -23185,8 +23185,8 @@
     "name": "黄豆酱油",
     "nutrition": {
       "protein": 5.1,
-      "potassium": 386.0,
-      "phosphorus": 78.0,
+      "potassium": 386,
+      "phosphorus": 78,
       "sodium": 5699.8,
       "energy": 39
     },
@@ -23209,9 +23209,9 @@
     "name": "花生酱",
     "nutrition": {
       "protein": 6.9,
-      "potassium": 99.0,
-      "phosphorus": 90.0,
-      "sodium": 2340.0,
+      "potassium": 99,
+      "phosphorus": 90,
+      "sodium": 2340,
       "energy": 593
     },
     "advice": {
@@ -23233,8 +23233,8 @@
     "name": "黄酱",
     "nutrition": {
       "protein": 12.1,
-      "potassium": 508.0,
-      "phosphorus": 160.0,
+      "potassium": 508,
+      "phosphorus": 160,
       "sodium": 3606.1,
       "energy": 139
     },
@@ -23263,8 +23263,8 @@
     "name": "辣椒酱",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 222.0,
-      "phosphorus": 30.0,
+      "potassium": 222,
+      "phosphorus": 30,
       "sodium": 8027.6,
       "energy": 35
     },
@@ -23293,8 +23293,8 @@
     "name": "甜面酱",
     "nutrition": {
       "protein": 5.5,
-      "potassium": 189.0,
-      "phosphorus": 76.0,
+      "potassium": 189,
+      "phosphorus": 76,
       "sodium": 2097.2,
       "energy": 141
     },
@@ -23317,8 +23317,8 @@
     "name": "芝麻酱",
     "nutrition": {
       "protein": 19.2,
-      "potassium": 342.0,
-      "phosphorus": 626.0,
+      "potassium": 342,
+      "phosphorus": 626,
       "sodium": 38.5,
       "energy": 624
     },
@@ -23340,9 +23340,9 @@
     "id": "f842",
     "name": "郫县辣酱",
     "nutrition": {
-      "protein": 4.0,
-      "potassium": 585.0,
-      "phosphorus": 125.0,
+      "protein": 4,
+      "potassium": 585,
+      "phosphorus": 125,
       "sodium": 5658.1,
       "energy": 107
     },
@@ -23365,8 +23365,8 @@
     "name": "花生酱(加巧克力)",
     "nutrition": {
       "protein": 19.6,
-      "potassium": 218.0,
-      "phosphorus": 224.0,
+      "potassium": 218,
+      "phosphorus": 224,
       "sodium": 214.5,
       "energy": 642
     },
@@ -23389,8 +23389,8 @@
     "name": "千岛沙拉酱",
     "nutrition": {
       "protein": 2.3,
-      "potassium": 127.0,
-      "phosphorus": 29.0,
+      "potassium": 127,
+      "phosphorus": 29,
       "sodium": 638.6,
       "energy": 471
     },
@@ -23413,8 +23413,8 @@
     "name": "奶油攀司",
     "nutrition": {
       "protein": 2.9,
-      "potassium": 447.0,
-      "phosphorus": 196.0,
+      "potassium": 447,
+      "phosphorus": 196,
       "sodium": 68.5,
       "energy": 602
     },
@@ -23437,8 +23437,8 @@
     "name": "草莓酱",
     "nutrition": {
       "protein": 0.8,
-      "potassium": 52.0,
-      "phosphorus": 8.0,
+      "potassium": 52,
+      "phosphorus": 8,
       "sodium": 8.7,
       "energy": 274
     },
@@ -23461,9 +23461,9 @@
     "name": "苹果酱",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 26.0,
-      "phosphorus": 3.0,
-      "sodium": 11.0,
+      "potassium": 26,
+      "phosphorus": 3,
+      "sodium": 11,
       "energy": 282
     },
     "advice": {
@@ -23494,8 +23494,8 @@
     "name": "桃酱",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 62.0,
-      "phosphorus": 11.0,
+      "potassium": 62,
+      "phosphorus": 11,
       "sodium": 14.2,
       "energy": 279
     },
@@ -23527,9 +23527,9 @@
     "name": "杏酱",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 113.0,
-      "phosphorus": 4.0,
-      "sodium": 5.0,
+      "potassium": 113,
+      "phosphorus": 4,
+      "sodium": 5,
       "energy": 291
     },
     "advice": {
@@ -23560,9 +23560,9 @@
     "name": "萝卜干",
     "nutrition": {
       "protein": 3.3,
-      "potassium": 508.0,
-      "phosphorus": 65.0,
-      "sodium": 4203.0,
+      "potassium": 508,
+      "phosphorus": 65,
+      "sodium": 4203,
       "energy": 67
     },
     "advice": {
@@ -23584,8 +23584,8 @@
     "name": "榨菜",
     "nutrition": {
       "protein": 2.2,
-      "potassium": 363.0,
-      "phosphorus": 41.0,
+      "potassium": 363,
+      "phosphorus": 41,
       "sodium": 4252.6,
       "energy": 33
     },
@@ -23608,8 +23608,8 @@
     "name": "蕨菜(腌)",
     "nutrition": {
       "protein": 2.5,
-      "potassium": 13.0,
-      "phosphorus": 33.0,
+      "potassium": 13,
+      "phosphorus": 33,
       "sodium": 990.6,
       "energy": 26
     },
@@ -23632,8 +23632,8 @@
     "name": "腌雪里红",
     "nutrition": {
       "protein": 2.4,
-      "potassium": 369.0,
-      "phosphorus": 36.0,
+      "potassium": 369,
+      "phosphorus": 36,
       "sodium": 3304.2,
       "energy": 29
     },
@@ -23656,8 +23656,8 @@
     "name": "剁辣椒",
     "nutrition": {
       "protein": 1.4,
-      "potassium": 211.0,
-      "phosphorus": 34.0,
+      "potassium": 211,
+      "phosphorus": 34,
       "sodium": 2443.2,
       "energy": 41
     },
@@ -23682,7 +23682,7 @@
       "protein": 5.6,
       "potassium": 0,
       "phosphorus": 0,
-      "sodium": 2620.0,
+      "sodium": 2620,
       "energy": 126
     },
     "advice": {
@@ -23706,7 +23706,7 @@
       "protein": 3.1,
       "potassium": 0,
       "phosphorus": 0,
-      "sodium": 3280.0,
+      "sodium": 3280,
       "energy": 66
     },
     "advice": {
@@ -23727,9 +23727,9 @@
     "id": "f857",
     "name": "腌大头菜",
     "nutrition": {
-      "protein": 7.0,
-      "potassium": 11.0,
-      "phosphorus": 171.0,
+      "protein": 7,
+      "potassium": 11,
+      "phosphorus": 171,
       "sodium": 0,
       "energy": 67
     },
@@ -23754,7 +23754,7 @@
       "protein": 2.8,
       "potassium": 0,
       "phosphorus": 0,
-      "sodium": 4600.0,
+      "sodium": 4600,
       "energy": 29
     },
     "advice": {
@@ -23775,9 +23775,9 @@
     "id": "f860",
     "name": "五香粉",
     "nutrition": {
-      "protein": 1.0,
-      "potassium": 1138.0,
-      "phosphorus": 66.0,
+      "protein": 1,
+      "potassium": 1138,
+      "phosphorus": 66,
       "sodium": 27.2,
       "energy": 361
     },
@@ -23800,8 +23800,8 @@
     "name": "酵母(鲜)",
     "nutrition": {
       "protein": 2.6,
-      "potassium": 448.0,
-      "phosphorus": 409.0,
+      "potassium": 448,
+      "phosphorus": 409,
       "sodium": 13.6,
       "energy": 108
     },
@@ -23825,7 +23825,7 @@
     "nutrition": {
       "protein": 47.6,
       "potassium": 0,
-      "phosphorus": 1893.0,
+      "phosphorus": 1893,
       "sodium": 0,
       "energy": 376
     },
@@ -23848,8 +23848,8 @@
     "name": "五香豆豉",
     "nutrition": {
       "protein": 24.1,
-      "potassium": 715.0,
-      "phosphorus": 43.0,
+      "potassium": 715,
+      "phosphorus": 43,
       "sodium": 263.8,
       "energy": 273
     },
@@ -23872,8 +23872,8 @@
     "name": "酱排骨",
     "nutrition": {
       "protein": 21.7,
-      "potassium": 226.0,
-      "phosphorus": 103.0,
+      "potassium": 226,
+      "phosphorus": 103,
       "sodium": 825.5,
       "energy": 363
     },
@@ -23901,10 +23901,10 @@
     "id": "f866",
     "name": "咖喱粉",
     "nutrition": {
-      "protein": 13.0,
-      "potassium": 1700.0,
-      "phosphorus": 400.0,
-      "sodium": 40.0,
+      "protein": 13,
+      "potassium": 1700,
+      "phosphorus": 400,
+      "sodium": 40,
       "energy": 338
     },
     "advice": {
@@ -23926,8 +23926,8 @@
     "name": "鸡蛋黄粉",
     "nutrition": {
       "protein": 31.6,
-      "potassium": 103.0,
-      "phosphorus": 905.0,
+      "potassium": 103,
+      "phosphorus": 905,
       "sodium": 89.8,
       "energy": 637
     },
@@ -23950,8 +23950,8 @@
     "name": "咖啡豆",
     "nutrition": {
       "protein": 17.1,
-      "potassium": 2013.0,
-      "phosphorus": 204.0,
+      "potassium": 2013,
+      "phosphorus": 204,
       "sodium": 2.2,
       "energy": 309
     },
@@ -23974,9 +23974,9 @@
     "name": "咖啡粉",
     "nutrition": {
       "protein": 12.2,
-      "potassium": 3535.0,
-      "phosphorus": 303.0,
-      "sodium": 37.0,
+      "potassium": 3535,
+      "phosphorus": 303,
+      "sodium": 37,
       "energy": 360
     },
     "advice": {
@@ -23998,8 +23998,8 @@
     "name": "鱼排",
     "nutrition": {
       "protein": 10.1,
-      "potassium": 136.0,
-      "phosphorus": 92.0,
+      "potassium": 136,
+      "phosphorus": 92,
       "sodium": 383.3,
       "energy": 162
     },
@@ -24022,9 +24022,9 @@
     "name": "甘蔗汁",
     "nutrition": {
       "protein": 0.4,
-      "potassium": 95.0,
-      "phosphorus": 14.0,
-      "sodium": 3.0,
+      "potassium": 95,
+      "phosphorus": 14,
+      "sodium": 3,
       "energy": 66
     },
     "advice": {
@@ -24055,8 +24055,8 @@
     "name": "酸梅晶",
     "nutrition": {
       "protein": 0.2,
-      "potassium": 50.0,
-      "phosphorus": 4.0,
+      "potassium": 50,
+      "phosphorus": 4,
       "sodium": 11.5,
       "energy": 401
     },
@@ -24088,8 +24088,8 @@
     "name": "茶（绿茶）",
     "nutrition": {
       "protein": 34.2,
-      "potassium": 1661.0,
-      "phosphorus": 191.0,
+      "potassium": 1661,
+      "phosphorus": 191,
       "sodium": 28.2,
       "energy": 330
     },
@@ -24150,7 +24150,7 @@
     "id": "f875",
     "name": "圣女果（樱桃番茄）",
     "nutrition": {
-      "protein": 1.0,
+      "protein": 1,
       "potassium": 280,
       "phosphorus": 27,
       "sodium": 6,
@@ -24306,6 +24306,39 @@
     ],
     "aliasesPinyinInitials": [
       "mjs"
+    ],
+    "cover": "山竹.webp"
+  },
+  {
+    "id": "f880",
+    "name": "山竹",
+    "categoryId": "fc_fruit",
+    "nutrition": {
+      "protein": 0.6,
+      "potassium": 48,
+      "phosphorus": 8,
+      "sodium": 1,
+      "energy": 72
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "山竹属于低钾水果，CKD患者一般可适量食用。建议一次食用去皮果肉约50~100g，避免一次大量进食；如合并糖尿病或需控制能量，应计入全天水果总量。选择新鲜成熟果实，避免食用变质果肉。",
+    "aliases": [
+      "莽吉柿",
+      "倒捻子"
+    ],
+    "pinyin": "shanzhu",
+    "pinyinInitials": "sz",
+    "aliasesPinyin": [
+      "mangjishi",
+      "daonianzi"
+    ],
+    "aliasesPinyinInitials": [
+      "mjs",
+      "dnz"
     ],
     "cover": "山竹.webp"
   }
