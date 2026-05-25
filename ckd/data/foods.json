@@ -24539,5 +24539,38 @@
       "skr"
     ],
     "cover": "烤肉.webp"
+  },
+  {
+    "id": "f887",
+    "name": "薄荷",
+    "categoryId": "fc_vegetable",
+    "nutrition": {
+      "protein": 3.8,
+      "potassium": 260,
+      "phosphorus": 55,
+      "sodium": 30,
+      "energy": 44
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "薄荷多作为香草调味，单次食用量通常较小。CKD患者可少量用于提香去腥，一般不作为大量蔬菜食用；如用于煮水、凉拌或大量加入汤中，应注意累积钾摄入。做汤后少喝汤，可减少钾摄入。透析期若合并高钾血症，建议控制用量。",
+    "aliases": [
+      "鲜薄荷",
+      "薄荷叶"
+    ],
+    "pinyin": "bohe",
+    "pinyinInitials": "bh",
+    "aliasesPinyin": [
+      "xianbohe",
+      "boheye"
+    ],
+    "aliasesPinyinInitials": [
+      "xbh",
+      "bhy"
+    ],
+    "cover": "薄荷.webp"
   }
 ]
