@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "烤肉",
+  "categoryId": "fc_meat_dairy",
+  "nutrition": {
+    "protein": 22.0,
+    "potassium": 320,
+    "phosphorus": 210,
+    "sodium": 650,
+    "energy": 280
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "烤肉多为腌制后加工烹调，钠含量通常较高，且肉类本身含较多蛋白质、磷和钾。CKD患者建议控制单次食用量，以50~75g为宜，避免频繁食用；尽量选择原切瘦肉、少腌制、少蘸酱版本，避免搭配咸味调料、辣酱和加工肉串。若必须食用，可先用清水简单冲洗表面酱料，搭配低钾蔬菜和充足主食，减少肾脏负担。",
+  "aliases": [
+    "烤肉片",
+    "烧烤肉"
+  ],
+  "pinyin": "kaorou",
+  "pinyinInitials": "kr",
+  "aliasesPinyin": [
+    "kaoroupian",
+    "shaokaorou"
+  ],
+  "aliasesPinyinInitials": [
+    "krp",
+    "skr"
+  ],
+  "cover": "烤肉.webp"
+}
