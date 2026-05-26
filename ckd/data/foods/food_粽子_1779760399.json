@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "粽子",
+  "categoryId": "fc_staple",
+  "nutrition": {
+    "protein": 4.2,
+    "potassium": 64,
+    "phosphorus": 58,
+    "sodium": 12,
+    "energy": 220
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "粽子以糯米为主，黏性强、能量较高，常见咸肉粽或豆沙粽还可能增加钠、磷和糖负担。CKD人群可少量食用，建议一次控制在1个小粽子或半个大粽子，替代部分主食，不要与米饭、面条同量叠加。优先选择清水白粽、少馅低盐做法；避免腊肉、咸蛋黄、加工肉、蜜枣过多的品种。若为自制，可将糯米提前浸泡后弃水，馅料焯水减盐，蒸煮后少蘸糖少蘸酱油。",
+  "aliases": [
+    "糯米粽",
+    "白粽"
+  ],
+  "pinyin": "zongzi",
+  "pinyinInitials": "zz",
+  "aliasesPinyin": [
+    "nuomizong",
+    "baizong"
+  ],
+  "aliasesPinyinInitials": [
+    "nmz",
+    "bz"
+  ],
+  "cover": "粽子.webp"
+}
