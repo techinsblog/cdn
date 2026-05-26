@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "香醋",
+  "categoryId": "fc_seasoning",
+  "nutrition": {
+    "protein": 2.1,
+    "potassium": 45,
+    "phosphorus": 18,
+    "sodium": 8,
+    "energy": 21
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "green",
+    "dialysis": "green"
+  },
+  "tips": "香醋属于调味品，通常单次用量较少，对CKD患者总体负担较低。建议每次少量使用，以替代部分食盐、酱油等高钠调味料，有助于控制钠摄入。胃酸过多、胃溃疡或胃部敏感者不宜空腹大量食用。凉拌或蘸食时注意总调味量，避免与高钠复合调味汁同时大量使用。",
+  "aliases": [
+    "醋",
+    "黑醋"
+  ],
+  "pinyin": "xiangcu",
+  "pinyinInitials": "xc",
+  "aliasesPinyin": [
+    "cu",
+    "heicu"
+  ],
+  "aliasesPinyinInitials": [
+    "c",
+    "hc"
+  ],
+  "cover": "香醋.webp"
+}
