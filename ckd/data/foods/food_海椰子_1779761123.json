@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "海椰子",
+  "categoryId": "fc_fruit",
+  "nutrition": {
+    "protein": 0.6,
+    "potassium": 180,
+    "phosphorus": 12,
+    "sodium": 4,
+    "energy": 32
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "海椰子水分高、能量低，适合作为少量水果食用。CKD 3-5期及透析期需控制单次食用量，建议每次50-100g，避免与高钾水果同食过多。若用于炖汤或糖水，应少糖少盐，不建议长时间浓缩熬煮后大量饮用汤汁。血钾偏高者食用前应纳入全天水果总量管理。",
+  "aliases": [
+    "海底椰"
+  ],
+  "pinyin": "haiyezi",
+  "pinyinInitials": "hyz",
+  "aliasesPinyin": [
+    "haidiyey"
+  ],
+  "aliasesPinyinInitials": [
+    "hdy"
+  ],
+  "cover": "海椰子.webp"
+}
