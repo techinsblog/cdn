@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "羊角蜜",
+  "categoryId": "fc_fruit",
+  "nutrition": {
+    "protein": 0.8,
+    "potassium": 190,
+    "phosphorus": 18,
+    "sodium": 12,
+    "energy": 31
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "羊角蜜属于含水量较高的水果，可作为两餐间少量食用。CKD 1-2期一般可适量食用；3-5期及透析期需结合当日血钾和水果总量控制，建议每次100g左右。若需严格控钾，可切小块后短时浸泡再食用，但会影响口感；避免一次大量食用或榨汁饮用，以免增加钾和糖分摄入。",
+  "aliases": [
+    "羊角脆甜瓜",
+    "羊角酥蜜瓜"
+  ],
+  "pinyin": "yangjiaomi",
+  "pinyinInitials": "yjm",
+  "aliasesPinyin": [
+    "yangjiaocuitiangua",
+    "yangjiaosumigua"
+  ],
+  "aliasesPinyinInitials": [
+    "yjctg",
+    "yjsmg"
+  ],
+  "cover": "羊角蜜.webp"
+}
