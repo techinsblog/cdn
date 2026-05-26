@@ -24668,5 +24668,38 @@
       "bz"
     ],
     "cover": "粽子.webp"
+  },
+  {
+    "id": "f891",
+    "name": "芭乐",
+    "categoryId": "fc_fruit",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 235,
+      "phosphorus": 28,
+      "sodium": 3,
+      "energy": 41
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "芭乐属于水果，维生素C较丰富，100g少量食用一般可作为加餐。CKD 1-2期可适量食用；3-5期及透析期需结合当日总钾摄入控制分量，建议每次约50-100g，不集中大量食用。若合并高钾血症或近期血钾偏高，应减少频率。食用前洗净、去籽可改善口感；水果不能通过焯水明显降钾，需以控量为主。",
+    "aliases": [
+      "番石榴",
+      "鸡屎果"
+    ],
+    "pinyin": "bale",
+    "pinyinInitials": "bl",
+    "aliasesPinyin": [
+      "fanshiliu",
+      "jishiguo"
+    ],
+    "aliasesPinyinInitials": [
+      "fsl",
+      "jsg"
+    ],
+    "cover": "芭乐.webp"
   }
 ]
