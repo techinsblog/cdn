@@ -24767,5 +24767,38 @@
       "yl"
     ],
     "cover": "牛油果.webp"
+  },
+  {
+    "id": "f894",
+    "name": "龙眼",
+    "categoryId": "fc_fruit",
+    "nutrition": {
+      "protein": 1.3,
+      "potassium": 248,
+      "phosphorus": 30,
+      "sodium": 1,
+      "energy": 71
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "龙眼含糖较高，且钾含量中等偏高，CKD 1-2期可少量食用；3-5期及透析期建议控制每次摄入量，避免一次大量进食。若需控钾，可选择分次少量食用，并避免与高钾水果同食。合并血糖异常者更应限量。",
+    "aliases": [
+      "桂圆",
+      "鲜龙眼"
+    ],
+    "pinyin": "longyan",
+    "pinyinInitials": "ly",
+    "aliasesPinyin": [
+      "guiyuan",
+      "xianlongyan"
+    ],
+    "aliasesPinyinInitials": [
+      "gy",
+      "xly"
+    ],
+    "cover": "龙眼.webp"
   }
 ]
