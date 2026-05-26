@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "鹿茸菇",
+  "categoryId": "fc_mushroom",
+  "nutrition": {
+    "protein": 2.3,
+    "potassium": 280,
+    "phosphorus": 65,
+    "sodium": 3,
+    "energy": 28
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "鹿茸菇属于菌菇类，钾含量中等，CKD 1-2期可适量食用；3-5期及透析期建议控制单次摄入量，烹调前可先焯水后弃汤，以减少部分钾。避免与高盐酱料、浓汤同食，建议清炒、汆烫或炖煮后弃汤食用。",
+  "aliases": [
+    "鹿茸蘑",
+    "小鹿茸菇"
+  ],
+  "pinyin": "luronggu",
+  "pinyinInitials": "lrg",
+  "aliasesPinyin": [
+    "lurongmo",
+    "xiaoluronggu"
+  ],
+  "aliasesPinyinInitials": [
+    "lrm",
+    "xlrg"
+  ],
+  "cover": "鹿茸菇.webp"
+}
