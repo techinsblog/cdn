@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "鸭爪",
+  "categoryId": "fc_meat_dairy",
+  "nutrition": {
+    "protein": 16.5,
+    "potassium": 95,
+    "phosphorus": 120,
+    "sodium": 110,
+    "energy": 254
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "鸭爪属于肉类副产品，胶原和脂肪较多，常见卤制、泡椒、酱制做法钠含量会明显升高。CKD患者更建议选择新鲜未加工鸭爪，少量食用，避免卤鸭爪、泡椒鸭爪、辣味零食装鸭爪。3-5期应严格控制摄入频率和份量，如需食用，先焯水弃汤、清炖或白煮，不喝汤汁，不额外加盐和酱油。透析期可少量食用以补充蛋白，但仍需警惕高钠调味。",
+  "aliases": [
+    "鸭掌"
+  ],
+  "pinyin": "yazhua",
+  "pinyinInitials": "yz",
+  "aliasesPinyin": [
+    "yazhang"
+  ],
+  "aliasesPinyinInitials": [
+    "yz"
+  ],
+  "cover": "鸭爪.webp"
+}
