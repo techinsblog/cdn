@@ -24863,5 +24863,38 @@
       "yz"
     ],
     "cover": "鸭爪.webp"
+  },
+  {
+    "id": "f897",
+    "name": "哈密瓜",
+    "categoryId": "fc_fruit",
+    "nutrition": {
+      "protein": 0.4,
+      "potassium": 190,
+      "phosphorus": 14,
+      "sodium": 4,
+      "energy": 34
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "哈密瓜含水分较高，适量食用可作为水果选择。CKD 1-2期一般可少量正常食用；3-5期及透析期需控制单次摄入量，建议每次100g左右，并计入全天水果总量。若存在高钾血症，应减少食用频率。避免与高钾水果同餐大量摄入，不建议榨汁饮用，以免短时间摄入过多。",
+    "aliases": [
+      "甜瓜",
+      "蜜瓜"
+    ],
+    "pinyin": "hamigua",
+    "pinyinInitials": "hmg",
+    "aliasesPinyin": [
+      "tiangua",
+      "migua"
+    ],
+    "aliasesPinyinInitials": [
+      "tg",
+      "mg"
+    ],
+    "cover": "哈密瓜.webp"
   }
 ]
