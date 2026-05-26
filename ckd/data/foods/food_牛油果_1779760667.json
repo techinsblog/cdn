@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "牛油果",
+  "categoryId": "fc_fruit",
+  "nutrition": {
+    "protein": 2,
+    "potassium": 599,
+    "phosphorus": 52,
+    "sodium": 8,
+    "energy": 171
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "牛油果富含不饱和脂肪，但钾含量较高。CKD 1-2期可少量食用，建议每次控制在30-50g；3-5期非透析人群一般不建议常规食用；透析期如血钾稳定，可在营养师指导下少量安排。食用时避免与高钾水果同餐叠加，不能通过浸泡或焯水明显降低其钾含量。",
+  "aliases": [
+    "鳄梨",
+    "油梨"
+  ],
+  "pinyin": "niuyouguo",
+  "pinyinInitials": "nyg",
+  "aliasesPinyin": [
+    "eli",
+    "youli"
+  ],
+  "aliasesPinyinInitials": [
+    "el",
+    "yl"
+  ],
+  "cover": "牛油果.webp"
+}
