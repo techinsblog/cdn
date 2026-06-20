@@ -1200,6 +1200,14 @@
       "gradient": "linear-gradient(135deg, #3db7e9 0%, #4caf50 50%, #e53935 100%)",
       "wordCount": 7,
       "previewWords": "stadium · field · goal"
+    },
+    {
+      "id": 258,
+      "title": "赛前合影",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #1f7a3d 0%, #3fa34d 50%, #0f4c5c 100%)",
+      "wordCount": 8,
+      "previewWords": "stadium · crowd · field"
     }
   ]
 }
