@@ -1192,6 +1192,14 @@
       "gradient": "linear-gradient(135deg, #3b2a24 0%, #8b2e2e 50%, #d6a23a 100%)",
       "wordCount": 6,
       "previewWords": "fortune-telling · booth · sign"
+    },
+    {
+      "id": 257,
+      "title": "看足球赛",
+      "categoryId": "sports",
+      "gradient": "linear-gradient(135deg, #3db7e9 0%, #4caf50 50%, #e53935 100%)",
+      "wordCount": 7,
+      "previewWords": "stadium · field · goal"
     }
   ]
 }
