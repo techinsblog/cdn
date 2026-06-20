@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "id": 257,
+  "title": "看足球赛",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #3db7e9 0%, #4caf50 50%, #e53935 100%)",
+  "sentence": {
+    "en": "The stadium is packed for the match.",
+    "zh": "这场比赛现场真是坐满了人。",
+    "highlights": [
+      "stadium",
+      "match"
+    ]
+  },
+  "words": [
+    {
+      "id": "stadium",
+      "text": "stadium",
+      "zhText": "球场",
+      "phonetic": "/ˈsteɪdiəm/",
+      "pos": "n.",
+      "meaning": "体育场，球场",
+      "example": {
+        "en": "The stadium gets really loud before kickoff.",
+        "zh": "开球前球场里真的特别吵。"
+      },
+      "synonyms": [
+        {
+          "en": "arena",
+          "zh": "场馆"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 28
+      }
+    },
+    {
+      "id": "field",
+      "text": "field",
+      "zhText": "球场",
+      "phonetic": "/fiːld/",
+      "pos": "n.",
+      "meaning": "场地，这里指足球场",
+      "example": {
+        "en": "The field looks perfect today.",
+        "zh": "今天这场地状态真不错。"
+      },
+      "synonyms": [
+        {
+          "en": "pitch",
+          "zh": "球场"
+        }
+      ],
+      "position": {
+        "x": 63,
+        "y": 58
+      }
+    },
+    {
+      "id": "goal",
+      "text": "goal",
+      "zhText": "球门",
+      "phonetic": "/ɡoʊl/",
+      "pos": "n.",
+      "meaning": "球门",
+      "example": {
+        "en": "We got seats right behind the goal.",
+        "zh": "咱们的位置刚好在球门后面。"
+      },
+      "synonyms": [
+        {
+          "en": "net",
+          "zh": "球门"
+        }
+      ],
+      "position": {
+        "x": 91,
+        "y": 56
+      }
+    },
+    {
+      "id": "crowd",
+      "text": "crowd",
+      "zhText": "人群",
+      "phonetic": "/kraʊd/",
+      "pos": "n.",
+      "meaning": "观众，人群",
+      "example": {
+        "en": "The crowd went wild for that play.",
+        "zh": "刚刚那个球一出来，全场都炸了。"
+      },
+      "synonyms": [
+        {
+          "en": "fans",
+          "zh": "球迷"
+        }
+      ],
+      "position": {
+        "x": 82,
+        "y": 82
+      }
+    },
+    {
+      "id": "fan",
+      "text": "fans",
+      "zhText": "球迷",
+      "phonetic": "/fænz/",
+      "pos": "n.",
+      "meaning": "球迷，粉丝",
+      "example": {
+        "en": "The fans are all in red today.",
+        "zh": "今天球迷基本都穿红色。"
+      },
+      "synonyms": [
+        {
+          "en": "supporters",
+          "zh": "支持者"
+        }
+      ],
+      "position": {
+        "x": 28,
+        "y": 86
+      }
+    },
+    {
+      "id": "cheer",
+      "text": "cheer",
+      "zhText": "加油",
+      "phonetic": "/tʃɪr/",
+      "pos": "v.",
+      "meaning": "欢呼，加油",
+      "example": {
+        "en": "Everyone started to cheer at once.",
+        "zh": "大家一下子就都开始欢呼了。"
+      },
+      "synonyms": [
+        {
+          "en": "root for",
+          "zh": "支持"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 70
+      }
+    },
+    {
+      "id": "jersey",
+      "text": "jersey",
+      "zhText": "球衣",
+      "phonetic": "/ˈdʒɜːrzi/",
+      "pos": "n.",
+      "meaning": "球衣",
+      "example": {
+        "en": "Nice jersey—where'd you get it?",
+        "zh": "这件球衣不错啊，哪儿买的？"
+      },
+      "synonyms": [
+        {
+          "en": "shirt",
+          "zh": "上衣"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 92
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "watch the game",
+      "meaning": "看比赛"
+    },
+    {
+      "phrase": "cheer for the team",
+      "meaning": "给球队加油"
+    },
+    {
+      "phrase": "score a goal",
+      "meaning": "进一球"
+    }
+  ]
+}
