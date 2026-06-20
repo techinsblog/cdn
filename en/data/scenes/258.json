@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "id": 258,
+  "title": "赛前合影",
+  "categoryId": "sports",
+  "gradient": "linear-gradient(135deg, #1f7a3d 0%, #3fa34d 50%, #0f4c5c 100%)",
+  "sentence": {
+    "en": "The stadium is packed for the match.",
+    "zh": "这场比赛，球场都坐满了。",
+    "highlights": [
+      "stadium",
+      "match"
+    ]
+  },
+  "words": [
+    {
+      "id": "stadium",
+      "text": "stadium",
+      "zhText": "球场",
+      "phonetic": "/ˈsteɪdiəm/",
+      "pos": "n.",
+      "meaning": "球场，体育场",
+      "example": {
+        "en": "This stadium gets really loud at night.",
+        "zh": "这个球场一到晚上气氛就特别炸。"
+      },
+      "synonyms": [
+        {
+          "en": "arena",
+          "zh": "场馆"
+        }
+      ],
+      "position": {
+        "x": 14,
+        "y": 22
+      }
+    },
+    {
+      "id": "crowd",
+      "text": "crowd",
+      "zhText": "观众",
+      "phonetic": "/kraʊd/",
+      "pos": "n.",
+      "meaning": "人群，观众",
+      "example": {
+        "en": "The crowd went crazy right before kickoff.",
+        "zh": "开球前观众一下子就嗨起来了。"
+      },
+      "synonyms": [
+        {
+          "en": "fans",
+          "zh": "球迷"
+        }
+      ],
+      "position": {
+        "x": 83,
+        "y": 28
+      }
+    },
+    {
+      "id": "field",
+      "text": "field",
+      "zhText": "球场",
+      "phonetic": "/fiːld/",
+      "pos": "n.",
+      "meaning": "场地，球场草坪",
+      "example": {
+        "en": "The field looks perfect today.",
+        "zh": "今天这草坪状态真不错。"
+      },
+      "synonyms": [
+        {
+          "en": "pitch",
+          "zh": "球场"
+        }
+      ],
+      "position": {
+        "x": 18,
+        "y": 66
+      }
+    },
+    {
+      "id": "team",
+      "text": "team",
+      "zhText": "球队",
+      "phonetic": "/tiːm/",
+      "pos": "n.",
+      "meaning": "球队，队伍",
+      "example": {
+        "en": "Their team looks pretty confident.",
+        "zh": "他们这支队看着还挺有信心的。"
+      },
+      "synonyms": [
+        {
+          "en": "side",
+          "zh": "队"
+        }
+      ],
+      "position": {
+        "x": 80,
+        "y": 74
+      }
+    },
+    {
+      "id": "player",
+      "text": "player",
+      "zhText": "球员",
+      "phonetic": "/ˈpleɪər/",
+      "pos": "n.",
+      "meaning": "球员，选手",
+      "example": {
+        "en": "That player is one of my favorites.",
+        "zh": "那个球员是我挺喜欢的一个。"
+      },
+      "synonyms": [
+        {
+          "en": "athlete",
+          "zh": "运动员"
+        }
+      ],
+      "position": {
+        "x": 36,
+        "y": 80
+      }
+    },
+    {
+      "id": "line up",
+      "text": "line up",
+      "zhText": "列队",
+      "phonetic": "/laɪn ʌp/",
+      "pos": "v.",
+      "meaning": "排成一排",
+      "example": {
+        "en": "They always line up before the game starts.",
+        "zh": "比赛开始前他们都会先排好队。"
+      },
+      "synonyms": [
+        {
+          "en": "stand in a row",
+          "zh": "站成一排"
+        }
+      ],
+      "position": {
+        "x": 61,
+        "y": 82
+      }
+    },
+    {
+      "id": "flag",
+      "text": "flag",
+      "zhText": "旗子",
+      "phonetic": "/flæɡ/",
+      "pos": "n.",
+      "meaning": "旗子，横幅旗帜",
+      "example": {
+        "en": "Nice, they've got flags on both sides.",
+        "zh": "不错啊，两边都摆了旗子。"
+      },
+      "synonyms": [
+        {
+          "en": "banner",
+          "zh": "横幅"
+        }
+      ],
+      "position": {
+        "x": 10,
+        "y": 90
+      }
+    },
+    {
+      "id": "match",
+      "text": "match",
+      "zhText": "比赛",
+      "phonetic": "/mætʃ/",
+      "pos": "n.",
+      "meaning": "比赛，球赛",
+      "example": {
+        "en": "This match feels like a big one.",
+        "zh": "这场比赛感觉挺重要的。"
+      },
+      "synonyms": [
+        {
+          "en": "game",
+          "zh": "比赛"
+        }
+      ],
+      "position": {
+        "x": 88,
+        "y": 52
+      }
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "watch the match",
+      "meaning": "看比赛"
+    },
+    {
+      "phrase": "cheer for the team",
+      "meaning": "给球队加油"
+    },
+    {
+      "phrase": "line up for the anthem",
+      "meaning": "列队唱国歌"
+    }
+  ]
+}
