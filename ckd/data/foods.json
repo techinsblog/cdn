@@ -24830,5 +24830,38 @@
       "fjhd"
     ],
     "cover": "纳豆.webp"
+  },
+  {
+    "id": "f900",
+    "name": "沙葱",
+    "categoryId": "fc_vegetable",
+    "nutrition": {
+      "protein": 2.3,
+      "potassium": 340,
+      "phosphorus": 48,
+      "sodium": 18,
+      "energy": 34
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "沙葱属蔬菜类，蛋白质不高，但钾含量中等偏高。CKD 1-2期可适量食用；3-5期及透析期建议控制单次摄入量，宜每次50-100g。烹调前可先切段后焯水1-2分钟并弃汤，有助于减少部分钾；避免与高盐调味料、腌制品同炒。",
+    "aliases": [
+      "蒙古韭",
+      "野葱"
+    ],
+    "pinyin": "shacong",
+    "pinyinInitials": "sc",
+    "aliasesPinyin": [
+      "menggujiu",
+      "yecong"
+    ],
+    "aliasesPinyinInitials": [
+      "mgj",
+      "yc"
+    ],
+    "cover": "沙葱.webp"
   }
 ]
