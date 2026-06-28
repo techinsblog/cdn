@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "纳豆",
+  "categoryId": "fc_beancurd",
+  "nutrition": {
+    "protein": 16.5,
+    "potassium": 660,
+    "phosphorus": 190,
+    "sodium": 7,
+    "energy": 200
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "纳豆属于大豆发酵制品，蛋白质、钾和磷含量较高，CKD患者不宜大量食用。1-2期可少量偶尔食用；3-5期非透析建议尽量少吃或避免；透析期如有蛋白质需求，可在营养师指导下少量安排。食用时避免搭配高钠调味包、酱油和腌制配菜，建议控制在每次20-30g。纳豆本身不适合通过浸泡焯水明显降低矿物质负担，因此更关键的是控量。",
+  "aliases": [
+    "豆豉纳豆",
+    "发酵黄豆"
+  ],
+  "pinyin": "nadou",
+  "pinyinInitials": "nd",
+  "aliasesPinyin": [
+    "douchinadou",
+    "fajiaohuangdou"
+  ],
+  "aliasesPinyinInitials": [
+    "dcnd",
+    "fjhd"
+  ],
+  "cover": "纳豆.webp"
+}
