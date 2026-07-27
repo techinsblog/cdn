@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "田鸡",
+  "categoryId": "fc_meat_dairy",
+  "nutrition": {
+    "protein": 19.9,
+    "potassium": 285,
+    "phosphorus": 170,
+    "sodium": 58,
+    "energy": 99
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "田鸡属于高生物价动物性蛋白，蛋白质较高，适量食用可补充优质蛋白，但嘌呤及磷负担需关注。CKD 1-2期可少量食用，每次建议50-75g；3-5期非透析应严格限量或尽量少吃；透析期可按总蛋白目标少量替换瘦肉。烹调宜清蒸、白灼、炖煮后弃汤，避免爆炒、麻辣、火锅、腌制和重口味蘸料，以减少钠摄入。若合并高尿酸、痛风或血磷偏高，不建议频繁食用。",
+  "aliases": [
+    "虎纹蛙",
+    "青蛙"
+  ],
+  "pinyin": "tianji",
+  "pinyinInitials": "tj",
+  "aliasesPinyin": [
+    "huwenwa",
+    "qingwa"
+  ],
+  "aliasesPinyinInitials": [
+    "hww",
+    "qw"
+  ],
+  "cover": "田鸡.webp"
+}
