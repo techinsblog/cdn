@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "桃胶",
+  "categoryId": "fc_other",
+  "nutrition": {
+    "protein": 1.1,
+    "potassium": 45,
+    "phosphorus": 8,
+    "sodium": 12,
+    "energy": 319
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "桃胶为植物分泌树脂干制品，主要提供碳水化合物和可溶性膳食成分，蛋白质、磷、钾总体不高，但甜品食用时常搭配冰糖、红枣、银耳等，易增加糖分、钾负荷和总能量。CKD患者可少量食用，建议先充分泡发、反复换水清洗后炖煮；避免与高糖糖水、浓甜羹同食，合并糖尿病或需控制体重者更应限量。若搭配红枣、桂圆、莲子等食材，应相应减少份量。",
+  "aliases": [
+    "桃花泪",
+    "桃油"
+  ],
+  "pinyin": "taojiao",
+  "pinyinInitials": "tj",
+  "aliasesPinyin": [
+    "taohualei",
+    "taoyou"
+  ],
+  "aliasesPinyinInitials": [
+    "thl",
+    "ty"
+  ],
+  "cover": "桃胶.webp"
+}
