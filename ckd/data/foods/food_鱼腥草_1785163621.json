@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "鱼腥草",
+  "categoryId": "fc_vegetable",
+  "nutrition": {
+    "protein": 1.8,
+    "potassium": 220,
+    "phosphorus": 38,
+    "sodium": 6,
+    "energy": 28
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "鱼腥草可作凉拌或煮汤配菜，100g鲜品钾含量中等，CKD1-2期一般可适量食用；3-5期及透析期建议控制单次食用量在50-100g。凉拌前可先焯水1-2分钟并弃汤，有助于降低部分钾负荷；避免与高钠调味料、腌制品同食，凉拌时少盐少酱油。",
+  "aliases": [
+    "折耳根",
+    "蕺菜"
+  ],
+  "pinyin": "yuxingcao",
+  "pinyinInitials": "yxc",
+  "aliasesPinyin": [
+    "zheergen",
+    "jicai"
+  ],
+  "aliasesPinyinInitials": [
+    "zeg",
+    "jc"
+  ],
+  "cover": "鱼腥草.webp"
+}
