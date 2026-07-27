@@ -24863,5 +24863,41 @@
       "yc"
     ],
     "cover": "沙葱.webp"
+  },
+  {
+    "id": "f901",
+    "name": "土豆粉",
+    "categoryId": "fc_staple",
+    "nutrition": {
+      "protein": 0.2,
+      "potassium": 8,
+      "phosphorus": 6,
+      "sodium": 3,
+      "energy": 337
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "土豆粉多为精制淀粉制品，蛋白质、钾和磷相对较低，但饱腹感有限，且常与高盐汤底、调味包同食。CKD患者可少量作为主食替换，建议控制每次熟制摄入量约100~150g，搭配低钠配菜；若为干土豆粉，应避免重口味煮法。购买时优先选择配料简单、无额外磷酸盐添加的产品；若用于炖煮，弃汤可进一步减少钠摄入风险。",
+    "aliases": [
+      "马铃薯粉条",
+      "洋芋粉",
+      "土豆粉条"
+    ],
+    "pinyin": "tudoufen",
+    "pinyinInitials": "tdf",
+    "aliasesPinyin": [
+      "malingshufentiao",
+      "yangyufen",
+      "tudoufentiao"
+    ],
+    "aliasesPinyinInitials": [
+      "mlsft",
+      "yyf",
+      "tdft"
+    ],
+    "cover": "土豆粉.webp"
   }
 ]
