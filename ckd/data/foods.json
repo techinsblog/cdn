@@ -24932,5 +24932,38 @@
       "qw"
     ],
     "cover": "田鸡.webp"
+  },
+  {
+    "id": "f903",
+    "name": "奇亚籽",
+    "categoryId": "fc_nuts",
+    "nutrition": {
+      "protein": 16.5,
+      "potassium": 407,
+      "phosphorus": 860,
+      "sodium": 16,
+      "energy": 486
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "奇亚籽富含膳食纤维和α-亚麻酸，但磷含量较高，且常作为坚果籽类少量食用。CKD 1-2期可少量偶尔食用；3-5期未透析者应尽量少吃或避免频繁食用；透析期如有增加能量需求，可在营养师指导下少量加入酸奶、燕麦或面包中。建议每次5-10g，不宜大量冲泡代餐。食用前可先浸泡软化，避免干吞；如需控制磷摄入，不建议与坚果、豆粉等高磷食物同餐大量搭配。",
+    "aliases": [
+      "奇异籽",
+      "鼠尾草籽"
+    ],
+    "pinyin": "qiyazi",
+    "pinyinInitials": "qyz",
+    "aliasesPinyin": [
+      "qiyizi",
+      "shuweicaozi"
+    ],
+    "aliasesPinyinInitials": [
+      "qyz",
+      "swcz"
+    ],
+    "cover": "奇亚籽.webp"
   }
 ]
