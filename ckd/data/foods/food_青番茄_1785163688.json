@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "青番茄",
+  "categoryId": "fc_vegetable",
+  "nutrition": {
+    "protein": 0.9,
+    "potassium": 210,
+    "phosphorus": 24,
+    "sodium": 5,
+    "energy": 20
+  },
+  "advice": {
+    "stage1_2": "green",
+    "stage3_5": "yellow",
+    "dialysis": "yellow"
+  },
+  "tips": "青番茄属蔬菜类，单次建议控制在100g左右。CKD 3-5期及透析期需计入每日蔬菜总量；如需进一步控钾，可切片后浸泡30分钟并焯水后再烹调。避免腌制、咸炒或与高钠调味料同食。未成熟青番茄含龙葵碱，避免大量生食，宜熟食少量。",
+  "aliases": [
+    "未熟番茄",
+    "生青番茄"
+  ],
+  "pinyin": "qingfanqie",
+  "pinyinInitials": "qfq",
+  "aliasesPinyin": [
+    "weishufanqie",
+    "shengqingfanqie"
+  ],
+  "aliasesPinyinInitials": [
+    "wsfq",
+    "sqfq"
+  ],
+  "cover": "青番茄.webp"
+}
