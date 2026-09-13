@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "芝麻糊",
+  "categoryId": "fc_drink",
+  "nutrition": {
+    "protein": 7.0,
+    "potassium": 220,
+    "phosphorus": 180,
+    "sodium": 35,
+    "energy": 390
+  },
+  "advice": {
+    "stage1_2": "yellow",
+    "stage3_5": "red",
+    "dialysis": "yellow"
+  },
+  "tips": "芝麻糊多由黑芝麻、糯米/米粉及糖配制，能量较高，且芝麻带来较高磷、钾负荷。CKD 1-2期可少量偶尔饮用，注意控制添加糖；3-5期非透析患者一般不建议常喝，尤其合并高磷或高钾时应避免；透析期如食欲差可少量作为加餐，但仍需控制总量。建议选择现磨少糖或无糖版本，每次不超过100-150g，避免与坚果、豆浆等高磷食物同餐叠加。若为自制，可适当稀释，减少芝麻用量，不额外加盐。",
+  "aliases": [
+    "黑芝麻糊",
+    "芝麻糊饮品"
+  ],
+  "pinyin": "zhimahu",
+  "pinyinInitials": "zmh",
+  "aliasesPinyin": [
+    "heizhimahu",
+    "zhimahuyinpin"
+  ],
+  "aliasesPinyinInitials": [
+    "hzmh",
+    "zmhyp"
+  ],
+  "cover": "芝麻糊.webp"
+}
